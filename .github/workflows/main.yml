@@ -9,10 +9,10 @@ on:
 jobs:
   bark_push:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
-    uses: taikulayyds/action/.github/workflows/bark_push_done.yml@main
+    uses: invalidunit/action/.github/workflows/bark_push_done.yml@main
     secrets:
       _key: ${{ secrets._key }}
 
   remove_all_old_actions:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
-    uses: taikulayyds/action/.github/workflows/remove_all_actions.yml@main
+    uses: invalidunit/action/.github/workflows/remove_all_actions.yml@main
