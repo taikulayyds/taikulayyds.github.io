@@ -1,0 +1,842 @@
+Package: com.yourepo.taikula.anthocrack2
+Architecture: iphoneos-arm64
+Name: AnthoCrack2
+Version: 1.0.0
+Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!   破解依赖！
+Author: CBZ
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 2904
+Maintainer: CyPwn
+Md5sum: 97ff593ed065bb44e8a8e350ce1af012
+SHA256: 341ad4865e553fb2474e0dfa3ac1150c62e083300e56b9b441bf36fe38b7f085
+Depiction: https://taikula.yourepo.com/pack/anthocrack2
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/anthocrack2
+Filename: debs/anthocrack2_1.0.0_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/Cypwn.png
+
+Package: com.yourepo.taikula.appaze3
+Architecture: iphoneos-arm64
+Name: Appaze 3
+Version: 1.0.1
+Description: 为应用单独自定义各种功能设置
+Author: AnthoPak
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Size: 868340
+Maintainer: AnthoPak
+Md5sum: 50cd52045e98d7c73353a895d8b51e92
+SHA256: 80a15bdbdc0f60456a63fe023c40eceae73654668f46c1c5f7cfdde29f073837
+Depiction: https://taikula.yourepo.com/pack/appaze3
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/appaze3
+Filename: debs/appaze3_1.0.1_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/appaze3.png
+
+Package: com.yourepo.taikula.applecard
+Architecture: iphoneos-arm64
+Name: App Lecard
+Version: 1.1.10
+Description: A !  新版分屏！
+Author: Crassna
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Size: 391672
+Maintainer: Crassna
+Md5sum: 37dac77e5a1f5d86e2d0bf4849514b4d
+SHA256: 00c474abbf893e5aaa613267025bc4ea32503c077b057fc1faf02350b9b1dfc4
+Depiction: https://taikula.yourepo.com/pack/applecard
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/applecard
+Filename: debs/applecard_1.1.10_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/applecards.png
+
+Package: com.yourepo.taikula.applecard
+Architecture: iphoneos-arm64
+Name: App Lecard
+Version: 1.1.8
+Description: A !  新版分屏!
+Author: Crassna
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Size: 1059168
+Maintainer: Crassna
+Md5sum: b3990f956915428ee77e90e55278425f
+SHA256: eccc81bcc1c0293b90236dbc555de3d95a5c260ac2eb9b939713dae994b3ec0b
+Depiction: https://taikula.yourepo.com/pack/applecard
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/applecard
+Filename: debs/applecard_1.1.8_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/applecards.png
+
+Package: com.yourepo.taikula.applecard
+Architecture: iphoneos-arm64
+Name: App Lecard
+Version: 1.2.0
+Description: A !  新版分屏！
+Author: Crassna
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Size: 388948
+Maintainer: Crassna
+Md5sum: 68e789e914e257ebc86f89b9814e46cf
+SHA256: e57ba66038d33df1781caede8bd91a656f0822e4f5d0a3e396677d597488f613
+Depiction: https://taikula.yourepo.com/pack/applecard
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/applecard
+Filename: debs/applecard_1.2.0_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/applecards.png
+
+Package: com.yourepo.taikula.applecard
+Architecture: iphoneos-arm64
+Name: App Lecard
+Version: 1.2.1
+Description: A !  新版分屏！
+Author: Crassna
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Size: 388212
+Maintainer: Crassna
+Md5sum: 13acbca7d1d675b973eb3eb538959607
+SHA256: 98ac5164a1076bf53d3b7155187288351b07cf3ace190eb6abe64685eb2cbe29
+Depiction: https://taikula.yourepo.com/pack/applecard
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/applecard
+Filename: debs/applecard_1.2.1_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/applecards.png
+
+Package: com.yourepo.taikula.applecard
+Architecture: iphoneos-arm64
+Name: App Lecard
+Version: 1.2.1-1
+Description: A !  新版分屏！
+Author: Crassna
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Size: 390754
+Maintainer: Crassna
+Md5sum: 8a6c4c2e9f39ddf2919b5de4039c339e
+SHA256: d2b7c6f06840b6fac77f051f29e993e2d9f5721ad936babb662092a55662254c
+Depiction: https://taikula.yourepo.com/pack/applecard
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/applecard
+Filename: debs/applecard_1.2.1-1_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/applecards.png
+
+Package: com.yourepo.taikula.atria
+Architecture: iphoneos-arm64
+Name: Atria
+Version: 1.4.1
+Description: A proper homescreen layout editor for iOS 13-16
+Author: ren7995 <lau7995ren@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Size: 242692
+Maintainer: ren7995 <lau7995ren@gmail.com>
+Md5sum: 9364efa0a0215a1445f7b63696ef8889
+SHA256: 8757035f8b41b5e3dcdfc996fd2d93db656f605cd50a33236c92d0b87edb442a
+Depiction: https://taikula.yourepo.com/pack/atria
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/atria
+Filename: debs/atria_1.4.1_iphoneos-arm64.deb
+Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
+
+Package: com.yourepo.taikula.autoscroll
+Architecture: iphoneos-arm64
+Name: AutoScroll 自动滚动
+Version: 1.0.0
+Description: 防止手指疲劳，跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置。
+Author: pxcex
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 5168
+Maintainer: pxcex
+Md5sum: 70fa5bada0d9e6cce3ff5a6db823d396
+SHA256: 1bbd4377e7cfa9b81c4ab7a0fcdffa1c1ce59c19efc3f011394d5564707b3713
+Depiction: https://taikula.yourepo.com/pack/autoscroll
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/autoscroll
+Filename: debs/autoscroll_1.0.0_iphoneos-arm64.deb
+Icon: https://raw.githubusercontent.com/taikulayyds/icon/refs/heads/deb/autoscroll.PNG
+
+Package: com.yourepo.taikula.badgesync
+Architecture: iphoneos-arm64
+Name: BadgeSync
+Version: 1.0.0
+Description: Syncs icon badge values when notifications are dismissed from the notification centre.
+Author: newwares
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Size: 3360
+Maintainer: newwares
+Md5sum: 3e8732565606f299a320426de896d3e8
+SHA256: e37bd1c2309da9398b27ed005defea963d601ea3675bc5e843efe1af23d03eea
+Depiction: https://taikula.yourepo.com/pack/badgesync
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/badgesync
+Filename: debs/badgesync_1.0.0_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/badgesync.png
+
+Package: com.yourepo.taikula.betterccbrightness
+Architecture: iphoneos-arm64
+Name: BetterCCBrightness
+Version: 1.0.2
+Description: Add more controls to the expanded brightness CC module
+Author: level3tjg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Size: 43588
+Maintainer: level3tjg
+Md5sum: b8c713f1b6bd9ab629cf0169e43fde47
+SHA256: 9671aab561aad4217e3ac2e2ff4d088449cbaa461234a880c4d41b175f01d271
+Depiction: https://taikula.yourepo.com/pack/betterccbrightness
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/betterccbrightness
+Filename: debs/betterccbrightness_1.0.2_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/betterccbrightness.png
+
+Package: com.yourepo.taikula.blockappscreatealbum
+Architecture: iphoneos-arm64
+Name: 禁止应用自动创建相册BlockAppsCreateAlbum
+Version: 1.1.2
+Description: Block applications from creating their own albums禁止应用程序创建自己的相册
+Author: Netskao
+Section: Tweaks
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Size: 4676
+Maintainer: Netskao
+Md5sum: ad12bc004c4e75614932a90ccc84a254
+SHA256: 669a00c2e47e5bf34e3b4451e05216e141ddf0815ced7e1cbc9d2c498db2bb36
+Depiction: https://taikula.yourepo.com/pack/blockappscreatealbum
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/blockappscreatealbum
+Filename: debs/blockappscreatealbum_1.1.2_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/blockappscreatealbum.png
+
+Package: com.yourepo.taikula.cardculator
+Architecture: iphoneos-arm64
+Name: Cardculator
+Version: 2.1.1
+Description: Calculator, but smaller
+Author: sourcelocation
+Section: Tweaks
+Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
+Size: 249496
+Maintainer: sourcelocation
+Md5sum: 4031f1ebdf742dcb31a04d281c3defe4
+SHA256: 5e1f70f202690dd84ccd492e9825c9298ef378c0a9f99579471ec498b7721696
+Depiction: https://taikula.yourepo.com/pack/cardculator
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/cardculator
+Filename: debs/cardculator_2.1.1_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/cardculator.png
+
+Package: com.yourepo.taikula.ccless
+Architecture: iphoneos-arm64
+Name: CCLess++
+Version: 2.0.6
+Description: 超级控制中心模块集合!
+Author: 妖刀
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration
+Size: 514956
+Maintainer: 妖刀
+Md5sum: 410b56c632a5ad40f4d0d3c34f1e0b4a
+SHA256: 6a1afa7797d90f63c010df518c4fd2c65cbefab1f52a0989bc7eb48bbbb4f6dc
+Depiction: https://taikula.yourepo.com/pack/ccless
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/ccless
+Filename: debs/ccless_2.0.6_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/CCLess++.png
+
+Package: com.yourepo.taikula.colorfulwallpaperx
+Architecture: iphoneos-arm64
+Name: ColorfulWallpaperX
+Version: 4.6k
+Description: 具有彩色效果的动态壁纸。CBZ破解！
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Size: 1233500
+Maintainer: Lessica
+Md5sum: b624380b8bc6a817c170049ebbd8c49f
+SHA256: 28c761e554c84ca40f95e92a010c13bef5e64a5eac70f87074730f0b3b4d58f8
+Depiction: https://taikula.yourepo.com/pack/colorfulwallpaperx
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/colorfulwallpaperx
+Filename: debs/colorfulwallpaperx_4.6k_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/colorfulwallpaperx.png
+
+Package: com.yourepo.taikula.cylinderreborn
+Architecture: iphoneos-arm64
+Name: Cylinder Reborn
+Version: 1.1.1
+Description: Make your icons dance(蜗牛修复支持RootHide )
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
+Size: 117132
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Md5sum: 88d73ebd54ea83e622faf129f5f0ba80
+SHA256: 78191785c5f91328de3200d5702544b012b6a1db7ef2d82f27e26316961d733c
+Depiction: https://taikula.yourepo.com/pack/cylinderreborn
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/cylinderreborn
+Filename: debs/cylinderreborn_1.1.1_iphoneos-arm64.deb
+Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+
+Package: com.yourepo.taikula.edgesiri
+Architecture: iphoneos-arm64
+Name: EdgeSiri
+Version: 3.1.1-9
+Description: 模仿iOS18唤醒Siri边框效果，无设置项。安装即生效-----EdgeSiri是一款为 iOS设计的越狱插件，它能够在 Siri 激活时在屏幕周围显示彩色边框。这个边框不仅增加了视觉吸引力，还能在 Siri 被使用时提供更加直观的反馈。
+Author: tangerine
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 15228
+Maintainer: tangerine
+Md5sum: 0531c3962463d3b80366faa51e202fa9
+SHA256: 57aed9bc5c07cb0f083883e0e5da4dc9fb6482ae97c90b9628818cb05a894a1b
+Depiction: https://taikula.yourepo.com/pack/edgesiri
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/edgesiri
+Filename: debs/edgesiri_3.1.1-9_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/edgesiri.png
+
+Package: com.yourepo.taikula.fixset
+Architecture: iphoneos-arm64e
+Name: FixSet RootHide
+Version: 1.1
+Description: 修复部分插件转 RootHide 配置不保存问题
+Author: bswbw
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.Bswbw.fixset
+Size: 36688
+Maintainer: gblw
+Md5sum: 915cde91593b75b3ce9b2beb3b62c6ae
+SHA256: 20bccb8b379dcb3bed9853297f56498bc58432b970bf04d34c66003486970f8e
+Depiction: https://taikula.yourepo.com/pack/fixset
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/fixset
+Filename: debs/fixset_1.1_iphoneos-arm64e.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/fixset.PNG
+
+Package: com.yourepo.taikula.gravitation
+Architecture: iphoneos-arm64
+Name: Gravitation
+Version: 1.1
+Description: Shake your phone to drop your icons! Analogue for gravity (by Julioverne)
+Author: Kritanta
+Section: Tweaks
+Depends: ellekit
+Size: 92060
+Maintainer: Kritanta
+Md5sum: 7ea6314cae0c847dc5c61697ea9038d9
+SHA256: 81ce564d1d1fed31b0cbafa7f99cd0565a7e383de2ca7031df905cde0029054f
+Depiction: https://taikula.yourepo.com/pack/gravitation
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/gravitation
+Filename: debs/gravitation_1.1_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/gravitation.png
+
+Package: com.yourepo.taikula.icleanerpro
+Architecture: iphoneos-arm64
+Name: iCleaner Pro
+Version: 7.10.0
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Section: Tweaks
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Size: 981960
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Md5sum: 59bf0848b8c561b90a5b5344265a12b1
+SHA256: 5b8429e56540a9340b916b7603feeda73f97503871f95a25e98df8e8982461dc
+Depiction: https://taikula.yourepo.com/pack/icleanerpro
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/icleanerpro
+Filename: debs/icleanerpro_7.10.0_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/icleanerpro.png
+
+Package: com.yourepo.taikula.immortalizer
+Architecture: iphoneos-arm64
+Name: Immortalizer中文版
+Version: 2.0.0-1
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译，且汉化。
+Author: sergy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer
+Size: 43376
+Maintainer: sergy & daodao
+Md5sum: 31d52b6e89f3239f03522df724850c7d
+SHA256: ffce52f7f80000ff13b6a1db8ff990ea60dfd20389db7a4466bc01c89ab8c1d8
+Depiction: https://taikula.yourepo.com/pack/immortalizer
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/immortalizer
+Filename: debs/immortalizer_2.0.0-1_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/immortalizer.png
+
+Package: com.yourepo.taikula.immortalizer-zh-hans
+Architecture: iphoneos-arm64
+Name: Immortalizer 简体中文包
+Version: 2.0.0-1
+Description: Immortalizer 简体中文包(rootless)。
+Author: Taikula
+Section: Tweaks
+Depends: mobilesubstrate
+Size: 2272
+Maintainer: Taikula
+Md5sum: 320cf22e33c1c7bdeb546525e24c79fc
+SHA256: e869ddf558238b7fceab81e69c81ed6795187fed2a3d38b8c56ecca75e040071
+Depiction: https://taikula.yourepo.com/pack/immortalizer-zh-hans
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/immortalizer-zh-hans
+Filename: debs/immortalizer-zh-hans_2.0.0-1_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/immortalizer-zh-hans.png
+
+Package: com.yourepo.taikula.internalstoragesettings
+Architecture: iphoneos-arm64
+Name: InternalStorageSettings
+Version: 1.0
+Description: Tweak to enable the hidden storage settings  显示存储“系统数据”详情
+Author: Nathan Senter
+Section: Tweaks
+Size: 4028
+Maintainer: Nathan Senter
+Md5sum: bbce790fb604d5644cab3c441e307407
+SHA256: e30f7abcf716f4471653783fb5c566c8c9b2a4713d9f45e718f97844e154f0d6
+Depiction: https://taikula.yourepo.com/pack/internalstoragesettings
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/internalstoragesettings
+Filename: debs/internalstoragesettings_1.0_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/internalstoragesettings.png
+
+Package: com.yourepo.taikula.loopvideos
+Architecture: iphoneos-arm64
+Name: LoopVideos
+Version: 1.0
+Description: Loop videos in Photos app!  在照片应用程序中循环播放视频，就像在iOS 18上一样！
+Author: ETHN <ethanwhited2208@gmail.com>
+Section: Tweaks
+Size: 3028
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Md5sum: 7bc69d29321508319b8fbd6b10ac3f14
+SHA256: b8b5b16f59d0a8dd015d28c9df5979c5cfa23c2b225d9059910c7ae113f85f48
+Depiction: https://taikula.yourepo.com/pack/loopvideos
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/loopvideos
+Filename: debs/loopvideos_1.0_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/loopvideos.png
+
+Package: com.yourepo.taikula.lstimeseconds
+Architecture: iphoneos-arm64
+Name: LSTimeSeconds (iOS 15 - 16)
+Version: 0.3
+Description: Adds seconds to lockscreen time.
+Author: b4db1r3
+Section: Tweaks
+Size: 38100
+Maintainer: b4db1r3
+Md5sum: e22818e97fbaa651b44417fa9e843725
+SHA256: 247fd29c8c519dad1e58b3b9a7297d889843903cb5513ea144b938f70ebb7f8a
+Depiction: https://taikula.yourepo.com/pack/lstimeseconds
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/lstimeseconds
+Filename: debs/lstimeseconds_0.3_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/LSTimeSeconds.png
+
+Package: com.yourepo.taikula.lynx2
+Architecture: iphoneos-arm64
+Name: Lynx 2
+Version: 2.5.3
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Author: MTAC
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Size: 648940
+Maintainer: MTAC
+Md5sum: 321dc8e4e40146608abc4292c267de62
+SHA256: 8c60f9f53a0aba444d76a6f9eab56868463682825a0f9a041674f3255ebaa2c6
+Depiction: https://taikula.yourepo.com/pack/lynx2
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/lynx2
+Filename: debs/lynx2_2.5.3_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/lynx2.png
+
+Package: com.yourepo.taikula.noredirect
+Architecture: iphoneos-arm64
+Name: No Redirect
+Version: 1.10
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.  阻止指定的应用程序重定向到App Store、Safari或其他应用程序。
+Author: Lessica <82flex@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Size: 56892
+Maintainer: Lessica <82flex@gmail.com>
+Md5sum: adec61c712868ab4dd20d354d28a71ac
+SHA256: eef821afafd40ee9cf4cb534875b538cc3535f7b9e13f4c8a101c72724d200f5
+Depiction: https://taikula.yourepo.com/pack/noredirect
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/noredirect
+Filename: debs/noredirect_1.10_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/noredirect.png
+
+Package: com.yourepo.taikula.notificationsgroupcount
+Architecture: iphoneos-arm64
+Name: NotificationsGroupCount
+Version: 1.0.6
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Size: 79580
+Maintainer: 0xkuj
+Md5sum: bb2f63f704d26da3b96888ac9da26ab6
+SHA256: 66b1e2d34eade6cc1aa5eb704bcca36b341c09c90326ef93593f32bfdb937049
+Depiction: https://taikula.yourepo.com/pack/notificationsgroupcount
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/notificationsgroupcount
+Filename: debs/notificationsgroupcount_1.0.6_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/notificationsgroupcounts.png
+
+Package: com.yourepo.taikula.notificationsgroupcount
+Architecture: iphoneos-arm64
+Name: NotificationsGroupCount
+Version: 1.0.7
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Size: 80396
+Maintainer: 0xkuj
+Md5sum: 097654b823fb5534faddf12dddd08363
+SHA256: 6c99a78f86a88a762bd7c226e964d869a48ef5ca06c8a00123d4a112ff4fe63c
+Depiction: https://taikula.yourepo.com/pack/notificationsgroupcount
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/notificationsgroupcount
+Filename: debs/notificationsgroupcount_1.0.7_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/notificationsgroupcounts.png
+
+Package: com.yourepo.taikula.padswitcher-ipad
+Architecture: iphoneos-arm64
+Name: PadSwitcher - iPad多任务
+Version: 1.1.0
+Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
+Author: SWING
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Size: 26336
+Maintainer: SWING
+Md5sum: 9b43e7416e780aba4f03f2705f18c352
+SHA256: 7301ca9bc35312f86a79eaceb2900637d2a0fce0d920f6958a1c88e954fd2786
+Depiction: https://taikula.yourepo.com/pack/padswitcher-ipad
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/padswitcher-ipad
+Filename: debs/padswitcher-ipad_1.1.0_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/padswitcher-ipad.png
+
+Package: com.yourepo.taikula.pancake
+Architecture: iphoneos-arm64
+Name: PanCake
+Version: 2.2
+Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page
+Author: AnthoPak <anthopakdev@gmail.com>
+Section: Tweaks
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Size: 99692
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Md5sum: 8618e8c55bdaec77a3dea39614640cc3
+SHA256: 4c70fad90f2e859d0ed028d8f8530bbd34f7e93fb728171c72288059e6de783b
+Depiction: https://taikula.yourepo.com/pack/pancake
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/pancake
+Filename: debs/pancake_2.2_iphoneos-arm64.deb
+Icon: https://repo.anthopak.dev/assets/com.anthopak.pancake-rootless/icon.png
+
+Package: com.yourepo.taikula.popoutbuttons
+Architecture: iphoneos-arm64
+Name: PopOutButtons
+Version: 1.0.1
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Author: tesla_man <POBsupport@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Size: 57912
+Maintainer: tesla_man <POBsupport@gmail.com>
+Md5sum: 310c3ea2f4b0da1d98a5fb150472cf47
+SHA256: 053cd2c29363b5b16cb6a43021fc78e1cb01167ad4a7036da7c5e15658b66d37
+Depiction: https://taikula.yourepo.com/pack/popoutbuttons
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/popoutbuttons
+Filename: debs/popoutbuttons_1.0.1_iphoneos-arm64.deb
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+
+Package: com.yourepo.taikula.recordpause
+Architecture: iphoneos-arm64
+Name: RecordPause
+Version: 2.0.3
+Description: Pause/resume video recording in iOS Camera app.  使用系统自带的相机拍摄视频时增加一个"暂停/恢复"按钮
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Size: 10168
+Maintainer: PoomSmart
+Md5sum: 5618a61f87eb0497c43cae468ae1fd15
+SHA256: bed0170a5a1d212fd753010c360760666467e1da2be71b0cc6a181957c862302
+Depiction: https://taikula.yourepo.com/pack/recordpause
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/recordpause
+Filename: debs/recordpause_2.0.3_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/recordpause.png
+
+Package: com.yourepo.taikula.ring
+Architecture: iphoneos-arm64
+Name: Ring
+Version: 1.0.2
+Description: Effortlessly manage your ringer volume!
+Author: yan
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Size: 134856
+Maintainer: yan
+Md5sum: 493f58e0cb553ce4661169d53b7de05f
+SHA256: 96418e337d4c761a1e469518cf79586f838ebe183fa88698bb220dae53e026e8
+Depiction: https://taikula.yourepo.com/pack/ring
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/ring
+Filename: debs/ring_1.0.2_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/Ring.png
+
+Package: com.yourepo.taikula.safarix
+Architecture: iphoneos-arm64
+Name: SafariX
+Version: 1.9.2
+Description: Safari Essential Features
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Size: 287044
+Maintainer: 0xkuj
+Md5sum: 3d822f1ec9995d34175ad54b7e1e82dd
+SHA256: 82c339f7a3453202bfc51222f5639e56e9401d46cd9e1b98e45e47c52ea2b3e1
+Depiction: https://taikula.yourepo.com/pack/safarix
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/safarix
+Filename: debs/safarix_1.9.2_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/SafariX.png
+
+Package: com.yourepo.taikula.safarixhook
+Architecture: iphoneos-arm64
+Name: SafariXHook
+Version: 1.0.0
+Description: 解决SafariX闪退问题,图层出品！
+Author: x✨
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Size: 10596
+Maintainer: x✨
+Md5sum: ccaea974089f745f280989233a6f35a7
+SHA256: a9db6a1e07a2eb19832eaf68bdce686a39f2afbf92261a57a1ee982374cd955f
+Depiction: https://taikula.yourepo.com/pack/safarixhook
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/safarixhook
+Filename: debs/safarixhook_1.0.0_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/SafariXHook.png
+
+Package: com.yourepo.taikula.senri
+Architecture: iphoneos-arm64
+Name: Senri
+Version: 1.1
+Description: 永远不要再丢失您的通知。
+Author: Antoine
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17)
+Size: 204952
+Maintainer: Antoine
+Md5sum: 05655cb290dec1c63550b1c405725616
+SHA256: 52e4d3817883771d5c6eba2f7bd797c52f05a7b7388c0eb24b8e11141e74ec12
+Depiction: https://taikula.yourepo.com/pack/senri
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/senri
+Filename: debs/senri_1.1_iphoneos-arm64.deb
+Icon: https://img.chariz.cloud/icon/senri/icon@3x.png
+
+Package: com.yourepo.taikula.settingsrevamp
+Architecture: iphoneos-arm64
+Name: SettingsRevamp
+Version: 3.0.1
+Description: Customize the ios settings page（刀刀源重制并汉化）
+Author: SOPPPra
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Size: 235620
+Maintainer: SOPPPra
+Md5sum: 0b6f85107310849095b0fd2af95357aa
+SHA256: 523011c4a64dfc80dabf8ab124d695ec1ed5126af69e2881ab67b25207482e65
+Depiction: https://taikula.yourepo.com/pack/settingsrevamp
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/settingsrevamp
+Filename: debs/settingsrevamp_3.0.1_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/settingsrevamp.png
+
+Package: com.yourepo.taikula.settingswidgets
+Architecture: iphoneos-arm64
+Name: SettingsWidgets 设置小部件
+Version: 1.2.3.1
+Description: Bring good looking widgets to the front page of settings!将好看的小部件带到设置的首页！
+Author: shepgoba
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Size: 73344
+Maintainer: shepgoba
+Md5sum: 802010b275c045320b62bcd3f6e77a3b
+SHA256: d64938863e9d491fe8832351e4a677d6d7c9df3674e2819727be1f382fec5f97
+Depiction: https://taikula.yourepo.com/pack/settingswidgets
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/settingswidgets
+Filename: debs/settingswidgets_1.2.3.1_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/settingswidgets.png
+
+Package: com.yourepo.taikula.siriplus
+Architecture: iphoneos-arm64
+Name: SiriPlus
+Version: 1.3
+Description: 用ChatGPT或Gemini取代Siri。SiriPlus是用ChatGPT或Gemini取代Siri的一个调整，通过最强大的大型语言模型为用户提供增强的功能、广泛的知识和个性化帮助。
+Author: Uckermark
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), com.ginsu.comet, firmware (>= 14.0)
+Size: 272200
+Maintainer: Uckermark
+Md5sum: 76ad3a2ed352ea147aa8f5404a8c0592
+SHA256: 841bca905ef6f2f6cd1659854cd11cfb2b9cb1f1670249ffe44d38554fdb3fc0
+Depiction: https://taikula.yourepo.com/pack/siriplus
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/siriplus
+Filename: debs/siriplus_1.3_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/siriplus.png
+
+Package: com.yourepo.taikula.split-view-pro
+Architecture: iphoneos-arm64
+Name: split-view-pro（原付费泄漏版）
+Version: 1.3.7
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Size: 1537604
+Maintainer: sunshinesong
+Md5sum: 214e03cc1d6935f8441473b31e9aad3d
+SHA256: 03f505acbffa354476d5c016f3f77a83c46e9c2287790893dfe27cd9fa72f892
+Depiction: https://taikula.yourepo.com/pack/split-view-pro
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/split-view-pro
+Filename: debs/split-view-pro_1.3.7_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/split-view-pro.PNG
+
+Package: com.yourepo.taikula.split-view-pro-roothide
+Architecture: iphoneos-arm64e
+Name: split-view-pro（修改版）
+Version: 1.3.7-1
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Section: Tweaks
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Size: 1464360
+Maintainer: sunshinesong
+Md5sum: a5571a4230c6cb49c65913294300ddaf
+SHA256: e64cb179c495c7b48eb39ac0ddc42ebbca1df82a98d84f14b6a6f4dbf9c03cfb
+Depiction: https://taikula.yourepo.com/pack/split-view-pro-roothide
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/split-view-pro-roothide
+Filename: debs/split-view-pro-roothide_1.3.7-1_iphoneos-arm64e.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/split-view-pro-roothide.png
+
+Package: com.yourepo.taikula.swipeextenderx
+Architecture: iphoneos-arm64
+Name: SwipeExtenderX
+Version: 1.6.1-3
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Author: MiRO <tweaks_support@miro92.com>
+Section: Tweaks
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Size: 93048
+Maintainer: MiRO <tweaks_support@miro92.com>
+Md5sum: 9e60088013fe75e2fff0eebe1cc1a585
+SHA256: d0f4009bd105b38bfa0ba7eb1a84a48af5c704114065edc481c45768c9560994
+Depiction: https://taikula.yourepo.com/pack/swipeextenderx
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/swipeextenderx
+Filename: debs/swipeextenderx_1.6.1-3_iphoneos-arm64.deb
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+
+Package: com.yourepo.taikula.tinge
+Architecture: iphoneos-arm64
+Name: Tinge
+Version: 1.2.2
+Description: Color your badges with Perfection! 根据你的软件图标颜色来自适应角标颜色!
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Size: 40972
+Maintainer: P2KDev <p2kdev@gmail.com>
+Md5sum: 3f6a6bcdd6094c57ea913d8a8f2c7ca2
+SHA256: 2ef61067fd0bdd22eb094194063881690424ea53e6f6891434c898052ae333de
+Depiction: https://taikula.yourepo.com/pack/tinge
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/tinge
+Filename: debs/tinge_1.2.2_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/tinge.png
+
+Package: com.yourepo.taikula.touchvis
+Architecture: iphoneos-arm64
+Name: Touch-Viz
+Version: 2.8
+Description: 显示您的触摸交互！
+Author: Lessica
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Size: 708428
+Maintainer: Lessica
+Md5sum: c7016fa761d00caa2e88216273dbf8e8
+SHA256: db34558c3ededab0be3ea74256925b38f6f4ba01b0c020936d7f46f24f31101a
+Depiction: https://taikula.yourepo.com/pack/touchvis
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/touchvis
+Filename: debs/touchvis_2.8_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/touchvis.png
+
+Package: com.yourepo.taikula.trollpad
+Architecture: iphoneos-arm64
+Name: TrollPad
+Version: 1.3
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Author: khanhduytran0
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Size: 26144
+Maintainer: khanhduytran0
+Md5sum: ec7807550522a6b557c93eb97e2c67e4
+SHA256: 54079e7abce10f531b14e3446fc5ebaf2460961c6d0c96e48e0a533df445b047
+Depiction: https://taikula.yourepo.com/pack/trollpad
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/trollpad
+Filename: debs/trollpad_1.3_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/trollpad.png
+
+Package: com.yourepo.taikula.tweakhub
+Architecture: iphoneos-arm64
+Name: TweakHub
+Version: 1.0.2
+Description: 桌面空白处设置手势动作打开已安装插件列表，三种手势：可设置为双指点击，三指点击。双指捏合。List all installed tweaks and access their settings directly. With this tweak, you can view a popup that displays all installed tweaks on your system. Quickly access the settings of each tweak with just a tap.
+Author: SOPPPra
+Section: Tweaks
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Size: 80606
+Maintainer: SOPPPra
+Md5sum: a10f23d2f616171f914b10bac21aa1c7
+SHA256: 546e7e8e165182968efef52e5e2a988244875a220e31c071c6f8da5a77317832
+Depiction: https://taikula.yourepo.com/pack/tweakhub
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/tweakhub
+Filename: debs/tweakhub_1.0.2_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/tweakhub.png
+
+Package: com.yourepo.taikula.twistnturn
+Architecture: iphoneos-arm64
+Name: TwistNTurn智能旋转
+Version: 1.3
+Description: Smart Screen Rotation Suggestions智能屏幕旋转建议！ 支持从iOS 12到iOS 16.x的所有越狱设备。这个智能调整将计算许多不同的参数，以确定何时显示浮动按钮来解锁旋转锁定。无论你的旋转锁是锁定还是解锁，智能旋转建议都会出现，一旦它会重新确定你将设备倾斜了某个角度，并建议你解锁或锁定定向锁！这对于那些希望对设备的方向有更多控制并防止设备意外旋转的用户来说很有帮助，同时也可以节省大量时间在短时间内禁用旋转锁定。在您使用此调整禁用旋转锁定后，当您的设备将返回到人像模式时，调整将恢复您的旋转锁定以前的状态-如果它被禁用或启用，它将保持这种状态！要配置的选项：自定义位置：这是一个可拖动的按钮，您拖动浮动按钮到的最后一个位置将被保存可自定义的浮动按钮：控制浮动按钮的颜色、大小和反馈消失间隔：决定建议在屏幕上出现多长时间后才会消失动画：选择是否要在浮动按钮上显示可爱的动画黑名单应用程序：选择哪些应用程序中不会出现这些建议。
+Author: Maxim Shnirman
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Size: 518620
+Maintainer: Maxim Shnirman
+Md5sum: 35910fd83a866515f9437c756cf3a527
+SHA256: 0aa75c4267f0d13b4f2281ff52e8e2f2034d606cb3bd6747e3e57f8460653f66
+Depiction: https://taikula.yourepo.com/pack/twistnturn
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/twistnturn
+Filename: debs/twistnturn_1.3_iphoneos-arm64.deb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/deb/twistnturn.png
+
+Package: com.yourepo.taikula.velvet2
+Architecture: iphoneos-arm64
+Name: Velvet 2
+Version: 2.1.2-3
+Description: A fully customizable notification experience
+Author: NoisyFlake <support@noisyflake.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
+Size: 100604
+Maintainer: NoisyFlake <support@noisyflake.com>
+Md5sum: 17b30b0e25862fe6728907a24c229d71
+SHA256: 31436bb3763e4d491e195e8204b2d8f9e25ae7787b288279c8a099dd3a381f6d
+Depiction: https://taikula.yourepo.com/pack/velvet2
+SileoDepiction: https://taikula.yourepo.com/sileo/depiction/velvet2
+Filename: debs/velvet2_2.1.2-3_iphoneos-arm64.deb
+Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
+
