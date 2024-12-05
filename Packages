@@ -1,0 +1,36 @@
+Package: com.nan.16player.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Depends: com.teslaman3092.16player
+Replaces: com.teslaman3092.16player
+Filename: ./debs/iphoneos-arm64/com.nan.16player.zh-hans_0.1.0_iphoneos-arm64.deb
+Size: 3584
+MD5sum: 3e1982f001661ab648b988362898ff91
+SHA1: 06bea29418fc7bb60f75e1584da92d6aae622ea2
+SHA256: 24f8143c5cc501f319df81155d6d31549b41b1eb4b36b2ca5cda364163496ce5
+Section: Localization
+Description: 为 16Player 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.teslaman3092.16player/image.png
+Name: zh-Hans for 16Player
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.teslaman3092.16player/js.json
+
+Package: com.nan.16player.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: zhaonan
+Depends: com.teslaman3092.16player
+Replaces: com.teslaman3092.16player
+Filename: ./debs/iphoneos-arm64e/com.nan.16player.zh-hans_0.1.0_iphoneos-arm64e.deb
+Size: 3528
+MD5sum: 9b510796f09caa4cf77c4250f376cd1c
+SHA1: 59adf3c741726653141bc63fd377c6044052c035
+SHA256: 07beb5824478bd37dd74d47075b1108da12438cfc4d6018a8e6df47dcabefe04
+Section: Localization
+Description: 为 16Player 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.teslaman3092.16player/image.png
+Name: zh-Hans for 16Player
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.teslaman3092.16player/js.json
+
