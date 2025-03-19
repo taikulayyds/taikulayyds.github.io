@@ -1,0 +1,7 @@
+Origin: Taikula's Repo
+Label: Taikula's Repo
+Description: Taikula's Repo opens the repository for sharing
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
