@@ -15,6 +15,24 @@ Author: 0xkuj
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarix.png
 Name: SafariX
 
+Package: com.0xkuj.safarix
+Version: 1.9.8
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 908
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.safarix_1.9.8_iphoneos-arm64e.deb
+Size: 308900
+MD5sum: 675d59a5dde113ff6c0921dfe98b74b9
+SHA1: fdcfa73287d36e5cb8cc58f75f3897ff313f5d64
+SHA256: 1c0ef0d0f41749438815cafe53536f5dc89789df772b94cae99310c4d08df232
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarix.png
+Name: SafariX
+
 Package: com.be-huge.floating-view
 Version: 1.5.2-1
 Architecture: iphoneos-arm64
