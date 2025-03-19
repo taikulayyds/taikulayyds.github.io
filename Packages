@@ -103,3 +103,22 @@ Author: 苏苏
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iOS18BatteryEstimate.png
 Name: iOS18BatteryEstimate
 
+Package: com.xybp888.perfectdynamiclsland
+Version: 0.1-5
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.xybp888.perfectdynamiclsland_0.1-5_iphoneos-arm64.deb
+Size: 311876
+MD5sum: 4f93780bcd8a73bc06d29fcc666d7780
+SHA1: b8cebaab9550db84c6db6988c62b4f159a51b3be
+SHA256: 5587a72a5eec355d6c6d7f897aa8a89b0b86cc775e243f330b69aaf66a60b86d
+Section: System
+Priority: optional
+Description: 电话助手激活用户专属免费插件
+ 完美的使用原生灵动岛展示系统通知等...
+Author: xybp888
+Depiction: https://apt.htv123.com/view/141
+Name: 灵动通知(Rootless)
+Sileodepiction: https://apt.htv123.com/sileo/141
+
