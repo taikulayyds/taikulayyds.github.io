@@ -85,3 +85,21 @@ Author: 苏苏
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iOS18BatteryEstimate.png
 Name: iOS18BatteryEstimate
 
+Package: com.susu.ios18batteryestimate
+Version: 1.1.4
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 336
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/iphoneos-arm64e/com.susu.ios18batteryestimate_1.1.4_iphoneos-arm64e.deb
+Size: 48320
+MD5sum: 0b81afd4ab91ae8f0589c89f978f4f89
+SHA1: 37ee8d843646950b4f6d4f1afaba1cd0f51c38bd
+SHA256: 3fbc3f449c2f16a2ce879feadc9e0f15f6329b622b01297a8ee4b0036bc33777
+Section: Tweaks
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iOS18BatteryEstimate.png
+Name: iOS18BatteryEstimate
+
