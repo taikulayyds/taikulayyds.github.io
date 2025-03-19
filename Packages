@@ -127,11 +127,11 @@ Version: 0.1-5
 Architecture: iphoneos-arm64e
 Maintainer: xybp888
 Depends: firmware (>= 16.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.xybp888.perfectdynamiclsland.roothide.deb
-Size: 307700
-MD5sum: a30713030cb9dda5a307307a2ff9666e
-SHA1: 07c97199531afa1da1f532cc0f6aa3c5946ad6d0
-SHA256: 7205c9a86a16c230b758128875d1bdfc1458cad1efb24412fc507d89ddde258f
+Filename: ./debs/iphoneos-arm64e/com.xybp888.perfectdynamiclsland.roothide_0.1-5_iphoneos-arm64e.deb
+Size: 307740
+MD5sum: 01d93864f6820c64902efef66ffc426c
+SHA1: 00c2a353cbd7445487172412353246585f75f4d2
+SHA256: 35554f689a2f9e3e5ca28a1d80f7258e7969e78b3eb698557a1d337875ebf6a8
 Section: System
 Priority: optional
 Description: 完美的使用原生灵动岛展示系统通知等...
