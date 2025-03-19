@@ -122,3 +122,21 @@ Depiction: https://apt.htv123.com/view/141
 Name: 灵动通知(Rootless)
 Sileodepiction: https://apt.htv123.com/sileo/141
 
+Package: com.xybp888.perfectdynamiclsland.roothide
+Version: 0.1-5
+Architecture: iphoneos-arm64e
+Maintainer: xybp888
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.xybp888.perfectdynamiclsland.roothide.deb
+Size: 307700
+MD5sum: a30713030cb9dda5a307307a2ff9666e
+SHA1: 07c97199531afa1da1f532cc0f6aa3c5946ad6d0
+SHA256: 7205c9a86a16c230b758128875d1bdfc1458cad1efb24412fc507d89ddde258f
+Section: System
+Priority: optional
+Description: 完美的使用原生灵动岛展示系统通知等...
+Author: xybp888
+Depiction: https://apt.htv123.com/view/136
+Name: 原生灵动岛(RootHide)
+Sileodepiction: https://apt.htv123.com/sileo/136
+
