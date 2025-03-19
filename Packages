@@ -68,3 +68,20 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
+Package: com.susu.ios18batteryestimate
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.5)
+Filename: ./debs/iphoneos-arm64/com.susu.ios18batteryestimate_1.1.4_iphoneos-arm64.deb
+Size: 49332
+MD5sum: c82a51f6249ec4f129daba8fd5642c10
+SHA1: a249ef995c13af856139820a5032c09d98fbccd6
+SHA256: 71e198d3d5dcec575d567423b166cf10ddedd7533b667e6d3833e65df64be068
+Section: Tweaks
+Description: 在锁屏界面显示预计充电时间
+Author: 苏苏
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iOS18BatteryEstimate.png
+Name: iOS18BatteryEstimate
+
