@@ -103,6 +103,41 @@ Author: 苏苏
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iOS18BatteryEstimate.png
 Name: iOS18BatteryEstimate
 
+Package: com.susu.powermenu
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 356
+Depends: com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64/com.susu.powermenu_1.0.6_iphoneos-arm64.deb
+Size: 34352
+MD5sum: b5ee2ec7abf2296bcb3691face605e07
+SHA1: 2e6903ea738eb468fc0626c4dd99b9c6bf3c764f
+SHA256: 74f4b93ce1d01fb30b48fe558a6e8137910f030b878fa343ad836c710da86944
+Section: Tweaks
+Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何响应，修改为点击杀后台注销。
+Author: 苏苏
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/powermenu.png
+Name: PowerMenu
+
+Package: com.susu.powermenu
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/com.susu.powermenu_1.0.6_iphoneos-arm64e.deb
+Size: 33468
+MD5sum: 40e43a9e60b63fc7c9910c15f87114e9
+SHA1: b301d2d2e6d6773a7f09ce62ae2c04a2c83f6c2d
+SHA256: 5383bbc447379afe5ba9965aa132ecc4807d6f618c9a0b7b351a0df5baeb45f8
+Section: Tweaks
+Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何响应，修改为点击杀后台注销。
+Author: 苏苏
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/powermenu.png
+Name: PowerMenu
+
 Package: com.xybp888.perfectdynamiclsland
 Version: 0.1-5
 Architecture: iphoneos-arm64
