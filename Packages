@@ -34,6 +34,41 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarix.png
 Name: SafariX
 
 Package: com.be-huge.floating-view
+Version: 1.5.1-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.1-1_iphoneos-arm64.deb
+Size: 540168
+MD5sum: 13ef249f4ffa10ce673280d00c2f2732
+SHA1: 8bc9a73be54ffcce5f310f6a9ce56494d38694b6
+SHA256: 4db095b318caf303be7f240f62001562dcd56308d52cb2878c2c6dac47245599
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.1-1
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 2732
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.1-1_iphoneos-arm64e.deb
+Size: 530324
+MD5sum: d1671ecd08496735ff409c9cfd411c0d
+SHA1: 81ecee8e1393690b42153b154f589bae946e04db
+SHA256: 630ed613691a7551aa050bf6941b84e01ebeeb6223afc04eb0143a24502cf81c
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
+Package: com.be-huge.floating-view
 Version: 1.5.2-1
 Architecture: iphoneos-arm64
 Maintainer: be-huge
