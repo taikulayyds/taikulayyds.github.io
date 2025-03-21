@@ -138,6 +138,24 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
+Package: com.netskao.appdata
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 13548
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.4_iphoneos-arm64.deb
+Size: 5048692
+MD5sum: 4f3c6216f6e66db3b6468d21c3c25fb8
+SHA1: 3cacf2dd48213b52aeaa8c1435af81ceb6c35d41
+SHA256: 11250974607c0dd5e0ee8be04b4ceaea0207f09bae3e8df529f0b84dcf39f110
+Section: Netskao-Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+
 Package: com.noisyflake.velvet2
 Version: 2.1.2-3
 Architecture: iphoneos-arm64
