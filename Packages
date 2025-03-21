@@ -138,6 +138,23 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.lclrc.hammerit_1.7.1_iphoneos-arm64.deb
+Size: 980244
+MD5sum: 0037fcbe5f1a19cfa1c7dc3ee955d423
+SHA1: 3ec65bcfb00c2b5c60ee7186c1c1f0d825b44edc
+SHA256: aa9d49eef66ed637305a4f40c3bddd1433df34d49fb97aefb4abc22fb1fdf169
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/hammerIt.png
+Name: Hammer It
+
 Package: com.netskao.appdata
 Version: 1.4.4
 Architecture: iphoneos-arm64
