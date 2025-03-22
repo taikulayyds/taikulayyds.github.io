@@ -157,6 +157,24 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
+Package: com.dao.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/iphoneos-arm64/com.dao.settingsrevamp_3.0.1_iphoneos-arm64.deb
+Size: 235744
+MD5sum: c0c207cc767b198442a42ca139cb3f2b
+SHA1: bcd03562a41b5f95259b3b04426d16cfc1872204
+SHA256: 8f950a6d15f56bc4d2388524663bfd792f9ec7f2f62129a14241fa7a18538d6f
+Section: 插件
+Description: Customize the ios settings page（刀刀源重制并汉化）
+Author: SOPPPra
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingsrevamp.png
+Name: SettingsRevamp
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -291,6 +309,22 @@ Depiction: https://chariz.com/get/velvet-2
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/velvet2.png
 Name: Velvet 2
 
+Package: com.sop.tweakhub
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64/com.sop.tweakhub_1.0.2_iphoneos-arm64.deb
+Size: 46056
+MD5sum: b7a2e93cfc4a70c75a53214d5fcba80b
+SHA1: 9f771917c678636780519798fca972c82bcac7dd
+SHA256: 1dd6332560b4f81f5763d213815d77328f9f1820ac5f51f5a0f6276770426517
+Section: 插件
+Description: 桌面空白处设置手势动作打开已安装插件列表，三种手势：可设置为双指点击，三指点击。双指捏合。List all installed tweaks and access their settings directly. With this tweak, you can view a popup that displays all installed tweaks on your system. Quickly access the settings of each tweak with just a tap.
+Author: SOPPPra
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tweakhub.png
+Name: TweakHub
+
 Package: com.susu.ios18batteryestimate
 Version: 1.1.4
 Architecture: iphoneos-arm64
@@ -360,6 +394,22 @@ Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何
 Author: 苏苏
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/powermenu.png
 Name: PowerMenu
+
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: tesla_man <POBsupport@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.teslaman3092.popoutbuttons_1.0.1_iphoneos-arm64.deb
+Size: 57972
+MD5sum: 62fe264a5e8f509c938babec5277691f
+SHA1: 6fe6011e1ac229763d02493ce331c7c41bf310c2
+SHA256: d7f3bc5e8abf406ca02175d91bd484395300af884e22450910f778cba0994aaf
+Section: 插件
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Author: tesla_man <POBsupport@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/popoutbuttons.png
+Name: PopOutButtons
 
 Package: com.xybp888.perfectdynamiclsland
 Version: 0.1-5
