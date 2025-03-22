@@ -175,6 +175,24 @@ Author: SOPPPra
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingsrevamp.png
 Name: SettingsRevamp
 
+Package: com.dao.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm64e
+Maintainer: SOPPPra
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.dao.settingsrevamp_3.0.1_iphoneos-arm64e.deb
+Size: 237964
+MD5sum: b7a87403c7eb60a4ceb555167ba0cf55
+SHA1: 1d43230049869ae31da9572d26fac909c2daebf5
+SHA256: ba1a123106bb55f578a515be2993c08c1f5f65e1aebf0ec5d64102e4195919c7
+Section: 插件
+Description: Customize the ios settings page（刀刀源重制并汉化）
+Author: SOPPPra
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingsrevamp.png
+Name: SettingsRevamp
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -325,6 +343,23 @@ Author: SOPPPra
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tweakhub.png
 Name: TweakHub
 
+Package: com.sop.tweakhub
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: SOPPPra
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64e/com.sop.tweakhub_1.0.2_iphoneos-arm64e.deb
+Size: 44884
+MD5sum: 550f77090b58572f67031cc613e0ac61
+SHA1: b7da267f4fbb3fef3eb46b1bcf4bec36ba79e1ce
+SHA256: dad38ee25b31dc1955ecfe07b9fef1717044a5818986abf05f2cdb560064369c
+Section: 插件
+Description: 桌面空白处设置手势动作打开已安装插件列表，三种手势：可设置为双指点击，三指点击。双指捏合。List all installed tweaks and access their settings directly. With this tweak, you can view a popup that displays all installed tweaks on your system. Quickly access the settings of each tweak with just a tap.
+Author: SOPPPra
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tweakhub.png
+Name: TweakHub
+
 Package: com.susu.ios18batteryestimate
 Version: 1.1.4
 Architecture: iphoneos-arm64
@@ -405,6 +440,23 @@ Size: 57972
 MD5sum: 62fe264a5e8f509c938babec5277691f
 SHA1: 6fe6011e1ac229763d02493ce331c7c41bf310c2
 SHA256: d7f3bc5e8abf406ca02175d91bd484395300af884e22450910f778cba0994aaf
+Section: 插件
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Author: tesla_man <POBsupport@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/popoutbuttons.png
+Name: PopOutButtons
+
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: tesla_man <POBsupport@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.teslaman3092.popoutbuttons_1.0.1_iphoneos-arm64e.deb
+Size: 56000
+MD5sum: 7e9a27ac0804b710d3d4517173fedacb
+SHA1: f43470f154ba79678c83ae8c7fe131550bea1c7f
+SHA256: 2a1453fd883df55d5fef37e5eca5066b4bfb478c211cd308ac652bac711b57e7
 Section: 插件
 Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
 Author: tesla_man <POBsupport@gmail.com>
