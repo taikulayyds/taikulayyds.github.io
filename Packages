@@ -183,15 +183,15 @@ Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
 Conflicts: com.mrgcgamer.libgcuniversals
 Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
 Filename: ./debs/iphoneos-arm64e/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
-Size: 53320
-MD5sum: 1bff68fd445333ff1ae0dfc49793132b
-SHA1: 11b42eb9a165c557e97b047d30951e8459ad25f8
-SHA256: b65b40d3efc32bbf804678ed52615b832fab51af7ff16c2e808efbb83259c4a7
+Size: 53408
+MD5sum: 00a0b2f59478b18cad06a37c31c5dbf9
+SHA1: fb025b61aed8aeb0bc3546016e8af7bcd253eb61
+SHA256: 5353fc55e63190225b0311c205bf8357fc4638d6cd0945cefc6d9f6e9d5c71c0
 Section: 依赖
 Description: 开发通用库，例如SettingsRevamp就需要依赖此；转换支持roothide。
 Tag: role::developer
 Author: MrGcGamer
-Https: //github.com/taikulayyds/icon/raw/refs/heads/mina/libgcuniversal.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/libgcuniversal.png
 Name: LibGcUniversal
 
 Package: com.netskao.appdata
