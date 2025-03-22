@@ -201,11 +201,11 @@ Maintainer: Nets
 Installed-Size: 13548
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.4_iphoneos-arm64.deb
-Size: 5048692
-MD5sum: 4f3c6216f6e66db3b6468d21c3c25fb8
-SHA1: 3cacf2dd48213b52aeaa8c1435af81ceb6c35d41
-SHA256: 11250974607c0dd5e0ee8be04b4ceaea0207f09bae3e8df529f0b84dcf39f110
-Section: Netskao-Tweaks
+Size: 5048348
+MD5sum: bb6b46b85d856b527a2799be0c93abbe
+SHA1: 70f28c3f6003633cfa09e48fd7602ba48a728590
+SHA256: b640ccc9dc5d856927f21f6a32ad2ae34c76bb455ddca6fb25baf1753547b07b
+Section: 插件
 Description: View & Manage Applications Data from your Home Screen
 Author: Fouad Raheb
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
@@ -220,11 +220,11 @@ Installed-Size: 13548
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.netskao.appdata_1.4.4_iphoneos-arm64e.deb
-Size: 5050080
-MD5sum: 0c48ec11ccb7929bf6323b8065a2f558
-SHA1: 1a8c968666bdd06088e639c461987459a356efaf
-SHA256: 254e35928b472187d71e22be2aec5ec6e8696bb2889dd1bced64dba8dceeab07
-Section: Netskao-Tweaks
+Size: 5050004
+MD5sum: 0068f2ad83563eed2d19ebda61141a9c
+SHA1: 4aeac9763ad9e76d8409b231f876eb1a6eabf97d
+SHA256: 74dfb950c8d0980d4ba21031cd151a6ad768af85e9b28b2f0cc29a9b9d675a98
+Section: 插件
 Description: View & Manage Applications Data from your Home Screen
 Author: Fouad Raheb
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
@@ -348,11 +348,11 @@ Architecture: iphoneos-arm64
 Maintainer: xybp888
 Depends: firmware (>= 16.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.xybp888.perfectdynamiclsland_0.1-5_iphoneos-arm64.deb
-Size: 311876
-MD5sum: 4f93780bcd8a73bc06d29fcc666d7780
-SHA1: b8cebaab9550db84c6db6988c62b4f159a51b3be
-SHA256: 5587a72a5eec355d6c6d7f897aa8a89b0b86cc775e243f330b69aaf66a60b86d
-Section: System
+Size: 311668
+MD5sum: 8905e0b3e57569972526d5fd4b93d3ff
+SHA1: 26639af6fb5924aff1f34a9ab63ebcb9871be560
+SHA256: fccf4cde792744811c2f0333c63c817d63f7a3eb534f177d03ac1d567be07daa
+Section: 插件
 Priority: optional
 Description: 电话助手激活用户专属免费插件
  完美的使用原生灵动岛展示系统通知等...
@@ -367,11 +367,11 @@ Architecture: iphoneos-arm64e
 Maintainer: xybp888
 Depends: firmware (>= 16.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.xybp888.perfectdynamiclsland.roothide_0.1-5_iphoneos-arm64e.deb
-Size: 307740
-MD5sum: 01d93864f6820c64902efef66ffc426c
-SHA1: 00c2a353cbd7445487172412353246585f75f4d2
-SHA256: 35554f689a2f9e3e5ca28a1d80f7258e7969e78b3eb698557a1d337875ebf6a8
-Section: System
+Size: 307772
+MD5sum: d8bf89ff2eef47cf2634cf8409ace1c5
+SHA1: f84e91549a5ca574af5e27d25e96b230ea2cffff
+SHA256: 19ebb4c67469d6f6e76fe775c42cb3378ce7ee3a838c9ec2303b3cd2d6013cfd
+Section: 插件
 Priority: optional
 Description: 完美的使用原生灵动岛展示系统通知等...
 Author: xybp888
