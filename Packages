@@ -1,3 +1,22 @@
+Package: cn.Bswbw.fixset
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.Bswbw.fixsets
+Filename: ./debs/iphoneos-arm64e/cn.Bswbw.fixset_1.1_iphoneos-arm64e.deb
+Size: 36820
+MD5sum: ba7ccd74db48b43c7a8a4e4920103406
+SHA1: 669f7a719570033c4b4b1ccb2e99dc4b391c3737
+SHA256: d4fe05e4210a003123c331e9536f26c4fed4f7ac9d3bb34d0d8131def2650c43
+Section: 依赖
+Description: 修复部分插件转 RootHide 插件不生效，配置不保存问题（RootHide越狱必备）
+Author: bswbw
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/fixset.png
+Name: FixSet
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FixSet/js.json
+
 Package: com.0xkuj.safarix
 Version: 1.9.8
 Architecture: iphoneos-arm64
