@@ -157,6 +157,23 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.2-5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 2836
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.2-5_iphoneos-arm64.deb
+Size: 568080
+MD5sum: 653e299f5be6dac70beffe3bae0e85ac
+SHA1: 0bd50a1f205324682cb9f8aa5c82f1915f8c2ccf
+SHA256: bc51f85057d59a5c2718642a5de6a71ed5ee81b375946672e6b726feb7bb449c
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
 Package: com.dao.settingsrevamp
 Version: 3.0.1
 Architecture: iphoneos-arm64
