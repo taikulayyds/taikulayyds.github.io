@@ -535,3 +535,22 @@ Depiction: https://apt.htv123.com/view/136
 Name: 原生灵动岛(RootHide)
 Sileodepiction: https://apt.htv123.com/sileo/136
 
+Package: dev.mineek.appstoretroller
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretrollers
+Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretroller_0.0.5_iphoneos-arm64.deb
+Size: 24192
+MD5sum: 91a5c0c2cea0afd44f6f841ac3e2b258
+SHA1: fbdf0cb1149ea0ed922e397637839e4735e33a68
+SHA256: 735577dc53e3afc8b9c08d94d14c54b0b48e49ce54fcf97a6e0ec6e445d60571
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退
+  * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
+Name: AppStoreTroller
+
