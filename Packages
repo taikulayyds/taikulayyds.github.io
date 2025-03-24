@@ -554,3 +554,23 @@ Author: Mineek
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
 Name: AppStoreTroller
 
+Package: dev.mineek.appstoretroller
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: Mineek
+Installed-Size: 344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretrollers
+Filename: ./debs/iphoneos-arm64e/dev.mineek.appstoretroller_0.0.5_iphoneos-arm64e.deb
+Size: 24324
+MD5sum: 2107e99192883fc40085e964092c7d3b
+SHA1: 5c242c0bf7fe2e03f7a3d7e67ba7a40216439113
+SHA256: dab28e06c2d6b6b61dacbb65ac2e5dcf79b5473dd4513de24ae2869d30a5cd36
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退
+  * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
+Name: AppStoreTroller
+
