@@ -301,6 +301,24 @@ Author: Nathan
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
 Name: DynamicHideRecordLand
 
+Package: com.nathan.dynamichiderecordland
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.nathan.dynamichiderecordland_1.0_iphoneos-arm64e.deb
+Size: 3392
+MD5sum: d723923d1cdc94cc374df82168770a12
+SHA1: 3c190a42380d79adec9e49247312b073dd100545
+SHA256: 92e2009fede250434c12a520d6b8a70ec72203e60e886dbe52504c4091758a07
+Section: Tweaks
+Description: 在 14 Pro 系列上，截屏或录屏时隐藏灵动岛。A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
+Name: DynamicHideRecordLand
+
 Package: com.nathan.dynamicnotland
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -318,6 +336,24 @@ Author: Nathan
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
 Name: DynamicNotLand
 
+Package: com.nathan.dynamicnotland
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.nathan.dynamicnotland_1.0.6_iphoneos-arm64e.deb
+Size: 4192
+MD5sum: b6e39bfeb78ab9b7970ea8750e81855f
+SHA1: 2059dab7451d09d9b0ee4dab0115dc1688701c82
+SHA256: 84cddb01b94fbcb9248e757bbe23303a556c6321cb3024f110a47546b31923e1
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛。A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
+Name: DynamicNotLand
+
 Package: com.nathan.miniisland
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -329,6 +365,24 @@ Size: 4920
 MD5sum: 5584e956ec4d99f396bc2f7d1483a62c
 SHA1: c0381fc3db64e62280ab44da0ae0ad32d84d0d2a
 SHA256: de3b8c8a489b161e2756453ee8c7a43ebd956e756334bb16a48bba6d1c577641
+Section: Tweaks
+Description: 播放音乐时，让灵动岛音乐播放器看起来很迷你！A Tweak that makes the island look mini when playing music!
+Author: Nathan Senter
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/miniisland.png
+Name: MiniIsland
+
+Package: com.nathan.miniisland
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.nathan.miniisland_1.0.3_iphoneos-arm64e.deb
+Size: 5076
+MD5sum: cd16c6482b442dde2bebd15120ec3e41
+SHA1: 2e7aee359a75a0cf09d02f3c74d8e4ac59664b8e
+SHA256: cae7ed96912cb763cec24f2e12c17b93423a274b297ffebeb6879dafbf9211fd
 Section: Tweaks
 Description: 播放音乐时，让灵动岛音乐播放器看起来很迷你！A Tweak that makes the island look mini when playing music!
 Author: Nathan Senter
