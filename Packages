@@ -284,6 +284,57 @@ Author: MrGcGamer
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/libgcuniversal.png
 Name: LibGcUniversal
 
+Package: com.nathan.dynamichiderecordland
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamichiderecordland_1.0_iphoneos-arm64.deb
+Size: 3220
+MD5sum: 005349c6e2fbe25f84adae636caab351
+SHA1: 0a175e15f0c1867ea18a202c7161781b51b3c74a
+SHA256: c515e4ca30e86186fa57fafc42606eb4025c43d7421c4f0d79b7038532bba749
+Section: Tweaks
+Description: 在 14 Pro 系列上，截屏或录屏时隐藏灵动岛。A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
+Name: DynamicHideRecordLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotland_1.0.6_iphoneos-arm64.deb
+Size: 4044
+MD5sum: 1fe0636586ed4882eddd6e4b43a2902f
+SHA1: 53c49b403ad068220433a6b22505cc3f247deba2
+SHA256: 7d7c6cd971ca60dceec5a59cd4aaf62562e79ca00bad976f4da216a3dd1a6e43
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛。A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
+Name: DynamicNotLand
+
+Package: com.nathan.miniisland
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.nathan.miniisland_1.0.3_iphoneos-arm64.deb
+Size: 4920
+MD5sum: 5584e956ec4d99f396bc2f7d1483a62c
+SHA1: c0381fc3db64e62280ab44da0ae0ad32d84d0d2a
+SHA256: de3b8c8a489b161e2756453ee8c7a43ebd956e756334bb16a48bba6d1c577641
+Section: Tweaks
+Description: 播放音乐时，让灵动岛音乐播放器看起来很迷你！A Tweak that makes the island look mini when playing music!
+Author: Nathan Senter
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/miniisland.png
+Name: MiniIsland
+
 Package: com.netskao.appdata
 Version: 1.4.4
 Architecture: iphoneos-arm64
