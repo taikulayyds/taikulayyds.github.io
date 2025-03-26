@@ -625,6 +625,26 @@ Depiction: https://chariz.com/get/cylinder-reborn
 Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
 Name: Cylinder Reborn
 
+Package: com.ryannair05.cylinder
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 1123
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
+Filename: ./debs/iphoneos-arm64e/com.ryannair05.cylinder_1.1.1_iphoneos-arm64e.deb
+Size: 117136
+MD5sum: cec20f4131e9b2c647954c771c7defea
+SHA1: d38a0480b31b990532852445c6e3819f68673e0a
+SHA256: 86cb0e6e267681bce328354f677abea1e4c0d4cfd8f5cc779e4a570951336a3b
+Section: Tweaks
+Description: Make your icons dance
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/get/cylinder-reborn
+Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Name: Cylinder Reborn
+
 Package: com.sop.tweakhub
 Version: 1.0.2
 Architecture: iphoneos-arm64
