@@ -52,6 +52,22 @@ Author: 0xkuj
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarix.png
 Name: SafariX
 
+Package: com.antoine.senri
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Antoine
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common (>= 1.17)
+Filename: ./debs/iphoneos-arm64/com.antoine.senri_1.1_iphoneos-arm64.deb
+Size: 204948
+MD5sum: 44bcfb8b9dcf1abf33bba7d20a34f466
+SHA1: ef56fd16468c5e684d7150959b8771011d6eb85f
+SHA256: d889c3f931c92548e703f85be3727b8f431fae6d46aa6134acc2e5e1edbb349a
+Section: Tweaks
+Description: 永远不要再丢失您的通知！Senri会记录您的设备收到的所有通知，并将其保存。
+Author: Antoine
+Icon: https://img.chariz.cloud/icon/senri/icon@3x.png
+Name: Senri
+
 Package: com.be-huge.floating-view
 Version: 1.5.1-1
 Architecture: iphoneos-arm64
@@ -191,6 +207,24 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
+
+Package: com.dao.ccborder
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
+Filename: ./debs/iphoneos-arm64/com.dao.ccborder_1.2_iphoneos-arm64.deb
+Size: 41316
+MD5sum: df44677e19b69824ec2b2e8afc22af6b
+SHA1: b7e196578c1ed6f69ac51654782c3d9f98a60983
+SHA256: 33c5ee5f93e8ec27df51995e12ace913bdfaab6c0d3b6775bcaabdb695fe4b2b
+Section: 插件
+Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
+Author: fiore & p2kdev & 妖刀
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
+Name: CCBorder16
 
 Package: com.dao.settingsrevamp
 Version: 3.0.1
@@ -354,6 +388,23 @@ Author: Nathan
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
 Name: DynamicNotLand
 
+Package: com.nathan.dynamicnotland
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotland_1.0.9_iphoneos-arm64.deb
+Size: 10520
+MD5sum: 5f3e169c2599c622dcb1015b63a0b25c
+SHA1: 9acf36e4df406d218c6f7a51d980ed6c7e3c91c6
+SHA256: 01acc9fe7b04ad0e9d609395fce979ad7594be4f82e07c67135b36a144605682
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛。A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
+Name: DynamicNotLand
+
 Package: com.nathan.miniisland
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -361,14 +412,14 @@ Maintainer: Nathan Senter
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/com.nathan.miniisland_1.0.3_iphoneos-arm64.deb
-Size: 4920
-MD5sum: 5584e956ec4d99f396bc2f7d1483a62c
-SHA1: c0381fc3db64e62280ab44da0ae0ad32d84d0d2a
-SHA256: de3b8c8a489b161e2756453ee8c7a43ebd956e756334bb16a48bba6d1c577641
+Size: 4908
+MD5sum: 35585972881611c105d2d118e45e2ba6
+SHA1: 1645df235a2fe19e39a5d1e0a4912ab9ec1cb725
+SHA256: dc3f239008e5689910e7262f493faa46cd8c9e8b68bb6db3f2562e17a1976327
 Section: Tweaks
 Description: 播放音乐时，让灵动岛音乐播放器看起来很迷你！A Tweak that makes the island look mini when playing music!
 Author: Nathan Senter
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/miniisland.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/Miniisland.png
 Name: MiniIsland
 
 Package: com.nathan.miniisland
