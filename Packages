@@ -370,6 +370,24 @@ Author: MTAC
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lynxtwo.png
 Name: Lynx 2
 
+Package: com.mtac.lynxtwo
+Version: 2.5.4
+Architecture: iphoneos-arm64e
+Maintainer: MTAC
+Installed-Size: 2952
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/iphoneos-arm64e/com.mtac.lynxtwo_2.5.4_iphoneos-arm64e.deb
+Size: 656104
+MD5sum: a8d5e35be432f9de4150a2d73b1bb6ce
+SHA1: 0b8ba7ff0afe8fa224b925ebeffbf582b47b8814
+SHA256: 737d4412fd9871d13ff05ae15500f1351eadf8dd0aeb0a3a7c484480270ec676
+Section: Tweaks
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Author: MTAC
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lynxtwo.png
+Name: Lynx 2
+
 Package: com.nathan.dynamichiderecordland
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -740,6 +758,23 @@ Author: tyiiirfvjjkjjj 凑合哥 Repack
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ultravideos.png
 Name: UltraVideos
 
+Package: com.ultravideos
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: tyiiirfvjjkjjj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.ultravideos_0.0.1_iphoneos-arm64e.deb
+Size: 2760
+MD5sum: 4862288b0564e2d0001a18aec7683614
+SHA1: 0901f93abbc219866d934bee1ebc1b14e8813d0b
+SHA256: ecb70f11be48b59cb1950eb996f1e12dba92793eccaa6744e71ea67b26f48a59
+Section: Tweaks
+Description: 关闭内嵌视频播放，不再使用低劣的html5视频播放器。在三方应用程序工作，强制使用iOS的原生播放器。全局播放效果Ultra
+Author: tyiiirfvjjkjjj 凑合哥 Repack
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ultravideos.png
+Name: UltraVideos
+
 Package: com.xybp888.perfectdynamiclsland
 Version: 0.1-5
 Architecture: iphoneos-arm64
@@ -834,6 +869,23 @@ Author: Soh Satoh & SINI
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/freepip.png
 Name: FreePIP
 
+Package: jp.soh.freepip
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: Soh Satoh & SINI
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/jp.soh.freepip_0.0.5_iphoneos-arm64e.deb
+Size: 5184
+MD5sum: 562111ee415df631e3156ebfac0a42cb
+SHA1: 03186303ad5ae71ae66b78c2c6fa03fbf365f6b8
+SHA256: 5dea9f7d44c37d7191825c1492721d0f0dbc2f232440156057f6cf6cdff23507
+Section: Tweaks
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，优化了一些代码，改进了一些细节
+Author: Soh Satoh & SINI
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/freepip.png
+Name: FreePIP
+
 Package: me.lau.atria
 Version: 1.4.1
 Architecture: iphoneos-arm64
@@ -846,6 +898,27 @@ Size: 243112
 MD5sum: c40431dc2371d1aa107148036a0a24b6
 SHA1: c26ba945dab549c9e6021a5fee7787ed7066001e
 SHA256: af347f50329f6344e4fc05e3012cb514abbe466d33b311d42187e0ad8e7dc209
+Section: Tweaks
+Description: A proper homescreen layout editor for iOS 13-16
+Tag: compatible_min::ios13.0
+Author: ren7995 <lau7995ren@gmail.com>
+Depiction: https://chariz.com/get/atria
+Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
+Name: Atria
+
+Package: me.lau.atria
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Maintainer: ren7995 <lau7995ren@gmail.com>
+Installed-Size: 886
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Filename: ./debs/iphoneos-arm64e/me.lau.atria_1.4.1_iphoneos-arm64e.deb
+Size: 239548
+MD5sum: 1fae0d10b0d6a6ff2fb491712f4be8e0
+SHA1: 066eced522b0ddc4fe6e822748318537523f7dfc
+SHA256: 05309a936253df38fe722cc78c82e45a0f3e68007288a7089eb62cf357d2f70c
 Section: Tweaks
 Description: A proper homescreen layout editor for iOS 13-16
 Tag: compatible_min::ios13.0
