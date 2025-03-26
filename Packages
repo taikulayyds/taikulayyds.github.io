@@ -678,6 +678,40 @@ Author: SOPPPra
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tweakhub.png
 Name: TweakHub
 
+Package: com.susu.hidekbsettings
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 404
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.susu.hidekbsettings_1.0.7_iphoneos-arm64.deb
+Size: 24548
+MD5sum: 4a6b19ca8216450c6c9942528580e71d
+SHA1: b5c7621849812a8cdd85184041de937ccd8d8b44
+SHA256: 0c60227659b7e27f3f77688c3e0178925227343a71ff522eda464984076f337e
+Section: 插件
+Description: 隐藏键盘切换中的"键盘设置"选项,苏苏汉化编译
+Icon: https://www.susubaby.top/images/HidekBSettings.png
+Name: HideKBSettings
+
+Package: com.susu.hidekbsettings
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 404
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.susu.hidekbsettings_1.0.7_iphoneos-arm64e.deb
+Size: 24104
+MD5sum: 5d3b99758db625f17e76c6cee8960c26
+SHA1: 58c616ae29bebeadeee33656bccfdd1f3830fbe9
+SHA256: 5cbd08bb9a5633728c219e279aa8c6992f0b66e9d52bb1e61898df2c7501359f
+Section: 插件
+Description: 隐藏键盘切换中的"键盘设置"选项,苏苏汉化编译
+Icon: https://www.susubaby.top/images/HidekBSettings.png
+Name: HideKBSettings
+
 Package: com.susu.ios18batteryestimate
 Version: 1.1.4
 Architecture: iphoneos-arm64
@@ -747,6 +781,76 @@ Description: 控制中心电源模块，修复在 iOS16 中点击时没有任何
 Author: 苏苏
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/powermenu.png
 Name: PowerMenu
+
+Package: com.susu.springanimation
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.susu.springanimation_1.1.1_iphoneos-arm64.deb
+Size: 17904
+MD5sum: ded5289b5577c8e51412a3020033e2ae
+SHA1: 99f30da2643be9dde3c0619e107a6d04ff40fb21
+SHA256: 683a42fbcb74f556d8bb6a1ae7b72ceb836d890da24047f03086db6d2d2c29b7
+Section: 插件
+Description: 桌面交互动画，仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
+
+Package: com.susu.springanimation
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.susu.springanimation_1.1.1_iphoneos-arm64e.deb
+Size: 17468
+MD5sum: ba71b076fe0855b84441afe94c26b70b
+SHA1: a5c9a7efb91efbb28ae2093dc91e6a8d7cbe26e9
+SHA256: 379a20466195cb97fbf90d951c6acc894a269291144eda67d48d710288821a17
+Section: 插件
+Description: 桌面交互动画，仅自用
+Author: 苏苏
+Icon: https://www.susubaby.top/images/springanimations.png
+Name: SuSuAnimation
+
+Package: com.susu.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 212
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.susu.storeswitcher2_1.0.7_iphoneos-arm64.deb
+Size: 14996
+MD5sum: 113bb7a80a40fc2e54607ab337e83dd4
+SHA1: c997e1e33f801bf98cb26ff3a9dea154acc5b63e
+SHA256: 7600c8322e83fb9bb53cf3bb0bce61fbe3ac3f327aef6ae9619ed8a361c1ca2f
+Section: 插件
+Description: App Store 账户快速切换。苏苏修改编译，优化了账号切换逻辑
+Author: 苏苏
+Icon: https://www.susubaby.top/images/appstore.png
+Name: StoreSwitcher2
+
+Package: com.susu.storeswitcher2
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 212
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.susu.storeswitcher2_1.0.7_iphoneos-arm64e.deb
+Size: 14568
+MD5sum: b00f7d68dbfe863bd701a342a3432ddc
+SHA1: d3c37715526c2393e9f6310dc26c785b264abc0b
+SHA256: 38c063660d4e9b1ab8a54ab34b7ab9a54bfe2ae0f3ae38f2942bc118db3df97e
+Section: 插件
+Description: App Store 账户快速切换。苏苏修改编译，优化了账号切换逻辑
+Author: 苏苏
+Icon: https://www.susubaby.top/images/appstore.png
+Name: StoreSwitcher2
 
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.1
