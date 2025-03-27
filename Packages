@@ -242,6 +242,24 @@ Author: 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccless.png
 Name: CCLess++
 
+Package: com.ccless
+Version: 2.0.6
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration
+Filename: ./debs/iphoneos-arm64e/com.ccless_2.0.6_iphoneos-arm64e.deb
+Size: 609288
+MD5sum: d07543c5a28f1d8f5297e8052f637556
+SHA1: 3edee044107dfcdcb22f782a7c9c961368576581
+SHA256: 92be592b62f62ef52f56d27de4a0a458183787c92f2cf84ea33d49398d4a6a0c
+Section: Tweaks
+Description: 超级控制中心模块集合!
+Author: 妖刀
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccless.png
+Name: CCLess++
+
 Package: com.dao.ccborder
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -332,6 +350,25 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/icleanerpro.png
 Name: iCleaner Pro
 
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/iphoneos-arm64e/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 970184
+MD5sum: 7f39f0fcf5f00993496610b5bf6ce46f
+SHA1: 1307322448ac43b0f0bf6ee15d025d8ca6ec2e0a
+SHA256: 0bdce40483aef54bcb5c07a8030001c361196505889e4280edd912122620fe6e
+Section: Tweaks
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/icleanerpro.png
+Name: iCleaner Pro
+
 Package: com.gravitation
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -342,6 +379,23 @@ Size: 91916
 MD5sum: 07bfb8b16b59c39cb758db5318a050b8
 SHA1: 3c1e1053692dae32c70c76da00dd3a89c3399af5
 SHA256: 971f389c0c10524e0f07c643e6132c41199115290974d1d9d3f2c3bce460c76f
+Section: Tweaks
+Description: Shake your phone to drop your icons! Analogue for gravity (by Julioverne)
+Author: Kritanta
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/gravitation.png
+Name: Gravitation
+
+Package: com.gravitation
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Kritanta
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: ellekit
+Filename: ./debs/iphoneos-arm64e/com.gravitation_1.1_iphoneos-arm64e.deb
+Size: 92112
+MD5sum: 7453eda03515547ef3c9ce1267af11e8
+SHA1: cb31e0418062127429d90a0bde848084fdc35c2b
+SHA256: ebc51466b14ab4c46f2e34a20628bcc2f64a9f50d733afdd1b0d8273c4dc2744
 Section: Tweaks
 Description: Shake your phone to drop your icons! Analogue for gravity (by Julioverne)
 Author: Kritanta
@@ -679,6 +733,29 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/recordpause.png
 Name: RecordPause
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/recordpause.json
 
+Package: com.ps.recordpause
+Version: 2.0.7
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 216
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/iphoneos-arm64e/com.ps.recordpause_2.0.7_iphoneos-arm64e.deb
+Size: 11692
+MD5sum: f4c0cc4f1a5670ef5f897d690d3348f9
+SHA1: 9bcd8dc40c993ea9dd81abb7a7efa9a430bc03a5
+SHA256: f57c81b2bdccff3f387d55e795301efb69cd4e7e6eb58d7f751596bee9b1e1cb
+Section: Tweaks
+Description: Pause/resume video recording in iOS Camera app. 使用系统自带的相机拍摄视频时增加一个"暂停/恢复"按钮
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/recordpause.html
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/recordpause.png
+Name: RecordPause
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/recordpause.json
+
 Package: com.ryannair05.cylinder
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -941,6 +1018,23 @@ Author: SWING
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/padswitcher-ipad.png
 Name: PadSwitcher - iPad多任务
 
+Package: com.swing.padswitcher
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: SWING
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/iphoneos-arm64e/com.swing.padswitcher_1.1.0_iphoneos-arm64e.deb
+Size: 25648
+MD5sum: f85fffefe5df395f6385e324e2d272a6
+SHA1: 2e17a81383f828ee76c5a6feaee5243b9fa6ab4c
+SHA256: a21479730d31fbcc83ecf4441e1a3ce6e392280727778732d91611001b0c886d
+Section: Tweaks
+Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
+Author: SWING
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/padswitcher-ipad.png
+Name: PadSwitcher - iPad多任务
+
 Package: com.taikulayyds.settingswidgets
 Version: 1.2.3.1
 Architecture: iphoneos-arm64
@@ -951,6 +1045,23 @@ Size: 73408
 MD5sum: ac5d21a1db651ff8e06373d4829a3cc7
 SHA1: 5e8a79572c3f0c9cb362dc51fd9e452c5e0c0993
 SHA256: 88ae902d395c56d526e1e834917d96973b45353b17ba3623b27bade2e3475daf
+Section: Tweaks
+Description: Bring good looking widgets to the front page of settings!将好看的小部件带到设置的首页！
+Author: shepgoba
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingswidgets.png
+Name: SettingsWidgets 设置小部件
+
+Package: com.taikulayyds.settingswidgets
+Version: 1.2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: shepgoba
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.settingswidgets_1.2.3.1_iphoneos-arm64e.deb
+Size: 72416
+MD5sum: 0320b623a42a7796cde635c3ca87baa8
+SHA1: ab6a5b066b644fddf18f6a8a7b982de5c65947e3
+SHA256: 6bdc6cb21f583f02c480f2d299c02769e3cde644c7285dcfe396e48c6df9318b
 Section: Tweaks
 Description: Bring good looking widgets to the front page of settings!将好看的小部件带到设置的首页！
 Author: shepgoba
@@ -1000,6 +1111,23 @@ Size: 271952
 MD5sum: be326f19a3084d85a4488a3e9d7c6396
 SHA1: 797bf9734cfc416bc0a39e35192503c56521f78c
 SHA256: fb45c3f751b44a29a4f391364cc2f3518cf996814126cec6738f598059f1c379
+Section: Tweaks
+Description: 用ChatGPT或Gemini取代Siri。SiriPlus是用ChatGPT或Gemini取代Siri的一个调整，通过最强大的大型语言模型为用户提供增强的功能、广泛的知识和个性化帮助。
+Author: Uckermark
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/siriplus.png
+Name: SiriPlus
+
+Package: com.uckermark.siriplus
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: Uckermark
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), com.ginsu.comet, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64e/com.uckermark.siriplus_1.3_iphoneos-arm64e.deb
+Size: 265396
+MD5sum: dbf12d0da24b566c07364791f070d00b
+SHA1: b8b147f030a1f2fb3fbfdc53689b03d4c0c70e79
+SHA256: 2db5d93a9fc1ef1802f62595027b96ad1de530c5a7a5be248426fc8c29517cac
 Section: Tweaks
 Description: 用ChatGPT或Gemini取代Siri。SiriPlus是用ChatGPT或Gemini取代Siri的一个调整，通过最强大的大型语言模型为用户提供增强的功能、广泛的知识和个性化帮助。
 Author: Uckermark
@@ -1245,6 +1373,23 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/blockappscreatealbum.png
 Name: 禁止应用自动创建相册BlockAppsCreateAlbum
 
+Package: netskao.blockappscreatealbum
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Pre-Depends: rootless-compat(>= 0.9), rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/netskao.blockappscreatealbum_1.1.2_iphoneos-arm64e.deb
+Size: 4712
+MD5sum: 930a782d606d6c74e1d3e1dea385fbb0
+SHA1: 709406ac2a464dc0077efc31f6aa8e76c28bf4ff
+SHA256: fbf888bb37d17f9127cc8edeb4929d12aff277879182fd2abb6fddb2d2e8bfe1
+Section: Tweaks
+Description: Block applications from creating their own albums禁止应用程序创建自己的相册
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/blockappscreatealbum.png
+Name: 禁止应用自动创建相册BlockAppsCreateAlbum
+
 Package: ovh.exerhythm.cardculator
 Version: 2.1.1
 Architecture: iphoneos-arm64
@@ -1255,6 +1400,23 @@ Size: 249452
 MD5sum: bf1a6b0532b3eaccb0ab465903be0aef
 SHA1: ca2efe840821b10f1fe068efeeb625388fe24519
 SHA256: 0b6894b05dbf9cdad265b5daa2834837687bee2d304b2d98fbe102280387b9ec
+Section: Tweaks
+Description: Calculator, but smaller
+Author: sourcelocation
+Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.taikula.cardculator.png
+Name: Cardculator
+
+Package: ovh.exerhythm.cardculator
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: sourcelocation
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
+Filename: ./debs/iphoneos-arm64e/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64e.deb
+Size: 239864
+MD5sum: ad79c706cc286d86b677a5d452647259
+SHA1: 1757f35c97ffeb97fec7e52799e329eba16c6fa5
+SHA256: 70a3eacfbc9001fd39aa693bb3674158a803fd18f5724502b9efd61f2dcfd83e
 Section: Tweaks
 Description: Calculator, but smaller
 Author: sourcelocation
