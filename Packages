@@ -409,10 +409,10 @@ Maintainer: lclrc(SquidForce)
 Installed-Size: 3808
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
 Filename: ./debs/iphoneos-arm64/com.lclrc.hammerit_1.7.1_iphoneos-arm64.deb
-Size: 980244
-MD5sum: 0037fcbe5f1a19cfa1c7dc3ee955d423
-SHA1: 3ec65bcfb00c2b5c60ee7186c1c1f0d825b44edc
-SHA256: aa9d49eef66ed637305a4f40c3bddd1433df34d49fb97aefb4abc22fb1fdf169
+Size: 978500
+MD5sum: 61e9ff64dc7d30d017d38fb80f5dbc75
+SHA1: b1385bbf84da7d288cc4b867cb27d1dbe3601be8
+SHA256: 84af7ae26c5056c73e5d258d3502de322f9f476e70078f0ffddda65ed8c428b9
 Section: Tweaks
 Description: Control your text or translate as you wish.
 Author: lclrc(SquidForce)
@@ -436,6 +436,23 @@ Description: Control your text or translate as you wish.
 Author: lclrc(SquidForce)
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/hammerIt.png
 Name: Hammer It
+
+Package: com.lclrc.recordanywhere
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.lclrc.recordanywhere_1.1.0_iphoneos-arm64.deb
+Size: 4596
+MD5sum: 7b6224a645325798b09b17ee2380f0db
+SHA1: 8c9040275ddf665a461a831c4915ca8b9be9653a
+SHA256: 2489fe6680ba712f53d100fb26d8ce6aa479e289f5a2f88c8272e68b4f45e007
+Section: Tweaks
+Description: 使手机在锁屏状态也可以继续录屏。修复支持Dopamine，感谢原作者提供的思路。
+Author: Muirey03 & lclrc
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/recordanywhere.png
+Name: RecordAnywhere
 
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
@@ -1278,6 +1295,24 @@ SHA256: 5a22481ee88e847efa2da2c9617f465f606e3365be09184df2f0594afd5127da
 Section: Tweaks
 Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
   * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
+Name: AppStoreTroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.8
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretroller_0.0.8_iphoneos-arm64.deb
+Size: 55020
+MD5sum: 654b81c8d6d82eff37c2967f1d5d6591
+SHA1: 02286bacf40c6ef25f2c81a68d371ff7811656a2
+SHA256: c67d6e7a00f867cc0b01f26aea5be133a33eb58e2e3ad64665980e406a958f69
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
+   * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Author: Mineek
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
 Name: AppStoreTroller
