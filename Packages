@@ -1070,6 +1070,43 @@ Author: SWING
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/padswitcher-ipad.png
 Name: PadSwitcher - iPad多任务
 
+Package: com.taikulayyds.autotouch
+Version: 8.1.1
+Architecture: iphoneos-arm64
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0), ellekit | org.coolstar.libhooker
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.autotouch_8.1.1_iphoneos-arm64.deb
+Size: 21355132
+MD5sum: fef321382de0b0ec72f611bf42aadd9b
+SHA1: 83fdf26d8c93317d6e59485b275bb4b3d777920c
+SHA256: bb657e12df4235108e1350898b6c892a941dae72398d2eae50eeb477aa1c8645
+Section: Tweaks
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.插件介绍：AutoTouch用来录制和回放您在移动设备上的各种触摸和点击操作，它还可以运行事先用Lua语言写好的脚本，通过模拟人的触摸操作，来实现更多意想不到的功能。您可以用它自动玩游戏打怪赚取金币、批量编辑照片、进行程序自动化测试或者自动登入邮箱等。(非破解版，可以免费体验一会儿，此版本个人觉得很好用故备份上架）
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/autotouch.png
+Name: AutoTouch
+
+Package: com.taikulayyds.autotouch
+Version: 8.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.2) | org.swift.libswift (>= 5.0), ellekit | org.coolstar.libhooker
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.autotouch_8.1.1_iphoneos-arm64e.deb
+Size: 20996756
+MD5sum: df0752620edfb61955665ac7f87b4f81
+SHA1: 7b73031dfa5d6b784cdde8cd619ad67793095777
+SHA256: ef07b6b5cdba7be2d3376e73c9868e7b2c2ac23c28b4dbaecb545bf86d363291
+Section: Tweaks
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.插件介绍：AutoTouch用来录制和回放您在移动设备上的各种触摸和点击操作，它还可以运行事先用Lua语言写好的脚本，通过模拟人的触摸操作，来实现更多意想不到的功能。您可以用它自动玩游戏打怪赚取金币、批量编辑照片、进行程序自动化测试或者自动登入邮箱等。(非破解版，可以免费体验一会儿，此版本个人觉得很好用故备份上架）
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/autotouch.png
+Name: AutoTouch
+
 Package: com.taikulayyds.settingswidgets
 Version: 1.2.3.1
 Architecture: iphoneos-arm64
