@@ -1371,6 +1371,29 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
 Name: Choicy
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.opa334.choicy
+Version: 1.5.2-2
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1122
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/iphoneos-arm64e/com.opa334.choicy_1.5.2-2_iphoneos-arm64e.deb
+Size: 159804
+MD5sum: fa406560e75349711754d5dbcbc5d468
+SHA1: dd4f9d83262f89ff98ac9db0d2933bc6ac28fb1c
+SHA256: c07f26b878a581c6367214e5be7edc62548a66b1797944e3861a11b32474fbe0
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Description: Advanced Tweak Configuration!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=choicyDp
+Dev: opa334
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
+Name: Choicy
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.p2kdev.screenshotactions
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -2627,25 +2650,6 @@ Name: OSAnalytics
 
 Package: dev.mineek.appstoretroller
 Version: 0.0.5
-Architecture: iphoneos-arm64
-Maintainer: Mineek
-Installed-Size: 344
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: dev.mineek.appstoretrollers
-Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretroller_0.0.5_iphoneos-arm64.deb
-Size: 24248
-MD5sum: 547d8a11e017b372b46f424544b777fc
-SHA1: 7c66c9ea30a6a583cda2bb466847243defb0ed38
-SHA256: d669e45ace63826ccb0387d7c0ce33792656464cf34ef1d847846e5af3c3ce59
-Section: Tweaks
-Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
-  * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
-Author: Mineek
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
-Name: AppStoreTroller
-
-Package: dev.mineek.appstoretroller
-Version: 0.0.5
 Architecture: iphoneos-arm64e
 Maintainer: Mineek
 Installed-Size: 344
@@ -2657,24 +2661,6 @@ Size: 24344
 MD5sum: ff58ca5fe24f7a006a0f2039db60b86b
 SHA1: 3051fc12a5a5f6e4bd259aebad914e66cb9dac02
 SHA256: a83a39be9b94870e4cb0e01ca12e52b9032748f47ba5200f960c703bb89514c1
-Section: Tweaks
-Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
-  * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
-Author: Mineek
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
-Name: AppStoreTroller
-
-Package: dev.mineek.appstoretroller
-Version: 0.0.6
-Architecture: iphoneos-arm64
-Maintainer: Mineek
-Installed-Size: 512
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretroller_0.0.6_iphoneos-arm64.deb
-Size: 31864
-MD5sum: be3b5ab48064e96be6da73173fee3291
-SHA1: 9fddec28a7e095afea55267b5fdca45fd931bd06
-SHA256: 5f1c21f58ebf0f387ccf85cc65facc399350651d056bdd7d5466b49cc42f4af8
 Section: Tweaks
 Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
   * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
@@ -2697,24 +2683,6 @@ SHA256: 5a22481ee88e847efa2da2c9617f465f606e3365be09184df2f0594afd5127da
 Section: Tweaks
 Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
   * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
-Author: Mineek
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
-Name: AppStoreTroller
-
-Package: dev.mineek.appstoretroller
-Version: 0.0.8
-Architecture: iphoneos-arm64
-Maintainer: Mineek
-Installed-Size: 512
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretroller_0.0.8_iphoneos-arm64.deb
-Size: 55020
-MD5sum: 654b81c8d6d82eff37c2967f1d5d6591
-SHA1: 02286bacf40c6ef25f2c81a68d371ff7811656a2
-SHA256: c67d6e7a00f867cc0b01f26aea5be133a33eb58e2e3ad64665980e406a958f69
-Section: Tweaks
-Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
-   * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Author: Mineek
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
 Name: AppStoreTroller
