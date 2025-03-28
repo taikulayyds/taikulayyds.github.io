@@ -873,14 +873,14 @@ Installed-Size: 164
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.p2kdev.screenshotactions_1.2_iphoneos-arm64e.deb
-Size: 18796
-MD5sum: 12c66af63710ded811b35837c5b712d3
-SHA1: 43deb19d2e08e65c42772a3de02700057a3ba6e6
-SHA256: 9dbd8efbdf1c6664486bef678cfa3a283ab555fd775b6fe50bda98c7641963ed
+Size: 18800
+MD5sum: df5f4a8b8a6db05d359056b1b0ad46d5
+SHA1: 205e327f5fe931cca25662dceeb2770d09aa5d2a
+SHA256: 844d87d4dde5ac5accab0951fb29327764db84a899c82896d8aad80d012fdeae
 Section: Tweaks
 Description: Add Quick Actions to the screenshot preview!
 Author: P2KDev <p2kdev@gmail.com>
-Icon: file:///Library/Application Support/ScreenshotActions/icon.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/screenshotactions.png
 Name: ScreenshotActions
 
 Package: com.ps.recordpause
