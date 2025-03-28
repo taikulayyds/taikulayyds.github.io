@@ -1745,14 +1745,14 @@ Architecture: iphoneos-arm64
 Maintainer: sourcelocation
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
 Filename: ./debs/iphoneos-arm64/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64.deb
-Size: 249452
-MD5sum: bf1a6b0532b3eaccb0ab465903be0aef
-SHA1: ca2efe840821b10f1fe068efeeb625388fe24519
-SHA256: 0b6894b05dbf9cdad265b5daa2834837687bee2d304b2d98fbe102280387b9ec
+Size: 249372
+MD5sum: 0494cfe845fe4b11bcf10d861af63f29
+SHA1: d09fcfb60d62b5c58104c7ed5fdacc26444fea5f
+SHA256: 892d5bd06078f08703c157ea59657eb2e168498114e10e71a29febbe43a99c71
 Section: Tweaks
 Description: Calculator, but smaller
 Author: sourcelocation
-Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.taikula.cardculator.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cardculator.png
 Name: Cardculator
 
 Package: ovh.exerhythm.cardculator
@@ -1762,13 +1762,13 @@ Maintainer: sourcelocation
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: dev.theos.orion14, firmware (>= 14.0), com.opa334.ccsupport (>= 1.3.7), com.ginsu.comet
 Filename: ./debs/iphoneos-arm64e/ovh.exerhythm.cardculator_2.1.1_iphoneos-arm64e.deb
-Size: 239864
-MD5sum: ad79c706cc286d86b677a5d452647259
-SHA1: 1757f35c97ffeb97fec7e52799e329eba16c6fa5
-SHA256: 70a3eacfbc9001fd39aa693bb3674158a803fd18f5724502b9efd61f2dcfd83e
+Size: 239012
+MD5sum: 4fbe3398808ae5a5346ac94ea961b8a6
+SHA1: 4786d1abbbe1b9bc9e2afca083031c06e12af8c0
+SHA256: 15b19d9743a593b203dc30419b055d9c8876def9fe7c9fd242ad0e8c67c3e832
 Section: Tweaks
 Description: Calculator, but smaller
 Author: sourcelocation
-Icon: https://cdn-static.yourepo.com/images/debs/com.yourepo.taikula.cardculator.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cardculator.png
 Name: Cardculator
 
