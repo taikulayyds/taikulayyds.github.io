@@ -223,47 +223,6 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noredirect.png
 Name: No Redirect
 
-Package: com.anthopak.pancake-roothide
-Version: 2.3
-Architecture: iphoneos-arm64e
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
-Filename: ./debs/iphoneos-arm64e/com.anthopak.pancake-roothide_2.3_iphoneos-arm64e.deb
-Size: 111808
-MD5sum: 136c056e876312ab395e1848a9190e12
-SHA1: 151fc4ba6a01d29b5dd56f949650ccadf1e8ed29
-SHA256: 9e18b56b32be59194085b09aac1b21f0b999ebf513bd3c2a59491a530db8dd02
-Section: Tweaks
-Homepage: https://repo.anthopak.dev
-Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page.所有应用程序中的整个屏幕上的交互式取消手势以及恢复上一页的能力(已汉化)
-Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless.php
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/pancake.png
-Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
-Name: PanCake
-Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
-
-Package: com.anthopak.pancake-rootless
-Version: 2.3
-Architecture: iphoneos-arm64
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
-Filename: ./debs/iphoneos-arm64/com.anthopak.pancake-rootless_2.3_iphoneos-arm64.deb
-Size: 113060
-MD5sum: ded433c155942aea822434cb2d7f3c06
-SHA1: 652dfd17e11da38ac4a19615bef235745451bd7c
-SHA256: 6ded0a5d6b9ace18a1144b2238f941f812b4b0dd21e9d77a289c20635ef61e95
-Section: Tweaks
-Homepage: https://repo.anthopak.dev
-Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page.所有应用程序中的整个屏幕上的交互式取消手势以及恢复上一页的能力(已汉化)
-Author: AnthoPak <anthopakdev@gmail.com>
-Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless.php
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/pancake.png
-Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
-Name: PanCake
-Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
-
 Package: com.antoine.senri
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -2647,64 +2606,6 @@ Description: Enables various enhancements within stock iOS crashlogs. 在iOS故�
 Author: daniel & PoomSmart
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/osanalytics.png
 Name: OSAnalytics
-
-Package: dev.mineek.appstoretroller
-Version: 0.0.5
-Architecture: iphoneos-arm64e
-Maintainer: Mineek
-Installed-Size: 344
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: dev.mineek.appstoretrollers
-Filename: ./debs/iphoneos-arm64e/dev.mineek.appstoretroller_0.0.5_iphoneos-arm64e.deb
-Size: 24344
-MD5sum: ff58ca5fe24f7a006a0f2039db60b86b
-SHA1: 3051fc12a5a5f6e4bd259aebad914e66cb9dac02
-SHA256: a83a39be9b94870e4cb0e01ca12e52b9032748f47ba5200f960c703bb89514c1
-Section: Tweaks
-Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
-  * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
-Author: Mineek
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
-Name: AppStoreTroller
-
-Package: dev.mineek.appstoretroller
-Version: 0.0.6
-Architecture: iphoneos-arm64e
-Maintainer: Mineek
-Installed-Size: 512
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/dev.mineek.appstoretroller_0.0.6_iphoneos-arm64e.deb
-Size: 31884
-MD5sum: 964c5be13c084eb42e3ac0d7151034d0
-SHA1: d45b9efeabfdaca7c83974339b46666526639a2c
-SHA256: 5a22481ee88e847efa2da2c9617f465f606e3365be09184df2f0594afd5127da
-Section: Tweaks
-Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
-  * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
-Author: Mineek
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
-Name: AppStoreTroller
-
-Package: dev.mineek.appstoretroller
-Version: 0.0.8
-Architecture: iphoneos-arm64e
-Maintainer: Mineek
-Installed-Size: 512
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/dev.mineek.appstoretroller_0.0.8_iphoneos-arm64e.deb
-Size: 54020
-MD5sum: 0acb26f09b2cc77fb205c9eae1465fb7
-SHA1: a9be1a0722677d480d68a71bfb939bce043a20da
-SHA256: 4364be25c78191d32d5e4e45cdd2e347fa7f24dabca80f49e238a89db1f566b0
-Section: Tweaks
-Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
-   * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
-Author: Mineek
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
-Name: AppStoreTroller
 
 Package: dev.mineek.appstoretroller
 Version: 0.0.9
