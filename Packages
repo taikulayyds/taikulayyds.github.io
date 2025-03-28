@@ -1,3 +1,20 @@
+Package: chaoge.ChargeLimiter
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/chaoge.ChargeLimiter_1.7_iphoneos-arm64.deb
+Size: 2015560
+MD5sum: 8eb98ea8dabb04335da83989f2b7e3a2
+SHA1: 6ca9c6cf7f233d4641024bab94f33f409e345507
+SHA256: 33dacc8f6318cf7e067ebc1e6548a8b03453e86accb445c7935e26fbd3eaecb1
+Section: Applications
+Priority: optional
+Description: ChargeLimiter
+Author: chaoge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/chargelimiter.png
+Name: ChargeLimiter
+
 Package: cn.Bswbw.fixset
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -472,6 +489,22 @@ Author: Muirey03 & lclrc
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/recordanywhere.png
 Name: RecordAnywhere
 
+Package: com.max.twistnturns
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Maxim Shnirman
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/com.max.twistnturns_1.3_iphoneos-arm64.deb
+Size: 518480
+MD5sum: cf9ce9da800bb5500015359ec7b2cfff
+SHA1: a95c666e0429710a93fe8e4958b73400ba7b8dc3
+SHA256: e8ac28b8a65bb9ca5a2e99f423118a80c4dbdfb07a94fe52fadaa36e181c75c8
+Section: Tweaks
+Description: Smart Screen Rotation Suggestions智能屏幕旋转建议！ 支持从iOS 12到iOS 16.x的所有越狱设备。这个智能调整将计算许多不同的参数，以确定何时显示浮动按钮来解锁旋转锁定。无论你的旋转锁是锁定还是解锁，智能旋转建议都会出现，一旦它会重新确定你将设备倾斜了某个角度，并建议你解锁或锁定定向锁！这对于那些希望对设备的方向有更多控制并防止设备意外旋转的用户来说很有帮助，同时也可以节省大量时间在短时间内禁用旋转锁定。在您使用此调整禁用旋转锁定后，当您的设备将返回到人像模式时，调整将恢复您的旋转锁定以前的状态-如果它被禁用或启用，它将保持这种状态！要配置的选项：自定义位置：这是一个可拖动的按钮，您拖动浮动按钮到的最后一个位置将被保存可自定义的浮动按钮：控制浮动按钮的颜色、大小和反馈消失间隔：决定建议在屏幕上出现多长时间后才会消失动画：选择是否要在浮动按钮上显示可爱的动画黑名单应用程序：选择哪些应用程序中不会出现这些建议。
+Author: Maxim Shnirman
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/twistnturn.png
+Name: TwistNTurn智能旋转
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm64e
@@ -527,6 +560,23 @@ Description: Ultimate iDevice Customization for iOS 14, 15 & 16
 Author: MTAC
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lynxtwo.png
 Name: Lynx 2
+
+Package: com.muirey03.cr4shed
+Version: 4.3.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 2404
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11)
+Filename: ./debs/iphoneos-arm64/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64.deb
+Size: 197904
+MD5sum: b565515d6c1a71eea36a75ff17c95878
+SHA1: 7af77479e33252ef6d16aa4d8eba2f9559b94802
+SHA256: ed24cf65f9fbadd05c1be6611bdb89be605844b986a4f2cba7512a7339890cd3
+Section: Tweaks
+Description: A modern crash reporter for iOS
+Author: Muirey03
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cr4shed.png
+Name: Cr4shed
 
 Package: com.nathan.dynamichiderecordland
 Version: 1.0
@@ -745,6 +795,23 @@ Author: NoisyFlake <support@noisyflake.com>
 Depiction: https://chariz.com/get/velvet-2
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/velvet2.png
 Name: Velvet 2
+
+Package: com.p2kdev.screenshotactions
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 164
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.p2kdev.screenshotactions_1.2_iphoneos-arm64.deb
+Size: 18906
+MD5sum: 7567c2040bfb72403df505d7ac2759a1
+SHA1: 440bbfd3f6df0da948ab24338244278b61f7e1c8
+SHA256: 63ca1e4f58323dc8c2dc2f1e7c842b497f26f83f6d471fad430ccf44e7b72f8c
+Section: Tweaks
+Description: Add Quick Actions to the screenshot preview!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ScreenshotActions/icon.png
+Name: ScreenshotActions
 
 Package: com.ps.recordpause
 Version: 2.0.7
@@ -1107,6 +1174,22 @@ Author: Kent Krantz <kentkrantz@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/autotouch.png
 Name: AutoTouch
 
+Package: com.taikulayyds.colorfulwallpaperx
+Version: 4.6k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.colorfulwallpaperx_4.6k_iphoneos-arm64.deb
+Size: 1233720
+MD5sum: 7ed841dfe4da2f7d753c784771aee49b
+SHA1: 0a2fa164132f938b4db43270233ccfb43962394b
+SHA256: 3e9f5fae13fd52e2cee24ef8fcdbd450d1c86d46d81b58b3a6716a771c52ba7d
+Section: Tweaks
+Description: 具有彩色效果的动态壁纸。CBZ破解！
+Author: Lessica
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/colorfulwallpaperx.png
+Name: ColorfulWallpaperX
+
 Package: com.taikulayyds.settingswidgets
 Version: 1.2.3.1
 Architecture: iphoneos-arm64
@@ -1139,6 +1222,22 @@ Description: Bring good looking widgets to the front page of settings!将好看�
 Author: shepgoba
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingswidgets.png
 Name: SettingsWidgets 设置小部件
+
+Package: com.taikulayyds.touchvis
+Version: 2.8.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.touchvis_2.8.1k_iphoneos-arm64.deb
+Size: 708400
+MD5sum: 5b8130775728a83754115dcaadd81a0a
+SHA1: bdd7fe0e4f16af3365888977e4c723086794b8e1
+SHA256: 45c9eefb8a65c3eb9dc4f88379aff7559ccb053e1244a1b06ad98cd218582548
+Section: Tweaks
+Description: Displays your touch interactions! 显示您的触摸交互。CBZ破解！
+Author: Lessica
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
+Name: Touch-Viz
 
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.1
@@ -1384,6 +1483,24 @@ Size: 54020
 MD5sum: 0acb26f09b2cc77fb205c9eae1465fb7
 SHA1: a9be1a0722677d480d68a71bfb939bce043a20da
 SHA256: 4364be25c78191d32d5e4e45cdd2e347fa7f24dabca80f49e238a89db1f566b0
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
+   * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
+Name: AppStoreTroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.9
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretroller_0.0.9_iphoneos-arm64.deb
+Size: 53756
+MD5sum: 937f29bc7528d4faa3073e8192d6900d
+SHA1: aff78dd5e08defc55ac75af2c4dc996dec3a74bf
+SHA256: 942b92f5561044282ce427310f64f3cd8e20a612f3193cb25a6f58acc42fe0eb
 Section: Tweaks
 Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
    * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
