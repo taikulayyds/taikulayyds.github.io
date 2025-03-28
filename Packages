@@ -243,6 +243,27 @@ Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake
 Name: PanCake
 Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
 
+Package: com.anthopak.pancake
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/iphoneos-arm64e/com.anthopak.pancake_2.3_iphoneos-arm64e.deb
+Size: 111772
+MD5sum: 04cc5c59593ddf699c71c433be5811dd
+SHA1: 25f0146e5a3888a126fc39df26fd2d1812e48427
+SHA256: cf25f4b63eed1e5e753a27b9d854657e591882a3ff77ab3b2eeacbc46b317b02
+Section: Tweaks
+Homepage: https://repo.anthopak.dev
+Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page.所有应用程序中的整个屏幕上的交互式取消手势以及恢复上一页的能力(已汉化)
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless.php
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/pancake.png
+Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+Name: PanCake
+Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+
 Package: com.antoine.senri
 Version: 1.1
 Architecture: iphoneos-arm64
