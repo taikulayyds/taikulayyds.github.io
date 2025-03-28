@@ -69,6 +69,24 @@ Author: 来了老弟
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/errorfilter.png
 Name: 插件异常崩溃日志过滤XD
 
+Package: cn.llld.errorfilter
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 952
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/cn.llld.errorfilter_1.0_iphoneos-arm64e.deb
+Size: 612724
+MD5sum: 9a25991f5cd0ad72982cc95033046005
+SHA1: a958ef126f6fc3d9e9f941822f75b1af4247b46f
+SHA256: 2747fffe631d544db80699e2df7a4c6cebbba830fffff7927fd70b13ee1fe193
+Section: 插件
+Description: tweak exception error crash log filter, settings to see instructions，插件异常错误崩溃日志过滤器，在设置看说明。
+Author: 来了老弟
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/errorfilter.png
+Name: 插件异常崩溃日志过滤XD
+
 Package: com.0xkuj.3dappversionspoofer
 Version: 2.1.1
 Architecture: iphoneos-arm64
@@ -113,6 +131,24 @@ Size: 66520
 MD5sum: 7f2c8c5d76fb6fe7c142b5ca9db6f67f
 SHA1: f8813553daa6666811b8a5aaae5dab0228172b68
 SHA256: 821e263ea39660c4745773feef990defcd313661450c170513361caaffce00a3
+Section: Tweaks
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/notificationsgroupcount.png
+Name: NotificationsGroupCount
+
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.notificationsgroupcounts_1.0.8_iphoneos-arm64e.deb
+Size: 65492
+MD5sum: bf8b8e49ec2f4058750472a96ee11668
+SHA1: b33f64eda12e53a1e4480f68bbea9a9d7a39fac5
+SHA256: ec26dd5c3cf805bc7f642a2a3cdcae3a44fdb486b9d66482448e76ccaff77382
 Section: Tweaks
 Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
@@ -169,6 +205,44 @@ Description: Stop specified apps from redirecting to App Store, Safari or other 
 Author: Lessica <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noredirect.png
 Name: No Redirect
+
+Package: com.82flex.noredirect
+Version: 1.10
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/com.82flex.noredirect_1.10_iphoneos-arm64e.deb
+Size: 55424
+MD5sum: 616a687700578ece950873ba7572969e
+SHA1: 8d0ac47fe207f5b7c1e582348d1f95abbb289635
+SHA256: 8ec73683e098c42ee0e2ce09f3e6b47d0ae02f072fa612c1815a34952b7d0d8b
+Section: Tweaks
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.  阻止指定的应用程序重定向到App Store、Safari或其他应用程序。
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noredirect.png
+Name: No Redirect
+
+Package: com.anthopak.pancake-roothide
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/iphoneos-arm64e/com.anthopak.pancake-roothide_2.3_iphoneos-arm64e.deb
+Size: 111808
+MD5sum: 136c056e876312ab395e1848a9190e12
+SHA1: 151fc4ba6a01d29b5dd56f949650ccadf1e8ed29
+SHA256: 9e18b56b32be59194085b09aac1b21f0b999ebf513bd3c2a59491a530db8dd02
+Section: Tweaks
+Homepage: https://repo.anthopak.dev
+Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page.所有应用程序中的整个屏幕上的交互式取消手势以及恢复上一页的能力(已汉化)
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless.php
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/pancake.png
+Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+Name: PanCake
+Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
 
 Package: com.anthopak.pancake-rootless
 Version: 2.3
@@ -232,6 +306,22 @@ Size: 38128
 MD5sum: 3833182c8d28e06769f0f5b2c06e0171
 SHA1: d50c436438d97b1ab98990fed11608611cdfb96d
 SHA256: 2bb6a029c3dfc344707783eec5f7b3b9c1498013e4f683c348516033803dc3b4
+Section: Tweaks
+Description: Adds seconds to lockscreen time.
+Author: b4db1r3
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lstimeseconds.png
+Name: LSTimeSeconds (iOS 15 - 16)
+
+Package: com.b4db1r3.lstimeseconds16
+Version: 0.3
+Architecture: iphoneos-arm64e
+Maintainer: b4db1r3
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64e/com.b4db1r3.lstimeseconds16_0.3_iphoneos-arm64e.deb
+Size: 37224
+MD5sum: 150368c59a8999a967025f1ff65df56d
+SHA1: 0b138ddab97edcafd358d997e7657e8dfe72dfee
+SHA256: 4072c4cb7afbed18cabcb20301c2c307f440b5209eaddb52da2be7c8c70ae9cf
 Section: Tweaks
 Description: Adds seconds to lockscreen time.
 Author: b4db1r3
@@ -429,6 +519,23 @@ Author: CydiaGeek
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/springanimations.png
 Name: SpringAnimations
 
+Package: com.cydiageek.springanimations
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Susu
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.cydiageek.springanimations_1.1.1_iphoneos-arm64e.deb
+Size: 37844
+MD5sum: 52af233f7313d909a6cf7aeeb512ae6c
+SHA1: bf0c3b65f6d76bc899a9a0ae934771fc364f6ac3
+SHA256: aceda8704d548871d2ba37bea55c510ac5f6624952247e9703741882e05b13e9
+Section: Tweaks
+Description: Nice SpringBoard Animations Effects on iOS 11-16!(苏苏汉化)
+Author: CydiaGeek
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/springanimations.png
+Name: SpringAnimations
+
 Package: com.dao.ccborder
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -511,6 +618,23 @@ Size: 22112
 MD5sum: 1aebc15844dacbfecfa34761d439e4e0
 SHA1: 2486c471a09a854f2ff550e0f15888ffae060b9b
 SHA256: 54793c7064674c5780bfd4cfa490d7c251dbed541dfc2ebf132bc6516f35c406
+Section: Tweaks
+Description: Adds Touch ID authentication to apps, just like the security features in iOS 18.为应用程序添加 Touch ID 锁定验证，就像 iOS 18 中的安全功能一样。
+Author: MrDeNsor
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/locktouchx.png
+Name: LockTouchX
+
+Package: com.den.locktouchx
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: MrDeNsor
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.den.locktouchx_1.3_iphoneos-arm64e.deb
+Size: 21480
+MD5sum: cd73c53233225a3b3bc236bddb8038c5
+SHA1: 680141812fc5a2524d61097d586279b3b6d085ac
+SHA256: eac9c79d0606d37a4e28985261f5a2f46acdbfcdfb308c7e890310e769a7c7bc
 Section: Tweaks
 Description: Adds Touch ID authentication to apps, just like the security features in iOS 18.为应用程序添加 Touch ID 锁定验证，就像 iOS 18 中的安全功能一样。
 Author: MrDeNsor
@@ -603,6 +727,23 @@ Author: ichitaso
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/hideserialnumber.png
 Name: HideSerialNumber
 
+Package: com.ichitaso.hideserialnumber
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.ichitaso.hideserialnumber_0.0.4_iphoneos-arm64e.deb
+Size: 57100
+MD5sum: 1565eea6bfffa7fe0f020ec2b4492244
+SHA1: 37f69123b03d4828dfd6990b28b93e3841d3efd4
+SHA256: e441394735ad5a9bc21d2c7e2daeb34908e683e367e71df4b3bcab9f64d3f2e4
+Section: Tweaks
+Description: Hide Serial Number in Settings About page.在“设置关于”页面中隐藏/伪装序列号等相关信息。刀刀源汉化。
+Author: ichitaso
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/hideserialnumber.png
+Name: HideSerialNumber
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -689,6 +830,23 @@ Author: Crassna
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/applecard.png
 Name: App Lecard
 
+Package: com.lecard.wuyu
+Version: 1.0-end
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.lecard.wuyu_1.0-end_iphoneos-arm64e.deb
+Size: 400200
+MD5sum: c60ef917448fc3b253d65223550db064
+SHA1: 4220df6819fb6a04c9f67366d123dc551893494d
+SHA256: ada810a9d0573cc0c0f373c1ae8f4f8bb423007a093c4e966abf652ab89ea6de
+Section: Tweaks
+Description: Jailbrea!  新版分屏，无需联网，本地版，已停更！
+Author: Crassna
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/applecard.png
+Name: App Lecard
+
 Package: com.level3tjg.betterccbrightness
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -699,6 +857,23 @@ Size: 43684
 MD5sum: 6371723f26047201c5de45e76e793280
 SHA1: f152c8ef5d9b98a5725b10bc78b085cd789d8b1e
 SHA256: c79057adf83b93bedfc3f128efa73fbbb15484d9b9b83a5c977477185e13d38d
+Section: Tweaks
+Description: Add more controls to the expanded brightness CC module
+Author: level3tjg
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/betterccbrightness.png
+Name: BetterCCBrightness
+
+Package: com.level3tjg.betterccbrightness
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: level3tjg
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64e/com.level3tjg.betterccbrightness_1.0.2_iphoneos-arm64e.deb
+Size: 42532
+MD5sum: 74d611a1b61f5d24e2195d85cb0bfd88
+SHA1: 3738497a1b381da64fa5206b73f2c9beea5150b7
+SHA256: 5d69d20cda34d5d471d5764208f96437a9dadeb00148fba4d549126d41384f60
 Section: Tweaks
 Description: Add more controls to the expanded brightness CC module
 Author: level3tjg
@@ -843,6 +1018,22 @@ Author: ETHN <ethanwhited2208@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/loopvideos.png
 Name: LoopVideos
 
+Package: com.nahtedetihw.loopvideos
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64e/com.nahtedetihw.loopvideos_1.0_iphoneos-arm64e.deb
+Size: 2972
+MD5sum: 1c6bf57416729c0fb43a936260508631
+SHA1: 150521c314485222858e8dfce9d6eae9cf5d5139
+SHA256: 4f75f3da1e0f7cc099022b9d6129c3f1302087e4dbadfc262759655b2795bb50
+Section: Tweaks
+Description: Loop videos in Photos app!  在照片应用程序中循环播放视频，就像在iOS 18上一样！
+Author: ETHN <ethanwhited2208@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/loopvideos.png
+Name: LoopVideos
+
 Package: com.nathan.dynamichiderecordland
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -963,6 +1154,22 @@ Author: Nathan Senter
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/internalstoragesettings.png
 Name: InternalStorageSettings
 
+Package: com.nathan.internalstoragesettings
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nathan Senter
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64e/com.nathan.internalstoragesettings_1.0_iphoneos-arm64e.deb
+Size: 4216
+MD5sum: d2f96e499146411be026995f9fd609a8
+SHA1: d521de9ffce08765aba6fdd85ac6c5117467073f
+SHA256: b1ddcca6e3cc9484092ddcbc059d1c8f0f0918a517c2d9700e722907c88d4ab2
+Section: Tweaks
+Description: Tweak to enable the hidden storage settings  显示存储“系统数据”详情
+Author: Nathan Senter
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/internalstoragesettings.png
+Name: InternalStorageSettings
+
 Package: com.nathan.miniisland
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -1051,6 +1258,23 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/classickeyboardxs.png
 Name: ClassicKeyboardXS
 
+Package: com.netskao.classickeyboardxs
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.netskao.classickeyboardxs_1.1-8_iphoneos-arm64e.deb
+Size: 233436
+MD5sum: bd333168d35ed30e8e1a82422fc6cee6
+SHA1: f8ecb23c4c5193bf452ea8062785d46808e6ce02
+SHA256: 3cd038072c0a4d94ce47795ae16f4c08c16e76591ac194a3c50a3174c5e3215b
+Section: Tweaks
+Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/classickeyboardxs.png
+Name: ClassicKeyboardXS
+
 Package: com.netskao.perfectgrabber
 Version: 1.1-7
 Architecture: iphoneos-arm64
@@ -1061,6 +1285,23 @@ Size: 836388
 MD5sum: bebbceadbcfc96e3eb80116874602c03
 SHA1: b7e41e74a962cd4cd6b912cacdd42a101ffb25df
 SHA256: 6d653e7625bf4c8bd0cbb892d9067ba35531e20e330ee2ccedbc27d0cbb8bf96
+Section: Tweaks
+Description: 在横屏游戏下拉一次时显示时间和电量（某些游戏不规范会无法唤出），支持自定义字体颜色，背景颜色，字体大小，字体样式，震动反馈等
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/perfectgrabber.png
+Name: PerfectGrabber
+
+Package: com.netskao.perfectgrabber
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.netskao.perfectgrabber_1.1-7_iphoneos-arm64e.deb
+Size: 836460
+MD5sum: addf380f2e2ba7173e1240790ce48d20
+SHA1: 81a00de5ecf5738ff5147e15475972752b726769
+SHA256: 0f6fe1cccc9a0616bfb850cb39cb4597bbd02f3a78a98ca7dc5ed042dc35489f
 Section: Tweaks
 Description: 在横屏游戏下拉一次时显示时间和电量（某些游戏不规范会无法唤出），支持自定义字体颜色，背景颜色，字体大小，字体样式，震动反馈等
 Author: Netskao
@@ -1165,6 +1406,23 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/screenshotactions.png
 Name: ScreenshotActions
 
+Package: com.p2kdev.tinge
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/iphoneos-arm64e/com.p2kdev.tinge_1.2.2_iphoneos-arm64e.deb
+Size: 39992
+MD5sum: 0da4d07fc3200d32588b19bfb7fce691
+SHA1: bc9a6d2e2edf4883b46b4c18d83f1a01f4afcbae
+SHA256: bb761da07de329f672a8aa72032c95b22c9baa51937560ea9ed992245df71106
+Section: Tweaks
+Description: Color your badges with Perfection! 根据你的软件图标颜色来自适应角标颜色!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tinge.png
+Name: Tinge
+
 Package: com.phucdo.badgebreathing
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1244,6 +1502,25 @@ Author: PoomSmart
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tapvideoconfig.png
 Name: TapVideoConfig
 
+Package: com.ps.tapvideoconfig
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.spicat.tapvideoconfig
+Replaces: com.spicat.tapvideoconfig
+Filename: ./debs/iphoneos-arm64e/com.ps.tapvideoconfig_1.0.3_iphoneos-arm64e.deb
+Size: 8708
+MD5sum: f272c3ad1bb3da0e5cf9ed320e37b282
+SHA1: 30fa1ab7c83c97270410cf808b93c44db29c039d
+SHA256: e1981b6788e4031ff07e9bdcdb01e308081a53a4b7bc6b36a84804bff369cba5
+Section: Tweaks
+Description: Change video configuration directly in iOS Camera app.直接在iOS相机应用程序中更改视频录制配置。
+Author: PoomSmart
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tapvideoconfig.png
+Name: TapVideoConfig
+
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.1-3
 Architecture: iphoneos-arm64
@@ -1254,6 +1531,23 @@ Size: 93112
 MD5sum: 3951d7e5513a17c162c82a3b179ecbcc
 SHA1: 0de1adbfde10c1a1b8b11795ee6e1c11a3e54d74
 SHA256: f30775292e48d359432c6af39ed236e5d8bb184f9d94da504044abc55b2bf746
+Section: Tweaks
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Author: MiRO <tweaks_support@miro92.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swipeextenderx.png
+Name: SwipeExtenderX
+
+Package: com.qiop1379.swipeextenderx
+Version: 1.6.1-3
+Architecture: iphoneos-arm64e
+Maintainer: MiRO <tweaks_support@miro92.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/iphoneos-arm64e/com.qiop1379.swipeextenderx_1.6.1-3_iphoneos-arm64e.deb
+Size: 86356
+MD5sum: 8f34d7b786e0ccc5839ee449dceba9aa
+SHA1: 5ca1b9ada673b7d953a9df2d5ebb734a1c17caba
+SHA256: 23fa3a1d1d4c89a6f50f346e23b079f4c8fbf5ad1bcfbcf50e7d077d1f88d06e
 Section: Tweaks
 Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
 Author: MiRO <tweaks_support@miro92.com>
@@ -1555,6 +1849,23 @@ Author: AnthoPak
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appaze3.png
 Name: Appaze 3
 
+Package: com.taikulayyds.appaze3
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.appaze3_1.0.1_iphoneos-arm64e.deb
+Size: 863676
+MD5sum: 1fd8df70d765f368203ad06736a10f7a
+SHA1: 69864809d3827d5e04b832226410737fa20111bb
+SHA256: 824e5b73a959f4b5b1925067175034f1bb72b74cfa56bdac0291cd9aa88b911f
+Section: Tweaks
+Description: 为应用单独自定义各种功能设置
+Author: AnthoPak
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appaze3.png
+Name: Appaze 3
+
 Package: com.taikulayyds.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -1565,6 +1876,23 @@ Size: 5164
 MD5sum: bb7ef3abf926c7ed9f4971c4957802b0
 SHA1: ddb8d280f41593120ac26a9e4245f9482baaf107
 SHA256: d42d1be5c086121e4566b668364446095d7d718dacf8a09837604da56399e351
+Section: Tweaks
+Description: 防止手指疲劳，跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置。
+Author: pxcex
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/autoscroll.png
+Name: AutoScroll 自动滚动
+
+Package: com.taikulayyds.autoscroll
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: pxcex
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.autoscroll_1.0.0_iphoneos-arm64e.deb
+Size: 5232
+MD5sum: 05a9bc5be7c4983907ec0f08cbb831a9
+SHA1: 1755aac9d093f44bed6781bb9bbeee65ccb2d53f
+SHA256: 379d2c3fb49b980761378639bd6cc7362a9702a9b890d7d9d748257b9e2313ae
 Section: Tweaks
 Description: 防止手指疲劳，跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置。
 Author: pxcex
@@ -1624,6 +1952,23 @@ Author: newwares
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/badgesync.png
 Name: BadgeSync
 
+Package: com.taikulayyds.badgesync
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: newwares
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.badgesync_1.0.0_iphoneos-arm64e.deb
+Size: 3360
+MD5sum: a561edc2fa87c977113cf7b8866a748b
+SHA1: b8d7256b6f1b65ebca0c7c0785d82935ee618f51
+SHA256: 4bdd46f39919ae70994cf18c8137257c1495e055ebd012229e76bac24d0a64e6
+Section: Tweaks
+Description: Syncs icon badge values when notifications are dismissed from the notification centre.
+Author: newwares
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/badgesync.png
+Name: BadgeSync
+
 Package: com.taikulayyds.colorfulwallpaperx
 Version: 4.6k
 Architecture: iphoneos-arm64
@@ -1673,6 +2018,23 @@ Author: x✨+逆无止境
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dyhook.png
 Name: 抖音图层(破解版)
 
+Package: com.taikulayyds.dyhook
+Version: 2.0.8
+Architecture: iphoneos-arm64e
+Maintainer: x✨+逆无止境
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.dyhook_2.0.8_iphoneos-arm64e.deb
+Size: 2707944
+MD5sum: 015096efb6b96e72e5ad0d584d07b6d3
+SHA1: a553fe188ed9e3823054bc03914c2b7912c36fed
+SHA256: a49929906137ed3730c4f1fef85c6c8796ce9c0655cbc0e134f1c2d337c88c23
+Section: Tweaks
+Description: 仅越狱食用，逆无止境破解使用期限！
+Author: x✨+逆无止境
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dyhook.png
+Name: 抖音图层(破解版)
+
 Package: com.taikulayyds.edgesiri
 Version: 3.1.1-9
 Architecture: iphoneos-arm64
@@ -1683,6 +2045,23 @@ Size: 15236
 MD5sum: ef797cd0e858e3ffb69ef99ec5d14ecc
 SHA1: af175c5a88ec19a298b8becf987edfafaafac430
 SHA256: be6691b3ed1c362eaa3bd850e54f0f6f43a8a691068dda726c4b40fc02de8b89
+Section: Tweaks
+Description: 模仿iOS18唤醒Siri边框效果，无设置项。安装即生效-----EdgeSiri是一款为 iOS设计的越狱插件，它能够在 Siri 激活时在屏幕周围显示彩色边框。这个边框不仅增加了视觉吸引力，还能在 Siri 被使用时提供更加直观的反馈。
+Author: tangerine
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/edgesiri.png
+Name: EdgeSiri
+
+Package: com.taikulayyds.edgesiri
+Version: 3.1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: tangerine
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.edgesiri_3.1.1-9_iphoneos-arm64e.deb
+Size: 15408
+MD5sum: a1a7378a37dda3d798c3a9b4f7b8852c
+SHA1: e4d060d67b538fd6e838b3df61e7cbdda7231594
+SHA256: c9e324b80a0b16e90faa5c2a3aa664214bfcca41ea35ba59f5bfc3f4081b5756
 Section: Tweaks
 Description: 模仿iOS18唤醒Siri边框效果，无设置项。安装即生效-----EdgeSiri是一款为 iOS设计的越狱插件，它能够在 Siri 激活时在屏幕周围显示彩色边框。这个边框不仅增加了视觉吸引力，还能在 Siri 被使用时提供更加直观的反馈。
 Author: tangerine
@@ -1741,6 +2120,24 @@ Author: Delewhopper & julioverne
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/keyswipe.png
 Name: KeySwipe
 
+Package: com.taikulayyds.keyswipe
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.keyswipe
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.keyswipe_1.0.3_iphoneos-arm64e.deb
+Size: 53272
+MD5sum: 3d20eb056baa7e49aeadcd0412bf0017
+SHA1: 26d0fe9663bfea0dbfe790695bbb97d700061b35
+SHA256: 7f84c806af481a2d93c07b680126d18c9f2a5b8e870cc234e5239eb3d3365f1b
+Section: Tweaks
+Description: change keyboard by swiping up/down.  通过向上/向下滑动更改键盘。
+Author: Delewhopper & julioverne
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/keyswipe.png
+Name: KeySwipe
+
 Package: com.taikulayyds.onehandwizard2
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -1757,6 +2154,23 @@ Author: sharedRoutine
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/onehandwizard2.png
 Name: OneHandWizard2
 
+Package: com.taikulayyds.onehandwizard2
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.onehandwizard2_1.0.6_iphoneos-arm64e.deb
+Size: 43024
+MD5sum: 23bf2dc55e436f2a09a971e93ffde713
+SHA1: 8e1d77f2e15dff1145ecf81c08fa29c230d59ffe
+SHA256: bd02caeb6a0505ab5fe0c9bd02dc6514a5370ab25bc2dd7c815bf90a46fff690
+Section: Tweaks
+Description: Use your large phones comfortably in one hand.  单手操作你的手机，呼出方式为横条上方下滑，呼出后在空白处上下滑动可以放大缩小，单/双击可以关闭。
+Author: sharedRoutine
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/onehandwizard2.png
+Name: OneHandWizard2
+
 Package: com.taikulayyds.replyactions
 Version: 2.0.0
 Architecture: iphoneos-arm64
@@ -1767,6 +2181,23 @@ Size: 161860
 MD5sum: 56d9ee52ab2fd34be662bd5d530168d3
 SHA1: a62a46592c1b1be7e32c6b8009eae7f46fcc76d0
 SHA256: 7391b261f38111d53568ba07376166565f96693de54e913b34a5429ae0483359
+Section: Tweaks
+Description: Send message the easy way
+Author: sergy
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/replyactions.png
+Name: ReplyActions
+
+Package: com.taikulayyds.replyactions
+Version: 2.0.0
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.replyactions_2.0.0_iphoneos-arm64e.deb
+Size: 158232
+MD5sum: 1d0d313a52c01bacf58f08b06b0b65a8
+SHA1: ffdb8204245095d2fe9628d63aaba26c7be08347
+SHA256: 0e3997d5e0e7f71e3ecd8fe93a433f43cc6df36671a01ed3cbe280d3cb4034a8
 Section: Tweaks
 Description: Send message the easy way
 Author: sergy
@@ -1821,6 +2252,40 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/split-view-pro.png
 Name: split-view-pro（原付费泄漏版）
+
+Package: com.taikulayyds.split-view-pro
+Version: 1.3.7
+Architecture: iphoneos-arm64e
+Maintainer: sunshinesong
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.split-view-pro_1.3.7_iphoneos-arm64e.deb
+Size: 1512112
+MD5sum: 45f807d40f943b775d798ac5aa528f6e
+SHA1: af13cc9af7f7359c01e26deb07079471f79defca
+SHA256: f161aaa9b049a5987cd09cf7906a859a9e811d310e7ce6046c86f4093aa35d92
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/split-view-pro.png
+Name: split-view-pro（原付费泄漏版）
+
+Package: com.taikulayyds.split-view-pro-roothide
+Version: 1.3.7-1
+Architecture: iphoneos-arm64e
+Maintainer: sunshinesong
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.split-view-pro-roothide_1.3.7-1_iphoneos-arm64e.deb
+Size: 1437624
+MD5sum: 8ddbf5061aa43f7e3c19c5075db81ac5
+SHA1: 8a099c6b9143246f1a7bc02dbf11f51388993503
+SHA256: b8518006f6ea4e7e968902a4f5ea4968d09f395ebe4ee8a3d92c075adfffd2b3
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/split-view-pro-roothide.png
+Name: split-view-pro（修改版）
 
 Package: com.taikulayyds.stella
 Version: 1.1.5
@@ -1900,6 +2365,23 @@ Size: 26144
 MD5sum: d4f16a095237e4629a273b14e8683d44
 SHA1: 3ef0a3057a5d17a14121b9247d203ca056b0efd2
 SHA256: 3cd6e96a6fbc76238cf52c627593a6f6ca2689b6d0ed5f6a2165f756ba7e33b9
+Section: Tweaks
+Description: Troll SpringBoard into thinking it's running on iPadOS.
+Author: khanhduytran0
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/trollpad.png
+Name: TrollPad
+
+Package: com.taikulayyds.trollpad
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: khanhduytran0
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.trollpad_1.3_iphoneos-arm64e.deb
+Size: 25876
+MD5sum: 459298b7d307e88539436090cc7d51e4
+SHA1: 7594e2b98b46861d978609bf2696074e8cdeb3b4
+SHA256: 9d806ea893ad48c0ee1d666d61adc9bcb5dd28303a8d4005e7b7b5cbd888b031
 Section: Tweaks
 Description: Troll SpringBoard into thinking it's running on iPadOS.
 Author: khanhduytran0
@@ -2021,6 +2503,23 @@ Author: x✨
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarixhook.png
 Name: SafariXHook
 
+Package: com.xx.safarixhook
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.xx.safarixhook_1.0.0_iphoneos-arm64e.deb
+Size: 10388
+MD5sum: 37c7817e8f46852dbf54c7203f8b34d0
+SHA1: 7b2721edf86a5229ccb5dd05f2b085aacd686039
+SHA256: 98573f6f51be98a821b8d136135c3ef54caa7fd6990361253ebd92b223af7ca4
+Section: Tweaks
+Description: 解决SafariX闪退问题,图层出品！
+Author: x✨
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarixhook.png
+Name: SafariXHook
+
 Package: com.xybp888.perfectdynamiclsland
 Version: 0.1-5
 Architecture: iphoneos-arm64
@@ -2076,6 +2575,23 @@ Author: yan
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ring.png
 Name: Ring
 
+Package: com.yan.ring
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: yan
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/com.yan.ring_1.0.2_iphoneos-arm64e.deb
+Size: 133380
+MD5sum: 994f392d35a9f25f4ad681e07007b477
+SHA1: b314ce8317433e4cc3c861e6eed33e12558e6dcb
+SHA256: fe0926170dfd8f4293dea8f9a6ad8c3e2badfaa26795c38a86d973fa6a1b3e64
+Section: Tweaks
+Description: Effortlessly manage your ringer volume!
+Author: yan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ring.png
+Name: Ring
+
 Package: daniel.analytics
 Version: 0.0.4
 Architecture: iphoneos-arm64
@@ -2086,6 +2602,23 @@ Size: 3084
 MD5sum: 8a4f6c19e3ff9bb8986926d4681056b1
 SHA1: a27cd6273a2bae5edd4be02cfd5ae6952f07a3b7
 SHA256: 07212198d70d477f33d1efb5f4a2d86bf87dde0c0878826c5138eb4368ebb289
+Section: Tweaks
+Description: Enables various enhancements within stock iOS crashlogs. 在iOS故障日志中启用各种增强功能。
+Author: daniel & PoomSmart
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/osanalytics.png
+Name: OSAnalytics
+
+Package: daniel.analytics
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: daniel & PoomSmart
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64e/daniel.analytics_0.0.4_iphoneos-arm64e.deb
+Size: 2996
+MD5sum: c67ff22979acedad98305e6c3838be9a
+SHA1: a99f240921c765a295b2abb02a3af65a69264977
+SHA256: ee2e8ac0e4ce798cf1559687d4d9f7d40e812a1d2d5a68da09cae2eef67414b2
 Section: Tweaks
 Description: Enables various enhancements within stock iOS crashlogs. 在iOS故障日志中启用各种增强功能。
 Author: daniel & PoomSmart
@@ -2393,6 +2926,23 @@ Size: 2916
 MD5sum: 23ca91a63ad8bbad1581f614c042455e
 SHA1: 7e7cb63e985f0e7038f84f9c46bcda46eea4af3b
 SHA256: c789c97026035c54d80951860da79a50181b43368fe8b937177faafb3ddbdac6
+Section: Tweaks
+Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!   破解依赖！
+Author: CBZ
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/anthocrack2.png
+Name: AnthoCrack2
+
+Package: xyz.cypwn.anthocrack2
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/xyz.cypwn.anthocrack2_1.0.0_iphoneos-arm64e.deb
+Size: 2860
+MD5sum: 86d610fb431e12dbeb290768e1a72131
+SHA1: fb7adf3476faabe0a96f1a5bdae38fcdc226686e
+SHA256: 993715477f67d93d6c5375473f503683ec70975fd6d7f95c7369925cb7c116da
 Section: Tweaks
 Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!   破解依赖！
 Author: CBZ
