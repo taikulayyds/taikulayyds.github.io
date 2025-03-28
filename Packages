@@ -223,6 +223,26 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noredirect.png
 Name: No Redirect
 
+Package: com.anthopak.pancake
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=11.0), mobilesubstrate, ws.hbang.common (>= 1.14), com.opa334.altlist, firmware (>= 11.0)
+Filename: ./debs/iphoneos-arm64/com.anthopak.pancake_2.3_iphoneos-arm64.deb
+Size: 113124
+MD5sum: 51ea92b17b22777c75b9803a5b0f599a
+SHA1: 716aecb95bbf9379bd75c1086a05dd753d85ce5d
+SHA256: c3f9db5a41979ed1f8b8cdbf15d7cea23ebf565c27436ecf88add61658715b2a
+Section: Tweaks
+Homepage: https://repo.anthopak.dev
+Description: Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page.所有应用程序中的整个屏幕上的交互式取消手势以及恢复上一页的能力(已汉化)
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.pancake-rootless.php
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/pancake.png
+Moderndepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+Name: PanCake
+Sileodepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.pancake-rootless.json
+
 Package: com.antoine.senri
 Version: 1.1
 Architecture: iphoneos-arm64
