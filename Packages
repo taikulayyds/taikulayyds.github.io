@@ -15,6 +15,24 @@ Author: chaoge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/chargelimiter.png
 Name: ChargeLimiter
 
+Package: chaoge.ChargeLimiter
+Version: 1.7
+Architecture: iphoneos-arm64e
+Maintainer: chaoge
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/chaoge.ChargeLimiter_1.7_iphoneos-arm64e.deb
+Size: 2013336
+MD5sum: 32331a7cc9c91808cb6c58e24e9defee
+SHA1: 29e59acfc6cbedce6fe731a716d49883bce32e96
+SHA256: cc44217b0381d2cabf1089dfa118cd913b7c99280fb3d1ec936bca40340d29e0
+Section: Applications
+Priority: optional
+Description: ChargeLimiter
+Author: chaoge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/chargelimiter.png
+Name: ChargeLimiter
+
 Package: cn.Bswbw.fixset
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -505,6 +523,23 @@ Author: Maxim Shnirman
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/twistnturn.png
 Name: TwistNTurn智能旋转
 
+Package: com.max.twistnturns
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: Maxim Shnirman
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.max.twistnturns_1.3_iphoneos-arm64e.deb
+Size: 516904
+MD5sum: 9122c50e021b408c975991baaba12168
+SHA1: 82effbfb605e1c009c4da71e60fa10fba36b7c13
+SHA256: d4ce0f1dbace78b17d4712edf500fb1bcde42e359cb1a37d5d94ab30dc209907
+Section: Tweaks
+Description: Smart Screen Rotation Suggestions智能屏幕旋转建议！ 支持从iOS 12到iOS 16.x的所有越狱设备。这个智能调整将计算许多不同的参数，以确定何时显示浮动按钮来解锁旋转锁定。无论你的旋转锁是锁定还是解锁，智能旋转建议都会出现，一旦它会重新确定你将设备倾斜了某个角度，并建议你解锁或锁定定向锁！这对于那些希望对设备的方向有更多控制并防止设备意外旋转的用户来说很有帮助，同时也可以节省大量时间在短时间内禁用旋转锁定。在您使用此调整禁用旋转锁定后，当您的设备将返回到人像模式时，调整将恢复您的旋转锁定以前的状态-如果它被禁用或启用，它将保持这种状态！要配置的选项：自定义位置：这是一个可拖动的按钮，您拖动浮动按钮到的最后一个位置将被保存可自定义的浮动按钮：控制浮动按钮的颜色、大小和反馈消失间隔：决定建议在屏幕上出现多长时间后才会消失动画：选择是否要在浮动按钮上显示可爱的动画黑名单应用程序：选择哪些应用程序中不会出现这些建议。
+Author: Maxim Shnirman
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/twistnturn.png
+Name: TwistNTurn智能旋转
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm64e
@@ -572,6 +607,23 @@ Size: 197904
 MD5sum: b565515d6c1a71eea36a75ff17c95878
 SHA1: 7af77479e33252ef6d16aa4d8eba2f9559b94802
 SHA256: ed24cf65f9fbadd05c1be6611bdb89be605844b986a4f2cba7512a7339890cd3
+Section: Tweaks
+Description: A modern crash reporter for iOS
+Author: Muirey03
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cr4shed.png
+Name: Cr4shed
+
+Package: com.muirey03.cr4shed
+Version: 4.3.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03
+Installed-Size: 2356
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
+Filename: ./debs/iphoneos-arm64e/com.muirey03.cr4shed_4.3.1-1+debug_iphoneos-arm64e.deb
+Size: 211612
+MD5sum: c31f9dbbeeacbb91e05f42d64afaaeb6
+SHA1: 571ebbe08d31c38620f7683c3a20bd2b49138d35
+SHA256: e008d59e9e9583250e35ff25c44c30b75b4f64f99014e0482fb91d9dd02d1c0e
 Section: Tweaks
 Description: A modern crash reporter for iOS
 Author: Muirey03
@@ -807,6 +859,24 @@ Size: 18906
 MD5sum: 7567c2040bfb72403df505d7ac2759a1
 SHA1: 440bbfd3f6df0da948ab24338244278b61f7e1c8
 SHA256: 63ca1e4f58323dc8c2dc2f1e7c842b497f26f83f6d471fad430ccf44e7b72f8c
+Section: Tweaks
+Description: Add Quick Actions to the screenshot preview!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/ScreenshotActions/icon.png
+Name: ScreenshotActions
+
+Package: com.p2kdev.screenshotactions
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 164
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.p2kdev.screenshotactions_1.2_iphoneos-arm64e.deb
+Size: 18796
+MD5sum: 12c66af63710ded811b35837c5b712d3
+SHA1: 43deb19d2e08e65c42772a3de02700057a3ba6e6
+SHA256: 9dbd8efbdf1c6664486bef678cfa3a283ab555fd775b6fe50bda98c7641963ed
 Section: Tweaks
 Description: Add Quick Actions to the screenshot preview!
 Author: P2KDev <p2kdev@gmail.com>
@@ -1190,6 +1260,23 @@ Author: Lessica
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/colorfulwallpaperx.png
 Name: ColorfulWallpaperX
 
+Package: com.taikulayyds.colorfulwallpaperx
+Version: 4.6k
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.colorfulwallpaperx_4.6k_iphoneos-arm64e.deb
+Size: 1233664
+MD5sum: b9b3e3d4136ea52dca1bb28692621ce1
+SHA1: 5dce0aacc6ec6c9e9a0cf1723b0a55c824a9b470
+SHA256: 25b2d35c2456e180e95b78141374cea1eba36a721a840429ad7d51b80ec4f408
+Section: Tweaks
+Description: 具有彩色效果的动态壁纸。CBZ破解！
+Author: Lessica
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/colorfulwallpaperx.png
+Name: ColorfulWallpaperX
+
 Package: com.taikulayyds.settingswidgets
 Version: 1.2.3.1
 Architecture: iphoneos-arm64
@@ -1233,6 +1320,23 @@ Size: 708400
 MD5sum: 5b8130775728a83754115dcaadd81a0a
 SHA1: bdd7fe0e4f16af3365888977e4c723086794b8e1
 SHA256: 45c9eefb8a65c3eb9dc4f88379aff7559ccb053e1244a1b06ad98cd218582548
+Section: Tweaks
+Description: Displays your touch interactions! 显示您的触摸交互。CBZ破解！
+Author: Lessica
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
+Name: Touch-Viz
+
+Package: com.taikulayyds.touchvis
+Version: 2.8.1k
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.touchvis_2.8.1k_iphoneos-arm64e.deb
+Size: 708516
+MD5sum: c612e465ce4a7c7faead1d31ca797fd2
+SHA1: 73ea3cb747a76415a5ed41428aaec40b54247e41
+SHA256: 6a8e7349040f4464a0997fc0a67436aff2fa5086cee59fc8617768165fa276ff
 Section: Tweaks
 Description: Displays your touch interactions! 显示您的触摸交互。CBZ破解！
 Author: Lessica
@@ -1501,6 +1605,25 @@ Size: 53756
 MD5sum: 937f29bc7528d4faa3073e8192d6900d
 SHA1: aff78dd5e08defc55ac75af2c4dc996dec3a74bf
 SHA256: 942b92f5561044282ce427310f64f3cd8e20a612f3193cb25a6f58acc42fe0eb
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
+   * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
+Name: AppStoreTroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.0.9
+Architecture: iphoneos-arm64e
+Maintainer: Mineek
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/dev.mineek.appstoretroller_0.0.9_iphoneos-arm64e.deb
+Size: 53760
+MD5sum: c06bfeb5cc68033a9b2bb2a7913ca77a
+SHA1: 9172748a4754bc8d621afbc913c7739ec4f4ddd7
+SHA256: 25f4e09ea9e18608036e703c3d76cf4e29459a7c4687c5619357348b898aaf56
 Section: Tweaks
 Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
    * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
