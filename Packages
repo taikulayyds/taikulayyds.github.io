@@ -52,6 +52,22 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/fixset.png
 Name: FixSet
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FixSet/js.json
 
+Package: com.0xkuj.3dappversionspoofer
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/com.0xkuj.3dappversionspoofer_2.1.1_iphoneos-arm64.deb
+Size: 60288
+MD5sum: ad679a9a8dc8fd2f4707630dcd212e52
+SHA1: 71ab5001f381bc2f950fc2212d12a239324b42a9
+SHA256: b75e77cbf9785cc1279365cd9c8a5802f8d909e3c5adb98320f91272ba095cf7
+Section: Tweaks
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs自定义修改软件版本号，可以开启长按软件图标修改软件版本号以达到解决app内部检测更新问题，不保证所有APP都生效，自行尝试！
+Author: 0xkuj
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/3dappversionspoofer.png
+Name: 3DAppVersionSpoofer
+
 Package: com.0xkuj.safarix
 Version: 1.9.8
 Architecture: iphoneos-arm64
@@ -1277,6 +1293,23 @@ Author: Lessica
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/colorfulwallpaperx.png
 Name: ColorfulWallpaperX
 
+Package: com.taikulayyds.immortalizer
+Version: 2.0.1.1
+Architecture: iphoneos-arm64
+Maintainer: sergy & daodao
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.immortalizer_2.0.1.1_iphoneos-arm64.deb
+Size: 49540
+MD5sum: 00e85f7b4307a7071003dfbeae84ea9c
+SHA1: 72f47c7bb9f23236480af8f69758c75ddcf2aa60
+SHA256: f074962ba825dbcd63a95a180fcb12bd0da884ad39b9f4a50bca814765934052
+Section: Tweaks
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
+Author: sergy
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/immortalizer.png
+Name: Immortalizer
+
 Package: com.taikulayyds.settingswidgets
 Version: 1.2.3.1
 Architecture: iphoneos-arm64
@@ -1309,6 +1342,23 @@ Description: Bring good looking widgets to the front page of settings!将好看�
 Author: shepgoba
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingswidgets.png
 Name: SettingsWidgets 设置小部件
+
+Package: com.taikulayyds.stella
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: yan & 刀刀
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Conflicts: com.yan.stella, xyz.cypwn.stella
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.stella_1.1.5_iphoneos-arm64.deb
+Size: 400964
+MD5sum: fc1e8c0c5f8c6b2d68e3e15607cb8489
+SHA1: 96f66a9f5810a975151560bf7dd2526f455532f7
+SHA256: 6f5d0e4ed53d8c4af1605c7c4dc308f5bedad092bc5d761393a2798a43558336
+Section: Tweaks
+Description: 让你的设备在主屏/锁屏上下雪！根据开源，定制的中文版。每天一个耗电小技巧，桌面及锁屏増加落雪特效，而且可以自己自定义图标！非常的不错，狂拽酷炸帅！
+Author: yan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stella.png
+Name: Stella
 
 Package: com.taikulayyds.touchvis
 Version: 2.8.1k
