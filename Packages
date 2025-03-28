@@ -68,6 +68,23 @@ Author: 0xkuj
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/3dappversionspoofer.png
 Name: 3DAppVersionSpoofer
 
+Package: com.0xkuj.3dappversionspoofer
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.3dappversionspoofer_2.1.1_iphoneos-arm64e.deb
+Size: 59508
+MD5sum: b186d66157c5ad3d51ae739d7fb41bd1
+SHA1: bc76d8d900da2729397bb0832d781b42fa62face
+SHA256: d31e1e6ca7f0977ddaaeb7072e61c18c504843ceabb8543813180b36ceb4f3bd
+Section: Tweaks
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs自定义修改软件版本号，可以开启长按软件图标修改软件版本号以达到解决app内部检测更新问题，不保证所有APP都生效，自行尝试！
+Author: 0xkuj
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/3dappversionspoofer.png
+Name: 3DAppVersionSpoofer
+
 Package: com.0xkuj.safarix
 Version: 1.9.8
 Architecture: iphoneos-arm64
@@ -1310,6 +1327,24 @@ Author: sergy
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/immortalizer.png
 Name: Immortalizer
 
+Package: com.taikulayyds.immortalizer
+Version: 2.0.1.1
+Architecture: iphoneos-arm64e
+Maintainer: sergy & daodao
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Conflicts: com.sergy.immortalizer
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.immortalizer_2.0.1.1_iphoneos-arm64e.deb
+Size: 48040
+MD5sum: 26393c5a5c990b74df4cf8e5c42fb4bf
+SHA1: 4cba6ab89d79d23525e80271b02d418d1a5e95de
+SHA256: 54439ddb52c9100f90d6dcdb1fbad639cc200ff006d113d9c55b5399a595ea79
+Section: Tweaks
+Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
+Author: sergy
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/immortalizer.png
+Name: Immortalizer
+
 Package: com.taikulayyds.settingswidgets
 Version: 1.2.3.1
 Architecture: iphoneos-arm64
@@ -1354,6 +1389,24 @@ Size: 400964
 MD5sum: fc1e8c0c5f8c6b2d68e3e15607cb8489
 SHA1: 96f66a9f5810a975151560bf7dd2526f455532f7
 SHA256: 6f5d0e4ed53d8c4af1605c7c4dc308f5bedad092bc5d761393a2798a43558336
+Section: Tweaks
+Description: 让你的设备在主屏/锁屏上下雪！根据开源，定制的中文版。每天一个耗电小技巧，桌面及锁屏増加落雪特效，而且可以自己自定义图标！非常的不错，狂拽酷炸帅！
+Author: yan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stella.png
+Name: Stella
+
+Package: com.taikulayyds.stella
+Version: 1.1.5
+Architecture: iphoneos-arm64e
+Maintainer: yan & 刀刀
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
+Conflicts: com.yan.stella, xyz.cypwn.stella
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.stella_1.1.5_iphoneos-arm64e.deb
+Size: 396540
+MD5sum: d95ac79e0a7f95aed528e9f26a41fbee
+SHA1: 644fefb75aba654c29e2dc9e5ad520233172cb5a
+SHA256: ad715a06f54e4b7e848f6519c9ddadcd8d8d562b20287510bcb6cb16bd201728
 Section: Tweaks
 Description: 让你的设备在主屏/锁屏上下雪！根据开源，定制的中文版。每天一个耗电小技巧，桌面及锁屏増加落雪特效，而且可以自己自定义图标！非常的不错，狂拽酷炸帅！
 Author: yan
