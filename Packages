@@ -4,11 +4,11 @@ Architecture: iphoneos-arm64
 Maintainer: chaoge
 Depends: firmware (>= 5.0)
 Filename: ./debs/iphoneos-arm64/chaoge.ChargeLimiter_1.7_iphoneos-arm64.deb
-Size: 2015560
-MD5sum: 8eb98ea8dabb04335da83989f2b7e3a2
-SHA1: 6ca9c6cf7f233d4641024bab94f33f409e345507
-SHA256: 33dacc8f6318cf7e067ebc1e6548a8b03453e86accb445c7935e26fbd3eaecb1
-Section: Applications
+Size: 2016160
+MD5sum: c6d0898ec03f2f5e252c9992969050dd
+SHA1: f770f72fee7652a4301d7a2764cd37554a8d026b
+SHA256: ca874acb5f59ce22cde2494d8d23ba42f7aa9b4a4e24e23f361f1c9628c1efc4
+Section: Tweaks
 Priority: optional
 Description: ChargeLimiter
 Author: chaoge
@@ -22,11 +22,11 @@ Maintainer: chaoge
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 5.0)
 Filename: ./debs/iphoneos-arm64e/chaoge.ChargeLimiter_1.7_iphoneos-arm64e.deb
-Size: 2013336
-MD5sum: 32331a7cc9c91808cb6c58e24e9defee
-SHA1: 29e59acfc6cbedce6fe731a716d49883bce32e96
-SHA256: cc44217b0381d2cabf1089dfa118cd913b7c99280fb3d1ec936bca40340d29e0
-Section: Applications
+Size: 2013220
+MD5sum: c4ff59f7596e0df260505890100b8cb6
+SHA1: 434a45b2fccdb7975864b3de7025679104460448
+SHA256: 056eb6cb72d8102611ad069e6e77237ee35bd729ecc596875b528e74e7cb4e4a
+Section: Tweaks
 Priority: optional
 Description: ChargeLimiter
 Author: chaoge
@@ -678,6 +678,63 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/icleanerpro.png
 Name: iCleaner Pro
 
+Package: com.foxfort.foxforttools
+Version: 1.4.15
+Architecture: iphoneos-arm64e
+Maintainer: FoxfortMobile
+Installed-Size: 2068
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.9)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools, r-o-o-t-l-e-s-s-, com.r-o-o-t-l-e-s-s-.manager
+Filename: ./debs/iphoneos-arm64e/com.foxfort.foxforttools_1.4.15_iphoneos-arm64e.deb
+Size: 470976
+MD5sum: 4415cdb6d3baf64609133c53eba75f6e
+SHA1: 54cb39300b8966780c36db508826a4a9cc65fda5
+SHA256: 479e4016aafd573d0d0fa45600c42a36066793d8ca61efb098f3e5391c949d29
+Section: Development
+Description: Helper tools for Foxfort tweaks
+Tag: role::developer
+Author: FoxfortMobile
+Name: FoxFort Tools
+
+Package: com.foxfort.libfoxfortutils
+Version: 1.4.9
+Architecture: iphoneos-arm64e
+Maintainer: FoxfortMobile
+Installed-Size: 1304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), com.opa334.libsandy
+Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils, r-o-o-t-l-e-s-s-
+Filename: ./debs/iphoneos-arm64e/com.foxfort.libfoxfortutils_1.4.9_iphoneos-arm64e.deb
+Size: 281708
+MD5sum: aa61778431ad12a5669ab429d4426bfd
+SHA1: 00c5dc18a28dddce03a1d8411e1d3e5382b4405c
+SHA256: 8c1c6c34c3011cbfa50a7b8d8975cea6b9227c87e648b3bb8fe5d48e50f7b699
+Section: Development
+Description: library for Foxfort tweaks
+Tag: role::developer
+Author: FoxfortMobile
+Name: libfoxfortutils
+
+Package: com.foxfort.translomatic
+Version: 2.18.31
+Architecture: iphoneos-arm64e
+Maintainer: FoxfortMobile
+Installed-Size: 5080
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.15), com.opa334.altlist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic, ru.rj.translomatichack, com.hk.translomatic.cn.rl, r-o-o-t-l-e-s-s-
+Filename: ./debs/iphoneos-arm64e/com.foxfort.translomatic_2.18.31_iphoneos-arm64e.deb
+Size: 1172388
+MD5sum: 930935d236afa4a96890e4acdd043add
+SHA1: afe91534c55ee213415e131594ff4ee8497c8c10
+SHA256: cd907d1b790f902130a97770ed8d46bf137a64af4231643b8df8b43dc94c67e5
+Section: Tweaks
+Description: Quickly translate any text
+Author: FoxfortMobile
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/translomatic.png
+Name: Translomatic
+
 Package: com.gravitation
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -762,6 +819,25 @@ Author: Jonathan Winger-lang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/snapper3.png
 Name: Snapper 3
 
+Package: com.jontelang.snapper3
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64e/com.jontelang.snapper3_1.2.1_iphoneos-arm64e.deb
+Size: 1022428
+MD5sum: cf9fe244004eccb6bf2b3ea9f3e91059
+SHA1: 1cbbd9b0347a26be4a62cb65b68cf771d870c542
+SHA256: dfd372339b7de771a38d6330e81aa975cd85c535cf7992310b753607e2f82960
+Section: Tweaks
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/snapper3.png
+Name: Snapper 3
+
 Package: com.lclrc.cccalc
 Version: 2.1.0
 Architecture: iphoneos-arm64
@@ -773,6 +849,23 @@ Size: 73060
 MD5sum: 03b33ff9f15616d9fea6b413a5556f70
 SHA1: 1236745845aee68ce18996dcaa694c4852822c31
 SHA256: 219c1d4fadf73fdc460ae41c1fb71a51e0d436c25562d67fa875cde7631aa593
+Description: 把控制中心的计算器变成真正的计算器，而不仅仅是复制上一个计算结果。
+Author: gilesgc & paisseon & lclrc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Name: CCCalc
+
+Package: com.lclrc.cccalc
+Version: 2.1.0
+Architecture: iphoneos-arm64e
+Maintainer: gilesgc & paisseon & lclrc
+Installed-Size: 348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.lclrc.cccalc_2.1.0_iphoneos-arm64e.deb
+Size: 72400
+MD5sum: 47da55044f1e5c03f894ab431b652b8e
+SHA1: 1ec8aa59f6f5625f25b41a0974f49d5ec16269b5
+SHA256: 9c80fc41c022750b1ca28a2754d6bf6d84d00f93b57a0386f415613ae5adc4be
 Description: 把控制中心的计算器变成真正的计算器，而不仅仅是复制上一个计算结果。
 Author: gilesgc & paisseon & lclrc
 Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
@@ -790,6 +883,26 @@ Size: 99708
 MD5sum: 3d950b40da1de6eb00cd434cd40fd490
 SHA1: 9803af19a8eb5ecacbe3e63f34773f47ebb9682c
 SHA256: a8db99b09ca39cb33090b67ef41c4673e0002602651d32a73cfb4a2628617453
+Section: Tweaks
+Description: 在通知、信息、电话、邮箱中显示准确时间，闹钟中显示剩余时间。Shows the exact time of notifications, messages, calls and emails, and show remain time of alarms.
+Author: gilshahar7, SquidForce
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/exacttime.png
+Name: ExactTime - 给个准确时间，OK？
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
+
+Package: com.lclrc.exacttime
+Version: 2.0.4
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce
+Installed-Size: 1284
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./debs/iphoneos-arm64e/com.lclrc.exacttime_2.0.4_iphoneos-arm64e.deb
+Size: 96944
+MD5sum: c7e86bf36e6671dc27fce15ed3fcee50
+SHA1: 09e5beee7633e542715d4c81fb5d214cd683ad32
+SHA256: d036a239c701b363d5a8f1ad9ddb4b80b5133ab2171da59f79051c3f80f4416a
 Section: Tweaks
 Description: 在通知、信息、电话、邮箱中显示准确时间，闹钟中显示剩余时间。Shows the exact time of notifications, messages, calls and emails, and show remain time of alarms.
 Author: gilshahar7, SquidForce
@@ -1347,6 +1460,26 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzacrack.png
 Name: Filza Crack
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
 
+Package: com.netskao.filzacrack
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 88
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/iphoneos-arm64e/com.netskao.filzacrack_1.1-8_iphoneos-arm64e.deb
+Size: 5212
+MD5sum: f282f0089e2b0203a0f5c96d684e8eca
+SHA1: 1cdc89efc21cb1ba65506eed3ee22ad6ea4ad5da
+SHA256: 9879eea4ac2630d0fbdbe4ce3d7a86d7b449883cfd685492ddb9cb7dd2431e2e
+Section: Tweaks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzacrack.png
+Name: Filza Crack
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
+
 Package: com.netskao.perfectgrabber
 Version: 1.1-7
 Architecture: iphoneos-arm64
@@ -1391,6 +1524,25 @@ Size: 524668
 MD5sum: 1ce105e3813304d5174b1a34eb12a2fa
 SHA1: 10c70163dd8676b713b53db2bcfb364cf5b4fe61
 SHA256: 59937f2c332e220814febba069268ff156aa2e85b7f06a3cbc38b3e17cdbaefc
+Section: Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatnotiavatar.png
+Name: WeChatNotiAvatar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 2336
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64e.deb
+Size: 523580
+MD5sum: 7dfe9ef439da51399bea97ac92883075
+SHA1: 8da0fc6f21a59ff37a89b9aaf408673a3f6f391b
+SHA256: 3d0572381e7a3f6e3595a4129e0e58d755b27120c57429d3b0e9838a8ba48510
 Section: Tweaks
 Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
@@ -1750,6 +1902,24 @@ Size: 42216
 MD5sum: bb726cac29cd144873174715f75525bb
 SHA1: cd43c5ab472487e004ccb7767c9715b3502f7c0e
 SHA256: 62c2e68f35240e20a2f3fa3779e26e297b08c4238442a743d746321352a2d77b
+Section: Tweaks
+Description: including iMark and Piiico for now
+Author: SquidForce(乌贼力量)
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/snapper3.png
+Name: Plugins For Snapper3
+
+Package: com.squidforce.snapper3.plugins
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce(乌贼力量)
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.lclrc.snapper3.plugins
+Filename: ./debs/iphoneos-arm64e/com.squidforce.snapper3.plugins_1.2_iphoneos-arm64e.deb
+Size: 42020
+MD5sum: 0417c549ae90cf389c7b3ff1a20af5b2
+SHA1: 770dabe9d1d86d703d49c0b7b451defdf1d5a3e2
+SHA256: b8f347412cff14c20251049882f47eb88f263aaea8829f76c960c837492aba9e
 Section: Tweaks
 Description: including iMark and Piiico for now
 Author: SquidForce(乌贼力量)
@@ -2596,6 +2766,25 @@ Size: 421324
 MD5sum: 8171e4c2e0c183339702549d8d922736
 SHA1: c13175b8cc7cab09bf930986b5fdee6eea999d02
 SHA256: a8030df0d19128ee6e010396327f5dcabe0d31885615fab9234580398f46b826
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64e
+Maintainer: udevs
+Installed-Size: 2036
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/iphoneos-arm64e/com.udevs.dockx_2.6.2_iphoneos-arm64e.deb
+Size: 415820
+MD5sum: 0e3d9fc803df4ba22950b4b132ac1057
+SHA1: 81599710c26c51d79148c054c262f85253c2f96a
+SHA256: 17bbec40c6e8d06627c3d5cb1f2f875f31f80ef5a9e92d306dcd145d64d57f39
 Section: Tweaks
 Description: Pasteboard shortcuts on your keyboard dock!
 Author: udevs
