@@ -845,10 +845,11 @@ Maintainer: gilesgc & paisseon & lclrc
 Installed-Size: 348
 Depends: mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.lclrc.cccalc_2.1.0_iphoneos-arm64.deb
-Size: 73060
-MD5sum: 03b33ff9f15616d9fea6b413a5556f70
-SHA1: 1236745845aee68ce18996dcaa694c4852822c31
-SHA256: 219c1d4fadf73fdc460ae41c1fb71a51e0d436c25562d67fa875cde7631aa593
+Size: 73080
+MD5sum: 73f9b4363552c79d3fc49be1cce3f203
+SHA1: be417443566c14bd6d94e7971299cedb6d7e0e2f
+SHA256: 7a888ac2ce1eeb045b155704b1142379e4a3f190b18f264fc283708e3fdf7a27
+Section: Tweaks
 Description: 把控制中心的计算器变成真正的计算器，而不仅仅是复制上一个计算结果。
 Author: gilesgc & paisseon & lclrc
 Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
