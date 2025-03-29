@@ -863,10 +863,11 @@ Installed-Size: 348
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.lclrc.cccalc_2.1.0_iphoneos-arm64e.deb
-Size: 72400
-MD5sum: 47da55044f1e5c03f894ab431b652b8e
-SHA1: 1ec8aa59f6f5625f25b41a0974f49d5ec16269b5
-SHA256: 9c80fc41c022750b1ca28a2754d6bf6d84d00f93b57a0386f415613ae5adc4be
+Size: 72436
+MD5sum: ec644044a33e869f0da7485f14b302ba
+SHA1: d68007a7847cf3f0168ac6e64739f153ae267689
+SHA256: d1f0917c6ec22f710fee0e7cd57d7595a26cadf58e165c65d338fefd3960a9de
+Section: Tweaks
 Description: 把控制中心的计算器变成真正的计算器，而不仅仅是复制上一个计算结果。
 Author: gilesgc & paisseon & lclrc
 Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
