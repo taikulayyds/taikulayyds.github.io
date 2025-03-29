@@ -744,6 +744,59 @@ Author: ichitaso
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/hideserialnumber.png
 Name: HideSerialNumber
 
+Package: com.jontelang.snapper3
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64/com.jontelang.snapper3_1.2.1_iphoneos-arm64.deb
+Size: 1032608
+MD5sum: 85c3d236acc60c250c0b519b8691b022
+SHA1: 81d6e1d897993dffff35e409ec6adf6eed52530b
+SHA256: cae4bb16bc4af57392344fef4c58a1f44a509e9f4dd7d55013150e198e3c3e45
+Section: Tweaks
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/snapper3.png
+Name: Snapper 3
+
+Package: com.lclrc.cccalc
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: gilesgc & paisseon & lclrc
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.lclrc.cccalc_2.1.0_iphoneos-arm64.deb
+Size: 73060
+MD5sum: 03b33ff9f15616d9fea6b413a5556f70
+SHA1: 1236745845aee68ce18996dcaa694c4852822c31
+SHA256: 219c1d4fadf73fdc460ae41c1fb71a51e0d436c25562d67fa875cde7631aa593
+Description: 把控制中心的计算器变成真正的计算器，而不仅仅是复制上一个计算结果。
+Author: gilesgc & paisseon & lclrc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
+Name: CCCalc
+
+Package: com.lclrc.exacttime
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 1284
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: ./debs/iphoneos-arm64/com.lclrc.exacttime_2.0.4_iphoneos-arm64.deb
+Size: 99708
+MD5sum: 3d950b40da1de6eb00cd434cd40fd490
+SHA1: 9803af19a8eb5ecacbe3e63f34773f47ebb9682c
+SHA256: a8db99b09ca39cb33090b67ef41c4673e0002602651d32a73cfb4a2628617453
+Section: Tweaks
+Description: 在通知、信息、电话、邮箱中显示准确时间，闹钟中显示剩余时间。Shows the exact time of notifications, messages, calls and emails, and show remain time of alarms.
+Author: gilshahar7, SquidForce
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/exacttime.png
+Name: ExactTime - 给个准确时间，OK？
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -1275,6 +1328,25 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/classickeyboardxs.png
 Name: ClassicKeyboardXS
 
+Package: com.netskao.filzacrack
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/iphoneos-arm64/com.netskao.filzacrack_1.1-8_iphoneos-arm64.deb
+Size: 5036
+MD5sum: 8a01d5fafa7902553a1c4f85a04e849a
+SHA1: 6208623c5723f89942b78acaa00bb68a941445f6
+SHA256: 56bb6381a4908c69b65ad362910eda368609e1cb8b69a32e470353f8dd7bafb0
+Section: Tweaks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzacrack.png
+Name: Filza Crack
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
+
 Package: com.netskao.perfectgrabber
 Version: 1.1-7
 Architecture: iphoneos-arm64
@@ -1307,6 +1379,24 @@ Description: 在横屏游戏下拉一次时显示时间和电量（某些游戏�
 Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/perfectgrabber.png
 Name: PerfectGrabber
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
+Size: 524668
+MD5sum: 1ce105e3813304d5174b1a34eb12a2fa
+SHA1: 10c70163dd8676b713b53db2bcfb364cf5b4fe61
+SHA256: 59937f2c332e220814febba069268ff156aa2e85b7f06a3cbc38b3e17cdbaefc
+Section: Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatnotiavatar.png
+Name: WeChatNotiAvatar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
 
 Package: com.noisyflake.velvet2
 Version: 2.1.2-3
@@ -1648,6 +1738,23 @@ Description: 桌面空白处设置手势动作打开已安装插件列表，三�
 Author: SOPPPra
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tweakhub.png
 Name: TweakHub
+
+Package: com.squidforce.snapper3.plugins
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce(乌贼力量)
+Installed-Size: 232
+Conflicts: com.lclrc.snapper3.plugins
+Filename: ./debs/iphoneos-arm64/com.squidforce.snapper3.plugins_1.2_iphoneos-arm64.deb
+Size: 42216
+MD5sum: bb726cac29cd144873174715f75525bb
+SHA1: cd43c5ab472487e004ccb7767c9715b3502f7c0e
+SHA256: 62c2e68f35240e20a2f3fa3779e26e297b08c4238442a743d746321352a2d77b
+Section: Tweaks
+Description: including iMark and Piiico for now
+Author: SquidForce(乌贼力量)
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/snapper3.png
+Name: Plugins For Snapper3
 
 Package: com.susu.hidekbsettings
 Version: 1.0.7
@@ -2476,6 +2583,25 @@ Description: 用ChatGPT或Gemini取代Siri。SiriPlus是用ChatGPT或Gemini取�
 Author: Uckermark
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/siriplus.png
 Name: SiriPlus
+
+Package: com.udevs.dockx
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/iphoneos-arm64/com.udevs.dockx_2.6.2_iphoneos-arm64.deb
+Size: 421324
+MD5sum: 8171e4c2e0c183339702549d8d922736
+SHA1: c13175b8cc7cab09bf930986b5fdee6eea999d02
+SHA256: a8030df0d19128ee6e010396327f5dcabe0d31885615fab9234580398f46b826
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
 Package: com.ultravideos
 Version: 0.0.1
