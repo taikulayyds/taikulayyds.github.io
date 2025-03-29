@@ -678,24 +678,6 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/icleanerpro.png
 Name: iCleaner Pro
 
-Package: com.forSnapper3two.wkks
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Depends: mobilesubstrate, firmware (>= 15.0)
-Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
-Filename: ./debs/iphoneos-arm64/com.forSnapper3two.wkks_1.0_iphoneos-arm64.deb
-Size: 85516
-MD5sum: 45905a600d283de9985862af903d217f
-SHA1: ceacc3a645774429e31d1f331b7be7df0bdcce55
-SHA256: 5f114bd0fc2841c2b0fe385a2cb4fa6536ff28b4bc2769b3db8f1a9fc1e98d77
-Section: Tweaks
-Description: 美化。
-Author: wkk
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/snapper3.png
-Name: Snapper3 美化
-Sileodepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/snapper3two.json
-
 Package: com.foxfort.foxforttools
 Version: 1.4.15
 Architecture: iphoneos-arm64e
