@@ -1194,6 +1194,30 @@ Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.i
 Someotherentrytocontrol: True
 Tags: compatible_min::ios13.0, compatible_max::ios16.5
 
+Package: com.nahtedetihw.iconrotation
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.nahtedetihw.iconrotation_1.1_iphoneos-arm64e.deb
+Size: 5880
+MD5sum: 60216bcd4e09a0b80e16d79375b2d21d
+SHA1: 82f7fd1c265d17a073dcce6533179725b227e4b6
+SHA256: defa807ff22f80e72646a2d9ba6a450db7fb95794a3cf2e0fffe639947217519
+Section: Tweaks
+Homepage: https://nahtedetihw.github.io
+Description: 根据设备方向旋转桌面图标！Rotate your icons with device orientation!
+Tag: role::enduser
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://nahtedetihw.github.io/depiction/web/com.nahtedetihw.iconrotation-rootless.html
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.iconrotation-rootless/icon.png
+Moderndepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.iconrotation-rootless.json
+Name: IconRotation
+Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.iconrotation-rootless.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.5
+
 Package: com.nahtedetihw.loopvideos
 Version: 1.0
 Architecture: iphoneos-arm64
