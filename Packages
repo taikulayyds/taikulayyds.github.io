@@ -1171,6 +1171,29 @@ Author: Muirey03
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cr4shed.png
 Name: Cr4shed
 
+Package: com.nahtedetihw.iconrotation
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.nahtedetihw.iconrotation_1.1_iphoneos-arm64.deb
+Size: 5976
+MD5sum: 10fda6a8621c9822a9c748f5e339ef0a
+SHA1: 94b5aea912664be9a481104ee8443e937ad4589d
+SHA256: 7c5249415b5d8dae7d33dd171a201ebce74c70d5d6ff76e7146bb5add8ea2228
+Section: Tweaks
+Homepage: https://nahtedetihw.github.io
+Description: 根据设备方向旋转桌面图标！Rotate your icons with device orientation!
+Tag: role::enduser
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://nahtedetihw.github.io/depiction/web/com.nahtedetihw.iconrotation-rootless.html
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.iconrotation-rootless/icon.png
+Moderndepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.iconrotation-rootless.json
+Name: IconRotation
+Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.iconrotation-rootless.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios13.0, compatible_max::ios16.5
+
 Package: com.nahtedetihw.loopvideos
 Version: 1.0
 Architecture: iphoneos-arm64
