@@ -1747,10 +1747,10 @@ Installed-Size: 629
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet
 Filename: ./debs/iphoneos-arm64/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64.deb
-Size: 100784
-MD5sum: 6aa0e13b550657807254023f40346f30
-SHA1: d0c7eb8b779dbdc5649df107f8b1f408a6c68300
-SHA256: aaaffeee21d0bca1ac8c2aa904dd9b5f2a0bfdc35b31c60eb8d2f3f26ffb9f16
+Size: 98492
+MD5sum: b4ade28ca407c6cfa960be8903fedbf3
+SHA1: 0c7d54b0093e3665242d86d52350d305ef5c2cfd
+SHA256: 359375271fb381cd14d29c09895c4b2cc5b4584cc346b7682cc3781f738e523b
 Section: Tweaks
 Description: A fully customizable notification experience
 Tag: compatible_min::ios15.0
