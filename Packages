@@ -1701,6 +1701,41 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/perfectgrabber.png
 Name: PerfectGrabber
 
+Package: com.netskao.pullclearnc
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.pullclearnc_1.1-8_iphoneos-arm64.deb
+Size: 6900
+MD5sum: 4bb204037e69807cc4b96bc03727bd40
+SHA1: 76d3212d7e2ae2515ddbb9c675d7cb738dba39e7
+SHA256: 5bb499c0a6fcbd1b9b9e21fc91b136975493ca25852a6d44a403d15cd760c086
+Section: 插件
+Description: Notifications page quick drop down to clean up all notifications. 通知栏快速下拉即可清理通知，并显示清理成功几条。
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/pullclearnc.png
+Name: PullClear下拉清理通知
+
+Package: com.netskao.pullclearnc
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.pullclearnc_1.1-8_iphoneos-arm64e.deb
+Size: 7096
+MD5sum: 39b763a682187546f05546d33db8bc59
+SHA1: eba4e3055ada9354f8f4a964895c5a582378f05f
+SHA256: 6b56ca578691b3af4f0d0148ec8c8d92de9c7e1f428b2c4a84de866b67f3b750
+Section: 插件
+Description: Notifications page quick drop down to clean up all notifications. 通知栏快速下拉即可清理通知，并显示清理成功几条。
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/pullclearnc.png
+Name: PullClear下拉清理通知
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
