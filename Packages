@@ -2763,6 +2763,24 @@ Author: Paisseon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/satellas.png
 Name: Satella
 
+Package: com.taikulayyds.satella
+Version: 1.9.0-1
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Conflicts: xyz.cypwn.satella, emt.paisseon.satella, com.dao.satella.cn
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.satella_1.9.0-1_iphoneos-arm64e.deb
+Size: 71860
+MD5sum: 291f76f5446f910394f301ff95e0d4cb
+SHA1: f3c99341adf5c322a43a9a84e1c76a672369a1aa
+SHA256: 11a1a1d494a9551a65f4287514c5d3979a8c2bad4f8dc3c16ee3dae53614b323
+Section: 插件
+Description: 牛X的应用内购买破解器，已包含刀刀汉化简体中文包。
+Author: Paisseon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/satellas.png
+Name: Satella
+
 Package: com.taikulayyds.settingswidgets
 Version: 1.2.3.1
 Architecture: iphoneos-arm64
