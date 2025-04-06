@@ -607,42 +607,6 @@ Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
 Name: CCBorder16
 
-Package: com.dao.settingsrevamp
-Version: 3.0.1
-Architecture: iphoneos-arm64
-Maintainer: SOPPPra
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
-Filename: ./debs/iphoneos-arm64/com.dao.settingsrevamp_3.0.1_iphoneos-arm64.deb
-Size: 235744
-MD5sum: c0c207cc767b198442a42ca139cb3f2b
-SHA1: bcd03562a41b5f95259b3b04426d16cfc1872204
-SHA256: 8f950a6d15f56bc4d2388524663bfd792f9ec7f2f62129a14241fa7a18538d6f
-Section: 插件
-Description: Customize the ios settings page（刀刀源重制并汉化）
-Author: SOPPPra
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingsrevamp.png
-Name: SettingsRevamp
-
-Package: com.dao.settingsrevamp
-Version: 3.0.1
-Architecture: iphoneos-arm64e
-Maintainer: SOPPPra
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
-Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
-Filename: ./debs/iphoneos-arm64e/com.dao.settingsrevamp_3.0.1_iphoneos-arm64e.deb
-Size: 237964
-MD5sum: b7a87403c7eb60a4ceb555167ba0cf55
-SHA1: 1d43230049869ae31da9572d26fac909c2daebf5
-SHA256: ba1a123106bb55f578a515be2993c08c1f5f65e1aebf0ec5d64102e4195919c7
-Section: 插件
-Description: Customize the ios settings page（刀刀源重制并汉化）
-Author: SOPPPra
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingsrevamp.png
-Name: SettingsRevamp
-
 Package: com.den.locktouchx
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -2780,6 +2744,40 @@ Description: 牛X的应用内购买破解器，已包含刀刀汉化简体中文
 Author: Paisseon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/satellas.png
 Name: Satella
+
+Package: com.taikulayyds.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.settingsrevamp_3.0.1_iphoneos-arm64.deb
+Size: 308596
+MD5sum: 4d3e6ec03c0e18fdf10b37c793bc3a71
+SHA1: c3ca84ed11fd1206bddfe036adba1879299964b9
+SHA256: 243bb143e71096a184d84155219535cd922e3b561eee6ee8aca50fcf2f63a472
+Section: 插件
+Description: Customize the ios settings page.插件设置归类，一款将插件归类，美化系统设置的插件，可以更换设置背景图片，非常的nice！
+Author: SOPPPra
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingsrevamp.png
+Name: SettingsRevamp
+
+Package: com.taikulayyds.settingsrevamp
+Version: 3.0.1
+Architecture: iphoneos-arm64e
+Maintainer: SOPPPra
+Pre-Depends: rootless-compat(>= 0.9), rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.settingsrevamp_3.0.1_iphoneos-arm64e.deb
+Size: 308752
+MD5sum: 9b59b2ec06f301dec6c578530bee08fb
+SHA1: e9e0b214221001e0d2c9edfad7eea6479715c118
+SHA256: c2dd2c4eb13889fa7df2fa6baa41e9c1a9ff390c3d4b95487eccdb17bf74de79
+Section: 插件
+Description: Customize the ios settings page.插件设置归类，一款将插件归类，美化系统设置的插件，可以更换设置背景图片，非常的nice！
+Author: SOPPPra
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingsrevamp.png
+Name: SettingsRevamp
 
 Package: com.taikulayyds.settingswidgets
 Version: 1.2.3.1
