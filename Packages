@@ -1768,10 +1768,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet
 Filename: ./debs/iphoneos-arm64e/com.noisyflake.velvet2_2.1.2-3_iphoneos-arm64e.deb
-Size: 99172
-MD5sum: 2126d4098136959b0032becb728f1b65
-SHA1: 8f7a35154db14aa53164981f630fc0c47747441c
-SHA256: 8f5aaad08997a50f20c5e1a21e39473775d19948404049841497898bdd2106da
+Size: 96624
+MD5sum: 4c6ca981ea6ab0204a4140c2f0e23a4e
+SHA1: 1f7aa4f637737610f584ab0dc74c94d9fecdee7a
+SHA256: 6578fba3144fd2926125ec631f703bf3d255da9d122f0d2ae4eb1c102c640ff8
 Section: Tweaks
 Description: A fully customizable notification experience
 Tag: compatible_min::ios15.0
