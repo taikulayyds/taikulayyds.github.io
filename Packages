@@ -2746,6 +2746,23 @@ Author: sergy
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/replyactions.png
 Name: ReplyActions
 
+Package: com.taikulayyds.satella
+Version: 1.9.0-1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
+Conflicts: xyz.cypwn.satella, emt.paisseon.satella, com.dao.satella.cn
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.satella_1.9.0-1_iphoneos-arm64.deb
+Size: 73500
+MD5sum: 190e6d0b11b847f13c5957ca9926c04c
+SHA1: 267263b9afc7201f3501ac403432f20ae3c5753f
+SHA256: 464a206426afc78e717651677f37f5bfe19890c54fefe4a25c4e574ef04d502c
+Section: 插件
+Description: 牛X的应用内购买破解器，已包含刀刀汉化简体中文包。
+Author: Paisseon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/satellas.png
+Name: Satella
+
 Package: com.taikulayyds.settingswidgets
 Version: 1.2.3.1
 Architecture: iphoneos-arm64
