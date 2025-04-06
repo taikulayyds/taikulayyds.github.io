@@ -3315,10 +3315,10 @@ Maintainer: Mineek
 Installed-Size: 512
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretroller_0.0.9_iphoneos-arm64.deb
-Size: 53756
-MD5sum: 937f29bc7528d4faa3073e8192d6900d
-SHA1: aff78dd5e08defc55ac75af2c4dc996dec3a74bf
-SHA256: 942b92f5561044282ce427310f64f3cd8e20a612f3193cb25a6f58acc42fe0eb
+Size: 48588
+MD5sum: 67cacba46b1b26844e0b4745c73531fc
+SHA1: 48831416d3689d54afa4af3c9eacfa67d1a67a18
+SHA256: 2a3f511e85fff5501682981ba8b1cbac81178c8e30b4116792d94b9eb9465f7e
 Section: Tweaks
 Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
    * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
@@ -3334,10 +3334,10 @@ Installed-Size: 512
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64e/dev.mineek.appstoretroller_0.0.9_iphoneos-arm64e.deb
-Size: 53760
-MD5sum: c06bfeb5cc68033a9b2bb2a7913ca77a
-SHA1: 9172748a4754bc8d621afbc913c7739ec4f4ddd7
-SHA256: 25f4e09ea9e18608036e703c3d76cf4e29459a7c4687c5619357348b898aaf56
+Size: 48600
+MD5sum: 8fd52fe6aa6ed127cf1a9f01a1b8d5ed
+SHA1: d5e10b070ce16cb584b45c989741f89e18014eed
+SHA256: c6a86d492de52925c450562da3d4833325e60d75da0effd7349871a266fb2140
 Section: Tweaks
 Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退（安装插件，设置开启功能，伪装版本填18.0，注销后就能购买了）
    * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
