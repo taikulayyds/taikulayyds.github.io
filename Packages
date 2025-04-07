@@ -2060,6 +2060,43 @@ Author: SOPPPra
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tweakhub.png
 Name: TweakHub
 
+Package: com.squidforce.simplehomelite
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: info.adolfoi.simplehome
+Filename: ./debs/iphoneos-arm64/com.squidforce.simplehomelite_1.0.0_iphoneos-arm64.deb
+Size: 4880
+MD5sum: 66ea5fefa53d3ea6ec9c3a7c593b57fc
+SHA1: 8790dda492775f736381e39d0b8cbcdb8007f72b
+SHA256: b795621af257625962c57766452f8b20662aca2682483ff0a10747baebfc06f3
+Section: Tweaks
+Description: Remove App Library View.
+Author: SquidForce
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/simplehomelite.png
+Name: SimpleHome青春版 - 只禁用资源库
+
+Package: com.squidforce.simplehomelite
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: info.adolfoi.simplehome
+Filename: ./debs/iphoneos-arm64e/com.squidforce.simplehomelite_1.0.0_iphoneos-arm64e.deb
+Size: 4784
+MD5sum: 1c670a4792875c067db38671e4963454
+SHA1: cb84dd127f5d5448b0c600c985f5f49f2f94b200
+SHA256: cc5256cc1e84af805299fd7ae232d181d35acd0b60af760b3956c3e956f092f2
+Section: Tweaks
+Description: Remove App Library View.
+Author: SquidForce
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/simplehomelite.png
+Name: SimpleHome青春版 - 只禁用资源库
+
 Package: com.squidforce.snapper3.plugins
 Version: 1.2
 Architecture: iphoneos-arm64
