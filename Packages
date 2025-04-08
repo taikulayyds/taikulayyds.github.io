@@ -728,6 +728,41 @@ Author: ichitaso
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/hideserialnumber.png
 Name: HideSerialNumber
 
+Package: com.jakeashacks.bounceit
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Installed-Size: 143
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.jakeashacks.bounceit_1.0.4_iphoneos-arm64.deb
+Size: 5640
+MD5sum: 1bdb9282140d10c63923c107f5558ae6
+SHA1: d4209e6d2d81976865d8048d4b642822154a4614
+SHA256: b73d92f9487d12db0ea689a83af37b98518c92846e1d119bf81e329f3045bd73
+Section: Tweaks
+Description: 为系统添加弹性动画，太Q弹了吧！喜欢的小伙伴们可以试试！插件无设置项，安装即生效！
+Author: Jake James
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bounceit.png
+Name: Bounce It!弹性动画
+
+Package: com.jakeashacks.bounceit
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss
+Installed-Size: 143
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.jakeashacks.bounceit_1.0.4_iphoneos-arm64e.deb
+Size: 5360
+MD5sum: ee303e71b85e020f1b6f8c6562d85d56
+SHA1: 2a6d09fdda4654d153b40b523ce041196aa60df9
+SHA256: a4b17991601fbc9f61bed6afeefa0d87a1831232fd3fe254842d9522c3aa09cc
+Section: Tweaks
+Description: 为系统添加弹性动画，太Q弹了吧！喜欢的小伙伴们可以试试！插件无设置项，安装即生效！
+Author: Jake James
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bounceit.png
+Name: Bounce It!弹性动画
+
 Package: com.jontelang.snapper3
 Version: 1.2.1
 Architecture: iphoneos-arm64
