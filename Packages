@@ -3174,6 +3174,39 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/perfectdynamiclsla
 Name: 原生灵动岛(RootHide)
 Sileodepiction: https://apt.htv123.com/sileo/136
 
+Package: com.yan.anitime
+Version: 1.0.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/iphoneos-arm64/com.yan.anitime_1.0.1k_iphoneos-arm64.deb
+Size: 392792
+MD5sum: 94c7426070e4ae9c454497bb4187c496
+SHA1: 80ce238f7726a5a555f3cb917e314797f0695555
+SHA256: 34c881946654469eeed2613425b1f3ac655f52ebf3bef4191c18023949d929ff
+Section: Tweaks
+Description: Animated anime characters as your clock digits.
+Author: yan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/anitime.png
+Name: AniTime
+
+Package: com.yan.anitime
+Version: 1.0.1k
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/iphoneos-arm64e/com.yan.anitime_1.0.1k_iphoneos-arm64e.deb
+Size: 388852
+MD5sum: 6b768f5ed5c83e19e025bf9db72eeb66
+SHA1: 9b9879e9d036a2c2d026617667dd878b504706b5
+SHA256: a5d910f7f0a9518642f86837521bcee18d777a68e89e7010bb6b7450f06fc3a6
+Section: Tweaks
+Description: Animated anime characters as your clock digits.
+Author: yan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/anitime.png
+Name: AniTime
+
 Package: com.yan.ring
 Version: 1.0.2
 Architecture: iphoneos-arm64
