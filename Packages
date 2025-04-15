@@ -1378,10 +1378,10 @@ Maintainer: Nathan
 Installed-Size: 348
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotland_1.2.4_iphoneos-arm64.deb
-Size: 12208
-MD5sum: ec545a4c9e0954f728695c5aea0bb16c
-SHA1: 5648afb17e1609bca7da2d969b939678b5d0db13
-SHA256: 224d6e280632c8edd774b9ee4b1e28d31ad999a87dc21f66e9e99eada861a2ae
+Size: 12656
+MD5sum: 4268b529d7b7dd01c5d1e7e8850478f5
+SHA1: ce7f464b556421818d0b9e07ef0456e846f9ef5f
+SHA256: 0b3b801b29132cb439ccb2bf8a9554fbb314345fcc48448c9971f200b38e6dcd
 Section: Tweaks
 Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛。A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
 Author: Nathan
@@ -1396,10 +1396,10 @@ Installed-Size: 348
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64e/com.nathan.dynamicnotland_1.2.4_iphoneos-arm64e.deb
-Size: 12324
-MD5sum: c1d33a2dfae09e13ad9f866f74ec507a
-SHA1: 4d237dc8a98e41a3f87fc3b57c219ae1fed247a5
-SHA256: 293331352f896acd0f1286ac073a424db0b1953544dff2f651a27a617b81cc88
+Size: 12752
+MD5sum: 83d6d191dc80b558fb5aff9a44b987e4
+SHA1: ef82b6375a95842daacbdb3c0ed16351eeae8539
+SHA256: a42d301b020f64b66e596fbc5698c84350fc8149727feb132c883795b2b8c1bf
 Section: Tweaks
 Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛。A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
 Author: Nathan
