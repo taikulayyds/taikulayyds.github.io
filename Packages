@@ -431,6 +431,24 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatpushmsgpage.png
 Name: WechatPushMsgPage
 
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.2_iphoneos-arm64.deb
+Size: 23484
+MD5sum: c944b23e5ff517099ca12f7267a2637c
+SHA1: ff2495117a0541b604569c1d632f5e08bef77c61
+SHA256: 75876e0c7b46870f41b53ab01d1217119b075c035afb78eea234333e3f7832df
+Section: Tweaks
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。（已测试只有一个bug就是无后台第一次收到消息会进入其他页面，不会直达，后续有后台测试完全没有问题。）锁屏可以，多开微信也可以。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatpushmsgpage.png
+Name: WechatPushMsgPage-rootless
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
 Package: com.ccless
 Version: 2.0.6
 Architecture: iphoneos-arm64
