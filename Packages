@@ -1371,6 +1371,41 @@ Author: Nathan
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
 Name: DynamicNotLand
 
+Package: com.nathan.dynamicnotland
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotland_1.2.4_iphoneos-arm64.deb
+Size: 12208
+MD5sum: ec545a4c9e0954f728695c5aea0bb16c
+SHA1: 5648afb17e1609bca7da2d969b939678b5d0db13
+SHA256: 224d6e280632c8edd774b9ee4b1e28d31ad999a87dc21f66e9e99eada861a2ae
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛。A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
+Name: DynamicNotLand
+
+Package: com.nathan.dynamicnotland
+Version: 1.2.4
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 348
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.nathan.dynamicnotland_1.2.4_iphoneos-arm64e.deb
+Size: 12324
+MD5sum: c1d33a2dfae09e13ad9f866f74ec507a
+SHA1: 4d237dc8a98e41a3f87fc3b57c219ae1fed247a5
+SHA256: 293331352f896acd0f1286ac073a424db0b1953544dff2f651a27a617b81cc88
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛。A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use!
+Author: Nathan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicnotland.png
+Name: DynamicNotLand
+
 Package: com.nathan.internalstoragesettings
 Version: 1.0
 Architecture: iphoneos-arm64
