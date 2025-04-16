@@ -468,6 +468,24 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatpushmsgpage.
 Name: WechatPushMsgPage-rootless
 Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
 
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.3_iphoneos-arm64.deb
+Size: 23332
+MD5sum: 09994ba7a51a96c907cfaf0145061daf
+SHA1: 7c860596526b31d314ff809ebde3fc9306cf3935
+SHA256: 62e0f3aff088edf3888d7a9845240f1b9d4c2fab3d6d3d82b13d5a64b0fb68b2
+Section: Tweaks
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatpushmsgpage.png
+Name: WechatPushMsgPage-rootless
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
 Package: com.ccless
 Version: 2.0.6
 Architecture: iphoneos-arm64
@@ -3269,10 +3287,10 @@ Architecture: iphoneos-arm64
 Maintainer: xybp888
 Depends: firmware (>= 16.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.xybp888.perfectdynamiclsland_0.1-5_iphoneos-arm64.deb
-Size: 311736
-MD5sum: d0c3355b6ea4560c5f3d110468031a8a
-SHA1: a6dc57bb0f0575dd2e52c2fa8fbfcb0f36b1cbda
-SHA256: 6813a280ec23264a320c869b553ae1a0384d13ed09b643480f584ae96e2a915c
+Size: 316260
+MD5sum: 19c57dea8750c6f4fb8b13450ca05888
+SHA1: 0e9e595784ff916d68cf7da43e55146d31ebdd50
+SHA256: b0a6caa8923cbe414797a255f4a41def441f8b7b4d2a6be563ea3741ae69a2a6
 Section: 插件
 Priority: optional
 Description: 电话助手激活用户专属免费插件
