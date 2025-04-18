@@ -1119,6 +1119,41 @@ Author: level3tjg
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/betterccbrightness.png
 Name: BetterCCBrightness
 
+Package: com.liuf.jpyj
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: liuf <(null)>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.liuf.jpyj_0.0.1_iphoneos-arm64.deb
+Size: 3720
+MD5sum: 32cb2ceb24a051a8d3c4abeb9acf9655
+SHA1: 9fcedcf46afb4fd3ded45962e4c0fa74fd1152d4
+SHA256: 47c5d7f9058e89c2083b35bbf3cb5d136d3654ad0778dd97fa28843a36df65a8
+Section: Tweaks
+Description: 系统键盘圆角
+Author: liuf <(null)>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/jpyj.png
+Name: 系统键盘圆角
+
+Package: com.liuf.jpyj
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: liuf <(null)>
+Installed-Size: 280
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.liuf.jpyj_0.0.1_iphoneos-arm64e.deb
+Size: 3912
+MD5sum: 8e21e26e284725b1a7292abbc56fc560
+SHA1: a6f7a1fbf2917b12f64bc321abb2416480c039f2
+SHA256: f821b0a197fbf0b363d1d89d9d469a1c1999ba70468e946ddbc5893c88321160
+Section: Tweaks
+Description: 系统键盘圆角
+Author: liuf <(null)>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/jpyj.png
+Name: 系统键盘圆角
+
 Package: com.max.twistnturns
 Version: 1.3
 Architecture: iphoneos-arm64
