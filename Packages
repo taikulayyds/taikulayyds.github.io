@@ -15,6 +15,23 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/xxtouch.png
 Name: XXTouch Elite
 
+Package: ch.xxtou.xxtouch
+Version: 5.1
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39252
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.1_iphoneos-arm64e.deb
+Size: 9648592
+MD5sum: 1a9b580752f30b6a6a284adb1570fb23
+SHA1: 423452996f49670071e407681009d4ffa5034a66
+SHA256: b10b263298c31b9d6f3c7f42069f3be05a1b8c8cc215ebab5e3a15fd671c3bab
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/xxtouch.png
+Name: XXTouch Elite
+
 Package: chaoge.ChargeLimiter
 Version: 1.7
 Architecture: iphoneos-arm64
@@ -284,6 +301,23 @@ Size: 700756
 MD5sum: 7a0cc7267e0be4a2c73b295a57755ac2
 SHA1: d45a7f6f3f3b292e6cc702ba31d4f6280b971bbf
 SHA256: 6c7845cf448313cdbe4a478186baa7f516c6d69d188e0190148a457e72b67a78
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 3.12
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.touchvis_3.12_iphoneos-arm64e.deb
+Size: 699856
+MD5sum: 1cd18e20e24974ab3d74f372b00acded
+SHA1: 5fdf0c3216f8e3ecca54e93da2fca86c79c09852
+SHA256: 59c61943db9d62b8b7d44b0f443345624b92510928489d1ea3fffe641a9589ca
 Section: Tweaks
 Description: Display your touch interactions!
 Author: Lessica <82flex@gmail.com>
