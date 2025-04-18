@@ -1,3 +1,20 @@
+Package: ch.xxtou.xxtouch
+Version: 5.1
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 39268
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/ch.xxtou.xxtouch_5.1_iphoneos-arm64.deb
+Size: 9640200
+MD5sum: 54ab5308a252cfb3e6006574376cd52d
+SHA1: 1f8036e8b61a2dd4350d731fcfd548a211368681
+SHA256: 60e23731cc9d65d8ce13ccfc87fcfc90ccbaeac8ab8c967032cea1d28a4e88db
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/xxtouch.png
+Name: XXTouch Elite
+
 Package: chaoge.ChargeLimiter
 Version: 1.7
 Architecture: iphoneos-arm64
@@ -255,6 +272,23 @@ Description: Stop specified apps from redirecting to App Store, Safari or other 
 Author: Lessica <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noredirect.png
 Name: No Redirect
+
+Package: com.82flex.touchvis
+Version: 3.12
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.touchvis_3.12_iphoneos-arm64.deb
+Size: 700756
+MD5sum: 7a0cc7267e0be4a2c73b295a57755ac2
+SHA1: d45a7f6f3f3b292e6cc702ba31d4f6280b971bbf
+SHA256: 6c7845cf448313cdbe4a478186baa7f516c6d69d188e0190148a457e72b67a78
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
+Name: Touch-Viz
 
 Package: com.anthopak.pancake
 Version: 2.3
