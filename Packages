@@ -643,6 +643,53 @@ Author: 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccless.png
 Name: CCLess++
 
+Package: com.creaturecoding.tweaksettings
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/iphoneos-arm64/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64.deb
+Size: 386584
+MD5sum: ff6b987fe902a7bbf41d275e6e05d08d
+SHA1: aeec529450ff26ebae5c23378b0f1d6cdd7431b8
+SHA256: b1f9d4f85e73ce8b7807ed93b3ed1396f4be30e9c1692c1a7a0bf420c5ca65e1
+Section: Applications
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Dedicated settings app for tweaks
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Dev: CreatureSurvive
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tweaksettings.png
+Name: TweakSettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+
+Package: com.creaturecoding.tweaksettings
+Version: 1.0.9
+Architecture: iphoneos-arm64e
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1064
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: ./debs/iphoneos-arm64e/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64e.deb
+Size: 384696
+MD5sum: c2182c23b8db983025dfe8d59ca81bdf
+SHA1: 1185be866397ea911b078e9a7a2de7a297a3f19d
+SHA256: 32744a7e295129ab983222263661bb130e7096c9a19796f5de877b19407e0ac4
+Section: Applications
+Priority: optional
+Homepage: https://creaturecoding.com/
+Description: Dedicated settings app for tweaks
+Tag: purpose::application, compatible_min::ios10
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+Dev: CreatureSurvive
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tweaksettings.png
+Name: TweakSettings
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+
 Package: com.cydiageek.springanimations
 Version: 1.1.1
 Architecture: iphoneos-arm64
