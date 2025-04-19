@@ -3438,45 +3438,6 @@ Author: x✨
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarixhook.png
 Name: SafariXHook
 
-Package: com.xybp888.perfectdynamiclsland
-Version: 0.1-5
-Architecture: iphoneos-arm64
-Maintainer: xybp888
-Depends: firmware (>= 16.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.xybp888.perfectdynamiclsland_0.1-5_iphoneos-arm64.deb
-Size: 316260
-MD5sum: 19c57dea8750c6f4fb8b13450ca05888
-SHA1: 0e9e595784ff916d68cf7da43e55146d31ebdd50
-SHA256: b0a6caa8923cbe414797a255f4a41def441f8b7b4d2a6be563ea3741ae69a2a6
-Section: 插件
-Priority: optional
-Description: 电话助手激活用户专属免费插件
- 完美的使用原生灵动岛展示系统通知等...
-Author: xybp888
-Depiction: https://apt.htv123.com/view/141
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/perfectdynamiclsland.png
-Name: 灵动通知(Rootless)
-Sileodepiction: https://apt.htv123.com/sileo/141
-
-Package: com.xybp888.perfectdynamiclsland.roothide
-Version: 0.1-5
-Architecture: iphoneos-arm64e
-Maintainer: xybp888
-Depends: firmware (>= 16.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.xybp888.perfectdynamiclsland.roothide_0.1-5_iphoneos-arm64e.deb
-Size: 314656
-MD5sum: 8169d17b2dc01b36fa1d9f349519280a
-SHA1: 1f4aba28b6d2460282e79561b52a0b0934b05d16
-SHA256: 3d13ea75e26d3996a0979e6e296d5d31d7f90f8bb809fe219b91ad10c4b070d3
-Section: 插件
-Priority: optional
-Description: 完美的使用原生灵动岛展示系统通知等...
-Author: xybp888
-Depiction: https://apt.htv123.com/view/136
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/perfectdynamiclsland.png
-Name: 原生灵动岛(RootHide)
-Sileodepiction: https://apt.htv123.com/sileo/136
-
 Package: com.yan.anitime
 Version: 1.0.1k
 Architecture: iphoneos-arm64
