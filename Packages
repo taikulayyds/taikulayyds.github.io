@@ -2380,6 +2380,23 @@ Depiction: https://chariz.com/get/cylinder-reborn
 Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
 Name: Cylinder Reborn
 
+Package: com.snail.autovpn.roothide
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 876
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.snail.autovpn.roothide_1.0.0_iphoneos-arm64e.deb
+Size: 216132
+MD5sum: 9460c7387efad285986678bfa240eeca
+SHA1: 1d43c2a1bccee502911cde8877100d54cb9f6483
+SHA256: 753502b1f89670648f1466c9fe1a97caae084239e5bf88af4fac1af81d253e37
+Section: Tweaks
+Description: Automatically enable or disable the vpn according to the situation, and enjoy smooth browsing experience in the app. 根据特定场景自动开启/关闭代理连接，畅享APP丝滑浏览体验。
+Author: Snail <mu514983786@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/autovpn.png
+Name: AutoVPN 自动VPN
+
 Package: com.sop.tweakhub
 Version: 1.0.2
 Architecture: iphoneos-arm64e
