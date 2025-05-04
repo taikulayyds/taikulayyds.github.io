@@ -34,6 +34,23 @@ Name: XXTouch Elite
 
 Package: ch.xxtou.xxtouch
 Version: 5.2
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55440
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.2_iphoneos-arm64e.deb
+Size: 19265700
+MD5sum: 3751d4579144a7659091aa4a05c394ac
+SHA1: 8878f26fc0eebc3925ebe554938337f851f8e0bf
+SHA256: a6f707da87aeda2d15e446d93c9c8f95498e9d319cf1fcf11fad730ced90ebe0
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/xxtouch.png
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.2
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 55456
@@ -2942,15 +2959,15 @@ Maintainer: CyPwn
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.colorfulwallpaperx_4.6k_iphoneos-arm64e.deb
-Size: 1233664
-MD5sum: b9b3e3d4136ea52dca1bb28692621ce1
-SHA1: 5dce0aacc6ec6c9e9a0cf1723b0a55c824a9b470
-SHA256: 25b2d35c2456e180e95b78141374cea1eba36a721a840429ad7d51b80ec4f408
+Size: 1233340
+MD5sum: 66aee90cae22317bc3ccf2ef86815155
+SHA1: 006986ca042d77456e36f1c7295444490c695a4a
+SHA256: 5c92c4f92ab5efb595553887cc9731f7d151dbe0950dd968239bed8d8c479e49
 Section: Tweaks
-Description: 具有彩色效果的动态壁纸。CBZ破解！
-Author: Lessica
+Description: Dynamic wallpaper with colorful effects.具有彩色效果的动态壁纸。CBZ破解！
+Author: Lessica <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/colorfulwallpaperx.png
-Name: ColorfulWallpaperX
+Name: Colorful Wallpaper X
 
 Package: com.taikulayyds.colorfulwallpaperx
 Version: 4.6k
