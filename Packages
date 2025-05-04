@@ -3962,36 +3962,3 @@ Author: sourcelocation
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cardculator.png
 Name: Cardculator
 
-Package: xyz.cypwn.anthocrack2
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: CyPwn
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/xyz.cypwn.anthocrack2_1.0.0_iphoneos-arm64e.deb
-Size: 2860
-MD5sum: 86d610fb431e12dbeb290768e1a72131
-SHA1: fb7adf3476faabe0a96f1a5bdae38fcdc226686e
-SHA256: 993715477f67d93d6c5375473f503683ec70975fd6d7f95c7369925cb7c116da
-Section: Tweaks
-Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!   破解依赖！
-Author: CBZ
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/anthocrack2.png
-Name: AnthoCrack2
-
-Package: xyz.cypwn.anthocrack2
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/xyz.cypwn.anthocrack2_1.0.0_iphoneos-arm64.deb
-Size: 2916
-MD5sum: 23ca91a63ad8bbad1581f614c042455e
-SHA1: 7e7cb63e985f0e7038f84f9c46bcda46eea4af3b
-SHA256: c789c97026035c54d80951860da79a50181b43368fe8b937177faafb3ddbdac6
-Section: Tweaks
-Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!   破解依赖！
-Author: CBZ
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/anthocrack2.png
-Name: AnthoCrack2
-
