@@ -861,6 +861,45 @@ Author: MrDeNsor
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/locktouchx.png
 Name: LockTouchX
 
+Package: com.dopamine.swapforcer
+Version: 0.0.2-7+debug
+Architecture: iphoneos-arm64e
+Maintainer: Dopamine User
+Installed-Size: 76
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.wangdonghua.backgroundretainer
+Filename: ./debs/iphoneos-arm64e/com.dopamine.swapforcer_0.0.2-7+debug_iphoneos-arm64e.deb
+Size: 5972
+MD5sum: 9a57f18c7eee82b7d08de705453e170b
+SHA1: 9c298b7251d12ddeb865854f05237240bde87554
+SHA256: 148483ca528aae7bf0d52043bdc0c0bdb585961e017f09ae083a60ff1dd4c3db
+Section: Tweaks
+Description: 强制启用并稳定运行iOS 16的Swap机制,提高应用留存率。
+Author: colorBlack
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swapforcer.png
+Name: SwapForcer
+Prefix: /var/jb
+
+Package: com.dopamine.swapforcer
+Version: 0.0.2-7+debug
+Architecture: iphoneos-arm64
+Maintainer: Dopamine User
+Installed-Size: 76
+Depends: mobilesubstrate
+Conflicts: com.wangdonghua.backgroundretainer
+Filename: ./debs/iphoneos-arm64/com.dopamine.swapforcer_0.0.2-7+debug_iphoneos-arm64.deb
+Size: 5948
+MD5sum: b0e4084216cb24d38a1bb00a39d67624
+SHA1: a1c6010ed912ceee93d2a3b64a5a975d7a0a2e29
+SHA256: aa0199004544df26aab683697edfda35cdbf66bfb3d4c989e5855694810cb7f3
+Section: Tweaks
+Description: 强制启用并稳定运行iOS 16的Swap机制,提高应用留存率。
+Author: colorBlack
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swapforcer.png
+Name: SwapForcer
+Prefix: /var/jb
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64e
@@ -3664,6 +3703,43 @@ Description: 关闭内嵌视频播放，不再使用低劣的html5视频播放�
 Author: tyiiirfvjjkjjj 凑合哥 Repack
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ultravideos.png
 Name: UltraVideos
+
+Package: com.wangdonghua.backgroundretainer
+Version: 0.0.1-7
+Architecture: iphoneos-arm64e
+Maintainer: Your Name
+Installed-Size: 472
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.dopamine.swapforcer
+Filename: ./debs/iphoneos-arm64e/com.wangdonghua.backgroundretainer_0.0.1-7_iphoneos-arm64e.deb
+Size: 86284
+MD5sum: 17700e82da214b85f9ec8b2b08de4fa0
+SHA1: 0c2fd4d5e8595036dea3724ef65bc6cce9ab33ba
+SHA256: cf2681935971c8e38b5fe9fb8db54021e2b2f5a648b281bf3b84c44477b739de
+Section: Tweaks
+Description: 基于iOS墓碑机制的后台应用留存增强插件。添加应用id到白名单，可以冻结应用，防止被杀后台。【 应用id获取可以使用Appdata插件获取 】
+Author: Your Name
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/backgroundretainer.png
+Name: BackgroundRetainer
+
+Package: com.wangdonghua.backgroundretainer
+Version: 0.0.1-7
+Architecture: iphoneos-arm64
+Maintainer: Your Name
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.dopamine.swapforcer
+Filename: ./debs/iphoneos-arm64/com.wangdonghua.backgroundretainer_0.0.1-7_iphoneos-arm64.deb
+Size: 86244
+MD5sum: baed72e0a521625483dc4405c1820ec8
+SHA1: f9eb6ac1216aca3b0bf2c5026fc981b790a3c996
+SHA256: f535a685e7514eca5c0836b35567862b836fe1e20ef2657153497892934326b6
+Section: Tweaks
+Description: 基于iOS墓碑机制的后台应用留存增强插件。添加应用id到白名单，可以冻结应用，防止被杀后台。【 应用id获取可以使用Appdata插件获取 】
+Author: Your Name
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/backgroundretainer.png
+Name: BackgroundRetainer
 
 Package: com.xx.safarixhook
 Version: 1.0.0
