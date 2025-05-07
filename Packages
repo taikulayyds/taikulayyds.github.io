@@ -2596,6 +2596,23 @@ Author: Snail <mu514983786@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/autovpn.png
 Name: AutoVPN 自动VPN
 
+Package: com.snail.autovpn.roothide
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 964
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.snail.autovpn.roothide_1.0.3_iphoneos-arm64e.deb
+Size: 240064
+MD5sum: 27218b1bf2e5203ae5f076105d2b4cdd
+SHA1: a58d9dd82525eb5c77566f71591de9b5048186ba
+SHA256: 67ec2d816e0e5a639b4b369c2ff507c6eaa1e370a3d19d5b941e4f69a3482ad1
+Section: Tweaks
+Description: Automatically enable or disable the vpn according to the situation, and enjoy smooth browsing experience in the app. 根据特定场景自动开启/关闭代理连接，畅享APP丝滑浏览体验。
+Author: Snail <mu514983786@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/autovpn.png
+Name: AutoVPN 自动VPN
+
 Package: com.sop.tweakhub
 Version: 1.0.2
 Architecture: iphoneos-arm64e
