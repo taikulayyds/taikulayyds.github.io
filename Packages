@@ -934,6 +934,26 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swapforcer.png
 Name: SwapForcer
 Prefix: /var/jb
 
+Package: com.dopamine.swapforcer
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Dopamine User
+Installed-Size: 72
+Depends: mobilesubstrate
+Conflicts: com.wangdonghua.backgroundretainer
+Filename: ./debs/iphoneos-arm64/com.dopamine.swapforcer_0.0.3_iphoneos-arm64.deb
+Size: 5600
+MD5sum: 2fbc6a1c45db78442f4ca3baad86b64f
+SHA1: f5b3427934e4ca66f4534b9da0c682b5137e7b41
+SHA256: 82ccc5e5b61b8da29be04f1c1ac96ffda386980ee08ed580dce749f2626b26a7
+Section: Tweaks
+Description: 强制启用并稳定运行iOS 16的Swap机制,提高应用留存率
+Author: colorBlack
+Changelog: 修复频繁结束后台应用导致swap失效的问题,修复长时间运行后swap在某些设备上失效的问题,优化swap文件检测机制,增加应用切换监控
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swapforcer.png
+Name: SwapForcer
+Prefix: /var/jb
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64e
