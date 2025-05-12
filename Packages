@@ -3155,6 +3155,24 @@ Name: BadgeSync
 
 Package: com.taikulayyds.chromahomebarx
 Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: Afnan Ahmad & SINI
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.chromahomebarx_1.0-2_iphoneos-arm64e.deb
+Size: 75596
+MD5sum: a743368300a7042ec99441e9c30c0f8a
+SHA1: ace255e92550ceb429ee47b7e85002fd5783e374
+SHA256: c8aca93f1c951ee9d5e250516928cfccfe0ffbb0b98bb6a483da5ab456bcf879
+Section: Tweaks
+Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根越狱
+Author: Afnan Ahmad & SINI
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/chromahomebarx.png
+Name: ChromaHomeBarX
+
+Package: com.taikulayyds.chromahomebarx
+Version: 1.0-2
 Architecture: iphoneos-arm64
 Maintainer: Afnan Ahmad & SINI
 Installed-Size: 480
