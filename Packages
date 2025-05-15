@@ -4020,6 +4020,44 @@ Author: yan
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ring.png
 Name: Ring
 
+Package: com.yourepo.lly.dismissalert
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 620
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.yourepo.lly.dismissalert_1.0.0_iphoneos-arm64e.deb
+Size: 110796
+MD5sum: 8b2518c2cd242142bbbd0ecba161763e
+SHA1: e861e0548b7849b2c09d596b8f47a2c8466091c0
+SHA256: 697da32425914a53317a3d1433f60a1ed97b054a1b890dd01b8ab07067d78b9c
+Section: Tweaks
+Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗等等。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/dismissalert.html
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dismissalert.png
+Name: DismissAlert【屏蔽弹窗】
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/dismissalertsileo
+
+Package: com.yourepo.lly.dismissalert
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 620
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.yourepo.lly.dismissalert_1.0.0_iphoneos-arm64.deb
+Size: 108316
+MD5sum: 9b97608245772962d3c6613400d8f497
+SHA1: f3fe36b115168315a67366cbe46f5a1f438073d4
+SHA256: ac9f267e3beda21b74bb9fc92b06fe9e43e6768ea9da2c9e2bde6d64e2d01ecd
+Section: Tweaks
+Description: 强制取消系统弹窗，如授权弹窗、app签名到期弹窗等等。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/dismissalert.html
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dismissalert.png
+Name: DismissAlert【屏蔽弹窗】
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/dismissalertsileo
+
 Package: daniel.analytics
 Version: 0.0.4
 Architecture: iphoneos-arm64e
