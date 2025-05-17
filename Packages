@@ -2691,6 +2691,76 @@ Depiction: https://chariz.com/get/cylinder-reborn
 Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
 Name: Cylinder Reborn
 
+Package: com.simon.ccmusic
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: simon
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64e/com.simon.ccmusic_1.0.5_iphoneos-arm64e.deb
+Size: 28440
+MD5sum: a7e9d387036fdcbc8e38dfaf7c1ffa4c
+SHA1: 6804ad50da69095a5b550b7206da56cb0da46e15
+SHA256: 6e11b5272e490d3b5b24975186402aba319ac58c39f78d821410c83b352939b3
+Section: Tweaks
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccmusic.png
+Name: 控制中心音乐模块动画
+
+Package: com.simon.ccmusic
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 428
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/com.simon.ccmusic_1.0.5_iphoneos-arm64.deb
+Size: 28748
+MD5sum: 6c3581026544114ee66ed3989c5c3b9a
+SHA1: 3c714b48ca816ca1c55a1e7987e019de400931be
+SHA256: b6bea127d543e2b400a5beab6c0d31f0d90d45b1021721ec0c8669ba59fa0f10
+Section: Tweaks
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccmusic.png
+Name: 控制中心音乐模块动画
+
+Package: com.simon.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.simon.dynamicislandanimation_1.1.8_iphoneos-arm64e.deb
+Size: 28844
+MD5sum: 0791c08d8756ecd3b004eb3a0f20d072
+SHA1: 1d261743fad484d5f2a5be4220e89a9b588e625b
+SHA256: c5305fe1b4c037f456d0f5cbf2d76486267f6aefb4c96bd74eec3bb8f7cebfe4
+Section: Tweaks
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
+Name: 灵动岛跳舞动画PLUS
+
+Package: com.simon.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 432
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.simon.dynamicislandanimation_1.1.8_iphoneos-arm64.deb
+Size: 29128
+MD5sum: be5e5a9727aecdf4b6b9b1421e449cb7
+SHA1: c50b756697ad9fbdf64baebadcdeed52e8407e6a
+SHA256: d5a95081daa6b0e73c07f5da26e7103ef5aa2041b417773cf32490b0f5a8f20d
+Section: Tweaks
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
+Name: 灵动岛跳舞动画PLUS
+
 Package: com.snail.autovpn.roothide
 Version: 1.0.0
 Architecture: iphoneos-arm64e
