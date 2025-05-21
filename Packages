@@ -1116,17 +1116,34 @@ Prefix: /var/jb
 
 Package: com.dvntm.fbo
 Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.dvntm.fbo_0.0.1_iphoneos-arm64e.deb
+Size: 3316
+MD5sum: b4ef41fd7b23b215aaa862f80c5bd3e4
+SHA1: 0cd4bf76483fa503aee10396b328259e83712393
+SHA256: 13b13dbbe2ef4b53c4674af11da6ccb2816b7c2097237aaf6fc772e82843c7a3
+Section: Tweaks
+Description: Displays only the Browse tab and hides the tab bar.隐藏自带文件App的底部最近/共享。
+Author: dvntm
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filesbrowsingonly.png
+Name: FilesBrowsingOnly
+
+Package: com.dvntm.fbo
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/com.dvntm.fbo_0.0.1_iphoneos-arm64.deb
-Size: 3332
-MD5sum: 34a706946bff8255b6ec305a228f7147
-SHA1: d9a121db3f9a5410e51aff745274caf0a0b3b554
-SHA256: 57abf3285ba1be7c1c9ea9fe5cd402bbb22bccb693fbd0c81b58f8fb1a6175a0
+Size: 3380
+MD5sum: acb5d512b51cb103f73178f30b39ec4e
+SHA1: d844bfe724172f9ffadb763ae7fa982a3bb22550
+SHA256: 70699b651d5b1fdd16e16748bf4f6b078fca5494cee1e9ab0cd6d9ad3c573683
 Section: Tweaks
-Description: Displays only the Browse tab and hides the tab bar
+Description: Displays only the Browse tab and hides the tab bar.隐藏自带文件App的底部最近/共享。
 Author: dvntm
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filesbrowsingonly.png
 Name: FilesBrowsingOnly
