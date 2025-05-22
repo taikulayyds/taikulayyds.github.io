@@ -4335,6 +4335,39 @@ Author: Mineek
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
 Name: AppStoreTroller
 
+Package: jp.akusio.milkyway2
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: akusio <akusio-report@neko2.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, oldabi, preferenceloader, com.opa334.ccsupport, cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/jp.akusio.milkyway2_1.0_iphoneos-arm64e.deb
+Size: 48620
+MD5sum: 82636f1e0cc36769b5f096e44d1f2e8e
+SHA1: 4c2b377c73b6113d487cb0c0a743518d5e9bcbae
+SHA256: b034b37edd4265bb621f0f19d09e54fc9b792b7ea2cec3dace245577e1c6312c
+Section: Tweaks
+Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.一款老牌分屏插件，大佬整合修复分享，插件没什么特别的功能，就是简单能够分屏。方法1:长按应用图标，点击MilkyWay2即可分屏。方法2:任务后台上长按要分屏的应用即可。方法3:进入应用后，长按当前应用状态栏即可。
+Author: akusio <akusio-report@neko2.net>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway2.png
+Name: MilkyWay2
+
+Package: jp.akusio.milkyway2
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: akusio <akusio-report@neko2.net>
+Depends: mobilesubstrate, oldabi, preferenceloader, com.opa334.ccsupport, cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/jp.akusio.milkyway2_1.0_iphoneos-arm64.deb
+Size: 49540
+MD5sum: 26fba722d6d14e5dd6a3e71361e550b1
+SHA1: 7c87d76703ba14ae9e2883b87da488d23c73f589
+SHA256: 5753f85f3c0d721a196909d9b08c9eb42d6760353bc9c4dacbac538cf843af11
+Section: Tweaks
+Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.一款老牌分屏插件，大佬整合修复分享，插件没什么特别的功能，就是简单能够分屏。方法1:长按应用图标，点击MilkyWay2即可分屏。方法2:任务后台上长按要分屏的应用即可。方法3:进入应用后，长按当前应用状态栏即可。
+Author: akusio <akusio-report@neko2.net>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway2.png
+Name: MilkyWay2
+
 Package: jp.soh.freepip
 Version: 0.0.5
 Architecture: iphoneos-arm64e
