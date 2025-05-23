@@ -3221,6 +3221,39 @@ Author: SWING
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/padswitcher-ipad.png
 Name: PadSwitcher - iPad多任务
 
+Package: com.taikulayyds.anthocrack2
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.anthocrack2_1.0.0_iphoneos-arm64e.deb
+Size: 2864
+MD5sum: f491d14809d423dcc4d742c86627cbbf
+SHA1: c04fcafa4938ed7cfba0bf30f3c28ff83f705242
+SHA256: b74e967693ae1bd9cb134dfe08e177bdfbadf2794f6d05e1e442d965bbc2b3d7
+Section: Tweaks
+Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!破解依赖！
+Author: CBZ
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cypwn.png
+Name: AnthoCrack2
+
+Package: com.taikulayyds.anthocrack2
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.anthocrack2_1.0.0_iphoneos-arm64.deb
+Size: 2928
+MD5sum: f259ddcb53c4ab0a4b079b55f7aad667
+SHA1: 57096a405f516e6041c370e1fcd0dbe5fbff6d74
+SHA256: 920b15553ccd66ba40963ccd80c131037b06b1d6d26eea1c3c6572508026656e
+Section: Tweaks
+Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!破解依赖！
+Author: CBZ
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cypwn.png
+Name: AnthoCrack2
+
 Package: com.taikulayyds.appaze3
 Version: 1.0.1
 Architecture: iphoneos-arm64e
