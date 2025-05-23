@@ -2762,10 +2762,10 @@ Installed-Size: 428
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/iphoneos-arm64e/com.simon.ccmusic_1.0.5_iphoneos-arm64e.deb
-Size: 28440
-MD5sum: a7e9d387036fdcbc8e38dfaf7c1ffa4c
-SHA1: 6804ad50da69095a5b550b7206da56cb0da46e15
-SHA256: 6e11b5272e490d3b5b24975186402aba319ac58c39f78d821410c83b352939b3
+Size: 35072
+MD5sum: 355eb54240ad7810b343cae80d86f428
+SHA1: 838f37be97586b74d954bbb5be97a9f306e387ef
+SHA256: e194127f7d36c3a267491d0658f86d801736ad53d9e7fbfa1e4e891c37ed2bb6
 Section: Tweaks
 Description: 为控制中心的音乐模块添加动画
 Author: simon
@@ -2779,10 +2779,10 @@ Maintainer: simon
 Installed-Size: 428
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/iphoneos-arm64/com.simon.ccmusic_1.0.5_iphoneos-arm64.deb
-Size: 28748
-MD5sum: 6c3581026544114ee66ed3989c5c3b9a
-SHA1: 3c714b48ca816ca1c55a1e7987e019de400931be
-SHA256: b6bea127d543e2b400a5beab6c0d31f0d90d45b1021721ec0c8669ba59fa0f10
+Size: 35372
+MD5sum: 5868e5294ef518316473a618aaeb1bfd
+SHA1: 16336a552e8c18b069f8f6bc80dfa360b723e964
+SHA256: bcb36217b58b0094b44d5824dfa950a57738c7d2a85363ed3b9d617ad0e5a594
 Section: Tweaks
 Description: 为控制中心的音乐模块添加动画
 Author: simon
@@ -2792,35 +2792,35 @@ Name: 控制中心音乐模块动画
 Package: com.simon.dynamicislandanimation
 Version: 1.1.8
 Architecture: iphoneos-arm64e
-Maintainer: Simon
+Maintainer: simon
 Installed-Size: 432
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.simon.dynamicislandanimation_1.1.8_iphoneos-arm64e.deb
-Size: 28844
-MD5sum: 0791c08d8756ecd3b004eb3a0f20d072
-SHA1: 1d261743fad484d5f2a5be4220e89a9b588e625b
-SHA256: c5305fe1b4c037f456d0f5cbf2d76486267f6aefb4c96bd74eec3bb8f7cebfe4
+Size: 35512
+MD5sum: 68f454430a22334f90490c5cc89a7f5a
+SHA1: 285711647fbda169961de9ef7aa7c8ea0663ca04
+SHA256: 0fbaec0c9af320bbb7bf78c3401aff818fdea95f1769f544b319daaf2d66a9a4
 Section: Tweaks
 Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
-Author: Simon
+Author: simon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
 Name: 灵动岛跳舞动画PLUS
 
 Package: com.simon.dynamicislandanimation
 Version: 1.1.8
 Architecture: iphoneos-arm64
-Maintainer: Simon
+Maintainer: simon
 Installed-Size: 432
 Depends: mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.simon.dynamicislandanimation_1.1.8_iphoneos-arm64.deb
-Size: 29128
-MD5sum: be5e5a9727aecdf4b6b9b1421e449cb7
-SHA1: c50b756697ad9fbdf64baebadcdeed52e8407e6a
-SHA256: d5a95081daa6b0e73c07f5da26e7103ef5aa2041b417773cf32490b0f5a8f20d
+Size: 35744
+MD5sum: b896cffc0bd3cfbec95f4ac36e6136eb
+SHA1: 29fc72216e0f22e66ba3c0c0b25d26b4dc4d3f7e
+SHA256: 1ef22b571c5904f62c7c7d2113ee2893bf137dea6f154cf375428c7ac745cff4
 Section: Tweaks
 Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
-Author: Simon
+Author: simon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
 Name: 灵动岛跳舞动画PLUS
 
@@ -4342,14 +4342,14 @@ Maintainer: akusio <akusio-report@neko2.net>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, oldabi, preferenceloader, com.opa334.ccsupport, cy+cpu.arm64e, firmware (>= 15.0)
 Filename: ./debs/iphoneos-arm64e/jp.akusio.milkyway2_1.0_iphoneos-arm64e.deb
-Size: 48620
-MD5sum: 82636f1e0cc36769b5f096e44d1f2e8e
-SHA1: 4c2b377c73b6113d487cb0c0a743518d5e9bcbae
-SHA256: b034b37edd4265bb621f0f19d09e54fc9b792b7ea2cec3dace245577e1c6312c
+Size: 50644
+MD5sum: 6fe78689ffabed5bdf48dd1b8b5e7cea
+SHA1: 4b2462536bc6568ef100c55e33c71bfaf61ce904
+SHA256: 51ee100961d5a327fbc51f3ceecc7b1d96c733c3a3927c50f5c21ba3b1055735
 Section: Tweaks
 Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.一款老牌分屏插件，大佬整合修复分享，插件没什么特别的功能，就是简单能够分屏。方法1:长按应用图标，点击MilkyWay2即可分屏。方法2:任务后台上长按要分屏的应用即可。方法3:进入应用后，长按当前应用状态栏即可。
 Author: akusio <akusio-report@neko2.net>
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway2.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway.png
 Name: MilkyWay2
 
 Package: jp.akusio.milkyway2
@@ -4358,14 +4358,14 @@ Architecture: iphoneos-arm64
 Maintainer: akusio <akusio-report@neko2.net>
 Depends: mobilesubstrate, oldabi, preferenceloader, com.opa334.ccsupport, cy+cpu.arm64e, firmware (>= 15.0)
 Filename: ./debs/iphoneos-arm64/jp.akusio.milkyway2_1.0_iphoneos-arm64.deb
-Size: 49540
-MD5sum: 26fba722d6d14e5dd6a3e71361e550b1
-SHA1: 7c87d76703ba14ae9e2883b87da488d23c73f589
-SHA256: 5753f85f3c0d721a196909d9b08c9eb42d6760353bc9c4dacbac538cf843af11
+Size: 51536
+MD5sum: 2944b5f632a1fc6927365ade8b37c967
+SHA1: 3ef531374bb6a5ce5edafeed8a1a37a928806470
+SHA256: 88f5421b13379a0a42f714ca57f48f4f17e1c5d91af44b4fa9a8ce29713abfb3
 Section: Tweaks
 Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.一款老牌分屏插件，大佬整合修复分享，插件没什么特别的功能，就是简单能够分屏。方法1:长按应用图标，点击MilkyWay2即可分屏。方法2:任务后台上长按要分屏的应用即可。方法3:进入应用后，长按当前应用状态栏即可。
 Author: akusio <akusio-report@neko2.net>
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway2.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway.png
 Name: MilkyWay2
 
 Package: jp.soh.freepip
