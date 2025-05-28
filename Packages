@@ -964,11 +964,11 @@ Installed-Size: 1064
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
 Filename: ./debs/iphoneos-arm64e/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64e.deb
-Size: 384696
-MD5sum: c2182c23b8db983025dfe8d59ca81bdf
-SHA1: 1185be866397ea911b078e9a7a2de7a297a3f19d
-SHA256: 32744a7e295129ab983222263661bb130e7096c9a19796f5de877b19407e0ac4
-Section: Applications
+Size: 384504
+MD5sum: 9f6fcbf2a3b5d6694d78a64ad642246a
+SHA1: a4c0bd878473f5eaa3a24da21a67fd6c6fbcff37
+SHA256: cd779340963efadbaf0b6ff2a4479c3ed5394887304925c5b3c6733ac35b1f2b
+Section: Tweaks
 Priority: optional
 Homepage: https://creaturecoding.com/
 Description: Dedicated settings app for tweaks
@@ -1265,11 +1265,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.4.9)
 Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools, r-o-o-t-l-e-s-s-, com.r-o-o-t-l-e-s-s-.manager
 Filename: ./debs/iphoneos-arm64e/com.foxfort.foxforttools_1.4.15_iphoneos-arm64e.deb
-Size: 470976
-MD5sum: 4415cdb6d3baf64609133c53eba75f6e
-SHA1: 54cb39300b8966780c36db508826a4a9cc65fda5
-SHA256: 479e4016aafd573d0d0fa45600c42a36066793d8ca61efb098f3e5391c949d29
-Section: Development
+Size: 469748
+MD5sum: 1da96e18a16530a4d24671e5d16ece3f
+SHA1: dbe4ed689dd20294f14dfc83402715ecf181e53c
+SHA256: 584fcef96d2c1cd83d64811cc6cd14cc4de00abc5a224bdaab24f6178ec468e9
+Section: Tweaks
 Description: Helper tools for Foxfort tweaks
 Tag: role::developer
 Author: FoxfortMobile
@@ -1284,11 +1284,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), com.opa334.libsandy
 Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils, r-o-o-t-l-e-s-s-
 Filename: ./debs/iphoneos-arm64e/com.foxfort.libfoxfortutils_1.4.9_iphoneos-arm64e.deb
-Size: 281708
-MD5sum: aa61778431ad12a5669ab429d4426bfd
-SHA1: 00c5dc18a28dddce03a1d8411e1d3e5382b4405c
-SHA256: 8c1c6c34c3011cbfa50a7b8d8975cea6b9227c87e648b3bb8fe5d48e50f7b699
-Section: Development
+Size: 281292
+MD5sum: befff7fc77594d50cc391cb8e615fce2
+SHA1: fce880cd2d67e6c65f8cf8ec0b406c9ca16caf94
+SHA256: 8c682a6fbc424fd758a1e786071c5032bc2bd47212b49e9c470d275a22f03a15
+Section: Tweaks
 Description: library for Foxfort tweaks
 Tag: role::developer
 Author: FoxfortMobile
@@ -2775,11 +2775,11 @@ Maintainer: roothide
 Installed-Size: 1076
 Depends: firmware (>= 15.0)
 Filename: ./debs/iphoneos-arm64e/com.roothide.manager_1.3.4_iphoneos-arm64e.deb
-Size: 749676
-MD5sum: 21f35f3cbf75e922a93bd4ddda55f3e2
-SHA1: 6659e25bb5cd77ff7c4b319df84b916a956918cb
-SHA256: 15696515464ed176b5efc78262000e87b0c92f004b2e5b4e4d27978bbb25f596
-Section: System
+Size: 749688
+MD5sum: 1f6a2c097b6ec2ca03093ce156848577
+SHA1: f79d216a76798a9681e515f9ed9f35cfe4084c10
+SHA256: 7c3919f7d403b6cde403e6ec067c19cc764d87b37009b0bda96b79baa9da9bf9
+Section: 依赖
 Description: Configuare RootHide's Features
 Author: roothide
 Depiction: https://github.com/roothide/RootHideManagerApp
