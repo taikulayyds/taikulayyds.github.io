@@ -987,11 +987,11 @@ Maintainer: CreatureSurvive <support@creaturecoding.com>
 Installed-Size: 1064
 Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
 Filename: ./debs/iphoneos-arm64/com.creaturecoding.tweaksettings_1.0.9_iphoneos-arm64.deb
-Size: 386584
-MD5sum: ff6b987fe902a7bbf41d275e6e05d08d
-SHA1: aeec529450ff26ebae5c23378b0f1d6cdd7431b8
-SHA256: b1f9d4f85e73ce8b7807ed93b3ed1396f4be30e9c1692c1a7a0bf420c5ca65e1
-Section: Applications
+Size: 386616
+MD5sum: 5642abde58111b8b98887219fe604caf
+SHA1: 395b17319afabb688fac683c05d002c6d18c3666
+SHA256: ef840c5652d03eaa87252c200d608fa0c553c0c124ccc903eca7db9ef917dc9e
+Section: Tweaks
 Priority: optional
 Homepage: https://creaturecoding.com/
 Description: Dedicated settings app for tweaks
