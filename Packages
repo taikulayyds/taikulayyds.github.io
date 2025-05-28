@@ -188,6 +188,40 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/fixset.png
 Name: FixSet
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FixSet/js.json
 
+Package: cn.llld.cocoatop
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/cn.llld.cocoatop_0.0.1-1_iphoneos-arm64.deb
+Size: 19480
+MD5sum: 28b1545d1a98528efa728c4e0b48057a
+SHA1: 6085d33a4a4f686368e91e37825d4e58d99f3dcf
+SHA256: c286eabfcb132ce80febbdaa175a94b6767ff6d6e00b72dfcb707ddb07fdc056
+Section: Tweaks
+Description: CocoaTop简易汉化（多巴胺专用）
+Author: 来了老弟
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cocoatop64.png
+Name: CocoaTop汉化-rootless
+
+Package: cn.llld.cocoatop
+Version: 0.0.1-2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/cn.llld.cocoatop_0.0.1-2_iphoneos-arm64e.deb
+Size: 19440
+MD5sum: 0befa67ad9cc9363f74b0124af1136a4
+SHA1: 3555006959cd69bda4484c93b0f4de141522d8e1
+SHA256: 909a18789ac30940b3315d0366b4e7022a3a2067e03f5bfa71e32525c7d42fa1
+Section: Tweaks
+Description: CocoaTop简易汉化（roothide专用）
+Author: 来了老弟
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cocoatop64.png
+Name: CocoaTop汉化-roothide
+
 Package: cn.llld.errorfilter
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -4541,4 +4575,41 @@ Description: Calculator, but smaller
 Author: sourcelocation
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cardculator.png
 Name: Cardculator
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4
+Architecture: iphoneos-arm64e
+Maintainer: Hitori
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/iphoneos-arm64e/ru.domo.cocoatop64_2.2.4_iphoneos-arm64e.deb
+Size: 230232
+MD5sum: 9f878e9ca745812f2e5516182741e5f0
+SHA1: 2e42051002b14ae7212e74d1b2a3bddb77451bf3
+SHA256: c93db589fed3d7e78a59052178e5c19b27d4d8e18f98aec3bf5d5928de5dfa75
+Section: Tweaks
+Description: Process Viewer for iOS
+Author: Domo <domo@rambler.ru>
+Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
+Name: CocoaTop64
+Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
+
+Package: ru.domo.cocoatop64
+Version: 2.2.4
+Architecture: iphoneos-arm64
+Maintainer: Hitori
+Depends: firmware (>= 15.0)
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/iphoneos-arm64/ru.domo.cocoatop64_2.2.4_iphoneos-arm64.deb
+Size: 233908
+MD5sum: daf939d9f16970b3f14d39fd047e4df2
+SHA1: 5c986bcd3dc361943c4e3134f1473fa9abf7ef59
+SHA256: dd0920714ebc2ee95204930a9e6b9c6d50c49050afb48860794fbc35d28cf4e9
+Section: Tweaks
+Description: Process Viewer for iOS
+Author: Domo <domo@rambler.ru>
+Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
+Name: CocoaTop64
+Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
 
