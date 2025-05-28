@@ -884,6 +884,24 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatpushmsgpage.
 Name: WechatPushMsgPage
 Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
 
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-push-msg-page_0.0.5_iphoneos-arm64.deb
+Size: 23392
+MD5sum: 9e44606653c6a305d5ce24495ea30223
+SHA1: 599487f9fe6215757960da06b00c1bff620d0e11
+SHA256: dfd931830bf32b83d91911263953943c2b6cad34b09f85ec4ec51283f749b102
+Section: Tweaks
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatpushmsgpage.png
+Name: WechatPushMsgPage-rootless
+Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
 Package: com.ccless
 Version: 2.0.6
 Architecture: iphoneos-arm64e
