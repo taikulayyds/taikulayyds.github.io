@@ -2497,15 +2497,33 @@ Package: com.p2kdev.tinge
 Version: 1.2.2
 Architecture: iphoneos-arm64e
 Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
 Filename: ./debs/iphoneos-arm64e/com.p2kdev.tinge_1.2.2_iphoneos-arm64e.deb
-Size: 39992
-MD5sum: 0da4d07fc3200d32588b19bfb7fce691
-SHA1: bc9a6d2e2edf4883b46b4c18d83f1a01f4afcbae
-SHA256: bb761da07de329f672a8aa72032c95b22c9baa51937560ea9ed992245df71106
+Size: 40400
+MD5sum: 1960154db7806d6fb7ba453b58f0731e
+SHA1: 57dd8c97f3a4cf86cf5d8964da91dfb17d2263dc
+SHA256: 5085125fe4c1383156fcb8cd64625f31d7d013c5b870b9e9e41b3319e8554dea
 Section: Tweaks
-Description: Color your badges with Perfection! 根据你的软件图标颜色来自适应角标颜色!
+Description: Color your badges with Perfection!根据你的软件图标颜色来自适应角标颜色!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tinge.png
+Name: Tinge
+
+Package: com.p2kdev.tinge
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/iphoneos-arm64/com.p2kdev.tinge_1.2.2_iphoneos-arm64.deb
+Size: 41300
+MD5sum: 46b71f23a22c2da20d9e5c175e23b028
+SHA1: e641402d9861dd6658a7ed2ee606f3de19057569
+SHA256: d2ee837c0997ca22ef156c69a7c35b19f8ff5c6b60242ebec2432ec6be6060df
+Section: Tweaks
+Description: Color your badges with Perfection!根据你的软件图标颜色来自适应角标颜色!
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tinge.png
 Name: Tinge
