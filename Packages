@@ -2696,78 +2696,6 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swipeextenderx.png
 Name: SwipeExtenderX
 
-Package: com.roothide.manager
-Version: 1.3.1
-Architecture: iphoneos-arm64e
-Maintainer: roothide
-Installed-Size: 900
-Depends: firmware (>= 15.0)
-Filename: ./debs/iphoneos-arm64e/com.roothide.manager_1.3.1_iphoneos-arm64e.deb
-Size: 731080
-MD5sum: 681de727a0a6820d3e7e99ee1e5e7ec0
-SHA1: d81eb8376b39f87c9df43722d425bd56558a3ec2
-SHA256: f772788a9eb0aefdc4b0c5dba2fcc8f57908d35b2629925b8c3ecd1ab06c18c0
-Section: System
-Description: Configuare RootHide's Features(皮佬汉化版，自用备份)
-Author: roothide
-Depiction: https://github.com/roothide/RootHideManagerApp
-Name: RootHide Manager
-Support: https://github.com/roothide/RootHideManagerApp
-
-Package: com.roothide.manager
-Version: 1.3.2
-Architecture: iphoneos-arm64e
-Maintainer: roothide
-Installed-Size: 900
-Depends: firmware (>= 15.0)
-Filename: ./debs/iphoneos-arm64e/com.roothide.manager_1.3.2_iphoneos-arm64e.deb
-Size: 732112
-MD5sum: 16f754cb476f722ee15a440de96f860b
-SHA1: e199d83f8b38c4eab113a0f746558dab23b85fef
-SHA256: 70e62fe69a6fcfb529f31987c9d7e2d9a0f6a9fd6775c07964491bafc2241d06
-Section: System
-Description: Configuare RootHide's Features
-Author: roothide
-Depiction: https://github.com/roothide/RootHideManagerApp
-Name: RootHide Manager
-Support: https://github.com/roothide/RootHideManagerApp
-
-Package: com.roothide.manager
-Version: 1.3.3
-Architecture: iphoneos-arm64e
-Maintainer: roothide
-Installed-Size: 1076
-Depends: firmware (>= 15.0)
-Filename: ./debs/iphoneos-arm64e/com.roothide.manager_1.3.3_iphoneos-arm64e.deb
-Size: 749196
-MD5sum: f12518ce9158c00ad4934a38e7767405
-SHA1: 3b3994a65cc6a983573fd9c92044bf24597bd725
-SHA256: d71fed2297ef4718f21693bc84db115e02a4c5571a6ac995b08fd5c42922fc88
-Section: System
-Description: Configuare RootHide's Features
-Author: roothide
-Depiction: https://github.com/roothide/RootHideManagerApp
-Name: RootHide Manager
-Support: https://github.com/roothide/RootHideManagerApp
-
-Package: com.roothide.manager
-Version: 1.3.4
-Architecture: iphoneos-arm64e
-Maintainer: roothide
-Installed-Size: 1076
-Depends: firmware (>= 15.0)
-Filename: ./debs/iphoneos-arm64e/com.roothide.manager_1.3.4_iphoneos-arm64e.deb
-Size: 749688
-MD5sum: 1f6a2c097b6ec2ca03093ce156848577
-SHA1: f79d216a76798a9681e515f9ed9f35cfe4084c10
-SHA256: 7c3919f7d403b6cde403e6ec067c19cc764d87b37009b0bda96b79baa9da9bf9
-Section: 依赖
-Description: Configuare RootHide's Features
-Author: roothide
-Depiction: https://github.com/roothide/RootHideManagerApp
-Name: RootHide Manager
-Support: https://github.com/roothide/RootHideManagerApp
-
 Package: com.ryannair05.cylinder
 Version: 1.1.1
 Architecture: iphoneos-arm64e
@@ -3273,6 +3201,22 @@ Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
 Author: SWING
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/padswitcher-ipad.png
 Name: PadSwitcher - iPad多任务
+
+Package: com.taikuayyds.manager.cn
+Version: 0.01
+Architecture: iphoneos-arm64e
+Maintainer: taikula
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.taikuayyds.manager.cn_0.01_iphoneos-arm64e.deb
+Size: 2688
+MD5sum: c405d309cc4a0af59805eb1c26c2bb42
+SHA1: 8156ce30c7b840f4daeb11f4c18da94b9ab7468c
+SHA256: 8754f43fd819b45af5cc9b9b1f0adef23797a85636ba772153d450b669dbc6ba
+Section: Tweaks
+Description: RootHide Manager本地汉化包
+Author: taikula
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/manager.png
+Name: RootHide Manager汉化
 
 Package: com.taikulayyds.anthocrack2
 Version: 1.0.0
@@ -3783,35 +3727,35 @@ Name: SettingsWidgets 设置小部件
 Package: com.taikulayyds.snapperbeautify
 Version: 1.0
 Architecture: iphoneos-arm64e
-Maintainer: taikulayyds
+Maintainer: taikula
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 15.0)
 Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.snapperbeautify_1.0_iphoneos-arm64e.deb
-Size: 85400
-MD5sum: d10d112e3824315cfa9dd98a899ac300
-SHA1: d03bc1dfc79caadf0c5b48b0c7dc4bb9ba990d7c
-SHA256: 56e319982e7ba639ccad223832b9e3b768a570b6476147849b3873c2f6875ecd
+Size: 85408
+MD5sum: ea81c466c3843e7bec044bf7485e472e
+SHA1: c9589b1c0a6f5cb5b4187c40002f56865509642f
+SHA256: 35b3bee89438e7a99487fad4535e41cfe96503773324f5687cd6ad4480642032
 Section: Tweaks
 Description: Snapper3美化(个人自用)。
-Author: taikulayyds
+Author: taikula
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/snapper3.png
 Name: Snapper3 美化
 
 Package: com.taikulayyds.snapperbeautify
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: taikulayyds
+Maintainer: taikula
 Depends: mobilesubstrate, firmware (>= 15.0)
 Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
 Filename: ./debs/iphoneos-arm64/com.taikulayyds.snapperbeautify_1.0_iphoneos-arm64.deb
 Size: 85480
-MD5sum: 4039575f783a549b0bc467788fd0eaa0
-SHA1: 647687afe8d39e0cff044c03c79cbf7021d0546e
-SHA256: 268286c85a824d3f4f2eeff4dd88824f2acd3625444c063854b83028e68cecf0
+MD5sum: 87fcb8c174bf7ab4fe63e98db5db43a7
+SHA1: 9645592291113d9ee97d1067ec288aca9108c6de
+SHA256: af369ac74825850dfac487aebf66c7ce2231e4d78f2cbf18cef2637dccf8b3ab
 Section: Tweaks
 Description: Snapper3美化(个人自用)。
-Author: taikulayyds
+Author: taikula
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/snapper3.png
 Name: Snapper3 美化
 
