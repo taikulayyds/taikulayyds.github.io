@@ -3208,10 +3208,10 @@ Architecture: iphoneos-arm64e
 Maintainer: taikula
 Depends: firmware (>= 15.0)
 Filename: ./debs/iphoneos-arm64e/com.taikuayyds.manager.cn_0.01_iphoneos-arm64e.deb
-Size: 2688
-MD5sum: c405d309cc4a0af59805eb1c26c2bb42
-SHA1: 8156ce30c7b840f4daeb11f4c18da94b9ab7468c
-SHA256: 8754f43fd819b45af5cc9b9b1f0adef23797a85636ba772153d450b669dbc6ba
+Size: 2316
+MD5sum: f62a19132c1f8a2bbde34d31cf1fcf5a
+SHA1: 5176d2bfdda6a44306cb42b06aab619360d912ae
+SHA256: 5cd833064771fb20012a402a340be6ba10e3f01d2a81f6ff2debebd7585a2889
 Section: Tweaks
 Description: RootHide Manager本地汉化包
 Author: taikula
