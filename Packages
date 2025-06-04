@@ -2805,6 +2805,45 @@ Depiction: https://chariz.com/get/cylinder-reborn
 Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
 Name: Cylinder Reborn
 
+Package: com.shtm.flexibleexpression
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Installed-Size: 4324
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.shtm.flexibleexpression_1.2.0_iphoneos-arm64e.deb
+Size: 3644608
+MD5sum: 8871c0fbd769c8313567e5b46b5c04bf
+SHA1: ab0a04670f6be578e934e15d27ee1e68d58a8a5e
+SHA256: 068d0f54ee47018d74fd4c8235ac130ca54c591db6d41d83b1417f3616e229bd
+Section: Tweaks
+Description: 灵动空间，灵动岛不再枯燥！
+Author: SHTM
+Depiction: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/sileo.json
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/flexibleexpression.png
+Name: FlexibleExpression
+Sileodepiction: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/sileo.json
+
+Package: com.shtm.flexibleexpression
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 4324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.shtm.flexibleexpression_1.2.0_iphoneos-arm64.deb
+Size: 3649116
+MD5sum: 3cf105a3ff0b5c1949d55be668be7453
+SHA1: b8e991730a489ddb1b97afea2e4452f90343797d
+SHA256: 9cff84823053f86665c0fd8bfc5dcc1e9cc9ed4a642d8998a6f9239a886f6289
+Section: Tweaks
+Description: 灵动空间，灵动岛不再枯燥！
+Author: SHTM
+Depiction: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/sileo.json
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/flexibleexpression.png
+Name: FlexibleExpression
+Sileodepiction: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/sileo.json
+
 Package: com.simon.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64e
