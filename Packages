@@ -808,6 +808,41 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.6-1
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 3176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.6-1_iphoneos-arm64e.deb
+Size: 602928
+MD5sum: 1f5b526a57902ade3348c718dfdc9cab
+SHA1: a66bc016a4f82a5e2e8a9c219e32786180a148e5
+SHA256: 15cbef6807a44bd4cf283ff10a182b7f0b7dafa0a7bf6dc692dc8122400d4424
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.6-1_iphoneos-arm64.deb
+Size: 614264
+MD5sum: 227f97d4feecdeec5064464de031dbe6
+SHA1: 41a20231fb079b606f090ccc437da36a0612a687
+SHA256: 323d364cb1190395c09c1ef0889140046be807668ba3a1ec76e59dc8a0d38f0e
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64e
