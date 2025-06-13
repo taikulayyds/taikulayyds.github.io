@@ -1193,6 +1193,41 @@ Author: CydiaGeek
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/springanimations.png
 Name: SpringAnimations
 
+Package: com.dao.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Jonathan Winger-lang
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
+Filename: ./debs/iphoneos-arm64e/com.dao.bigshotsnapper3plugin_1.1_iphoneos-arm64e.deb
+Size: 19424
+MD5sum: 5a5663f6d44ee8e71424102be0acf655
+SHA1: 16c7694cbee76ec69856bff52d1f967146f55e93
+SHA256: 09c093df32585edc62e2212b2445d84bbd70828142ac276070e8204d623154c2
+Section: Tweaks
+Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
+Author: Jonathan Winger-lang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bigshot.png
+Name: BigShot 长截图
+
+Package: com.dao.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
+Filename: ./debs/iphoneos-arm64/com.dao.bigshotsnapper3plugin_1.1_iphoneos-arm64.deb
+Size: 19196
+MD5sum: 00ac65e1d12258b7d885a76a869f2087
+SHA1: bcc4e69d34d153140618ab22b59c773eed2ac95f
+SHA256: cfcac9eb433ee9767093b71597b5fadd4602c9111cb2453cebecfb63cd4b82dd
+Section: Tweaks
+Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
+Author: Jonathan Winger-lang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bigshot.png
+Name: BigShot 长截图
+
 Package: com.dao.ccborder
 Version: 1.2
 Architecture: iphoneos-arm64e
@@ -4340,6 +4375,39 @@ Size: 392792
 MD5sum: 94c7426070e4ae9c454497bb4187c496
 SHA1: 80ce238f7726a5a555f3cb917e314797f0695555
 SHA256: 34c881946654469eeed2613425b1f3ac655f52ebf3bef4191c18023949d929ff
+Section: Tweaks
+Description: Animated anime characters as your clock digits.
+Author: yan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/anitime.png
+Name: AniTime
+
+Package: com.yan.anitime
+Version: 1.0.2k
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/iphoneos-arm64e/com.yan.anitime_1.0.2k_iphoneos-arm64e.deb
+Size: 400952
+MD5sum: 4b3424949c926507097325801cf18b13
+SHA1: 64ac19aeaf673bcea508242779025e6142e0f192
+SHA256: 01445a0eabd1be169e2f4044906d8fc3a636753250aa5e1ddec064787d9358d9
+Section: Tweaks
+Description: Animated anime characters as your clock digits.
+Author: yan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/anitime.png
+Name: AniTime
+
+Package: com.yan.anitime
+Version: 1.0.2k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/iphoneos-arm64/com.yan.anitime_1.0.2k_iphoneos-arm64.deb
+Size: 404888
+MD5sum: ea05e72f75d45ec2b4264a7ef097f090
+SHA1: 063aee75af3d67f8c29fffc91fa2ec4bbe7052de
+SHA256: 018b6c6c2386bbac85e574719f9d9177db615803e9601ef89d1886659b958c2e
 Section: Tweaks
 Description: Animated anime characters as your clock digits.
 Author: yan
