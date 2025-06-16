@@ -2011,6 +2011,41 @@ Author: Muirey03
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cr4shed.png
 Name: Cr4shed
 
+Package: com.muirey03.cr4shed
+Version: 4.3.2
+Architecture: iphoneos-arm64e
+Maintainer: Muirey03
+Installed-Size: 2488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
+Filename: ./debs/iphoneos-arm64e/com.muirey03.cr4shed_4.3.2_iphoneos-arm64e.deb
+Size: 235408
+MD5sum: c58f0c573d6855738fae8451d30b5b68
+SHA1: 36acf13e19a58c83b990b055d6d041abde836d2a
+SHA256: fb8b72e20cd351c10a39e096210a8e5b5a609df2dc4f709f00a13a71952a8a8d
+Section: Tweaks
+Description: A modern crash reporter for iOS.系统崩溃报告器。
+Author: Muirey03
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cr4shed.png
+Name: Cr4shed
+
+Package: com.muirey03.cr4shed
+Version: 4.3.2
+Architecture: iphoneos-arm64
+Maintainer: Muirey03
+Installed-Size: 2488
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11), com.opa334.libsandy, ldid
+Filename: ./debs/iphoneos-arm64/com.muirey03.cr4shed_4.3.2_iphoneos-arm64.deb
+Size: 228752
+MD5sum: 449af30659fc488888044e068afb65e4
+SHA1: db9510e4a572e7e223be7c92b8d1158b5b0dbb71
+SHA256: 51d40ab74712b375520dd22a3fabd56e79e76c3523a31dfcbddced03b3fb2608
+Section: Tweaks
+Description: A modern crash reporter for iOS.系统崩溃报告器。
+Author: Muirey03
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cr4shed.png
+Name: Cr4shed
+
 Package: com.nahtedetihw.iconrotation
 Version: 1.1
 Architecture: iphoneos-arm64e
