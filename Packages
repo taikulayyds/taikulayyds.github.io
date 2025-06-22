@@ -4110,6 +4110,41 @@ Author: yan
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stella.png
 Name: Stella
 
+Package: com.taikulayyds.systeminfo
+Version: 2.7.2-3
+Architecture: iphoneos-arm64e
+Maintainer: ARX8x 来了老弟
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.systeminfo_2.7.2-3_iphoneos-arm64e.deb
+Size: 268392
+MD5sum: 447d185ed81c17a189d8901f0fcc960b
+SHA1: 41e9c18d13fa32a4909e8196b949baf0324dcfb1
+SHA256: 6aadac090ed3dd115666ca7753346b9ebe2d80f55bcfd7aae11ad98137c14f5c
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc.Display all system information of iOS.显示 iOS 所有系统信息。不用装Legacy arm64e Support(来了老弟修复)。
+Author: ARX8x 来了老弟
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/systeminfo.png
+Name: System Info
+
+Package: com.taikulayyds.systeminfo
+Version: 2.7.2-3
+Architecture: iphoneos-arm64
+Maintainer: ARX8x 来了老弟
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.systeminfo_2.7.2-3_iphoneos-arm64.deb
+Size: 272684
+MD5sum: 8b8846f86f2dcb07f602a673aeaae295
+SHA1: cccb897b3338abb4cf81be7ec3a2d271c4ec53e0
+SHA256: bd3d5cb6249f38f58a67adce447e3cb3b395ea4e8fa2dd1e8f8804715ed82eb6
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc.Display all system information of iOS.显示 iOS 所有系统信息。不用装Legacy arm64e Support(来了老弟修复)。
+Author: ARX8x 来了老弟
+Depiction: https://arx8x.github.io/depictions/systeminfo.html
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/systeminfo.png
+Name: System Info
+
 Package: com.taikulayyds.touchvis
 Version: 2.8.1k
 Architecture: iphoneos-arm64e
