@@ -3106,6 +3106,40 @@ Author: simon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
 Name: 灵动岛跳舞动画PLUS
 
+Package: com.sini921.lstimeseconds
+Version: 0.0.5-1
+Architecture: iphoneos-arm64e
+Maintainer: b4db1r3 & SINI
+Installed-Size: 388
+Filename: ./debs/iphoneos-arm64e/com.sini921.lstimeseconds_0.0.5-1_iphoneos-arm64e.deb
+Size: 34000
+MD5sum: ec38572b12b2a75c305c4036cc10c4a4
+SHA1: bb5a7f7a060f0a75bde5e98022fa23ad5d7b92f4
+SHA256: d281046f7b223785d559f7d9e9f2239434d8e092f2b18eeecaa36eece2f8ba47
+Section: Tweaks
+Description: 为锁屏时间增加秒数。SINI基于开源编译适配roothide。
+Author: b4db1r3 & SINI
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lstimeseconds.png
+Name: LSTimeSeconds
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lstimeseconds/js.json
+
+Package: com.sini921.lstimeseconds
+Version: 0.0.5-1
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3 & SINI
+Installed-Size: 388
+Filename: ./debs/iphoneos-arm64/com.sini921.lstimeseconds_0.0.5-1_iphoneos-arm64.deb
+Size: 35140
+MD5sum: 54ec6302358a5a5a68360645109e5ba9
+SHA1: 8e94a3075edea6e69ab5ef68eb642dd43ceeb061
+SHA256: 24bf33c29f60f02c286592106019fc4f8556a1be12bc025561f0af632e2ea329
+Section: Tweaks
+Description: 为锁屏时间增加秒数。SINI基于开源编译适配roothide。
+Author: b4db1r3 & SINI
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lstimeseconds.png
+Name: LSTimeSeconds
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lstimeseconds/js.json
+
 Package: com.snail.autovpn.roothide
 Version: 1.0.0
 Architecture: iphoneos-arm64e
