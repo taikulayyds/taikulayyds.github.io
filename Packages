@@ -3140,6 +3140,42 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lstimeseconds.png
 Name: LSTimeSeconds
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/lstimeseconds/js.json
 
+Package: com.sini921.morecomplications
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Skitty & SINI
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sini921.morecomplications_1.0-1_iphoneos-arm64e.deb
+Size: 16968
+MD5sum: d4d8c5c1c18b49525458bba3351686ae
+SHA1: ede12ba718a75aa5e4df13e584bd6737a38735e0
+SHA256: da69533b7cefc7ed96371be1148ea322d88e8b7b702d8c02adedfef402ddc227
+Section: 越狱插件
+Description: 添加更多的锁屏小组件，基于开源重新编译，直接适配roothide。
+Author: Skitty & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/morecomplications.png
+Name: MoreComplications(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/morecomplications/js.json
+
+Package: com.sini921.morecomplications
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Skitty & SINI
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sini921.morecomplications_1.0-1_iphoneos-arm64.deb
+Size: 18658
+MD5sum: 390a60352e5a983ff93c2924afd3fb99
+SHA1: 3258b4ba49bc8cec25faa4406ca69a7726f054b3
+SHA256: 63eccd603f1d8fc166961ab7c34745bd5253639914c5eed90d9b29394083bdc0
+Section: 越狱插件
+Description: 添加更多的锁屏小组件，基于开源重新编译，直接适配roothide。
+Author: Skitty & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/morecomplications.png
+Name: MoreComplications(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/morecomplications/js.json
+
 Package: com.snail.autovpn.roothide
 Version: 1.0.0
 Architecture: iphoneos-arm64e
