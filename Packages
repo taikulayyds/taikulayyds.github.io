@@ -3104,6 +3104,41 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/flexibleexpression
 Name: FlexibleExpression
 Sileodepiction: https://orig.shtm.best/descriptions/com.shtm.flexibleexpression/sileo.json
 
+Package: com.simon.ccglow
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.simon.ccglow_1.0.0_iphoneos-arm64e.deb
+Size: 26256
+MD5sum: 4e2aa3993a37aa2c42d21759bee8cb70
+SHA1: 64f6e34f366692b0d216d0711e75cf9f62ae164a
+SHA256: 67e8680396a7e123f3c0ddeb9b767d67791a21d263bea8f7fb2a90ea8f652b3f
+Section: Tweaks
+Description: 新版控制中心发光。
+Author: Simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccglow.png
+Name: 控制中心发光
+
+Package: com.simon.ccglow
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.simon.ccglow_1.0.0_iphoneos-arm64.deb
+Size: 26756
+MD5sum: a3c3ed42bc0ea3d4fe834ecc2a0dd3ce
+SHA1: 007fe4640decf1471b5bf1d544096e20dd1b9954
+SHA256: 85882c9325cd162e36e3d06223d68b80456b6b561fa8f55656e812d82feb2238
+Section: Tweaks
+Description: 新版控制中心发光。
+Author: Simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccglow.png
+Name: 控制中心发光
+
 Package: com.simon.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64e
