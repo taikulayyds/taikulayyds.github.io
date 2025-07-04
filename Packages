@@ -1263,6 +1263,45 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tweaksettings.png
 Name: TweakSettings
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 
+Package: com.cureux.cc26
+Version: 0.4.9.1b
+Architecture: iphoneos-arm64e
+Maintainer: therealhoodboy
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/iphoneos-arm64e/com.cureux.cc26_0.4.9.1b_iphoneos-arm64e.deb
+Size: 15140
+MD5sum: 4341b6df970c98be4bbfb36c589313c7
+SHA1: 8782ef702bb89cac01db280a055dedfa9e14b40f
+SHA256: 55f078d420b22ae673fd91e670e27de4622ba7bd791a900c5138794a4c99368e
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Name: CC26
+
+Package: com.cureux.cc26
+Version: 0.4.9.1b
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Filename: ./debs/iphoneos-arm64/com.cureux.cc26_0.4.9.1b_iphoneos-arm64.deb
+Size: 15362
+MD5sum: 43e05841fb7d5d4b79d3bf1d1412a5d4
+SHA1: b1a6da97e581783788f612776e469ed7ec6565e4
+SHA256: 168fb5154cdb546c20c62d2f4aaf5051b76a7002f8af55049c9fb96e8ac1d42c
+Section: Tweaks
+Description: A sleek reimagination of Control Center
+Author: therealhoodboy
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Name: CC26
+
 Package: com.cydiageek.springanimations
 Version: 1.1.1
 Architecture: iphoneos-arm64e
