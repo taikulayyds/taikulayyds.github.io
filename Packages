@@ -1439,6 +1439,41 @@ Author: MrDeNsor
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/locktouchx.png
 Name: LockTouchX
 
+Package: com.den.locktouchx
+Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: MrDeNsor
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.den.locktouchx_1.4_iphoneos-arm64e.deb
+Size: 23416
+MD5sum: ae9791b0db858966d749535bc1322143
+SHA1: 698edfbf30acc3b763c78aa2fc505790615ac387
+SHA256: 6ebba9931fb4e44f885d177c51d1138a53c473d18c040605fef274269c4b0f51
+Section: Tweaks
+Description: Adds Touch ID authentication to apps, just like the security features in iOS 18.为应用程序添加 Touch ID 锁定验证，就像 iOS 18 中的安全功能一样。
+Author: MrDeNsor
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/locktouchx.png
+Name: LockTouchX
+
+Package: com.den.locktouchx
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: MrDeNsor
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.den.locktouchx_1.4_iphoneos-arm64.deb
+Size: 22316
+MD5sum: 4bb0a591ccd82264a9195c4cd192a00e
+SHA1: ebb7e95b2d174a82fbe7d5e5da4325cf315ccb2a
+SHA256: 0a83b8c3fc116af4c0b33e764b06bd8d8d772588e2495d301ecbfc2c023c5740
+Section: Tweaks
+Description: Adds Touch ID authentication to apps, just like the security features in iOS 18.为应用程序添加 Touch ID 锁定验证，就像 iOS 18 中的安全功能一样。
+Author: MrDeNsor
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/locktouchx.png
+Name: LockTouchX
+
 Package: com.dopamine.swapforcer
 Version: 0.0.2-7+debug
 Architecture: iphoneos-arm64e
@@ -2564,6 +2599,43 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
 Name: AppData
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
 
+Package: com.netskao.appdata
+Version: 1.4.5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 13548
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.netskao.appdata_1.4.5_iphoneos-arm64e.deb
+Size: 5048780
+MD5sum: 332009c4d93c9bb8f0770b5f4ac4aee8
+SHA1: e0f0a4fc9890cbf663e3f68a2acbe7842d5a91db
+SHA256: d1629d1304aa38746cdbab7df2706dc52af3d105c852a9802b86395f907874f9
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+
+Package: com.netskao.appdata
+Version: 1.4.5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 13548
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.5_iphoneos-arm64.deb
+Size: 5050036
+MD5sum: 47c6c228c46a4d9643155fd61def31b0
+SHA1: ba859a1d8de9abd7fa0f2745ca0c525e3843a944
+SHA256: bcb4e702a59be62f4835f06372bb5f3b46a785718f1bcf8b35c3225ce3972a86
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
+
 Package: com.netskao.classickeyboardxs
 Version: 1.1-8
 Architecture: iphoneos-arm64e
@@ -2827,6 +2899,43 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
 Name: Choicy
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.opa334.choicy
+Version: 1.5.3
+Architecture: iphoneos-arm64e
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.opa334.choicy_1.5.3_iphoneos-arm64e.deb
+Size: 160988
+MD5sum: f0b48a353624d43e68451729a17b238a
+SHA1: b2fcd2f25ced0606d192a7e3e87a0e1a5fdad147
+SHA256: 9a86e1decba6f1075820003b467ac666f828aa61347a8b5db2c99a1d0993b8f3
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
+Name: Choicy
+
+Package: com.opa334.choicy
+Version: 1.5.3
+Architecture: iphoneos-arm64
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1136
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.opa334.choicy_1.5.3_iphoneos-arm64.deb
+Size: 161508
+MD5sum: 5aa3f95911e9adbc41ab0ab4b73b5d0c
+SHA1: 17503b4820e744c8b41e79a04daf4cb211e1e3ea
+SHA256: b21727605a61ea4cd9d248eee5287339a9547ff3fdbe34f8d93df7d9f42bb644
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
+Name: Choicy
+
 Package: com.opa334.cranes
 Version: 1.3.16-3
 Architecture: iphoneos-arm64e
@@ -3073,10 +3182,10 @@ Installed-Size: 1123
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
 Filename: ./debs/iphoneos-arm64e/com.ryannair05.cylinder_1.1.1_iphoneos-arm64e.deb
-Size: 117136
-MD5sum: cec20f4131e9b2c647954c771c7defea
-SHA1: d38a0480b31b990532852445c6e3819f68673e0a
-SHA256: 86cb0e6e267681bce328354f677abea1e4c0d4cfd8f5cc779e4a570951336a3b
+Size: 117720
+MD5sum: eddc2fa25ac1893c75aa46a3e9ec0f2c
+SHA1: 468e13fc17f9eeeab0be0f355f8254ab47553575
+SHA256: 8cc46e180101d78dff4a0307bc7c3cb2c5023912f90bd522b1d008f7c9654a03
 Section: Tweaks
 Description: Make your icons dance
 Tag: compatible_min::ios11.0
@@ -3092,10 +3201,10 @@ Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
 Installed-Size: 1123
 Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
 Filename: ./debs/iphoneos-arm64/com.ryannair05.cylinder_1.1.1_iphoneos-arm64.deb
-Size: 237932
-MD5sum: e32bed6085483f48d81607faeef29d11
-SHA1: 0ce6964ccac1d69a2caf5773d47e6f958f667578
-SHA256: 2f63d9cbbf41607b0a01f17ebd924a9f32481cfe733112142cb61951e107ece6
+Size: 238924
+MD5sum: 942d84b8ab17485e82f2f8a78a2721e8
+SHA1: 5cabe193ef987f8ab059b9554dcaafebde53eed2
+SHA256: 1d98aa402f4bd8cf767fbbe13c8cab42997854718efee68c8c4395e55c9381a0
 Section: Tweaks
 Description: Make your icons dance
 Tag: compatible_min::ios11.0
