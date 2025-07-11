@@ -998,6 +998,76 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.6-5
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 3188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.6-5_iphoneos-arm64e.deb
+Size: 609512
+MD5sum: 7323ffbfbcbfe6ec4c5e4020ab52f785
+SHA1: 739bbedf98c16c985924550909d2aecd8f94fb18
+SHA256: 854f3963ac0cae078a3e3fc6557558919906a24d06ff1d3117098a8899b90934
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3188
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.6-5_iphoneos-arm64.deb
+Size: 621896
+MD5sum: e5bc8eafd9bfb2c3bba7d7a8fe63a804
+SHA1: 83e4d5ed8964ace155d45dc6180d76d0b12cd785
+SHA256: 03dfd6365bb8d9713ad836cc62e236f56d0c1f9de23f0fd73094394f3f410d74
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
+Package: com.be-huge.tie-gesture-advance
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 1256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.tie-gesture-advance_1.1.0_iphoneos-arm64e.deb
+Size: 239536
+MD5sum: 0729fdff9613a40870732555a4d7d6e6
+SHA1: 1dec90e901e0227911aa47adb8c10906de252f6c
+SHA256: cecc9ccd769f7c2249903793f00343c6e63a2634f06a99b1ba45ca82e6fed761
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tiegesture.png
+Name: TieGesture(收费版)
+
+Package: com.be-huge.tie-gesture-advance
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 1256
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.tie-gesture-advance_1.1.0_iphoneos-arm64.deb
+Size: 245720
+MD5sum: ab7ca6d75f00f87a3343dd4422655cbe
+SHA1: 04438125cf97fa0fbdc31a06165d1bb622a36b05
+SHA256: c6b4442f85d17c1cfe44976da10200cf1dc59cad9ce593e446be113265d8ced1
+Section: Tweaks
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/tiegesture.png
+Name: TieGesture(收费版)
+
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -1741,6 +1811,41 @@ Description: The first real iOS system cleanup and management utility
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/icleanerpro.png
 Name: iCleaner Pro
+
+Package: com.fiore.calculatorconverter
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: fiore
+Installed-Size: 404
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.fiore.calculatorconverter_1.0.1_iphoneos-arm64e.deb
+Size: 57708
+MD5sum: a7c9603d4dc464829ae98f9af429e392
+SHA1: a649605a548c9f2c2970abbe57726c63881357ef
+SHA256: 9ad3437a11ad782222d97ba3a42e500e7bd7910befab5f0cbda4da145896ddce
+Section: Tweaks
+Description: Add iOS 18 unit conversion to the Calculator app.
+Author: fiore
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/calculatorconverter.png
+Name: CalculatorConverter
+
+Package: com.fiore.calculatorconverter
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 404
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.fiore.calculatorconverter_1.0.1_iphoneos-arm64.deb
+Size: 59004
+MD5sum: 6555ec1a3daa93a462ca0369bce69ef9
+SHA1: ba652f634322a4e6053671edbd934fe46aebbc82
+SHA256: e5cf2e549058e6b3136164d6ef720fad92a9fd96c7f49c34e2c99e65651ebd87
+Section: Tweaks
+Description: Add iOS 18 unit conversion to the Calculator app.
+Author: fiore
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/calculatorconverter.png
+Name: CalculatorConverter
 
 Package: com.foxfort.foxforttools
 Version: 1.4.15
@@ -3046,6 +3151,43 @@ Size: 161508
 MD5sum: 5aa3f95911e9adbc41ab0ab4b73b5d0c
 SHA1: 17503b4820e744c8b41e79a04daf4cb211e1e3ea
 SHA256: b21727605a61ea4cd9d248eee5287339a9547ff3fdbe34f8d93df7d9f42bb644
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
+Name: Choicy
+
+Package: com.opa334.choicy
+Version: 1.5.3-2
+Architecture: iphoneos-arm64e
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.opa334.choicy_1.5.3-2_iphoneos-arm64e.deb
+Size: 161012
+MD5sum: 3ae36089ef64e8d4133eb002e626f079
+SHA1: 9c37ebec3ef451f78489a39caee0feccdfd97d8e
+SHA256: b2474ba82f26a5d187c754d939e4217f218ad9749f1b116957d4977d11ee204e
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
+Name: Choicy
+
+Package: com.opa334.choicy
+Version: 1.5.3-2
+Architecture: iphoneos-arm64
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1136
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.opa334.choicy_1.5.3-2_iphoneos-arm64.deb
+Size: 161500
+MD5sum: 95da3f1dad9c8bc0c7c02bc965e8d545
+SHA1: fe47b5456ca1928f7c6bc215cefb2c77ef9cc859
+SHA256: 747733af1be3959efe35d21b05765879bebc7e1d251a1338935f4aa76afaf077
 Section: Tweaks
 Description: Advanced Tweak Configuration!
 Author: opa334 <opa334@protonmail.com>
