@@ -4542,6 +4542,39 @@ Author: tangerine
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/edgesiri.png
 Name: EdgeSiri
 
+Package: com.taikulayyds.filzaswipeselect
+Version: 0.0.1~beta1
+Architecture: iphoneos-arm64e
+Maintainer: Korboy <korboybeats@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.filzaswipeselect_0.0.1~beta1_iphoneos-arm64e.deb
+Size: 8992
+MD5sum: 898d532e25a865b787079e22ff8db5f9
+SHA1: 264cd018bc386f6847cca86f09ec89899157159b
+SHA256: 6e5630d186b29c0a92df91adb42a65fc4169afab19dab6ad5f2a020fda3f9722
+Section: Tweaks
+Description: 为 Filza 提供滑动多选功能。无需再单独点击每个文件进行选择。
+Author: Korboy <korboybeats@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filza.png
+Name: FilzaSwipeSelect
+
+Package: com.taikulayyds.filzaswipeselect
+Version: 0.0.1~beta1
+Architecture: iphoneos-arm64
+Maintainer: Korboy <korboybeats@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.filzaswipeselect_0.0.1~beta1_iphoneos-arm64.deb
+Size: 8800
+MD5sum: ef81004dae6b84b04d2e1ead54e28d3e
+SHA1: 9c789030bc78cf6ade2d27b91a486163317b4c89
+SHA256: 9700a8a350b816e8d4af7536db04b19ee1559aab7c7c373380fb7b03cd2fd21d
+Section: Tweaks
+Description: 为 Filza 提供滑动多选功能。无需再单独点击每个文件进行选择。
+Author: Korboy <korboybeats@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filza.png
+Name: FilzaSwipeSelect
+
 Package: com.taikulayyds.immortalizer
 Version: 2.0.1.1
 Architecture: iphoneos-arm64e
