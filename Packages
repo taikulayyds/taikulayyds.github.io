@@ -4575,6 +4575,39 @@ Author: Korboy <korboybeats@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filza.png
 Name: FilzaSwipeSelect
 
+Package: com.taikulayyds.filzaswipeselect
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Korboy <korboybeats@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.filzaswipeselect_0.0.2_iphoneos-arm64e.deb
+Size: 15716
+MD5sum: f002cc66fa80ecc3428a6a9d0abb870d
+SHA1: 40cf0097dcb7d9470ddb574854869492abffd6d0
+SHA256: 8c9b90a11ef28f6f6c62d6bc598d5941eb437d86fac6f28a24a14c8dc101a92f
+Section: Tweaks
+Description: 为 Filza 提供滑动多选功能。无需再单独点击每个文件进行选择。
+Author: Korboy <korboybeats@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filza.png
+Name: FilzaSwipeSelect
+
+Package: com.taikulayyds.filzaswipeselect
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Korboy <korboybeats@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.filzaswipeselect_0.0.2_iphoneos-arm64.deb
+Size: 15584
+MD5sum: 73590e56726abe76a1b8d25b13556a85
+SHA1: c50d3ee4dffcc2e15ad6600889b92829cf604b4a
+SHA256: 612b2dee6051daaec0ea643e86719bdcdb054629c7a6a2f1eeba99f09eefc9c0
+Section: Tweaks
+Description: 为 Filza 提供滑动多选功能。无需再单独点击每个文件进行选择。
+Author: Korboy <korboybeats@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filza.png
+Name: FilzaSwipeSelect
+
 Package: com.taikulayyds.immortalizer
 Version: 2.0.1.1
 Architecture: iphoneos-arm64e
