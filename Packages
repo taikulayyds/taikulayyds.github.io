@@ -136,6 +136,23 @@ Name: XXTouch Elite
 
 Package: ch.xxtou.xxtouch
 Version: 5.2.3
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 55832
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.2.3_iphoneos-arm64e.deb
+Size: 19339180
+MD5sum: ce049be0cb01f1ab3027262981b7bd51
+SHA1: 9697d826b5832123673181eb0d06b3695eac5a63
+SHA256: 569a96d5ff7e786f150e10e73fa872c386a04175dcf74c8c10c7c0557aac0043
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/xxtouch.png
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.2.3
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 55828
