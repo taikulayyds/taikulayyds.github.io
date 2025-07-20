@@ -3504,45 +3504,6 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swipeextenderx.png
 Name: SwipeExtenderX
 
-Package: com.ryannair05.cylinder
-Version: 1.1.1
-Architecture: iphoneos-arm64e
-Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
-Installed-Size: 1123
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
-Filename: ./debs/iphoneos-arm64e/com.ryannair05.cylinder_1.1.1_iphoneos-arm64e.deb
-Size: 117720
-MD5sum: eddc2fa25ac1893c75aa46a3e9ec0f2c
-SHA1: 468e13fc17f9eeeab0be0f355f8254ab47553575
-SHA256: 8cc46e180101d78dff4a0307bc7c3cb2c5023912f90bd522b1d008f7c9654a03
-Section: Tweaks
-Description: Make your icons dance
-Tag: compatible_min::ios11.0
-Author: Ryan Nair <ryannairtweaks@gmail.com>
-Depiction: https://chariz.com/get/cylinder-reborn
-Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
-Name: Cylinder Reborn
-
-Package: com.ryannair05.cylinder
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
-Installed-Size: 1123
-Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader, cy+cpu.arm64e
-Filename: ./debs/iphoneos-arm64/com.ryannair05.cylinder_1.1.1_iphoneos-arm64.deb
-Size: 238924
-MD5sum: 942d84b8ab17485e82f2f8a78a2721e8
-SHA1: 5cabe193ef987f8ab059b9554dcaafebde53eed2
-SHA256: 1d98aa402f4bd8cf767fbbe13c8cab42997854718efee68c8c4395e55c9381a0
-Section: Tweaks
-Description: Make your icons dance
-Tag: compatible_min::ios11.0
-Author: Ryan Nair <ryannairtweaks@gmail.com>
-Depiction: https://chariz.com/get/cylinder-reborn
-Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
-Name: Cylinder Reborn
-
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64e
