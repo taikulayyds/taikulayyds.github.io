@@ -3553,10 +3553,10 @@ Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
 Depends: firmware (>=14.0), preferenceloader
 Conflicts: com.ryannair05.cylinder
 Filename: ./debs/iphoneos-arm64/com.ryannair05.cylinderremade_0.0.4-beta_iphoneos-arm64.deb
-Size: 114540
-MD5sum: 6f8e15c99a54dc0a7b132504d04c7589
-SHA1: 3afa355b45c439b0c9272938bc8a4626e4a60fc8
-SHA256: 514f7cc9539ce97c202fb24c2cd5c78162ab797756e7c5af9cf92782ceba1d45
+Size: 115568
+MD5sum: 55880a339437b88f31df3dd64356dbfc
+SHA1: 0844d24674667c0f2d0a55d2d44d20f1848b702d
+SHA256: 8cf775c1959b41fc12be70a0acf85e71eea5bdddf9ebd14c5ba26920b9cdc6b3
 Section: Tweaks
 Homepage: https://ryannair05.github.io/repo/
 Description: Cylinder, remade.
