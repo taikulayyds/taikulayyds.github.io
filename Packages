@@ -3511,10 +3511,10 @@ Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
 Installed-Size: 1253
 Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader
 Filename: ./debs/iphoneos-arm64/com.ryannair05.cylinder_1.1.2_iphoneos-arm64.deb
-Size: 222944
-MD5sum: fb8ba408073174e2273cdfe2c4a510d9
-SHA1: d26fea9b7783b09e4b72734b150b0ace988b1c25
-SHA256: 1ff9112d1c9b3aa4f53527c52f00ae34ec0827fff56d11ed5d8554708d551dd5
+Size: 224240
+MD5sum: 85b0c985c188b46b8105e82b2d94048a
+SHA1: 482a7412397dfe7f325036c707d26273227ce97a
+SHA256: 20a508e8b1cf4946fec8e14c9dd7231c15ee3acaee5ec5eb1f633eed7bae7a21
 Section: Tweaks
 Description: Make your icons dance
 Tag: compatible_min::ios11.0
@@ -3522,6 +3522,29 @@ Author: Ryan Nair <ryannairtweaks@gmail.com>
 Depiction: https://chariz.com/get/cylinder-reborn
 Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
 Name: Cylinder Reborn
+
+Package: com.ryannair05.cylinderremade
+Version: 0.0.4-beta
+Architecture: iphoneos-arm64e
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), preferenceloader
+Conflicts: com.ryannair05.cylinder
+Filename: ./debs/iphoneos-arm64e/com.ryannair05.cylinderremade_0.0.4-beta_iphoneos-arm64e.deb
+Size: 113840
+MD5sum: 393243b866b8acd824df8954749d3d0d
+SHA1: 3b9d8892b02556b60be58c65812d90dc09742a88
+SHA256: c0a287d57e15c9b424c1d3c573494c2301ed09b25a6703bf1ece61fe567f3fa7
+Section: Tweaks
+Homepage: https://ryannair05.github.io/repo/
+Description: Cylinder, remade.
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://ryannair05.github.io/repo//depiction/web/com.ryannair05.cylinderremade.html
+Icon: https://ryannair05.github.io/repo//assets/com.ryannair05.cylinderremade/icon.png
+Moderndepiction: https://ryannair05.github.io/repo//depiction/native/com.ryannair05.cylinderremade.json
+Name: Cylinder Remade
+Sileodepiction: https://ryannair05.github.io/repo//depiction/native/com.ryannair05.cylinderremade.json
+Tags: compatible_min::ios14.0, compatible_max::ios18.5
 
 Package: com.ryannair05.cylinderremade
 Version: 0.0.4-beta
