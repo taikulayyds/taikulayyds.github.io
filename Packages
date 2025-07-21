@@ -3504,6 +3504,47 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swipeextenderx.png
 Name: SwipeExtenderX
 
+Package: com.ryannair05.cylinder
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 1253
+Depends: firmware (>= 15.0), ellekit (>= 0.3), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.ryannair05.cylinder_1.1.2_iphoneos-arm64.deb
+Size: 222944
+MD5sum: fb8ba408073174e2273cdfe2c4a510d9
+SHA1: d26fea9b7783b09e4b72734b150b0ace988b1c25
+SHA256: 1ff9112d1c9b3aa4f53527c52f00ae34ec0827fff56d11ed5d8554708d551dd5
+Section: Tweaks
+Description: Make your icons dance
+Tag: compatible_min::ios11.0
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://chariz.com/get/cylinder-reborn
+Icon: https://img.chariz.cloud/icon/cylinder-reborn/icon@3x.png
+Name: Cylinder Reborn
+
+Package: com.ryannair05.cylinderremade
+Version: 0.0.4-beta
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Depends: firmware (>=14.0), preferenceloader
+Conflicts: com.ryannair05.cylinder
+Filename: ./debs/iphoneos-arm64/com.ryannair05.cylinderremade_0.0.4-beta_iphoneos-arm64.deb
+Size: 114540
+MD5sum: 6f8e15c99a54dc0a7b132504d04c7589
+SHA1: 3afa355b45c439b0c9272938bc8a4626e4a60fc8
+SHA256: 514f7cc9539ce97c202fb24c2cd5c78162ab797756e7c5af9cf92782ceba1d45
+Section: Tweaks
+Homepage: https://ryannair05.github.io/repo/
+Description: Cylinder, remade.
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Depiction: https://ryannair05.github.io/repo//depiction/web/com.ryannair05.cylinderremade.html
+Icon: https://ryannair05.github.io/repo//assets/com.ryannair05.cylinderremade/icon.png
+Moderndepiction: https://ryannair05.github.io/repo//depiction/native/com.ryannair05.cylinderremade.json
+Name: Cylinder Remade
+Sileodepiction: https://ryannair05.github.io/repo//depiction/native/com.ryannair05.cylinderremade.json
+Tags: compatible_min::ios14.0, compatible_max::ios18.5
+
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64e
