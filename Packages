@@ -4705,14 +4705,14 @@ Package: com.taikulayyds.immortalizer
 Version: 2.0.1.1
 Architecture: iphoneos-arm64e
 Maintainer: sergy & daodao
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
 Conflicts: com.sergy.immortalizer
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.immortalizer_2.0.1.1_iphoneos-arm64e.deb
-Size: 48040
-MD5sum: 26393c5a5c990b74df4cf8e5c42fb4bf
-SHA1: 4cba6ab89d79d23525e80271b02d418d1a5e95de
-SHA256: 54439ddb52c9100f90d6dcdb1fbad639cc200ff006d113d9c55b5399a595ea79
+Size: 46968
+MD5sum: 54abc3b34b3733e9ece4b87325aa56b7
+SHA1: fb8ea8062c261a72631499c20f235ee85ee1e6ef
+SHA256: 8c351e8893953aa38b72f1adb67cef5ce0f138c09bb9dc1db2cafd57e484e97b
 Section: Tweaks
 Description: 可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译。
 Author: sergy
