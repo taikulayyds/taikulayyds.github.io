@@ -3848,6 +3848,23 @@ Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Name: CCBorder
 
+Package: com.sini921.cylinderreborn
+Version: 1.1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1336
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sini921.cylinderreborn_1.1.2-2_iphoneos-arm64e.deb
+Size: 213932
+MD5sum: 9f28cab50ea3da9e3a91e630e25de7d8
+SHA1: 0ad98023116c708fd0c73373785140e291fee906
+SHA256: b0fe8e4f43cc05a3ba176a2e17ccea8b482f4cc6dc24bcd5b62a7bbcf4ca6b9a
+Section: 越狱插件
+Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn
+
 Package: com.sini921.freepip
 Version: 0.0.6
 Architecture: iphoneos-arm64e
