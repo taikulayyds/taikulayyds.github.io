@@ -3712,6 +3712,40 @@ Author: simon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
 Name: 灵动岛跳舞动画PLUS
 
+Package: com.sini921.atria
+Version: 1.4.1-2
+Architecture: iphoneos-arm64e
+Maintainer: ren7995 & SINI
+Installed-Size: 976
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sini921.atria_1.4.1-2_iphoneos-arm64e.deb
+Size: 215812
+MD5sum: 921b1eb02e703c102ddf4b4179cf7f28
+SHA1: 9c8e5ffc565b59b673a65c336f536ddfa4fd5189
+SHA256: c4cf9e78d807686103b6bfde61934a6b6b8283f3b73221480f2823c8ca11afee
+Section: 越狱插件
+Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
+Author: ren7995 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
+Name: Atria
+
+Package: com.sini921.atria
+Version: 1.4.1-2
+Architecture: iphoneos-arm64
+Maintainer: ren7995 & SINI
+Installed-Size: 976
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sini921.atria_1.4.1-2_iphoneos-arm64.deb
+Size: 218060
+MD5sum: ac6078a4ac9b9ce17cc001f1ebaf5511
+SHA1: 05b24cb84ec8f8cad7428d0824884783e50afc8e
+SHA256: 8c859f44f0d749845246371e495fea5f85f7bc4e55409a84a7a99ae5dc45d30d
+Section: 越狱插件
+Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
+Author: ren7995 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
+Name: Atria
+
 Package: com.sini921.ccborder
 Version: 1.1.2-1
 Architecture: iphoneos-arm64e
