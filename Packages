@@ -3882,6 +3882,40 @@ Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Name: CCBorder
 
+Package: com.sini921.chromahomebarx
+Version: 1.2-5
+Architecture: iphoneos-arm64e
+Maintainer: Afnan Ahmad & SINI
+Installed-Size: 480
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.sini921.chromahomebarx_1.2-5_iphoneos-arm64e.deb
+Size: 55348
+MD5sum: dae301be1861fe040bc43f06b9fb1b98
+SHA1: e0abaa635695b960bea760471325fbaef9064dc0
+SHA256: 3fc049c1c1bc9bae9b649c7acbe24fbf5a13b45b779b55f8e7fe208e470c1495
+Section: 越狱插件
+Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱，去掉了Alderis Color Picker依赖
+Author: Afnan Ahmad & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
+Name: ChromaHomeBarX
+
+Package: com.sini921.chromahomebarx
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Afnan Ahmad & SINI
+Installed-Size: 480
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.sini921.chromahomebarx_1.2-5_iphoneos-arm64.deb
+Size: 56904
+MD5sum: 624b16fec8df31b9e94527ea4b8c4b67
+SHA1: 16eaab62c4bdc6d4c82fcaef2e3a936451ac8ba0
+SHA256: 8d79df7730532fa46423d7a57376fd710f5d40381de0dd721c2ad1a33a1517e4
+Section: 越狱插件
+Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱，去掉了Alderis Color Picker依赖
+Author: Afnan Ahmad & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
+Name: ChromaHomeBarX
+
 Package: com.sini921.cylinderreborn
 Version: 1.1.2-2
 Architecture: iphoneos-arm64e
