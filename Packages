@@ -3780,6 +3780,40 @@ Author: ren7995 & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
 Name: Atria
 
+Package: com.sini921.atria
+Version: 1.4.1-4
+Architecture: iphoneos-arm64e
+Maintainer: ren7995 & SINI
+Installed-Size: 976
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sini921.atria_1.4.1-4_iphoneos-arm64e.deb
+Size: 215740
+MD5sum: 1bdd2bfe6f5fdd93d59ce38d475b5c8f
+SHA1: 1257613b7e4ad2c304d516dcae496651b59155f9
+SHA256: f9efa96b26365f92b2f95dd8f84af66f227645055d4ac79597956db5a333acd9
+Section: Tweaks
+Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
+Author: ren7995 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
+Name: Atria
+
+Package: com.sini921.atria
+Version: 1.4.1-4
+Architecture: iphoneos-arm64
+Maintainer: ren7995 & SINI
+Installed-Size: 976
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sini921.atria_1.4.1-4_iphoneos-arm64.deb
+Size: 218008
+MD5sum: 63488c6f4590787ae2e978241875096a
+SHA1: 622fec25ffd23f934cbc0e21e566ab6b174616b1
+SHA256: ef511411a04f3b8708124be612767c4a46a80c4b9e3a226d6f81f4f58bbf8534
+Section: Tweaks
+Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
+Author: ren7995 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
+Name: Atria
+
 Package: com.sini921.ccborder
 Version: 1.1.2-1
 Architecture: iphoneos-arm64e
