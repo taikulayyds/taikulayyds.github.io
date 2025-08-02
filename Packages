@@ -4052,6 +4052,40 @@ Author: Ryan Nair & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
 Name: CylinderReborn
 
+Package: com.sini921.cylinderreborn
+Version: 1.1.2-4
+Architecture: iphoneos-arm64e
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1372
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sini921.cylinderreborn_1.1.2-4_iphoneos-arm64e.deb
+Size: 245680
+MD5sum: c84437ef06b2dbec4aa450d66eff1d7a
+SHA1: 231dd301a207e9bc877678701841fb0caa0af9ba
+SHA256: fd014f5f1ef696993fbd83c1baaa675e1cea4077d35a4775d6e60ea29fb89b98
+Section: Tweaks
+Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn
+
+Package: com.sini921.cylinderreborn
+Version: 1.1.2-4
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1372
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sini921.cylinderreborn_1.1.2-4_iphoneos-arm64.deb
+Size: 246356
+MD5sum: 11bce91b69cafe812c9ee3e249eab374
+SHA1: c76a54f7ed1a70e6ae50f1fb091dc580f37d46fc
+SHA256: dafb19a9d35fe121a5c31f4826630d3f49fc4b9d9ee4abcfbdc6a898fd061060
+Section: Tweaks
+Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn
+
 Package: com.sini921.freepip
 Version: 0.0.6
 Architecture: iphoneos-arm64e
