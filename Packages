@@ -168,6 +168,23 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/xxtouch.png
 Name: XXTouch Elite
 
+Package: ch.xxtou.xxtouch
+Version: 5.3.0
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 60220
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.3.0_iphoneos-arm64e.deb
+Size: 20363116
+MD5sum: 5a63aac2e0c926bc74605c2d3037a187
+SHA1: 3f582ca89f7a56e1b0d8f90525be629db454264e
+SHA256: 5b3e3bc6fe42ec478cbaa97b7a56ba438feadae99abd19517eb1bf45b480fe26
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/xxtouch.png
+Name: XXTouch Elite
+
 Package: chaoge.ChargeLimiter
 Version: 1.7
 Architecture: iphoneos-arm64e
@@ -4278,16 +4295,16 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/autovpn.png
 Name: AutoVPN 自动VPN
 
 Package: com.snail.autovpn.roothide
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm64e
 Maintainer: Snail <mu514983786@gmail.com>
 Installed-Size: 984
 Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
-Filename: ./debs/iphoneos-arm64e/com.snail.autovpn.roothide_1.0.5_iphoneos-arm64e.deb
-Size: 248312
-MD5sum: 4821fc75a5a7afad3746a71ccb162831
-SHA1: ca0617914dbe647e67eb69405c33595bbb193dc2
-SHA256: 00d005b6d7bd1f8fa99728b0c77a163b75177f5f8f2a30bcf26734ea32cece73
+Filename: ./debs/iphoneos-arm64e/com.snail.autovpn.roothide_1.0.6_iphoneos-arm64e.deb
+Size: 251748
+MD5sum: dea397b6affcaf63f2b8eb13cbba4030
+SHA1: 5eb659f64c7ff0f4116c25a3622a9bcddc53012c
+SHA256: 10dcd782de06527614fd2dce2b26d3b48d9d89a1be38ee5d7610299307297c28
 Section: Tweaks
 Description: Automatically enable or disable the vpn according to the situation, and enjoy smooth browsing experience in the app. 根据特定场景自动开启/关闭代理连接，畅享APP丝滑浏览体验。
 Author: Snail <mu514983786@gmail.com>
