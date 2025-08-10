@@ -5989,6 +5989,41 @@ Author: Mineek
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
 Name: AppStoreTroller
 
+Package: dev.mineek.appstoretroller
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretroller_0.1.2_iphoneos-arm64.deb
+Size: 48724
+MD5sum: 138bae3edcdc89ae2ba56a2c972399fd
+SHA1: 0a2fe5fea7d6b8cd81eb8b662427094c5c92b496
+SHA256: 902397ee64ab5874937195430f183d105065c63456b2fdd1cd5c9e35ff4df9fa
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
+Name: appstoretroller
+
+Package: dev.mineek.appstoretroller
+Version: 0.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Mineek
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/dev.mineek.appstoretroller_0.1.2_iphoneos-arm64e.deb
+Size: 48748
+MD5sum: ad3c4dc62d3d8e5cd12b154775054704
+SHA1: 3618a6bd3789cbb07f8b16adc450d955bd8f8dff
+SHA256: 245e7089b91d05ddb1e7f1a400d39a72ff5d8bca2eabdd9ffdb5a413fd0b2885
+Section: Tweaks
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
+Name: appstoretroller
+
 Package: jp.akusio.milkyway2
 Version: 1.0
 Architecture: iphoneos-arm64
