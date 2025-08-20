@@ -2019,6 +2019,41 @@ Author: EllaSP
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/looky.png
 Name: Looky
 
+Package: com.ellasp.looky
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64/com.ellasp.looky_1.0.6_iphoneos-arm64.deb
+Size: 56044
+MD5sum: 1a3a86e66ed31653e9845f9daaff2565
+SHA1: 26a3305a38da3ace7e2457ab3b3ecbea4b6aa070
+SHA256: 6ee15508d9b2e60f3fc5287214adbb82122cc8f4b0024047326219a71ece8dd8
+Section: Tweaks
+Description: Effortless Elegant lock screen notification experience!一款类似ShortLook的插件，将全屏显示您的通知。当您收到通知时，会显示在锁定的iPhone上，它采用了漂亮的全屏设计，可以远距离阅读。它尽可能不引人注目，只要你点击屏幕或“唤醒”，它就会消失。功能介绍：比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。
+Author: EllaSP
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/looky.png
+Name: Looky
+
+Package: com.ellasp.looky
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: EllaSP
+Installed-Size: 460
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64e/com.ellasp.looky_1.0.6_iphoneos-arm64e.deb
+Size: 54860
+MD5sum: f37fd9463cb0cea6951992a5a9b5229a
+SHA1: 1e656f8e758aae88df3b3989a22e93ec59a09d44
+SHA256: 71dad5dd9d18810708ead564edd58a1e64b501abd6566bca47b9e2aabb2dbb51
+Section: Tweaks
+Description: Effortless Elegant lock screen notification experience!一款类似ShortLook的插件，将全屏显示您的通知。当您收到通知时，会显示在锁定的iPhone上，它采用了漂亮的全屏设计，可以远距离阅读。它尽可能不引人注目，只要你点击屏幕或“唤醒”，它就会消失。功能介绍：比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。
+Author: EllaSP
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/looky.png
+Name: Looky
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
