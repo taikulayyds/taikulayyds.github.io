@@ -492,6 +492,39 @@ Author: 0xkuj
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzadirprobe.png
 Name: FilzaDirProbe
 
+Package: com.0xkuj.filzadirprobe
+Version: 1.7.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/iphoneos-arm64/com.0xkuj.filzadirprobe_1.7.2_iphoneos-arm64.deb
+Size: 33344
+MD5sum: 7bc24bc9ae34d0601d41925b7f92ebcc
+SHA1: 1ee2bbc58d14763c8faa3d4e276d47709e1b25da
+SHA256: 943a73b12b50531ab01c15d09414e418a33ce6172f5556656441d41dabd5f287
+Section: Tweaks
+Description: Filza Extension To Calculate Folders Inside Your Filesystem.计算Filza里面文件夹大小。
+Author: 0xkuj
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzadirprobe.png
+Name: FilzaDirProbe
+
+Package: com.0xkuj.filzadirprobe
+Version: 1.7.2
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.filzadirprobe_1.7.2_iphoneos-arm64e.deb
+Size: 32108
+MD5sum: 86d7bcf529325185991ac2da64037ff7
+SHA1: a23093f082d879beb7f6a454ae8dcde47e8db8ff
+SHA256: 576f9db939ff166a570d00cbb744e745650167475a591025c17ceb545090b25d
+Section: Tweaks
+Description: Filza Extension To Calculate Folders Inside Your Filesystem.计算Filza里面文件夹大小。
+Author: 0xkuj
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzadirprobe.png
+Name: FilzaDirProbe
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.8
 Architecture: iphoneos-arm64
