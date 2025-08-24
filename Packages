@@ -4465,6 +4465,40 @@ Author: Soh Satoh & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Name: FreePIP
 
+Package: com.sini921.freepip
+Version: 0.0.6-2
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh & SINI
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.sini921.freepip_0.0.6-2_iphoneos-arm64.deb
+Size: 44204
+MD5sum: 82d17c657e1b4aa05371b98564052a49
+SHA1: deb7056a352a5223af642d4bc2d540444b854769
+SHA256: 6c4d9896bc2ce8d988925007804de660d4ddd1eb0b4a36035bc279fcc4ee9425
+Section: Tweaks
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
+Author: Soh Satoh & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
+Name: FreePIP
+
+Package: com.sini921.freepip
+Version: 0.0.6-2
+Architecture: iphoneos-arm64e
+Maintainer: Soh Satoh & SINI
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.sini921.freepip_0.0.6-2_iphoneos-arm64e.deb
+Size: 41936
+MD5sum: ae986d87f94e9067fca491588d808697
+SHA1: 3c9e42b63f99d0ca1161ebcdb7947df58d79e5e7
+SHA256: 83aa142520382bf16bddace0fb9d490b5999087a5769856f68790d644f0552cc
+Section: Tweaks
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
+Author: Soh Satoh & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
+Name: FreePIP
+
 Package: com.sini921.lstimeseconds
 Version: 0.0.5-1
 Architecture: iphoneos-arm64
