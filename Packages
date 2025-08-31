@@ -2791,6 +2791,43 @@ Author: MTAC
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lynxtwo.png
 Name: Lynx 2
 
+Package: com.mtac.vitreux
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: MTAC
+Installed-Size: 6112
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64e/com.mtac.vitreux_1.0_iphoneos-arm64e.deb
+Size: 5587192
+MD5sum: 6936b5118aa115b6f29af904a316297a
+SHA1: 03d09a41d4ec6853d66ed5fc633121fb1a9b2b13
+SHA256: 4f5a00e5ad12957143c75435579afc9a7a2a8d4e0858d00677a85fe7220f0a68
+Section: Tweaks
+Description: A recreation of Liquid Glass
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
+Name: Vitreux
+Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
+
+Package: com.mtac.vitreux
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 6112
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/com.mtac.vitreux_1.0_iphoneos-arm64.deb
+Size: 5587452
+MD5sum: 36f4a22b19ca33515d107325d2041922
+SHA1: f1223d4997601238801dbe93ce406b1f919b4e0c
+SHA256: 4871893fc1e9815276e870d9bd59deafaed5fe9f1e555fe8096aa79207dfde8a
+Section: Tweaks
+Description: A recreation of Liquid Glass
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
+Name: Vitreux
+Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
+
 Package: com.muirey03.cr4shed
 Version: 4.3.1-1+debug
 Architecture: iphoneos-arm64e
@@ -3479,6 +3516,41 @@ Size: 241788
 MD5sum: 00064cf00e713bfc532b515665fc9d51
 SHA1: b78d7ce5198e132fa7df1ebd4095b4ebc65d994f
 SHA256: 88dbc2c5c25cb2ed3dd3e6fd31dd3beeab765f7e0acda4965e4544e25cdbbbdc
+Section: Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatnotiavatar.png
+Name: WeChatNotiAvatar
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.3-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 1228
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.wechatnotiavatar_1.3-1_iphoneos-arm64e.deb
+Size: 243332
+MD5sum: e70e733a55262bb4bac7ca00d8f447db
+SHA1: 3dd273cef6e5a3b479900ebb641e41df6709102b
+SHA256: 9faf340787f804437e4f3acefd9e3f47c7186f47ed0e94dfd7efa869b49ee376
+Section: Tweaks
+Description: Display Notification Avatars for WeChat App using iOS15+ APIs
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatnotiavatar.png
+Name: WeChatNotiAvatar
+
+Package: com.netskao.wechatnotiavatar
+Version: 1.3-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1228
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.3-1_iphoneos-arm64.deb
+Size: 242836
+MD5sum: 1829a09ffa5050c5d2f7224274b84452
+SHA1: 62129787cc75f26a7e65e21e53df18629d3f986c
+SHA256: 1f61492d1fb9d622eaeb24a5795a629c6af6319d5e07b910306ea2b598c088f7
 Section: Tweaks
 Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
