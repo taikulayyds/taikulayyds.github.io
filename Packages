@@ -2799,10 +2799,10 @@ Installed-Size: 6112
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Filename: ./debs/iphoneos-arm64e/com.mtac.vitreux_1.0_iphoneos-arm64e.deb
-Size: 5587192
-MD5sum: 6936b5118aa115b6f29af904a316297a
-SHA1: 03d09a41d4ec6853d66ed5fc633121fb1a9b2b13
-SHA256: 4f5a00e5ad12957143c75435579afc9a7a2a8d4e0858d00677a85fe7220f0a68
+Size: 5586732
+MD5sum: 9b0c8edc1741066eed7f08d4604130c7
+SHA1: 2c4bf1b63b00b097ac029bb07180fc610307d39d
+SHA256: 14cc05c0c081dbd1cb0ef2819d230fd52a7941c5c96a42ef035d9e14ba5e68a8
 Section: Tweaks
 Description: A recreation of Liquid Glass
 Author: MTAC
@@ -2817,10 +2817,10 @@ Maintainer: MTAC
 Installed-Size: 6112
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Filename: ./debs/iphoneos-arm64/com.mtac.vitreux_1.0_iphoneos-arm64.deb
-Size: 5587452
-MD5sum: 36f4a22b19ca33515d107325d2041922
-SHA1: f1223d4997601238801dbe93ce406b1f919b4e0c
-SHA256: 4871893fc1e9815276e870d9bd59deafaed5fe9f1e555fe8096aa79207dfde8a
+Size: 5587268
+MD5sum: a3e37de1e4b1beeb93bff82fcc8a1d85
+SHA1: 9fbd2c6f55a466a62f33dcf344ce6747cc200ce9
+SHA256: 7a70c9b3a6b32bba84fbbb2bde2f9dcbcc422bb3ee5a7d0478c061338d14cfe9
 Section: Tweaks
 Description: A recreation of Liquid Glass
 Author: MTAC
