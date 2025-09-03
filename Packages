@@ -664,6 +664,39 @@ Author: 0xkuj
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarix.png
 Name: SafariX
 
+Package: com.0xkuj.safarix
+Version: 1.9.9.1
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64e.deb
+Size: 312152
+MD5sum: a8d68a601dff380f48c5303b1bb83e76
+SHA1: 39541932afea96b897052e04f2e9fd996ef00ec9
+SHA256: 044d3c55234ca4c044560fae7466f19567072cabb64e5050c8648666d7d348b7
+Section: Tweaks
+Description: Safari Essential Features.Safari浏览器增强。
+Author: 0xkuj
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarix.png
+Name: SafariX
+
+Package: com.0xkuj.safarix
+Version: 1.9.9.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64.deb
+Size: 315388
+MD5sum: c84ed504d33e2565d42455beaf8b6064
+SHA1: 62a1431b0339347c4649f77c63ada14e3aa4bf91
+SHA256: c9c625b17b65b30bf823f9b9d256705e12ecd1e1786b59ce40a088a6086946a9
+Section: Tweaks
+Description: Safari Essential Features.Safari浏览器增强。
+Author: 0xkuj
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarix.png
+Name: SafariX
+
 Package: com.82flex.noredirect
 Version: 1.10
 Architecture: iphoneos-arm64e
@@ -4810,6 +4843,40 @@ SHA1: 0c6f14236ef3336f59d6d9227d033e695c2b6e9d
 SHA256: bfdaf6776443c5e26e1928a319195bf7032c83902341587f3f73fd0e979da8ec
 Section: Tweaks
 Description: 只要我重启的快，自旋锁就追不上我！在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
+Name: QuickPowerButton
+
+Package: com.sini921.quickpowerbutton
+Version: 0.0.1-11
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.sini921.quickpowerbutton_0.0.1-11_iphoneos-arm64e.deb
+Size: 38344
+MD5sum: f0a391579f6e9c20327f9d5b0382feb3
+SHA1: 4cc7c8d7afbb42276d965bfae455922d3090a1d3
+SHA256: 1544e4e234aa5fcf4fdba38a6a6a42882ccb4e25620999ef5d2af0961a043cc3
+Section: Tweaks
+Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
+Name: QuickPowerButton
+
+Package: com.sini921.quickpowerbutton
+Version: 0.0.1-11
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 436
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.sini921.quickpowerbutton_0.0.1-11_iphoneos-arm64.deb
+Size: 40164
+MD5sum: 17559c7682a0097fd5c989ae3cf67686
+SHA1: 35ffb8b6a8054e91cf8bb75540eaece81dc9856f
+SHA256: bbbff6aeaf0954b4096d70d385666335d8afa6a0eb55cee9f42137cfde189746
+Section: Tweaks
+Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
 Name: QuickPowerButton
