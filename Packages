@@ -5052,6 +5052,40 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
 Name: QuickPowerButton
 
 Package: com.sini921.quickpowerbutton
+Version: 0.0.1-16
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.sini921.quickpowerbutton_0.0.1-16_iphoneos-arm64e.deb
+Size: 42388
+MD5sum: 226462a16e422f99021fea12d0b75b4e
+SHA1: 51e05ca722aa6326ebb6c8de004e8550c9288c90
+SHA256: 73d1f4a9b44c0405fe39efae18e36bc05d20f703cc566f640990e50628f0300f
+Section: Tweaks
+Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
+Name: QuickPowerButton
+
+Package: com.sini921.quickpowerbutton
+Version: 0.0.1-16
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.sini921.quickpowerbutton_0.0.1-16_iphoneos-arm64.deb
+Size: 44196
+MD5sum: 1b3122f472ecfe618917cd01c58c9f6f
+SHA1: a9f7908192c0943e43640e7ef64a334256aebbc7
+SHA256: ed7991fda593e42630a2bb0258fb1e0d99d6ab15b0699f51f405aaca74302f67
+Section: Tweaks
+Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
+Name: QuickPowerButton
+
+Package: com.sini921.quickpowerbutton
 Version: 0.0.1-2
 Architecture: iphoneos-arm64e
 Maintainer: SINI
