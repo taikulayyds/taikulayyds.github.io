@@ -3447,6 +3447,43 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/classickeyboardxs.png
 Name: ClassicKeyboardXS
 
+Package: com.netskao.classickeyboardxs
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 1044
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.netskao.classickeyboardxs_1.1-9_iphoneos-arm64e.deb
+Size: 275624
+MD5sum: 8d3ab20e44da6573092889ae27627e15
+SHA1: c65efb2b621cae180b213e012d6385462f7721a5
+SHA256: f66ddd01864c5827849cd0e71e87ac3d27f1f0005f90972a0332f3287e33ba40
+Section: Tweaks
+Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/classickeyboardxs.png
+Name: ClassicKeyboardXS
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.classickeyboardxs.json
+
+Package: com.netskao.classickeyboardxs
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.classickeyboardxs_1.1-9_iphoneos-arm64.deb
+Size: 275800
+MD5sum: 4b7e6a2ec8115778c43a4af4e50a6f5b
+SHA1: 4e3f581239f593840804257a1534bdc70e79fa77
+SHA256: 5c3d8fc144c8da1f01931eba13bfe8448f4621e0b1515ffe001d22c4c89347cf
+Section: Tweaks
+Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/classickeyboardxs.png
+Name: ClassicKeyboardXS
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.classickeyboardxs.json
+
 Package: com.netskao.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm64e
