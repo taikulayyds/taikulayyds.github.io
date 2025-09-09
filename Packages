@@ -2187,6 +2187,41 @@ Author: dvntm
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filesbrowsingonly.png
 Name: FilesBrowsingOnly
 
+Package: com.ellasp.floaty
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: EllaSP
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64e/com.ellasp.floaty_1.2_iphoneos-arm64e.deb
+Size: 58272
+MD5sum: b35553e9dda3b23aa512d1cfe9d7a777
+SHA1: 36b771947162d6c4fdb0887fe6edbe7d182c2ead
+SHA256: d1f94695f699bd18716330e18565b29ec77b191fafd641cee8b86c64250f49cb
+Section: Tweaks
+Description: Your Banners, Reimagined!
+Author: EllaSP
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floaty.png
+Name: Floaty
+
+Package: com.ellasp.floaty
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64/com.ellasp.floaty_1.2_iphoneos-arm64.deb
+Size: 59864
+MD5sum: c1a9ec8ff97cb015c9ca3d4e5906ed85
+SHA1: 15deadf1de16a214a1770787366c8993cc61aef5
+SHA256: 11217f480a9ace95d3fe67278a07835f7c761362b1a05fe25d7cfd0ae9c7a601
+Section: Tweaks
+Description: Your Banners, Reimagined!
+Author: EllaSP
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floaty.png
+Name: Floaty
+
 Package: com.ellasp.looky
 Version: 1.0.5
 Architecture: iphoneos-arm64e
@@ -2253,6 +2288,41 @@ SHA1: 26a3305a38da3ace7e2457ab3b3ecbea4b6aa070
 SHA256: 6ee15508d9b2e60f3fc5287214adbb82122cc8f4b0024047326219a71ece8dd8
 Section: Tweaks
 Description: Effortless Elegant lock screen notification experience!一款类似ShortLook的插件，将全屏显示您的通知。当您收到通知时，会显示在锁定的iPhone上，它采用了漂亮的全屏设计，可以远距离阅读。它尽可能不引人注目，只要你点击屏幕或“唤醒”，它就会消失。功能介绍：比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。
+Author: EllaSP
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/looky.png
+Name: Looky
+
+Package: com.ellasp.looky
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: EllaSP
+Installed-Size: 460
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64e/com.ellasp.looky_1.2_iphoneos-arm64e.deb
+Size: 54808
+MD5sum: 9849732966fa406d088e0c2c3a6a726c
+SHA1: 0c4e3021cc0c45a6f31b623b3ec2929057604f0a
+SHA256: 29efcea268cbb76de352cd498c7454adb493ad98c67400357aa8f7fa43e0be12
+Section: Tweaks
+Description: Effortless Elegant lock screen notification experience!
+Author: EllaSP
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/looky.png
+Name: Looky
+
+Package: com.ellasp.looky
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64/com.ellasp.looky_1.2_iphoneos-arm64.deb
+Size: 56120
+MD5sum: cad4477a13e5ade6db1561ce82e5f03c
+SHA1: f128e643bf9e31456eb24cc24544dbb047b45719
+SHA256: fc82313f38873ae46b23ee73e2c670c92d373e6ae2d21370d0b4d25b76eb07d7
+Section: Tweaks
+Description: Effortless Elegant lock screen notification experience!
 Author: EllaSP
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/looky.png
 Name: Looky
