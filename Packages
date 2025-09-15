@@ -3002,6 +3002,43 @@ Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
 Name: Vitreux
 Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
 
+Package: com.mtac.vitreux
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: MTAC
+Installed-Size: 6204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.mtac.vitreux_1.2_iphoneos-arm64e.deb
+Size: 5605308
+MD5sum: ff2f9626373b2f092e8271465456fba0
+SHA1: 168f7ed391dec8dd2b94c82eec60d8bab446755d
+SHA256: ad97473f6e087d90add2cfa1007031f5d4f7f8953af05801840c96a6c68c39ea
+Section: Tweaks
+Description: A recreation of Liquid Glass
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
+Name: Vitreux
+Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
+
+Package: com.mtac.vitreux
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 6204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.mtac.vitreux_1.2_iphoneos-arm64.deb
+Size: 5605464
+MD5sum: 2fae949a79c36c86dc04d91da1123485
+SHA1: d7a9e5c110234325fa63d255eb8d87929a43ed20
+SHA256: 79416c99bb37378b25b58ecfdc24703b812ee66b85abd3b7a40c2a5f85c445ce
+Section: Tweaks
+Description: A recreation of Liquid Glass
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
+Name: Vitreux
+Sileodepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
+
 Package: com.muirey03.cr4shed
 Version: 4.3.1-1+debug
 Architecture: iphoneos-arm64e
