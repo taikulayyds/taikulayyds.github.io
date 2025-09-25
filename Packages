@@ -6728,6 +6728,41 @@ Author: yan
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stella.png
 Name: Stella
 
+Package: com.taikulayyds.stheno
+Version: 13.14
+Architecture: iphoneos-arm64
+Maintainer: taikulayyds
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.stheno_13.14_iphoneos-arm64.deb
+Size: 221664
+MD5sum: 82d3e0b2a24a27531f23dbf27660e129
+SHA1: 8a0a1e69888f0ec61659933de6a1e0991243510f
+SHA256: 0cbb14bf5d1ff30c2c6ac8ae5e7a2c8f84bf5417a37f95225261db202689645d
+Section: Tweaks
+Description: Medusa!分屏插件。无设置项，安装即生效。
+Author: Crassna
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stheno.png
+Name: Stheno 分屏
+
+Package: com.taikulayyds.stheno
+Version: 13.14
+Architecture: iphoneos-arm64e
+Maintainer: taikulayyds
+Installed-Size: 1912
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.stheno_13.14_iphoneos-arm64e.deb
+Size: 221132
+MD5sum: 78cc92a103fad454fd0ef4d978da7c81
+SHA1: 4ed44270e38f93265131cc43094d2fc7d72bb896
+SHA256: 73fda23cc02feee2ec29f0c6610defcd53cae5374a439e4449dd71c092736dd3
+Section: Tweaks
+Description: Medusa!分屏插件。无设置项，安装即生效。
+Author: Crassna
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stheno.png
+Name: Stheno 分屏
+
 Package: com.taikulayyds.systeminfo
 Version: 2.7.2-3
 Architecture: iphoneos-arm64
@@ -7172,6 +7207,75 @@ Depiction: https://repo.lenglengyu.top/packageInfo/dismissalert.html
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dismissalert.png
 Name: DismissAlert【屏蔽弹窗】
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/dismissalertsileo
+
+Package: com.yourname.backgroundkeepalive
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: YourName <your.email@example.com>
+Installed-Size: 504
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Suggests: libhooker | substitute
+Conflicts: com.rpetrich.backgrounder, com.jevinskie.backgroundmanager
+Filename: ./debs/iphoneos-arm64/com.yourname.backgroundkeepalive_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 38908
+MD5sum: 894660cf1c20a269939361728b9d69fe
+SHA1: 384563d683a281d8c7c47463f060bc6aa500092c
+SHA256: 5b63ad81a685401940e3f15186e9d7ec008435e8ced8a0306b276d5eb5e701da
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/yourname/backgroundkeepalive
+Description: 基于iOS墓碑机制的后台保活插件
+ 这是一个专为Dopamine越狱环境设计的后台保活插件，通过Hook iOS系统的墓碑机制来提高应用的后台留存率。
+ .
+ 主要功能：
+ • 拦截应用挂起和终止操作
+ • 智能内存管理和优化
+ • 自动监控和重启机制
+ • 适配RootHide隐根越狱环境
+ • 长时间稳定运行，自动故障恢复
+ .
+ 支持iOS 14.0及以上版本，兼容arm64和arm64e架构。
+Tag: purpose::extension, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17
+Author: YourName <your.email@example.com>
+Depiction: https://yourrepo.com/depictions/backgroundkeepalive
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/backgroundkeepalive.png
+Name: BackgroundKeepAlive
+Sileodepiction: https://yourrepo.com/sileo/backgroundkeepalive
+
+Package: com.yourname.backgroundkeepalive
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: YourName <your.email@example.com>
+Installed-Size: 504
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Suggests: libhooker | substitute
+Conflicts: com.rpetrich.backgrounder, com.jevinskie.backgroundmanager
+Filename: ./debs/iphoneos-arm64e/com.yourname.backgroundkeepalive_1.0.0-1+debug_iphoneos-arm64e.deb
+Size: 38972
+MD5sum: 9bfcc7f3d88080e2e9ab3dd09d7b62ce
+SHA1: 2cd46ef716789229b205333de36c73babb6c6b03
+SHA256: a3a40fe25bedd19ebb51c74f94ad09cc8c69387e20923e5d3cf64d6dcab0c670
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/yourname/backgroundkeepalive
+Description: 基于iOS墓碑机制的后台保活插件
+ 这是一个专为Dopamine越狱环境设计的后台保活插件，通过Hook iOS系统的墓碑机制来提高应用的后台留存率。
+ .
+ 主要功能：
+ • 拦截应用挂起和终止操作
+ • 智能内存管理和优化
+ • 自动监控和重启机制
+ • 适配RootHide隐根越狱环境
+ • 长时间稳定运行，自动故障恢复
+ .
+ 支持iOS 14.0及以上版本，兼容arm64和arm64e架构。
+Tag: purpose::extension, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17
+Author: YourName <your.email@example.com>
+Depiction: https://yourrepo.com/depictions/backgroundkeepalive
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/backgroundkeepalive.png
+Name: BackgroundKeepAlive
+Sileodepiction: https://yourrepo.com/sileo/backgroundkeepalive
 
 Package: daniel.analytics
 Version: 0.0.4
