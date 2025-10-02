@@ -5232,6 +5232,40 @@ Author: Soh Satoh & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Name: FreePIP
 
+Package: com.sini921.freepip
+Version: 0.0.6-3
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh & SINI
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.sini921.freepip_0.0.6-3_iphoneos-arm64.deb
+Size: 44128
+MD5sum: 2f8836c176fd5ec233d2cadd301d287f
+SHA1: 89ca9895825dd5352c67e2a5df93d36c93aa1b6c
+SHA256: 2c7a81db69b8f283c45e41131b355498325f4bd12747a90804314cb007d3ae88
+Section: Tweaks
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
+Author: Soh Satoh & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
+Name: FreePIP
+
+Package: com.sini921.freepip
+Version: 0.0.6-3
+Architecture: iphoneos-arm64e
+Maintainer: Soh Satoh & SINI
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.sini921.freepip_0.0.6-3_iphoneos-arm64e.deb
+Size: 43168
+MD5sum: 74ea69613961b9c7cf54a76987bf32fd
+SHA1: 0cbd9bdc3c331879317f010df134df4a3ef701b4
+SHA256: 4c24b8c693a964177ebe0ceba5982d5310699a76cf39319787e1e73b9f35daf3
+Section: Tweaks
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
+Author: Soh Satoh & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
+Name: FreePIP
+
 Package: com.sini921.lstimeseconds
 Version: 0.0.5-1
 Architecture: iphoneos-arm64
@@ -5673,6 +5707,40 @@ Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，�
 Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
 Name: QuickPowerButton
+
+Package: com.sini921.zoomanimation
+Version: 0.0.1-12
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.sini921.zoomanimation_0.0.1-12_iphoneos-arm64.deb
+Size: 33036
+MD5sum: 2387c836495f1898aa0b8755a8e6656e
+SHA1: abf1a445f173f0d6569399bd6022cd7261593b6a
+SHA256: 7d442e8bd763a2dcb53cee2e8b8a95155e3812fa20333cfe5924c2e051780586
+Section: Tweaks
+Description: 桌面动画，可选动画样式，调节动画幅度。
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
+Name: ZoomAnimation
+
+Package: com.sini921.zoomanimation
+Version: 0.0.1-12
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.sini921.zoomanimation_0.0.1-12_iphoneos-arm64e.deb
+Size: 32180
+MD5sum: da0661fb5d063467e7f7dfc87f14541e
+SHA1: 7eba90212726007003a91fa5251916944cc6b0fe
+SHA256: f9a324d1b7e474d665c86633ef2f2cecbe882c1ea71d5cdff28cb5369387bd88
+Section: Tweaks
+Description: 桌面动画，可选动画样式，调节动画幅度。
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
+Name: ZoomAnimation
 
 Package: com.snail.autovpn.roothide
 Version: 1.0.0
