@@ -6967,6 +6967,41 @@ Author: Crassna
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stheno.png
 Name: Stheno 分屏
 
+Package: com.taikulayyds.stheno
+Version: 77.1.4.7
+Architecture: iphoneos-arm64
+Maintainer: taikulayyds
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.stheno_77.1.4.7_iphoneos-arm64.deb
+Size: 221656
+MD5sum: 496e57052a783939c83e450f526849bf
+SHA1: bbcf615f91cb3f968a09822d68784bee3045d1fd
+SHA256: c632ff80c1dddbcd57f66430edd800d7bf0d0d0b0a3b4b2b67dafb248abec128
+Section: Tweaks
+Description: Medusa!分屏插件。无设置项，安装即生效。
+Author: Crassna
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stheno.png
+Name: Stheno 分屏
+
+Package: com.taikulayyds.stheno
+Version: 77.1.4.7
+Architecture: iphoneos-arm64e
+Maintainer: taikulayyds
+Installed-Size: 1912
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.stheno_77.1.4.7_iphoneos-arm64e.deb
+Size: 221312
+MD5sum: a40a425e5f7af6ce22419f14525eccc4
+SHA1: 4d8ba7c0cf390b43cc137cf7e5b6155b9fd80d63
+SHA256: 85150bca97b03a47e31a578c5b9ced8c43f77c3c3ef1326b6ac9d7be6b2dae44
+Section: Tweaks
+Description: Medusa!分屏插件。无设置项，安装即生效。
+Author: Crassna
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stheno.png
+Name: Stheno 分屏
+
 Package: com.taikulayyds.systeminfo
 Version: 2.7.2-3
 Architecture: iphoneos-arm64
