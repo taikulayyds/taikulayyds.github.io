@@ -1513,6 +1513,41 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.6-9
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3244
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.6-9_iphoneos-arm64.deb
+Size: 635356
+MD5sum: 1d73583e52c7fb53173bd5888f2e7f7b
+SHA1: a3687fae7597fd7d3b5bb10d9916b8a2332b7bdf
+SHA256: 8b0113abcbe7d59dd3022cd835cd1cb384a82b7325ca4c0310d9289e9cbab640
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-9
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 3244
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.6-9_iphoneos-arm64e.deb
+Size: 622856
+MD5sum: 153ba5c646321e2bf6c5af967a10bb00
+SHA1: 594701095e167411512bbe4106d1110cc02c86db
+SHA256: eace4a263681b7e8cc01e4aec089741c2c8b19f4eed7e9cc371e850971149ed7
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
 Package: com.be-huge.tie-gesture-advance
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -5702,6 +5737,40 @@ Size: 32648
 MD5sum: f2aa4b9e28f0615704355d02d8621f36
 SHA1: 13ae2fd0dda68a3cc89fe6507d2859077844a923
 SHA256: e30bdb2013e49f636fb6ef5cf8eaa6bb583e211fa2b5560ce3dbb4b715509e2a
+Section: Tweaks
+Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
+Name: QuickPowerButton
+
+Package: com.sini921.quickpowerbutton
+Version: 0.0.1-20
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.sini921.quickpowerbutton_0.0.1-20_iphoneos-arm64.deb
+Size: 51532
+MD5sum: be6698f275f5bd36ed441906d703e51e
+SHA1: 4f904585e27276578935870875f859087381f628
+SHA256: 0820436fdfdc797bbbbe034a05a2b44e0836705ecd9a71b506dabef1e6e8e423
+Section: Tweaks
+Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
+Name: QuickPowerButton
+
+Package: com.sini921.quickpowerbutton
+Version: 0.0.1-20
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.sini921.quickpowerbutton_0.0.1-20_iphoneos-arm64e.deb
+Size: 50036
+MD5sum: 86d113c0c0f016a18f5e2dc4ae9dd978
+SHA1: a7a208fbdcf4f726af62b44f807dd1a557a6a13a
+SHA256: 64d950584a3bbe275caf933b1aec801c2cf14ba4671730c998fd1d283621dc0e
 Section: Tweaks
 Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Author: SINI
