@@ -5471,6 +5471,74 @@ Author: PoomSmart & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
 Name: PSCamera
 
+Package: com.sini921.pscamera
+Version: 0.0.1-3
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart & SINI
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.sini921.pscamera_0.0.1-3_iphoneos-arm64.deb
+Size: 57104
+MD5sum: 1c1f95fa3a1c56f9c6af92f5855921b6
+SHA1: 118ca51d0e57aed4a0c12e975e8921be55bf47c2
+SHA256: 93f6c60c2ead2e53f52180013224e7f049ba1b8b4f57fd18b6cb0d58f16e1984
+Section: Tweaks
+Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
+Author: PoomSmart & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
+Name: PSCamera
+
+Package: com.sini921.pscamera
+Version: 0.0.1-3
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart & SINI
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.sini921.pscamera_0.0.1-3_iphoneos-arm64e.deb
+Size: 56156
+MD5sum: 8258a688db32e2d76e482f54b9954f1d
+SHA1: d40e05c3ee1422d4a7baed0cb9baaf48efb6ee3e
+SHA256: 3e7209c3f55b7f3fe6e7bd14b26e35a54c028f230b3228b80c50f3d5f10c99be
+Section: Tweaks
+Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
+Author: PoomSmart & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
+Name: PSCamera
+
+Package: com.sini921.pscamera
+Version: 0.0.1-4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart & SINI
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.sini921.pscamera_0.0.1-4_iphoneos-arm64.deb
+Size: 60056
+MD5sum: 5c4bf1185f5733ce25f0afc399c2715c
+SHA1: 5a6c1690ffef3112bddeb4d844bbf2fcf682c5f4
+SHA256: a9cd94f92b82fb33da801f63d5f9ae6fdc2781c94f2bd878920c83ffa7bf86e0
+Section: Tweaks
+Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
+Author: PoomSmart & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
+Name: PSCamera
+
+Package: com.sini921.pscamera
+Version: 0.0.1-4
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart & SINI
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.sini921.pscamera_0.0.1-4_iphoneos-arm64e.deb
+Size: 59288
+MD5sum: 8d28304bf1b73fe6d3e1df22e6bdf90a
+SHA1: 372a20cf1f7cc3bbba2a60f4fe67b1f64d6f707e
+SHA256: d16f2d3fdb78557daccee2c4f93dc28666f021cadfc3deabe4b857a96d8571f2
+Section: Tweaks
+Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
+Author: PoomSmart & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
+Name: PSCamera
+
 Package: com.sini921.quickpowerbutton
 Version: 0.0.1-1
 Architecture: iphoneos-arm64
