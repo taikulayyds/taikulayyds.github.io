@@ -5028,6 +5028,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Name: CCBorder
 
 Package: com.sini921.ccborder
+Version: 1.1.2-21
+Architecture: iphoneos-arm64
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 728
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/com.sini921.ccborder_1.1.2-21_iphoneos-arm64.deb
+Size: 109440
+MD5sum: 9ea7a828cc1a3a7ac4d7c81732da3a38
+SHA1: 1b4ed26698cc7154a0cff751450bbe465bfb66bc
+SHA256: 761b235560573fa3ec52f22a60c144673e4da2893834d7535939d8b153a69c04
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.sini921.ccborder
 Version: 1.1.2-3
 Architecture: iphoneos-arm64
 Maintainer: fiore & p2kdev & SINI
