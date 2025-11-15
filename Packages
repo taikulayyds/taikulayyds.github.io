@@ -1800,6 +1800,45 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatpushmsgpage.
 Name: WechatPushMsgPage-rootless
 Sileodepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
 
+Package: com.brend0n.volumemixer
+Version: 0.0.7~beta1
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1400
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/com.brend0n.volumemixer_0.0.7~beta1_iphoneos-arm64.deb
+Size: 234920
+MD5sum: a296248ff17ef2e1f5b8a5ed974aae6f
+SHA1: d705d5e51d91603810dd58233d2615a408cdbdf7
+SHA256: 16a91db63f8fd8f747b5e735b463d869600e5550e95217c6fa5dc2771917a5f5
+Section: Tweaks
+Description: Volume control for individual app
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/volumemixer.png
+Name: VolumeMixer
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
+Package: com.brend0n.volumemixer
+Version: 0.0.7~beta1
+Architecture: iphoneos-arm64e
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.brend0n.volumemixer_0.0.7~beta1_iphoneos-arm64e.deb
+Size: 230716
+MD5sum: 3555d40347781136583996651be51273
+SHA1: 5855ae684c68199b601742882de0b0880d23e03b
+SHA256: 1ea701e93e0d4ad7c0ce05514097b080db3ea4994b8c25537907fc7c4c925b22
+Section: Tweaks
+Description: Volume control for individual app
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/volumemixer.png
+Name: VolumeMixer
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
 Package: com.ccless
 Version: 2.0.6
 Architecture: iphoneos-arm64
