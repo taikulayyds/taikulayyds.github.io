@@ -1839,6 +1839,45 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/volumemixer.png
 Name: VolumeMixer
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
 
+Package: com.brend0n.volumemixer
+Version: 0.0.7~beta2
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1400
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/com.brend0n.volumemixer_0.0.7~beta2_iphoneos-arm64.deb
+Size: 234684
+MD5sum: 5e9358a177be5e8a630aff71926fdf70
+SHA1: 1d37328479304e788d2b0466f43b1dd4d920c803
+SHA256: 2a039246df72c8afda1413a3555c61bfbbc8d95726534afdbfdbcb072285bd9d
+Section: Tweaks
+Description: Volume control for individual app
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/volumemixer.png
+Name: VolumeMixer
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
+Package: com.brend0n.volumemixer
+Version: 0.0.7~beta2
+Architecture: iphoneos-arm64e
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.brend0n.volumemixer_0.0.7~beta2_iphoneos-arm64e.deb
+Size: 230892
+MD5sum: 0d39e795ebda300415052f666622a8a9
+SHA1: b486e0c3b76ca968263c89b0f5dbf428e22f079f
+SHA256: 7320a11cf1d0b031716631f860ec106e406841f4000127dc0976fc7d8a75b8f4
+Section: Tweaks
+Description: Volume control for individual app
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/volumemixer.png
+Name: VolumeMixer
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
+
 Package: com.ccless
 Version: 2.0.6
 Architecture: iphoneos-arm64
