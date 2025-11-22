@@ -3967,6 +3967,24 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/Swiftgram.png
 Name: Swiftgram Crack
 
+Package: com.netskao.swiftgramcrack
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.swiftgramcrack_1.1-5_iphoneos-arm64e.deb
+Size: 70120
+MD5sum: 6d51f4625dcbef8992da85657870b387
+SHA1: 74820d77dc1b5f97a08edadc98e906ef1a77c6dd
+SHA256: 0e84587e81d4957ba895b5cff3023aaad7178426b85043ea881a069c0a7915c9
+Section: Tweaks
+Description: Swiftgram Pro. 附加解除下载保护/解除截图保护, 支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/Swiftgram.png
+Name: Swiftgram Crack
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
