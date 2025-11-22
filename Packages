@@ -3950,6 +3950,23 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/pullclearnc.png
 Name: PullClear下拉清理通知
 
+Package: com.netskao.swiftgramcrack
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.swiftgramcrack_1.1-5_iphoneos-arm64.deb
+Size: 69996
+MD5sum: c10fd511d71f578e6848e9c9be4eed22
+SHA1: 59b0f393146de65c9fe8eb7ec0822f099d680d63
+SHA256: 864b5699cc111563c2ed903fbe4501f29a3bdf2cd29961adcb1d4aef44e4ed4a
+Section: Tweaks
+Description: Swiftgram Pro. 附加解除下载保护/解除截图保护, 支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/Swiftgram.png
+Name: Swiftgram Crack
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
