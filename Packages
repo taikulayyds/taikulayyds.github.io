@@ -1,3 +1,49 @@
+Package: a1
+Version: 1.8.3-alpha
+Architecture: iphoneos-arm64
+Maintainer: LF，AD
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, bash, adv-cmds, gawk
+Filename: ./debs/iphoneos-arm64/a1_1.8.3-alpha_iphoneos-arm64.deb
+Size: 16340
+MD5sum: 83b7b724a3500f38518fbdfc17e3155b
+SHA1: e037e63dc9cbe95f623aea6cd95582393e7dc9be
+SHA256: 48f1cd08114ad25ab8d7e35e95eacb1ed52b914c42319502953321ba408057da
+Section: Systems系统
+Description: Optimize Jetsam and kernel parameters to enhance background task performance.
+  通过调整 Jetsam 机制与内核参数，显著提升后台任务运行效率。
+  - Reduce priority of non-essential processes to improve system fluidity.
+    降低非核心进程优先级，优化系统流畅度。
+  - Modify kernel memory management parameters for better background task handling.
+    优化内核内存管理参数，改善后台任务调度机制。
+  - 此版本支持Rootless，不支持RootHide！请使用专属版本！
+  - 终端输入a1手动执行，输入a1ctl打开管理面板
+Author: LF
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/a1.png
+Name: A1
+
+Package: a1
+Version: 1.8.3-alpha
+Architecture: iphoneos-arm64e
+Maintainer: LF，AD
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, bash, adv-cmds, gawk
+Filename: ./debs/iphoneos-arm64e/a1_1.8.3-alpha_iphoneos-arm64e.deb
+Size: 16296
+MD5sum: da78a2ab6de650df620db5a55c050f0d
+SHA1: 56ad1a769d754c09946db4c34d6111d5a6b5f59f
+SHA256: b3ba13d15b8f1bc095d425df1be9b725ab8f1a35c649080acb13b195dd0a05e3
+Section: Systems系统
+Description: Optimize Jetsam and kernel parameters to enhance background task performance.
+  通过调整 Jetsam 机制与内核参数，显著提升后台任务运行效率。
+  - Reduce priority of non-essential processes to improve system fluidity.
+    降低非核心进程优先级，优化系统流畅度。
+  - Modify kernel memory management parameters for better background task handling.
+    优化内核内存管理参数，改善后台任务调度机制。
+  - 此版本支持roothide，不支持rootless！请使用专属版本！
+  - 终端输入a1手动执行，输入a1ctl打开管理面板
+Author: LF
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/a1.png
+Name: A1
+
 Package: ch.xxtou.xxtouch
 Version: 5.1
 Architecture: iphoneos-arm64
