@@ -4,10 +4,10 @@ Architecture: iphoneos-arm64
 Maintainer: LF，AD
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, bash, adv-cmds, gawk
 Filename: ./debs/iphoneos-arm64/a1_1.8.3-alpha_iphoneos-arm64.deb
-Size: 17064
-MD5sum: 456f0891d93198fc82d950d97766b844
-SHA1: a8ebca53650f45fcbb09936b586c5c29a8f97acc
-SHA256: 415720869cb7bfb89666542b79a3347bd85ba01453eb0076efec41a4b9ff9431
+Size: 17068
+MD5sum: 3edf675cdc4e54a33b5277bd593a6e44
+SHA1: e5da8385c68f6611b7f09a22c713cdb212caa879
+SHA256: e35fa71ee929002f3d5105fac802d201e75d83b8836fda38039590fb5f9ff521
 Section: Systems系统
 Description: Optimize Jetsam and kernel parameters to enhance background task performance.
   通过调整 Jetsam 机制与内核参数，显著提升后台任务运行效率。
@@ -48,7 +48,7 @@ Description: Optimize Jetsam and kernel parameters to enhance background task pe
   -完善、修复a1ctl
   -注释掉3个提升系统压力的内核参数
 Author: LF
-Icon: https://img.icons8.com/?size=512&id=IXAPBCK6dFKv&format=png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/a1.png
 Name: A1
 Sileodepiction: https://ad-ios.github.io/ad/sileodepiction/a1/js.json
 
@@ -58,10 +58,10 @@ Architecture: iphoneos-arm64e
 Maintainer: LF，AD
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, bash, adv-cmds, gawk
 Filename: ./debs/iphoneos-arm64e/a1_1.8.3-alpha_iphoneos-arm64e.deb
-Size: 17032
-MD5sum: f4d774e1b8823e7cc79bbb092291244d
-SHA1: 328818cdfa998ea0fa93c85dea4266ee3edde7e0
-SHA256: 794fe9bdfcc09fe7ad2f0538a2a82f7093914020962d7f04dfc169ce23e58849
+Size: 17028
+MD5sum: f4d133488026b267682f1fb1cd8c5ae3
+SHA1: 472743771b5a3bcf4f30ff2276649f2650bf1258
+SHA256: 883f43924a658fd05e6256bd0cdc36d1176aee340001192ec184b0d921074778
 Section: Systems系统
 Description: Optimize Jetsam and kernel parameters to enhance background task performance.
   通过调整 Jetsam 机制与内核参数，显著提升后台任务运行效率。
@@ -102,7 +102,7 @@ Description: Optimize Jetsam and kernel parameters to enhance background task pe
   -完善、修复a1ctl
   -注释掉3个提升系统压力的内核参数
 Author: LF
-Icon: https://img.icons8.com/?size=512&id=IXAPBCK6dFKv&format=png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/a1.png
 Name: A1
 Sileodepiction: https://ad-ios.github.io/ad/sileodepiction/a1/js.json
 
