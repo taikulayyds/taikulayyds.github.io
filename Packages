@@ -1,4 +1,50 @@
 Package: a1
+Version: 1.8.3-2-alpha1
+Architecture: iphoneos-arm64
+Maintainer: LF，AD
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, bash, adv-cmds, gawk
+Filename: ./debs/iphoneos-arm64/a1_1.8.3-2-alpha1_iphoneos-arm64.deb
+Size: 17992
+MD5sum: c5f02cff5f5b7b4a832982b8eb84a3f3
+SHA1: 70ae60748ae2f0d91d10fe5fc6efbab3df9a5548
+SHA256: 4753478362a238a3ae738a3f1cdedea68851b0ee60415fba5f8b9def33d63498
+Section: Systems系统
+Description: Optimize Jetsam and kernel parameters to enhance background task performance.
+  通过调整 Jetsam 机制与内核参数，显著提升后台任务运行效率。
+  - Reduce priority of non-essential processes to improve system fluidity.
+    降低非核心进程优先级，优化系统流畅度。
+  - Modify kernel memory management parameters for better background task handling.
+    优化内核内存管理参数，改善后台任务调度机制。
+  - 此版本支持Rootless，不支持RootHide！请使用专属版本！
+  - 终端输入a1手动执行，输入a1ctl打开管理面板
+Author: LF
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/a1.png
+Name: A1
+
+Package: a1
+Version: 1.8.3-2-alpha1
+Architecture: iphoneos-arm64e
+Maintainer: LF，AD
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, bash, adv-cmds, gawk
+Filename: ./debs/iphoneos-arm64e/a1_1.8.3-2-alpha1_iphoneos-arm64e.deb
+Size: 17988
+MD5sum: fa640dc29a764d2e1647f9c9d4ecef55
+SHA1: f11064607e7b3705dc8f12926a0d6766310464a6
+SHA256: 9ad14befeb2c5b0390b998673194ca7dc90cdcbcf03d7114e6baf0a61442d77d
+Section: Systems系统
+Description: Optimize Jetsam and kernel parameters to enhance background task performance.
+  通过调整 Jetsam 机制与内核参数，显著提升后台任务运行效率。
+  - Reduce priority of non-essential processes to improve system fluidity.
+    降低非核心进程优先级，优化系统流畅度。
+  - Modify kernel memory management parameters for better background task handling.
+    优化内核内存管理参数，改善后台任务调度机制。
+  - 此版本支持roothide，不支持rootless！请使用专属版本！
+  - 终端输入a1手动执行，输入a1ctl打开管理面板
+Author: LF
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/a1.png
+Name: A1
+
+Package: a1
 Version: 1.8.3-alpha
 Architecture: iphoneos-arm64
 Maintainer: LF，AD
@@ -7757,6 +7803,36 @@ Author: ARX8x 来了老弟
 Depiction: https://arx8x.github.io/depictions/systeminfo.html
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/systeminfo.png
 Name: System Info
+
+Package: com.taikulayyds.tgextra
+Version: 1.3-3
+Architecture: iphoneos-arm64
+Maintainer: choco/waruhachi/TheWinner02/thewinner0217/daodao
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.tgextra_1.3-3_iphoneos-arm64.deb
+Size: 6121896
+MD5sum: 33220530a9eca0b4e7b91b0348ef904b
+SHA1: d0974af584293757a52b926e86a8e5833bfa39ae
+SHA256: ede259dbcbfe88c3a85102c472a8cc02fb576060874da2e1e07198a72939bedb
+Section: Tweaks
+Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；三指长按（建议在“设置”页面）手势打开设置；或底部「设置」—>长按倒数第三个按钮打开插件；如果打不开，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
+Author: choco/waruhachi/TheWinner02/thewinner0217/daodao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/telegram.png
+Name: TGExtra
+
+Package: com.taikulayyds.tgextra
+Version: 1.3-3
+Architecture: iphoneos-arm64e
+Maintainer: choco/waruhachi/TheWinner02/thewinner0217/daodao
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.tgextra_1.3-3_iphoneos-arm64e.deb
+Size: 6123972
+MD5sum: 448523cf877eddaac4ca3cdc88ed864f
+SHA1: 703e563eff561b0342d32c81b8630f72e754c50d
+SHA256: 06b64fc63bcd902fe1e844d222ce8911394237dfad4a28381b15c033ec71d73d
+Section: Tweaks
+Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；三指长按（建议在“设置”页面）手势打开设置；或底部「设置」—>长按倒数第三个按钮打开插件；如果打不开，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
+Author: choco/waruhachi/TheWinner02/thewinner0217/daodao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/telegram.png
+Name: TGExtra
 
 Package: com.taikulayyds.touchvis
 Version: 2.8.1k
