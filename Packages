@@ -2312,6 +2312,40 @@ Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
 Name: CCBorder16
 
+Package: com.dao.neofreebird.bht
+Version: 5.3-1
+Architecture: iphoneos-arm64
+Maintainer: NeoFreeBird & 刀刀
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debs/iphoneos-arm64/com.dao.neofreebird.bht_5.3-1_iphoneos-arm64.deb
+Size: 7769568
+MD5sum: 8446b2417670d7de1d52d9038710bd23
+SHA1: 27aace64d02141e0311e337cd019ece07926c311
+SHA256: 996a919f99334ad267a9968ce522f9b5030066ebd3a69f5be4605783af198762
+Section: Tweaks
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Author: NeoFreeBird
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/twitter.png
+Name: NFB-BHTwitter 中文版
+
+Package: com.dao.neofreebird.bht
+Version: 5.3-1
+Architecture: iphoneos-arm64e
+Maintainer: NeoFreeBird & 刀刀
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./debs/iphoneos-arm64e/com.dao.neofreebird.bht_5.3-1_iphoneos-arm64e.deb
+Size: 7770676
+MD5sum: cf75efb4c61d12735bbbf9bc61d4da65
+SHA1: 7bdc6ec35b3f9a498b1c163dc138112689d900ac
+SHA256: e514cc9348cf4ca82edcb73d90e534e77518d70d202d35dbb850a8ea62f71d96
+Section: Tweaks
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Author: NeoFreeBird
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/twitter.png
+Name: NFB-BHTwitter 中文版
+
 Package: com.den.locktouchx
 Version: 1.3
 Architecture: iphoneos-arm64
