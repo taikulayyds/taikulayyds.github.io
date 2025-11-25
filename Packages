@@ -2319,10 +2319,10 @@ Maintainer: NeoFreeBird & 刀刀
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
 Filename: ./debs/iphoneos-arm64/com.dao.neofreebird.bht_5.3-1_iphoneos-arm64.deb
-Size: 7769568
-MD5sum: 8446b2417670d7de1d52d9038710bd23
-SHA1: 27aace64d02141e0311e337cd019ece07926c311
-SHA256: 996a919f99334ad267a9968ce522f9b5030066ebd3a69f5be4605783af198762
+Size: 7771688
+MD5sum: b37ce1244c99a22b749e8f88adcb8284
+SHA1: 5cb7f28515250a8e5152b4d5cca7d1556f13e794
+SHA256: 3f166ecdc410041b6b5b2d97fcb677ba40ede018e7608cfe974eb535cb37d505
 Section: Tweaks
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Author: NeoFreeBird
@@ -2336,10 +2336,10 @@ Maintainer: NeoFreeBird & 刀刀
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
 Filename: ./debs/iphoneos-arm64e/com.dao.neofreebird.bht_5.3-1_iphoneos-arm64e.deb
-Size: 7770676
-MD5sum: cf75efb4c61d12735bbbf9bc61d4da65
-SHA1: 7bdc6ec35b3f9a498b1c163dc138112689d900ac
-SHA256: e514cc9348cf4ca82edcb73d90e534e77518d70d202d35dbb850a8ea62f71d96
+Size: 7770840
+MD5sum: 830cc394453b65814952fccb22408097
+SHA1: 8f945cc7a28c5c6f0a8a3d6432966c4a5d6b9663
+SHA256: 74eaa851238ff1d60edca9f8c7b1ff1633737238a3e4dda9aa41f78960b7dc2b
 Section: Tweaks
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Author: NeoFreeBird
