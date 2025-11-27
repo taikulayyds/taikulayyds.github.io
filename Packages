@@ -2174,14 +2174,14 @@ Version: 0.4.9.9b
 Architecture: iphoneos-arm64
 Maintainer: therealhoodboy
 Installed-Size: 220
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0), oldabi
 Conflicts: com.dvntm.cc18
 Provides: com.cureux.cc26
 Filename: ./debs/iphoneos-arm64/com.cureux.cc26_0.4.9.9b_iphoneos-arm64.deb
-Size: 23520
-MD5sum: 6a2a3147478202cddac4b012256a34db
-SHA1: b6c768ce4e8ae1245680ea1b13a5a469161b7c34
-SHA256: 623067fc505bb419fc3edb6400fcaa1f186f1937b7bcd0b46ad01037a8c56be8
+Size: 23648
+MD5sum: 05a366089f32c7ec6c04c28f3e2d2033
+SHA1: 519c3ad8cabf2e88b4712e297de4632cfe3e4d88
+SHA256: 17171130b4ae4f78554bfb35c81d30f80903be5f86c2980f924ad1685c4677bb
 Section: Tweaks
 Description: A sleek reimagination of Control Center.
 Author: therealhoodboy
@@ -2194,14 +2194,14 @@ Architecture: iphoneos-arm64e
 Maintainer: therealhoodboy
 Installed-Size: 220
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0), oldabi
 Conflicts: com.dvntm.cc18
 Provides: com.cureux.cc26
 Filename: ./debs/iphoneos-arm64e/com.cureux.cc26_0.4.9.9b_iphoneos-arm64e.deb
-Size: 23800
-MD5sum: 1cc6b6cdda8fc722abc56775f790582c
-SHA1: 3b5b68313286975da084b358bac60e52c61b4166
-SHA256: 48ba5510440310d6ed247dea0b1fe33ccea1539fb0eff86a8b7fad7bc79e4b6d
+Size: 23744
+MD5sum: 24a41854fed0b59b5f77bc31b98ce148
+SHA1: f2209c9c6b436444cc5b109839c44cc761f0a971
+SHA256: aa2053d739182e90f74198899c16a39833e4b1ee965178a6b62fcd8b7203309c
 Section: Tweaks
 Description: A sleek reimagination of Control Center.
 Author: therealhoodboy
@@ -5328,6 +5328,40 @@ Size: 108036
 MD5sum: ae225b13840bcb64bd84418441c184d8
 SHA1: da37d267662a37956fa0c58665ba6f8cad4dd1e1
 SHA256: c1418b72ed673e2cc9b800fe1c3b4bb5fc684da4e83136a755bec5a27811087b
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.sini921.ccborder
+Version: 1.1.2-23
+Architecture: iphoneos-arm64
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 728
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/com.sini921.ccborder_1.1.2-23_iphoneos-arm64.deb
+Size: 110296
+MD5sum: 9c3bb26d1216f8aa46547a5f206da117
+SHA1: 4c5b0480d8dcec580ca0681e26aa8ccad6027a1d
+SHA256: b8df72ffefb84163a20bf61e27235f1ffc12265f67dffe8bd193baf4cd86039b
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.sini921.ccborder
+Version: 1.1.2-23
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 708
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64e/com.sini921.ccborder_1.1.2-23_iphoneos-arm64e.deb
+Size: 108416
+MD5sum: acca582dd8f93428eb08e4aa4cb25768
+SHA1: e6084bd629a2a15dd6a7a237e016cf038c64912d
+SHA256: 79483e71824b9db05a06b0aebc784abf61b733d50fd327f40dd3c753f73f0058
 Section: Tweaks
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
