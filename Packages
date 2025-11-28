@@ -1970,6 +1970,43 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/volumemixer.png
 Name: VolumeMixer
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.volumemixer/depiction.json
 
+Package: com.brend0n.volumemixer
+Version: 0.0.7~beta3
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1016
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64/com.brend0n.volumemixer_0.0.7~beta3_iphoneos-arm64.deb
+Size: 174648
+MD5sum: c88123970fd7025dd98fa4e609e4ef60
+SHA1: a4f916424c876597e1f46e6452f66df1a3c29912
+SHA256: e234cf10137bf92352268ad1f82e8cd18cc7b76695f093516c21dde963b05a80
+Section: Tweaks
+Description: Volume control for individual app
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/volumemixer.png
+Name: VolumeMixer
+
+Package: com.brend0n.volumemixer
+Version: 0.0.7~beta3
+Architecture: iphoneos-arm64e
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 1016
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/com.brend0n.volumemixer_0.0.7~beta3_iphoneos-arm64e.deb
+Size: 172216
+MD5sum: 947370b49b5a86ed353ff246897105c1
+SHA1: 3fa760f817536a8282e9f51d208c3dfddd95b9f7
+SHA256: 9e58199c39ffd1cd00e4de81cfa318206e0f2ab91721677a557fc7496314adc4
+Section: Tweaks
+Description: Volume control for individual app
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemixer
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/volumemixer.png
+Name: VolumeMixer
+
 Package: com.ccless
 Version: 2.0.6
 Architecture: iphoneos-arm64
