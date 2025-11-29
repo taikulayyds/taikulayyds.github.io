@@ -4148,6 +4148,42 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/Swiftgram.png
 Name: Swiftgram Crack
 
+Package: com.netskao.swiftgramcrack
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 1080
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.swiftgramcrack_1.1-7_iphoneos-arm64e.deb
+Size: 423732
+MD5sum: 55422a46c5ce1d555b8908eb09a53f9c
+SHA1: 749f88be2c0bfd88341f8c00312e852a1d30d4d1
+SHA256: 039071b7bc019261566ee7d45e73ad06e9112f1da70b279c8b70013a6b318d32
+Section: Tweaks
+Description: Swiftgram Pro. 附加解除下载保护/解除截图保护/去除官方广告, 支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/Swiftgram.png
+Name: Swiftgram Crack
+
+Package: com.netskao.swiftgramcrack
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 1080
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.swiftgramcrack_1.1-7_iphoneos-arm64e.deb
+Size: 423732
+MD5sum: 55422a46c5ce1d555b8908eb09a53f9c
+SHA1: 749f88be2c0bfd88341f8c00312e852a1d30d4d1
+SHA256: 039071b7bc019261566ee7d45e73ad06e9112f1da70b279c8b70013a6b318d32
+Section: Tweaks
+Description: Swiftgram Pro. 附加解除下载保护/解除截图保护/去除官方广告, 支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/Swiftgram.png
+Name: Swiftgram Crack
+
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
@@ -5399,6 +5435,40 @@ Size: 108416
 MD5sum: acca582dd8f93428eb08e4aa4cb25768
 SHA1: e6084bd629a2a15dd6a7a237e016cf038c64912d
 SHA256: 79483e71824b9db05a06b0aebc784abf61b733d50fd327f40dd3c753f73f0058
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.sini921.ccborder
+Version: 1.1.2-24
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 712
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/com.sini921.ccborder_1.1.2-24_iphoneos-arm64e.deb
+Size: 109968
+MD5sum: b126aeddb98422f9556bffd5979d7420
+SHA1: 8459288494ee678192a844c9ab71eaa15a0a8327
+SHA256: 59ccb12d66de0d0d60fb6e41fa18c7fc9ba27654bc3ea67c3fdf206ef916e4ba
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.sini921.ccborder
+Version: 1.1.2-24
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 712
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64e/com.sini921.ccborder_1.1.2-24_iphoneos-arm64e.deb
+Size: 109968
+MD5sum: b126aeddb98422f9556bffd5979d7420
+SHA1: 8459288494ee678192a844c9ab71eaa15a0a8327
+SHA256: 59ccb12d66de0d0d60fb6e41fa18c7fc9ba27654bc3ea67c3fdf206ef916e4ba
 Section: Tweaks
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
