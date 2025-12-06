@@ -9037,12 +9037,47 @@ Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 6032
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/wiki.qaq.colorfulwallpaperx_5.3_iphoneos-arm64e.deb
-Size: 1448350
-MD5sum: 44ccf436562af41570659beec299f8c0
-SHA1: f89da67969712f433b930abdba2ed13ece29be3e
-SHA256: b69a40cabb77bd1078d3e3ea3810f11d609b50441ce70f7af3cdc4a609d0670e
+Size: 1449464
+MD5sum: 0c4ccf6575c0155047af60839dd0758a
+SHA1: 0b978a59e95ce8f4f992c9aa8f9a0ed75fce12c2
+SHA256: f111d9e2df3422b2cc32ff3f5db3694af24c863037826ff14019349dda629aba
 Section: Tweaks
 Description: Dynamic wallpaper with colorful effects.
 Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/colorfulwallpaperx.png
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.4
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/wiki.qaq.colorfulwallpaperx_5.4_iphoneos-arm64.deb
+Size: 1448004
+MD5sum: e3c135bdaa8b69dc97727dada9a2d189
+SHA1: d7ae06f838d980ab4be2901459e40d9f092564a3
+SHA256: e95e97e183e38f4221b451d1fdaa6c26e7a6bc748a17d62d254a18a278288656
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/colorfulwallpaperx.png
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.4
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.colorfulwallpaperx_5.4_iphoneos-arm64e.deb
+Size: 1449560
+MD5sum: b1594cfa0b551bf05331f05bf92c7f87
+SHA1: 2212618c5c84bab8ad13250f2db514fce80376b0
+SHA256: b844b26dcc9a29d5047ec85e12aabadcc30845a29754e0b63e2c25ebd4c7c9ce
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/colorfulwallpaperx.png
 Name: Colorful Wallpaper X
 
