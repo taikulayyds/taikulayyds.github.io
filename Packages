@@ -992,6 +992,40 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noredirect.png
 Name: No Redirect
 
+Package: com.82flex.noredirect
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/com.82flex.noredirect_2.0_iphoneos-arm64.deb
+Size: 88100
+MD5sum: d73bcd95c9aa1b357f3acfb1b50a9e2c
+SHA1: e45559ca5cd26a92a96b92b22d60548954bb58f7
+SHA256: 01893919b882e61f2f0fba8cadde248ab3c99840bbde1c48d84a3f76c3956ea7
+Section: Tweaks
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noredirect.png
+Name: No Redirect
+
+Package: com.82flex.noredirect
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/com.82flex.noredirect_2.0_iphoneos-arm64e.deb
+Size: 88480
+MD5sum: a66df6670936937ecda6eb5e710a9c67
+SHA1: 01426386ee25ae8bb38fcadecfce1325d82c100b
+SHA256: 4190ecdc5de3d50da94060fc2254883a284a6e131775257f0f37a3d1365ff16e
+Section: Tweaks
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noredirect.png
+Name: No Redirect
+
 Package: com.82flex.touchvis
 Version: 3.12
 Architecture: iphoneos-arm64
