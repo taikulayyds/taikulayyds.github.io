@@ -1162,6 +1162,40 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
 Name: Touch-Viz
 
+Package: com.82flex.touchvis
+Version: 4.0.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4360
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.touchvis_4.0.2_iphoneos-arm64.deb
+Size: 915664
+MD5sum: 3a3a325074f7489ace8ddda3a52505c4
+SHA1: a44bbd899ff16e99f630f2f36551fc1bbe680830
+SHA256: 4203760ac8c6494a7029505018703ef078a65dc6af75a91cec45555eb2ec961b
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 4.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 4360
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.touchvis_4.0.2_iphoneos-arm64e.deb
+Size: 915920
+MD5sum: e68689f8042fef828e84c98b4ee567f8
+SHA1: 65a6f142b8cc12cd47bb50dc249dbcc76d24e5c0
+SHA256: f27a59e40b32fce60d71a109e928c04264a313ffa3d544a73287d34287f2bbcd
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
+Name: Touch-Viz
+
 Package: com.anthopak.pancake
 Version: 2.3
 Architecture: iphoneos-arm64
