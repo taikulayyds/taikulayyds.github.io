@@ -4216,6 +4216,41 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzacrack.png
 Name: Filza Crack
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.filzacrack.json
 
+Package: com.netskao.filzacrack
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 120
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.filzacrack_1.1-9_iphoneos-arm64.deb
+Size: 28704
+MD5sum: a4daa9f74e78e7c4886fcc0d77e33d34
+SHA1: a58a9576b9d79492de0f3322d608003ebfb5dc4e
+SHA256: 2a7b09b8f7d3188ada460b7e56f983d8c8cdc5ab00b8706c42d49612c36fa9e1
+Section: Tweaks
+Description: Filza Crack
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzacrack.png
+Name: Filza Crack
+
+Package: com.netskao.filzacrack
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 120
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.filzacrack_1.1-9_iphoneos-arm64e.deb
+Size: 28896
+MD5sum: 940746de7e78fa8b2e181417e4697628
+SHA1: c32239d09f7c296d49a4b9f973476645775e68a1
+SHA256: 6cdd4a7e82ec678508223769081504832958f88e26da513e6761ef5a93bc9c26
+Section: Tweaks
+Description: Filza Crack
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzacrack.png
+Name: Filza Crack
+
 Package: com.netskao.perfectgrabber
 Version: 1.1-7
 Architecture: iphoneos-arm64
