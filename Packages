@@ -1845,6 +1845,41 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.7-1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3300
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.7-1_iphoneos-arm64.deb
+Size: 643260
+MD5sum: 1a398bc8700cad4887350135119fc5cf
+SHA1: 727c4f00c7e5529eb7514ef80b045825577d1244
+SHA256: b5a9df013cc05054ae0326d2a281ca396d56834977f438cc9f68293453937eba
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.7-1
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 3300
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.7-1_iphoneos-arm64e.deb
+Size: 629196
+MD5sum: cc6e7452a7e78fc77cf49a7f55708855
+SHA1: 3b93686be2403043cea7bcd28fb8ea429b691f9c
+SHA256: 75577d40e644159e2bd721e5dabf82d0ae99bc1a671e7763ab7737421a055414
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
 Package: com.be-huge.tie-gesture-advance
 Version: 1.1.0
 Architecture: iphoneos-arm64
