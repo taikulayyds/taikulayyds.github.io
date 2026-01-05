@@ -1371,6 +1371,41 @@ Author: b4db1r3
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lstimeseconds.png
 Name: LSTimeSeconds (iOS 15 - 16)
 
+Package: com.be-huge.bullet
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 1112
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.bullet_1.0.7_iphoneos-arm64.deb
+Size: 211332
+MD5sum: a35c6a1dd17c5c72166d5cd6cfb44533
+SHA1: 2ddf09e4a2bf7e0c17ba3f0a5d93bed92d9642cb
+SHA256: 2fc17865c6fd115b6b4666fa5da1576cc6172fa4875458c335003ee502c96e2d
+Section: Tweaks
+Description: 弹幕通知
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bullet.png
+Name: bullet
+
+Package: com.be-huge.bullet
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 1112
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.bullet_1.0.7_iphoneos-arm64e.deb
+Size: 206508
+MD5sum: 7043f6be5eea76534934b7fa4cc26388
+SHA1: b34c78056b21ddb3fe01c2106a32327017119e73
+SHA256: dca8537054d85d07026126b4541ab2986534b5e33947c1548fa46bdb96b8bb24
+Section: Tweaks
+Description: 弹幕通知
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bullet.png
+Name: bullet
+
 Package: com.be-huge.floating-view
 Version: 1.5.1-1
 Architecture: iphoneos-arm64
