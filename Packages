@@ -2018,6 +2018,41 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
+Package: com.be-huge.floating-view
+Version: 1.5.8-4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3356
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.floating-view_1.5.8-4_iphoneos-arm64.deb
+Size: 653780
+MD5sum: ef9ebe6793b03d7e9a883f218ff01d04
+SHA1: 90b61a17dc0a4bf061c2e3110823f20691edd2af
+SHA256: bb8d7f9aaac589d4154e5954daa1e0cccc90140a0af944c00cdc3d3152c65e7f
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
+Package: com.be-huge.floating-view
+Version: 1.5.8-4
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 3356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.floating-view_1.5.8-4_iphoneos-arm64e.deb
+Size: 640900
+MD5sum: 31c10e74cd02e3ec969c50c424bee1ec
+SHA1: ec6fe4e92893384b9e0666527dc9d4374adcc871
+SHA256: 77313d94c782b55ce0c90668f9a15e6cfb110e073d9b2e053f16a89c3135fb21
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
+Name: floatingView
+
 Package: com.be-huge.tie-gesture-advance
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -7767,6 +7802,22 @@ Description: RootHide Manager本地汉化包
 Author: taikula
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/manager.png
 Name: RootHide Manager汉化
+
+Package: com.taikuayyds.patcher.cn
+Version: 0.01
+Architecture: iphoneos-arm64e
+Maintainer: taikula
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.taikuayyds.patcher.cn_0.01_iphoneos-arm64e.deb
+Size: 1312
+MD5sum: 3763c01b3e5f48e9086ece002165e87e
+SHA1: bd476be77c9d4e813f3a071b229707521dbf2f05
+SHA256: 952a3b03dbdbe2e3c5615b682cdc27b8b39b666c8fd35159af966f232817f5bc
+Section: Tweaks
+Description: RootHide Patcher本地汉化包
+Author: taikula
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/patcher.png
+Name: RootHide Patcher汉化
 
 Package: com.taikulayyds.anthocrack2
 Version: 1.0.0
