@@ -8606,10 +8606,10 @@ Maintainer: taikula
 Depends: mobilesubstrate, firmware (>= 15.0)
 Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
 Filename: ./debs/iphoneos-arm64/com.taikulayyds.snapperbeautify_1.0_iphoneos-arm64.deb
-Size: 85480
-MD5sum: 87fcb8c174bf7ab4fe63e98db5db43a7
-SHA1: 9645592291113d9ee97d1067ec288aca9108c6de
-SHA256: af369ac74825850dfac487aebf66c7ce2231e4d78f2cbf18cef2637dccf8b3ab
+Size: 100524
+MD5sum: 3de86c9ace7ca6e4e905b4e8fa6166c8
+SHA1: ce70164b1946a9efd2e13d7c2cfa660562e2ac30
+SHA256: d91e6d643751854a096b748fafbdb0a69c89d69d6b2a0ca43cd1def439d553f2
 Section: Tweaks
 Description: Snapper3美化(个人自用)。
 Author: taikula
@@ -8620,14 +8620,13 @@ Package: com.taikulayyds.snapperbeautify
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: taikula
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 15.0)
 Replaces: com.lclrc.hammerit, com.jontelang.snapper3,byg.iosios.net.bigshotsnapper3plugin,com.dao.bigshotsnapper3plugin,com.squidforce.snapper3.plugins
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.snapperbeautify_1.0_iphoneos-arm64e.deb
-Size: 85408
-MD5sum: ea81c466c3843e7bec044bf7485e472e
-SHA1: c9589b1c0a6f5cb5b4187c40002f56865509642f
-SHA256: 35b3bee89438e7a99487fad4535e41cfe96503773324f5687cd6ad4480642032
+Size: 100416
+MD5sum: b77b06109173d051dbe91a22cb9d7047
+SHA1: 17518541c35efbd2183822d06b2f1955d4d86ab6
+SHA256: 4c9eb39917f280dec372b7a7a74833ada03fd5b9f6b173f108fe06893ac2f265
 Section: Tweaks
 Description: Snapper3美化(个人自用)。
 Author: taikula
