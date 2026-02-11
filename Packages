@@ -4627,6 +4627,41 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
 Name: AppData
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
 
+Package: com.netskao.appdata
+Version: 1.4.6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 5140
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.6_iphoneos-arm64.deb
+Size: 1499928
+MD5sum: 12c7f9612e8d53416b94fe3bef19c132
+SHA1: 624ef126867692f4c65fed94428c5ff25fff3bbb
+SHA256: 822e9215e5cefba0dd6c9926c6e7c1537ef0a844a7e7a47dccfc43aff69433e9
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen. 从主屏幕图标查看和管理应用程序数据。
+Author: Fouad Raheb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
+Package: com.netskao.appdata
+Version: 1.4.6
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 5140
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.netskao.appdata_1.4.6_iphoneos-arm64e.deb
+Size: 1500156
+MD5sum: bc7e6bef8230aa4f2e4d7959eb1f855a
+SHA1: 36883ad034195ed1de28740d5e3edd977dde7f41
+SHA256: dc7eb8f9605e0f987cb4b2fc0ae1da1e1f641c8e8aa1f658dfd01dcf7c10ea1b
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen. 从主屏幕图标查看和管理应用程序数据。
+Author: Fouad Raheb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
 Package: com.netskao.classickeyboardxs
 Version: 1.1-8
 Architecture: iphoneos-arm64
