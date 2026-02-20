@@ -6409,6 +6409,40 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Name: CCBorder
 
 Package: com.sini921.ccborder
+Version: 1.1.2-31
+Architecture: iphoneos-arm64
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 864
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/com.sini921.ccborder_1.1.2-31_iphoneos-arm64.deb
+Size: 159288
+MD5sum: d37a2cbd8fc2533d311b7060a1f8a59f
+SHA1: d448145636c15057c0e92f28ef4e7ff6af2525cd
+SHA256: cea0213ef932e103ba370d270724d0789a33f6ef8fb46ed0dda4f5b1352f2a44
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.sini921.ccborder
+Version: 1.1.2-31
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 864
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64e/com.sini921.ccborder_1.1.2-31_iphoneos-arm64e.deb
+Size: 158364
+MD5sum: b3235b9f2ebfc18e43568b18bc331020
+SHA1: e3977342b7a6a89ddad45d09f25b52e6d641afe7
+SHA256: 395b1d2dc26a76951c9343f5043d46cfbb61d39db766fb9e2ea3bb6abd826b8f
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.sini921.ccborder
 Version: 1.1.2-5
 Architecture: iphoneos-arm64
 Maintainer: fiore & p2kdev & SINI
@@ -10229,6 +10263,40 @@ Size: 1447668
 MD5sum: 535330da12c1152210df4d7d9e27aa21
 SHA1: c46b0a1bb42f62b0f076fae8d92be58ae3d02b86
 SHA256: 909f1a260246eb3343c3cdfb4a5cfeffaa25f81d8a6c83480b08b4ab07856b73
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/colorfulwallpaperx.png
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6016
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/wiki.qaq.colorfulwallpaperx_5.6_iphoneos-arm64.deb
+Size: 1445812
+MD5sum: 66dfe38bf574b57e11d78adb0ade1fc6
+SHA1: 4d2a314b8f36a658920dc1975fed163a9b104170
+SHA256: e74d8e7d9c1daff35f83632eee93011b2be9c3155b56ff9909ee3b4ac294de1d
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/colorfulwallpaperx.png
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 5.6
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 6016
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/wiki.qaq.colorfulwallpaperx_5.6_iphoneos-arm64e.deb
+Size: 1450056
+MD5sum: 76e1fa83d3cb3f6939c6a7ee7a43daa7
+SHA1: 6b3a61328acaffef07533ef13eedb3bf6fe9ae51
+SHA256: 06b6cec5488273fdc1e6cd079f1d909d9edff8f5bce4b227fccc8828094ab0c8
 Section: Tweaks
 Description: Dynamic wallpaper with colorful effects.
 Author: Lessica <82flex@gmail.com>
