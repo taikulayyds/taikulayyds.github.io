@@ -634,6 +634,40 @@ Author: 82Flex <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/xxtouch.png
 Name: XXTouch Elite
 
+Package: ch.xxtou.xxtouch
+Version: 5.4.3
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 61632
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/ch.xxtou.xxtouch_5.4.3_iphoneos-arm64.deb
+Size: 20495016
+MD5sum: 6b6fde4491fbc53f63196879839bc4a8
+SHA1: c32ab5e800e6fb20a771a5ee1cc58d9723292cfb
+SHA256: f1ae90cc7156b73bac2705519332a22e123c760cf6f7f9f985882bee8a44bdd7
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/xxtouch.png
+Name: XXTouch Elite
+
+Package: ch.xxtou.xxtouch
+Version: 5.4.3
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 61604
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/ch.xxtou.xxtouch_5.4.3_iphoneos-arm64e.deb
+Size: 20493792
+MD5sum: 1715775b68b032bd815533239b31fb7a
+SHA1: 79a1f0331d3058f88f84da4b8737ffe3b56d19e3
+SHA256: bca1e0557c62bdc6050970ebf8a123c7087171b51ebda3a8bdbfbc84c8d860c4
+Section: Tweaks
+Description: XXTouch is a powerful and flexible automation tool for iOS.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/xxtouch.png
+Name: XXTouch Elite
+
 Package: chaoge.ChargeLimiter
 Version: 1.7
 Architecture: iphoneos-arm64
@@ -6436,6 +6470,40 @@ Size: 158364
 MD5sum: b3235b9f2ebfc18e43568b18bc331020
 SHA1: e3977342b7a6a89ddad45d09f25b52e6d641afe7
 SHA256: 395b1d2dc26a76951c9343f5043d46cfbb61d39db766fb9e2ea3bb6abd826b8f
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.sini921.ccborder
+Version: 1.1.2-34
+Architecture: iphoneos-arm64
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 864
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/com.sini921.ccborder_1.1.2-34_iphoneos-arm64.deb
+Size: 158548
+MD5sum: 9ee4634bb5c14578577302a12539078e
+SHA1: 2ab4771c80c610d8a94600bc7e42dd201d1abec9
+SHA256: 1c8680baa70f83358b7c5ede45deaa86ea5af7acb4dc5e328e5dc400a5dc4931
+Section: Tweaks
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder
+
+Package: com.sini921.ccborder
+Version: 1.1.2-34
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 864
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64e/com.sini921.ccborder_1.1.2-34_iphoneos-arm64e.deb
+Size: 157672
+MD5sum: 3b4b451483493c38267b367ca8d71f56
+SHA1: 4e43302acceee5812ce436c910b8e72f818b2a8f
+SHA256: e178d270fba72a9d25bb2b2c4498d5a7ec117bf866454c1780551259b7a6c8ea
 Section: Tweaks
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
