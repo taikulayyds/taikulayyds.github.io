@@ -9397,6 +9397,45 @@ Author: tesla_man <POBsupport@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/popoutbuttons.png
 Name: PopOutButtons
 
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.teslaman3092.popoutbuttons_1.0.2_iphoneos-arm64.deb
+Size: 56916
+MD5sum: 3564526460a996ff6d3aefc15167da10
+SHA1: 053a25b543ce0a97bf8fca76f92944347f55793c
+SHA256: f34f7cb61aee018bf25ab68303b2230971c91546e46853928c8ce59e97ac2c70
+Section: Tweaks
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: https://chariz.com/get/popoutbuttons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Name: PopOutButtons
+
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.teslaman3092.popoutbuttons_1.0.2_iphoneos-arm64e.deb
+Size: 56008
+MD5sum: 9b67dab77e9b1c924ac5b32438efd6bd
+SHA1: 2866c96caa8fe87af1175f990cd6b2a3829449ea
+SHA256: b260ed5a176366c0e215c38ac00cd19e401ecb9e0cf3f3052ec35ff27d7db788
+Section: Tweaks
+Description: PopOutButtons bring the iOS 18 buttons popouts to iOS 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Depiction: https://chariz.com/get/popoutbuttons
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Name: PopOutButtons
+
 Package: com.uckermark.siriplus
 Version: 1.3
 Architecture: iphoneos-arm64
