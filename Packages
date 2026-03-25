@@ -3659,6 +3659,41 @@ Author: ichitaso
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/hideserialnumber.png
 Name: HideSerialNumber
 
+Package: com.iosdump.appdata
+Version: 1.8.8
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_1.8.8_iphoneos-arm64.deb
+Size: 169836
+MD5sum: cf3e60ccd19ab44f1a1d5007623f246b
+SHA1: bd5b0d8274c6bcc56cde3cf6b18ded2668332f26
+SHA256: 82734b6784647d2060a0fe380141e65168dd8367cdc8f58f0344f4aca9269dc6
+Section: Tweaks
+Description: 从主屏幕查看和管理应用数据
+Author: Fouad Raheb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 1.8.8
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_1.8.8_iphoneos-arm64e.deb
+Size: 165364
+MD5sum: 069d299854d18842f9bb4b7263722de1
+SHA1: 77484fa4d2bc38609bb8ed6a00f60032c83e40b2
+SHA256: 2ef087589e83a3ff88a58bc8d3c6d770666e536aabd325f90ae32478684fb130
+Section: Tweaks
+Description: 从主屏幕查看和管理应用数据
+Author: Fouad Raheb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
 Package: com.jakeashacks.bounceit
 Version: 1.0.4
 Architecture: iphoneos-arm64
