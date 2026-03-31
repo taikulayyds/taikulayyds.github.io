@@ -4726,6 +4726,39 @@ Author: Nathan Senter
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/internalstoragesettings.png
 Name: InternalStorageSettings
 
+Package: com.nathan.internalstoragesettings
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Nathan Senter
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64e/com.nathan.internalstoragesettings_1.0.1_iphoneos-arm64e.deb
+Size: 2772
+MD5sum: d1035c78d3fb28106df19fb404504755
+SHA1: c001e96beea2886cf77f819f208e1a19ba8145e6
+SHA256: 00044590b8d5e3acab663d82fbff680b5e90d8156106888b120bc16672b5d9dc
+Section: Tweaks
+Description: Tweak to enable the hidden storage settings  显示存储“系统数据”详情
+Author: Nathan Senter
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/internalstoragesettings.png
+Name: InternalStorageSettings
+
+Package: com.nathan.internalstoragesettings
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettings_1.0.1_iphoneos-arm64.deb
+Size: 2592
+MD5sum: 537ab37a39da5436b55f6433452692bc
+SHA1: 34b3b4fc18c18820ddc9a1d183820eda1c395cab
+SHA256: 44f0b211b25b29793940eabbd8d3180df65a478276a605aafeb608e07d445698
+Section: Tweaks
+Description: Tweak to enable the hidden storage settings  显示存储“系统数据”详情
+Author: Nathan Senter
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/internalstoragesettings.png
+Name: InternalStorageSettings
+
 Package: com.nathan.miniisland
 Version: 1.0.3
 Architecture: iphoneos-arm64e
