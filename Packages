@@ -5833,6 +5833,40 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swipeextenderx.png
 Name: SwipeExtenderX
 
+Package: com.roothide.lockdown
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.roothide.lockdown_1.0.1_iphoneos-arm64e.deb
+Size: 3992
+MD5sum: 4fa34bba06e775e7f047f940a7075a9d
+SHA1: e844093a1ce025b8d7836e3e362956406ad43942
+SHA256: 79417090b2b9bb93121cfedc8b1bfb8d94bee9e758648c6d2765856bd7d651a2
+Section: Tweaks
+Description: JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Three security levels: balanced, strict, maximum.
+Author: roothide
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lockdown.png
+Name: lockdown
+
+Package: com.roothide.lockdown
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.roothide.lockdown_1.0.2_iphoneos-arm64e.deb
+Size: 5200
+MD5sum: b897bc7ad87737933bc0b9a1cd9da616
+SHA1: 1daf30c8953b17efbcc0c75d7286c34ffe503614
+SHA256: dddc77fe683eb707ec324b25566047ade70ac357efc41dd2da8b129c41e550d4
+Section: Tweaks
+Description: JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Three security levels: balanced, strict, maximum.
+Author: roothide
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lockdown.png
+Name: lockdown
+
 Package: com.ryannair05.cylinder
 Version: 1.1.2
 Architecture: iphoneos-arm64
