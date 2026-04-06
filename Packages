@@ -5902,6 +5902,23 @@ Author: roothide
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lockdown.png
 Name: lockdown
 
+Package: com.roothide.lockdown
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.roothide.lockdown_1.0.3_iphoneos-arm64e.deb
+Size: 5200
+MD5sum: 5cbb323a2afd12214b9517d5241f542e
+SHA1: cfdf425b1568682f16c218caa80d6eba3884df36
+SHA256: c6af72e84b6431759affee2f502e782d519fa09989281d87afc765da7a0af627
+Section: Tweaks
+Description: JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Enabled by default!
+Author: roothide
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lockdown.png
+Name: lockdown
+
 Package: com.ryannair05.cylinder
 Version: 1.1.2
 Architecture: iphoneos-arm64
