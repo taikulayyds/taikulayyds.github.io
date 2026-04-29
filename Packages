@@ -4078,6 +4078,41 @@ Author: Fouad Raheb
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
 Name: AppData
 
+Package: com.iosdump.appdata
+Version: 1.9.7
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_1.9.7_iphoneos-arm64.deb
+Size: 220204
+MD5sum: c96dd42d8240ce61253f0ba85084b04e
+SHA1: fac97f4cedcd5488af04ff0ac1a6c6ffcdae9e8e
+SHA256: 424205e6970dd6d07a2941087872bec57632433d4f8a51ec8fe5d5849d6ecec0
+Section: Tweaks
+Description: 从主屏幕查看和管理应用数据
+Author: Fouad Raheb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 1.9.7
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_1.9.7_iphoneos-arm64e.deb
+Size: 214780
+MD5sum: c7472f14eda0932f166ff1d5654d76f1
+SHA1: e9aa9fed8f27a66fd7f100aadaa04119f3a41ff3
+SHA256: 20e59227ceaf98ead55046630f568b23caaa5ebe5b3feedc7fcbe31f7204e68e
+Section: Tweaks
+Description: 从主屏幕查看和管理应用数据
+Author: Fouad Raheb
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
 Package: com.jakeashacks.bounceit
 Version: 1.0.4
 Architecture: iphoneos-arm64
