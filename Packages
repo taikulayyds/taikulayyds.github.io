@@ -11168,6 +11168,80 @@ Author: akusio <akusio-report@neko2.net>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway.png
 Name: MilkyWay2
 
+Package: jp.akusio.milkyway2
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: ./debs/iphoneos-arm64/jp.akusio.milkyway2_1.1_iphoneos-arm64.deb
+Size: 44684
+MD5sum: a5a49a76fcceb9717f3b8dca8d8620ce
+SHA1: b2fd241ba4ec8406ebbb1b61569ba4036d7f23ac
+SHA256: 71814ab27d7aa6dbf57cf7b19a3cb2e407e9bc6d7332e196daf69dd25157bbba
+Section: Tweaks
+Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26；刀刀编译。
+Author: akusio <akusio-report@neko2.net>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway.png
+Name: MilkyWay2
+
+Package: jp.akusio.milkyway2
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 308
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: ./debs/iphoneos-arm64e/jp.akusio.milkyway2_1.1_iphoneos-arm64e.deb
+Size: 43120
+MD5sum: 0ea3fa6a7431c9a5b2d1de1aaf73d41d
+SHA1: 21c7fd2acee02a2f9a1b6a4339d851b3e772b041
+SHA256: b22737321109b8f727589d4b49ae3fd75a14322bc1c0d47f484be9514186eb7f
+Section: Tweaks
+Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26；刀刀编译。
+Author: akusio <akusio-report@neko2.net>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway.png
+Name: MilkyWay2
+
+Package: jp.akusio.milkyway2
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: ./debs/iphoneos-arm64/jp.akusio.milkyway2_1.2_iphoneos-arm64.deb
+Size: 47416
+MD5sum: edc312557e4af3d0ed7a08aad2ea50a0
+SHA1: 3a545099f917e7585a000342e0095854d6be2ab2
+SHA256: bfcc315ca7acd29cd8bd77e74add3fb54566eeefb1002b682e4d4628c6caa066
+Section: Tweaks
+Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26；刀刀编译。
+Author: akusio <akusio-report@neko2.net>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway.png
+Name: MilkyWay2
+
+Package: jp.akusio.milkyway2
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 308
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: ./debs/iphoneos-arm64e/jp.akusio.milkyway2_1.2_iphoneos-arm64e.deb
+Size: 45964
+MD5sum: a2cba7686b40bcbc0474b988e4208d9a
+SHA1: b619102e1371748bf72fc4c6726daba38d946f9c
+SHA256: b5a888675b576e602f04028864e19ca9370ac62735a49c117ff8e72935ae1c90
+Section: Tweaks
+Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26；刀刀编译。
+Author: akusio <akusio-report@neko2.net>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway.png
+Name: MilkyWay2
+
 Package: jp.soh.freepip
 Version: 0.0.5
 Architecture: iphoneos-arm64
