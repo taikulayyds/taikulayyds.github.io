@@ -10884,6 +10884,23 @@ Author: yan
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ring.png
 Name: Ring
 
+Package: com.yourepo.0xash.insulation
+Version: 0.0.9
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 484
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.yourepo.0xash.insulation_0.0.9_iphoneos-arm64e.deb
+Size: 96464
+MD5sum: 264df3d82ab248660d11fa9e4bb19b8e
+SHA1: d5c54ae7b62372fb2c734a58be4cd5e58787a221
+SHA256: eeac82dbe3eee24933803bee0f1803ec1c08a244ede5d9a75b8910e5e9192573
+Section: Tweaks
+Description: 解除温控，一切从简即可。灰灰参考作者开源代码地址进行二改优化：https://github.com/be-huge/insulation
+Author: be-huge
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/insulation.png
+Name: insulation(解除温控)
+
 Package: com.yourepo.lly.dismissalert
 Version: 1.0.0
 Architecture: iphoneos-arm64e
