@@ -2609,6 +2609,40 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/floatingView.png
 Name: floatingView
 
 Package: com.be-huge.insulation
+Version: 0.0.18-3
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 704
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.insulation_0.0.18-3_iphoneos-arm64e.deb
+Size: 108940
+MD5sum: b8f367ac8b10470ac1757f1fb11d2928
+SHA1: 8168ac3b2381e2c8ecc43810a4a5733da5019635
+SHA256: 3d4d2bf8687a643dc32c2617679ccb0aff5570b5faff54b22223449712227f12
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Author: be-huge & doimty
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/insulation.png
+Name: insulation(解除温控)
+
+Package: com.be-huge.insulation
+Version: 0.0.18-3
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 704
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/iphoneos-arm64/com.be-huge.insulation_0.0.18-3_iphoneos-arm64.deb
+Size: 110920
+MD5sum: f2300ddb7631a4fee1435299f6627389
+SHA1: d2c6cf1fd7157808e1a86b13f2cfcf8f1683b009
+SHA256: fc6f1908563edc5b891db17fa8f30947c4a1bce1b077ff88ee02219326cb6480
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Author: be-huge & doimty
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/insulation.png
+Name: insulation(解除温控)
+
+Package: com.be-huge.insulation
 Version: 0.0.3
 Architecture: iphoneos-arm64e
 Maintainer: be-huge
