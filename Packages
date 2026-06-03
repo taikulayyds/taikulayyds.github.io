@@ -2683,10 +2683,10 @@ Maintainer: doimty
 Installed-Size: 844
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/iphoneos-arm64e/com.be-huge.insulation_0.1.20-End_iphoneos-arm64e.deb
-Size: 110288
-MD5sum: e99f7a914d656e6a293020f42dcb3c1b
-SHA1: 36bdcd4088ab72068bc7a7a860cef43074827b42
-SHA256: 5b7ad417bc70b04c0520fbf953b223dd802576bef40851d517c3444da8efc86d
+Size: 110408
+MD5sum: ba85d62549d3cbb557cf263bdaf163ec
+SHA1: 2425602dc27d1f147d0f1653cce2a0931766a9fe
+SHA256: 8f4be4578c1c8f077fcd80b123bc9643284a7f633d326c1cf5e9799a97586f68
 Section: Tweaks
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
 Author: be-huge & doimty
@@ -2700,10 +2700,10 @@ Maintainer: doimty
 Installed-Size: 844
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/iphoneos-arm64/com.be-huge.insulation_0.1.20-End_iphoneos-arm64.deb
-Size: 112948
-MD5sum: 51ab90c0fcd2cda04c2eb39719f54c4d
-SHA1: 23125ee96ebe3548ebf320716afa9b9100ff4251
-SHA256: 4fef75b80d372602176954896a4d724f883cbfee9fe4d8e9900abf7f574aa826
+Size: 112944
+MD5sum: 6d9e44949b027436ad2424aecb799838
+SHA1: 391bdf4cda40d913b88487cb9e558c42d37db9ca
+SHA256: ab6a4787f0fe57d3fc8f1597e37fdb5e01f4bfcc63ca562c740676e93d3b683c
 Section: Tweaks
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
 Author: be-huge & doimty
