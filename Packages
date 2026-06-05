@@ -2744,6 +2744,40 @@ Author: be-huge & doimty
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/insulation.png
 Name: insulation
 
+Package: com.be-huge.insulation
+Version: 0.1.31
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 612
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.be-huge.insulation_0.1.31_iphoneos-arm64e.deb
+Size: 50444
+MD5sum: c96fc32c5836d10f7e44268a6af22767
+SHA1: ea43ff81831775f2042c61be300ab7eda64c27df
+SHA256: 096f7e50d8ee08b539391934cf65f37d24bb24873dbbbb5ade159ea5cf63bbb5
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Author: be-huge & doimty
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/insulation.png
+Name: insulation
+
+Package: com.be-huge.insulation
+Version: 0.1.31
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 628
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.be-huge.insulation_0.1.31_iphoneos-arm64.deb
+Size: 53000
+MD5sum: 082d7578219071914b55b5b620debe7a
+SHA1: 17acb21f1437259ce221687f5c6693576a857149
+SHA256: 28fb5343f73c5ff0da156e1f3bb0c9e2dc6d58bab843b80144d447ac640997e5
+Section: Tweaks
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Author: be-huge & doimty
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/insulation.png
+Name: insulation
+
 Package: com.be-huge.tie-gesture-advance
 Version: 1.1.0
 Architecture: iphoneos-arm64e
