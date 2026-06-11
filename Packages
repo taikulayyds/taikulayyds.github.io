@@ -824,6 +824,40 @@ Author: 来了老弟
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cocoatop64.png
 Name: CocoaTop汉化-roothide
 
+Package: cn.llld.cocoatop
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/cn.llld.cocoatop_0.0.2_iphoneos-arm64e.deb
+Size: 19516
+MD5sum: c1210bdf8ddfa9df6de5a5339d2985f9
+SHA1: 18c09c72359aad1bbbdb22afc62d8c7ff14c2160
+SHA256: 32452f594c2ac0348a7bbb5d20c6d19e533eac3939fa2da819e63625798ba092
+Section: roothide汉化补丁
+Description: CocoaTop汉化插件，适配官版和真皮4个修改版
+Author: 来了老弟
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cocoatop-zh.png
+Name: CocoaTop (汉化插件)
+
+Package: cn.llld.cocoatop
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/cn.llld.cocoatop_0.0.2_iphoneos-arm64.deb
+Size: 19168
+MD5sum: 19915b9d73d6141b947305922ada5067
+SHA1: ea015a7a305431724ab8e09c58d08dc4e18f227e
+SHA256: 20d0b23b3beddf08934f7d3fbfa2f89bff53da3fe2c17a55801285e370beeb5f
+Section: rootless汉化补丁
+Description: CocoaTop汉化插件，适配官版和真皮4个修改版
+Author: 来了老弟
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cocoatop-zh.png
+Name: CocoaTop (汉化插件)
+
 Package: cn.llld.errorfilter
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -6765,6 +6799,76 @@ Author: Simon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccglow.png
 Name: 控制中心发光
 
+Package: com.simon.ccglow
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.simon.ccglow_2.0.2_iphoneos-arm64e.deb
+Size: 24564
+MD5sum: ca4536b1eb03c6107750ffc9e8bbbbeb
+SHA1: c1d4b072b15091c2ac0d76a4b15daf8a594a7d1b
+SHA256: 08e5127a80c448a6217d2c48c3f604da8eef500be3c650cfd82c027949448f87
+Section: Tweaks
+Description: 自定义控制中心发光。
+Author: Simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccglow.png
+Name: 控制中心发光
+
+Package: com.simon.ccglow
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.simon.ccglow_2.0.2_iphoneos-arm64.deb
+Size: 25140
+MD5sum: f7f2bc94e239b33748cdbaba7f676fac
+SHA1: ad9f68ed17b10408e8bcaeb285908ed1ec290f94
+SHA256: 24f4bdb1c75fa5f8eb9aba3d84dd1a65051cdb9e163175dcc9d590af97374e90
+Section: Tweaks
+Description: 自定义控制中心发光。
+Author: Simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccglow.png
+Name: 控制中心发光
+
+Package: com.simon.ccglow
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.simon.ccglow_2.0.3_iphoneos-arm64e.deb
+Size: 23540
+MD5sum: 432ec111b2a51ccda9149e8a18432ddf
+SHA1: 73bb9ed92c1a6ec1d4f6f362e1938602b03351e8
+SHA256: 34d00d9810606152276c4f2fad8a027cfe248b95c4efaa4d075b8580911670e8
+Section: Tweaks
+Description: 自定义控制中心发光。
+Author: Simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccglow.png
+Name: 控制中心发光
+
+Package: com.simon.ccglow
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.simon.ccglow_2.0.3_iphoneos-arm64.deb
+Size: 24204
+MD5sum: 52762e9f233bb0df635b2cb93b4a0e6a
+SHA1: b12fdc9bf6a063f058abc7b2b3669d7cdbde4ab6
+SHA256: a5cd6ae533e002e1d2194d768571dfe0655dadc857d033be751cffe799429347
+Section: Tweaks
+Description: 自定义控制中心发光。
+Author: Simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccglow.png
+Name: 控制中心发光
+
 Package: com.simon.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64e
@@ -6794,6 +6898,41 @@ Size: 35372
 MD5sum: 5868e5294ef518316473a618aaeb1bfd
 SHA1: 16336a552e8c18b069f8f6bc80dfa360b723e964
 SHA256: bcb36217b58b0094b44d5824dfa950a57738c7d2a85363ed3b9d617ad0e5a594
+Section: Tweaks
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccmusic.png
+Name: 控制中心音乐模块动画
+
+Package: com.simon.ccmusic
+Version: 2.4
+Architecture: iphoneos-arm64e
+Maintainer: simon
+Installed-Size: 564
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64e/com.simon.ccmusic_2.4_iphoneos-arm64e.deb
+Size: 73932
+MD5sum: c287b2e3a0f65cfb8d90d88ba5252f28
+SHA1: 33cfcad0e427a2a5cf4028c05dfbefded4e73fc1
+SHA256: 50bca6dab70fd64feb16970f81917637c29409838cfdf60f347e85614caa77af
+Section: Tweaks
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccmusic.png
+Name: 控制中心音乐模块动画
+
+Package: com.simon.ccmusic
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 564
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/com.simon.ccmusic_2.4_iphoneos-arm64.deb
+Size: 75556
+MD5sum: 5c148baad36bbd0b937dd587884c4454
+SHA1: f291a8c0741459fbf6838a6dfb288e7400597da6
+SHA256: c60a8432afd1a8e047a4cc13c285a846c462f4313a86aa5480ce43befb398f85
 Section: Tweaks
 Description: 为控制中心的音乐模块添加动画
 Author: simon
