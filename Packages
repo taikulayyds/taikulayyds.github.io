@@ -3426,10 +3426,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration, com.hk.rootless.cc
 Filename: ./debs/iphoneos-arm64e/com.ccless_2.1.0.1_iphoneos-arm64e.deb
-Size: 592020
-MD5sum: 4614a41979e88f6b2654d5c8dc7cf8d4
-SHA1: 7a768290e609b097c5b65b354a73bd82628a5180
-SHA256: 49ad9548d9f6c27d696ce84a597034f590a10f5a15de26358a49e4863d4cd641
+Size: 597164
+MD5sum: e0cc759293bfce2a20593ea61e5f493c
+SHA1: a523f3ff76a3e3ccbc5bb121221f9affec1e841c
+SHA256: 12f0209dbd4ee9ad2d1171736d5d240667db8bad43806c0d2526a67b9f35c99c
 Section: Tweaks
 Description: 超级控制中心模块集合！
 Author: 妖刀
@@ -3443,10 +3443,10 @@ Maintainer: 妖刀
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration, com.hk.rootless.cc
 Filename: ./debs/iphoneos-arm64/com.ccless_2.1.0.1_iphoneos-arm64.deb
-Size: 596780
-MD5sum: 2295703ff8d74f0be6c68213285232f6
-SHA1: 052a4f1192f87bc5e90adbbb860b997316f30369
-SHA256: 1688123a9cc88a064ee2172ddda90cc3d2f007611ee6788fd0992ac473db8413
+Size: 602272
+MD5sum: 88dda77c08ad18e49d96c6edab3abf6e
+SHA1: 10b43339676ada44dfb1d9bbc59e44a5ce5ddd85
+SHA256: 65fef23e68409b1a30b683598a12e0cc058dfa4919d59adc09ae5ba47642f99d
 Section: Tweaks
 Description: 超级控制中心模块集合！
 Author: 妖刀
