@@ -6892,6 +6892,22 @@ Author: opa334
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/crane.png
 Name: Crane
 
+Package: com.opa334.trollstoreliter
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Fluoxetine <1103945342@qq.com>
+Installed-Size: 1329
+Depends: ldid, ellekit
+Filename: ./debs/iphoneos-arm64e/com.opa334.trollstoreliter_1.0.3_iphoneos-arm64e.deb
+Size: 590344
+MD5sum: 2086c817a45781f6eb3fc51c720f16e1
+SHA1: afb2bccf1c58c6a69cea137ee8abe33acdd8246a
+SHA256: 8b07d76cee23648ce0b6206e1fa0fd6b8841cc5ff79b20b94a188d2dcb8cd02b
+Section: Applications
+Description: 巨魔R由Fluoxetine为Relaxin越狱特别制作。支持免签安装IPA,Tipa应用。支持注入任意dylib和deb插件。Bug反馈及意见建议:1103945342@qq.com。感谢Relaxin越狱，感谢opa334。
+Author: Fluoxetine为Relaxin越狱特别制作
+Name: 巨魔R
+
 Package: com.p2kdev.screenshotactions
 Version: 1.2
 Architecture: iphoneos-arm64e
