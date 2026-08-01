@@ -6964,6 +6964,23 @@ Name: Tinge
 
 Package: com.phucdo.badgebreathing
 Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Phuc Do
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.phucdo.badgebreathing_0.0.1_iphoneos-arm64e.deb
+Size: 4156
+MD5sum: 93300fab0e24f5a78b5f33a2aaceea48
+SHA1: af654665883be16b9be5cede193e340e6f72b463
+SHA256: 18f2eb2089b387006675e052cbca1fc0be515e3591d686c65219c8160220e76c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak! 本插件的作用是让你的APP角标变的灵动起来，就是会动，非常不错的小插件，无设置项，注销即可生效！
+Author: Phuc Do
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/badgebreathing.png
+Name: Badge Breathing
+
+Package: com.phucdo.badgebreathing
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: Phuc Do
 Depends: mobilesubstrate (>= 0.9.5000)
