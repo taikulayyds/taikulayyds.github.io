@@ -10965,6 +10965,76 @@ Author: Korboy <korboybeats@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzaswipeselect.png
 Name: FilzaSwipeSelect
 
+Package: com.taikulayyds.hbb
+Version: 9.1.3
+Architecture: iphoneos-arm64e
+Maintainer: taikula
+Installed-Size: 780
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.hbb_9.1.3_iphoneos-arm64e.deb
+Size: 7297556
+MD5sum: 571a3a3e7c9793f7f18b8a308ea67e93
+SHA1: 463c31d0508f54d23df93d0b989e04adc951359e
+SHA256: 0df0c8d05e9eb561473c5c832dcd530f491ada0a6407d5e4e5e3616c7c8c201d
+Section: Tweaks
+Priority: optional
+Description: 微信增强插件
+Author: taikula
+Name: HBB
+
+Package: com.taikulayyds.hbb
+Version: 9.1.3
+Architecture: iphoneos-arm64
+Maintainer: taikula
+Installed-Size: 780
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.hbb_9.1.3_iphoneos-arm64.deb
+Size: 7299200
+MD5sum: c1d836d8b1e6acd3563937773d28f252
+SHA1: b37c6da5c160f69af501dbba70590303a152a7db
+SHA256: 4a9af262a473724bca251863973a8a44d317887f1c0c49835d8016d70c8e04b3
+Section: Tweaks
+Priority: optional
+Description: 微信增强插件
+Author: taikula
+Name: HBB
+
+Package: com.taikulayyds.hbb
+Version: 9.1.5
+Architecture: iphoneos-arm64e
+Maintainer: taikula
+Installed-Size: 730
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.hbb_9.1.5_iphoneos-arm64e.deb
+Size: 7467140
+MD5sum: 1edd5145e31ed0c4752550f02fd21733
+SHA1: bc371d9c25ec79fd13a69ffb98e11ee8abb81792
+SHA256: dd632d89592cf7e950a5743bcb991a01e4bf1c4f04e6d00733937fb6f1f89f1a
+Section: Tweaks
+Priority: optional
+Description: 微信增强插件
+Author: taikula
+Name: HBB
+
+Package: com.taikulayyds.hbb
+Version: 9.1.5
+Architecture: iphoneos-arm64
+Maintainer: taikula
+Installed-Size: 730
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.hbb_9.1.5_iphoneos-arm64.deb
+Size: 7300112
+MD5sum: 636186d5473ce626303f8e9af583ef3c
+SHA1: a91c88f5d3b3134ec23d499c210f447b8f6614e0
+SHA256: 4d69f4eab6ba44cd6274551276a7f15ad8ef541a162e62a0f3bf10bb77ee348a
+Section: Tweaks
+Priority: optional
+Description: 微信增强插件
+Author: taikula
+Name: HBB
+
 Package: com.taikulayyds.immortalizer
 Version: 2.0.1.1
 Architecture: iphoneos-arm64e
