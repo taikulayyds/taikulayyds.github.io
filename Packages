@@ -10765,6 +10765,41 @@ Author: newwares
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/badgesync.png
 Name: BadgeSync
 
+Package: com.taikulayyds.ccmusic
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: simon
+Installed-Size: 428
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.ccmusic_1.0.5_iphoneos-arm64e.deb
+Size: 56186
+MD5sum: 961d28a0e65d15849829a7887e71f98a
+SHA1: 805478cfdac71fdc6a1585b65f4064c44d195ba2
+SHA256: 1c56bc460c83ce1590fc5c56a82ade1c2566cfba6f2d459811134ad3002c641a
+Section: Tweaks
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccmusic.png
+Name: 控制中心音乐模块动画
+
+Package: com.taikulayyds.ccmusic
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 428
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.ccmusic_1.0.5_iphoneos-arm64.deb
+Size: 56544
+MD5sum: acaff4214fed579ff0cbe5a439346ed9
+SHA1: 9bdb0d7ce79376145cbdce5a17eeb84be33e08fd
+SHA256: 659c77e534c720abb6fd543a252d99d3adcb1fe83cc0394e91950761778f977c
+Section: Tweaks
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccmusic.png
+Name: 控制中心音乐模块动画
+
 Package: com.taikulayyds.colorfulwallpaperx
 Version: 4.6k
 Architecture: iphoneos-arm64e
