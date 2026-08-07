@@ -5166,6 +5166,38 @@ Author: Jonathan Winger-lang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/snapper3.png
 Name: Snapper 3
 
+Package: com.kitten.tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64e
+Maintainer: 预言小猫
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/iphoneos-arm64e/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64e.deb
+Size: 10408
+MD5sum: 9f480f3117bc7359f9f35ee7f1dc7dd4
+SHA1: 907145819cdf49a25dabf00acffd6ed013adf23a
+SHA256: adce0147c877fc455d52553fb071ebb537f1854a034bb72fb1cf6691b2b9459a
+Section: Tweaks
+Description: 适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具
+Author: 预言小猫
+Name: 一键备份和恢复工具
+Sileodepiction: https://Ketty0725.github.io/repo/depictions/native/com.kitten.tweaktool/depiction.json
+
+Package: com.kitten.tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64
+Maintainer: 预言小猫
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/iphoneos-arm64/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64.deb
+Size: 10428
+MD5sum: b889ae627060a2214f441821135a30c6
+SHA1: abac7732aa9797b53b3609d6719fa007e5d2462a
+SHA256: 781cdb874ecb116ae30739cd2e17f46cca63f138fe2f8f80145a5a418e69db56
+Section: Tweaks
+Description: 适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具
+Author: 预言小猫
+Name: 一键备份和恢复工具
+Sileodepiction: https://Ketty0725.github.io/repo/depictions/native/com.kitten.tweaktool/depiction.json
+
 Package: com.lclrc.cccalc
 Version: 2.1.0
 Architecture: iphoneos-arm64e
@@ -11627,6 +11659,40 @@ Description: Troll SpringBoard into thinking it's running on iPadOS.
 Author: khanhduytran0
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/trollpad.png
 Name: TrollPad
+
+Package: com.taikulayyds.wcmeme
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: taikula
+Installed-Size: 1320
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.wcmeme_1.0_iphoneos-arm64e.deb
+Size: 4087588
+MD5sum: a51fa76b690a73230e0f5c4387676771
+SHA1: 72290a27322ad3b376c33c6745034c95fb521a47
+SHA256: 145fb1bc22ad6e528c05bbeb7ab9f89b5d2a08270f4d35e8cf431040ec41bf76
+Section: Tweaks
+Priority: optional
+Description: 微信表情包增强插件
+Author: taikula
+Name: WCMeme
+
+Package: com.taikulayyds.wcmeme
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: taikula
+Installed-Size: 1320
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.wcmeme_1.0_iphoneos-arm64.deb
+Size: 4093152
+MD5sum: b1064c98f704d573259d02fdb938b4d5
+SHA1: e7f7dac40a14347ddf4f1f4bc5638918b1d4497d
+SHA256: be0c090b7ed4676c533db9d4f54ced52d31fa935c45a08afc76bd19b5bc63179
+Section: Tweaks
+Priority: optional
+Description: 微信表情包增强插件
+Author: taikula
+Name: WCMeme
 
 Package: com.teslaman3092.popoutbuttons
 Version: 1.0.1
