@@ -11664,16 +11664,16 @@ Package: com.taikulayyds.wcmeme
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: taikula
-Installed-Size: 1320
+Installed-Size: 360
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.wcmeme_1.0_iphoneos-arm64e.deb
-Size: 4087588
-MD5sum: a51fa76b690a73230e0f5c4387676771
-SHA1: 72290a27322ad3b376c33c6745034c95fb521a47
-SHA256: 145fb1bc22ad6e528c05bbeb7ab9f89b5d2a08270f4d35e8cf431040ec41bf76
+Size: 4088920
+MD5sum: c93c439aa8546c986668de33e3291fb4
+SHA1: 266b189c97e3d6d99706c416d8154940937930ca
+SHA256: 0da6f2ca15c867b1228f13d6899d8587270035ad0a330c2a25ba815cc4f1eaa6
 Section: Tweaks
 Priority: optional
-Description: 微信表情包增强插件
+Description: 微信表情增强插件
 Author: taikula
 Name: WCMeme
 
@@ -11681,16 +11681,16 @@ Package: com.taikulayyds.wcmeme
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: taikula
-Installed-Size: 1320
+Installed-Size: 360
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.taikulayyds.wcmeme_1.0_iphoneos-arm64.deb
-Size: 4093152
-MD5sum: b1064c98f704d573259d02fdb938b4d5
-SHA1: e7f7dac40a14347ddf4f1f4bc5638918b1d4497d
-SHA256: be0c090b7ed4676c533db9d4f54ced52d31fa935c45a08afc76bd19b5bc63179
+Size: 4099536
+MD5sum: 48d2078cd0389f79f7c3ce5237450a9c
+SHA1: 806ead78e039ed1151068e61c0a4e6e488a51785
+SHA256: 4ded066c3701d22ea596caa9b758806b97e88089dec144cfdd7cd169d9cffe81
 Section: Tweaks
 Priority: optional
-Description: 微信表情包增强插件
+Description: 微信表情增强插件
 Author: taikula
 Name: WCMeme
 
@@ -11869,6 +11869,40 @@ Description: 关闭内嵌视频播放，不再使用低劣的html5视频播放�
 Author: tyiiirfvjjkjjj 凑合哥 Repack
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ultravideos.png
 Name: UltraVideos
+
+Package: com.w3ltyyy.lead
+Version: 1.4.4
+Architecture: iphoneos-arm64e
+Maintainer: w3ltyyy
+Installed-Size: 25176
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.w3ltyyy.lead_1.4.4_iphoneos-arm64e.deb
+Size: 5019996
+MD5sum: d4430895377b95ec161b59bd0a6bbcf0
+SHA1: ad9f84b02c306fb7a34d46e553948cec8e3721cc
+SHA256: 059c0dac04d45b7e6da61b694926f2854dd29c34cfedb09e244a804cf35d5b26
+Section: Tweaks
+Priority: optional
+Description: The best Tweak For Telegram iOS
+Author: w3ltyyy
+Name: Lead
+
+Package: com.w3ltyyy.lead
+Version: 1.4.4
+Architecture: iphoneos-arm64
+Maintainer: w3ltyyy
+Installed-Size: 25176
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.w3ltyyy.lead_1.4.4_iphoneos-arm64.deb
+Size: 5020872
+MD5sum: 32d43f872218707c3a6f81290394134d
+SHA1: 27905db7751f3c2c7eb24d64bb0a7446e21eceab
+SHA256: ec50a518c8ebc85c9365301cbd132c8b7d3fbe1e7f0dc250f8e933bbb2cebc71
+Section: Tweaks
+Priority: optional
+Description: The best Tweak For Telegram iOS
+Author: w3ltyyy
+Name: Lead
 
 Package: com.wangdonghua.backgroundretainer
 Version: 0.0.1-7
