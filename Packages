@@ -6955,6 +6955,24 @@ Depiction: https://opa334.github.io/depic/Choicy/index.html
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
 Name: Choicy
 
+Package: com.opa334.choicy
+Version: 1.5.4-1
+Architecture: iphoneos-arm64e
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1104
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.opa334.choicy_1.5.4-1_iphoneos-arm64e.deb
+Size: 165092
+MD5sum: 10c9dfa0b40600bf2e69163db924af79
+SHA1: fb436afba156e74f9da9b62f760437142672d4bc
+SHA256: 946db7ece83e794806297308dadcf800ac76a59885a540c6bd4479bec6288902
+Section: Tweaks
+Description: Advanced Tweak Configuration！高级插件配置器，可单独为每个程序启用/禁用插件等！（刀刀修复RootHide版）
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
+Name: Choicy
+
 Package: com.opa334.crane
 Version: 1.3.16-3
 Architecture: iphoneos-arm64e
