@@ -5151,10 +5151,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
 Filename: ./debs/iphoneos-arm64e/com.jontelang.snapper3_1.2.1_iphoneos-arm64e.deb
-Size: 1022428
-MD5sum: cf9fe244004eccb6bf2b3ea9f3e91059
-SHA1: 1cbbd9b0347a26be4a62cb65b68cf771d870c542
-SHA256: dfd372339b7de771a38d6330e81aa975cd85c535cf7992310b753607e2f82960
+Size: 1022908
+MD5sum: 17f419c9bda7601c1b5fb403af8c42d2
+SHA1: dd268033252e38230afd6ac7be1b823a5a88de40
+SHA256: 9123a82f6113bb79c29487752dbcbeb9c1f7318c6ab87e3aa076c105ba6401b7
 Section: Tweaks
 Description: Pin screenshots on the screen.
 Author: Jonathan Winger-lang
