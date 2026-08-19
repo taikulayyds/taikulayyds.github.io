@@ -716,40 +716,6 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cocoatop64.png
 Name: CocoaTop汉化-rootless
 
 Package: cn.llld.cocoatop
-Version: 0.0.1-2
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 240
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/cn.llld.cocoatop_0.0.1-2_iphoneos-arm64e.deb
-Size: 19440
-MD5sum: 0befa67ad9cc9363f74b0124af1136a4
-SHA1: 3555006959cd69bda4484c93b0f4de141522d8e1
-SHA256: 909a18789ac30940b3315d0366b4e7022a3a2067e03f5bfa71e32525c7d42fa1
-Section: Tweaks
-Description: CocoaTop简易汉化（roothide专用）
-Author: 来了老弟
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cocoatop64.png
-Name: CocoaTop汉化-roothide
-
-Package: cn.llld.cocoatop
-Version: 0.0.2
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 240
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/cn.llld.cocoatop_0.0.2_iphoneos-arm64e.deb
-Size: 19516
-MD5sum: c1210bdf8ddfa9df6de5a5339d2985f9
-SHA1: 18c09c72359aad1bbbdb22afc62d8c7ff14c2160
-SHA256: 32452f594c2ac0348a7bbb5d20c6d19e533eac3939fa2da819e63625798ba092
-Section: roothide汉化补丁
-Description: CocoaTop汉化插件，适配官版和真皮4个修改版
-Author: 来了老弟
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cocoatop-zh.png
-Name: CocoaTop (汉化插件)
-
-Package: cn.llld.cocoatop
 Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟
@@ -761,6 +727,23 @@ MD5sum: 19915b9d73d6141b947305922ada5067
 SHA1: ea015a7a305431724ab8e09c58d08dc4e18f227e
 SHA256: 20d0b23b3beddf08934f7d3fbfa2f89bff53da3fe2c17a55801285e370beeb5f
 Section: rootless汉化补丁
+Description: CocoaTop汉化插件，适配官版和真皮4个修改版
+Author: 来了老弟
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cocoatop-zh.png
+Name: CocoaTop (汉化插件)
+
+Package: cn.llld.cocoatop
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/cn.llld.cocoatop_0.0.3_iphoneos-arm64e.deb
+Size: 52208
+MD5sum: bab366ad0a5019c8efbd6f1f3afdad9c
+SHA1: 30af86f58277f3c2b16f38c952831a1c252db360
+SHA256: 12ce9bb6515230d7a997369b241b721e85ee6ec193b827751112212eead2d6a0
+Section: Tweaks
 Description: CocoaTop汉化插件，适配官版和真皮4个修改版
 Author: 来了老弟
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cocoatop-zh.png
