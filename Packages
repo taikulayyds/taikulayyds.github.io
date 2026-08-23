@@ -3474,14 +3474,14 @@ Conflicts: com.chloe.gravitation17
 Replaces: com.chloe.gravitation17
 Provides: com.chloe.gravitation17
 Filename: ./debs/iphoneos-arm64e/com.chloe.physpringboard_1.9.19_iphoneos-arm64e.deb
-Size: 77856
-MD5sum: 17f90f1c9da0f95f96b65e1f5926a2ee
-SHA1: a1df8c1764469c18d781fcc0bb338bddb08d6f10
-SHA256: 6b40c87e6629b2077f508bf459aa85b4ff8d4eb8602b297f75c8ca35c95459ed
+Size: 174492
+MD5sum: 67e1186be51d26134a4ee58cde920feb
+SHA1: 90f291b8692bde310ac1d084c61b822b009d2f9b
+SHA256: 94df7daf25cb82179f478750e919b00d5f9dc469b84888c685b9170cfd0c77fe
 Section: Tweaks
 Description: Shake SpringBoard icons loose with configurable physics on rootless Dopamine.在主屏幕或者控制中心摇晃设备，图标会因重力感应下坠，再次摇晃设备，将恢复原样，长按桌面，图标会被吸引过去。
 Author: Chloe
-Icon: Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/physpringboard.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/physpringboard.png
 Name: Physpringboard
 
 Package: com.chloe.physpringboard
@@ -3494,14 +3494,14 @@ Conflicts: com.chloe.gravitation17
 Replaces: com.chloe.gravitation17
 Provides: com.chloe.gravitation17
 Filename: ./debs/iphoneos-arm64/com.chloe.physpringboard_1.9.19_iphoneos-arm64.deb
-Size: 79732
-MD5sum: b304979e25e25e73a774c600155cfc50
-SHA1: 80c0e0cde4293677f80c64ef552804c460212366
-SHA256: 395aa591d89e27a8272965d6653f73c0db25421fe44b7e5934f3230f758733bf
+Size: 175898
+MD5sum: 2ab95e05ad59eff14d8947e38bf4c454
+SHA1: 7076a38e2ff798041428bcbd914f7ea2b864600e
+SHA256: 0f983cbae6e32a9484f7e91e79a5a944f7e1000b6cdac9c1309ab2f68c032fe8
 Section: Tweaks
 Description: Shake SpringBoard icons loose with configurable physics on rootless Dopamine.在主屏幕或者控制中心摇晃设备，图标会因重力感应下坠，再次摇晃设备，将恢复原样，长按桌面，图标会被吸引过去。
 Author: Chloe
-Icon: Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/physpringboard.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/physpringboard.png
 Name: Physpringboard
 
 Package: com.creaturecoding.tweaksettings
