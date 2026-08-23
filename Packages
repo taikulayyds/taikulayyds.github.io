@@ -3463,6 +3463,47 @@ Author: 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccless.png
 Name: CCLess++
 
+Package: com.chloe.physpringboard
+Version: 1.9.19
+Architecture: iphoneos-arm64e
+Maintainer: Chloe
+Installed-Size: 584
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.chloe.gravitation17
+Replaces: com.chloe.gravitation17
+Provides: com.chloe.gravitation17
+Filename: ./debs/iphoneos-arm64e/com.chloe.physpringboard_1.9.19_iphoneos-arm64e.deb
+Size: 77856
+MD5sum: 17f90f1c9da0f95f96b65e1f5926a2ee
+SHA1: a1df8c1764469c18d781fcc0bb338bddb08d6f10
+SHA256: 6b40c87e6629b2077f508bf459aa85b4ff8d4eb8602b297f75c8ca35c95459ed
+Section: Tweaks
+Description: Shake SpringBoard icons loose with configurable physics on rootless Dopamine.在主屏幕或者控制中心摇晃设备，图标会因重力感应下坠，再次摇晃设备，将恢复原样，长按桌面，图标会被吸引过去。
+Author: Chloe
+Icon: Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/physpringboard.png
+Name: Physpringboard
+
+Package: com.chloe.physpringboard
+Version: 1.9.19
+Architecture: iphoneos-arm64
+Maintainer: Chloe
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.chloe.gravitation17
+Replaces: com.chloe.gravitation17
+Provides: com.chloe.gravitation17
+Filename: ./debs/iphoneos-arm64/com.chloe.physpringboard_1.9.19_iphoneos-arm64.deb
+Size: 79732
+MD5sum: b304979e25e25e73a774c600155cfc50
+SHA1: 80c0e0cde4293677f80c64ef552804c460212366
+SHA256: 395aa591d89e27a8272965d6653f73c0db25421fe44b7e5934f3230f758733bf
+Section: Tweaks
+Description: Shake SpringBoard icons loose with configurable physics on rootless Dopamine.在主屏幕或者控制中心摇晃设备，图标会因重力感应下坠，再次摇晃设备，将恢复原样，长按桌面，图标会被吸引过去。
+Author: Chloe
+Icon: Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/physpringboard.png
+Name: Physpringboard
+
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.9
 Architecture: iphoneos-arm64e
