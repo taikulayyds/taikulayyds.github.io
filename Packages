@@ -3504,6 +3504,47 @@ Author: Chloe
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/physpringboard.png
 Name: Physpringboard
 
+Package: com.chloe.physpringboard
+Version: 1.9.23
+Architecture: iphoneos-arm64e
+Maintainer: Chloe
+Installed-Size: 584
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.chloe.gravitation17
+Replaces: com.chloe.gravitation17
+Provides: com.chloe.gravitation17
+Filename: ./debs/iphoneos-arm64e/com.chloe.physpringboard_1.9.23_iphoneos-arm64e.deb
+Size: 83320
+MD5sum: b9948b8b2047e4bdf3f4a608a4e7ff7e
+SHA1: f1e5fa44aa1a1ff072446db360afcfdcfd008d70
+SHA256: 46bddd33ec442bb4533cfca7593de7fe258c8beeb6c5645c7c45d8fced31b5a9
+Section: Tweaks
+Description: Shake SpringBoard icons loose with configurable physics on rootless Dopamine.摇晃手机，主屏与控制中心的图标会解锁物理碰撞动效，各项物理参数均可自定义调节。这款插件能让你摇晃手机后，所有图标开启物理模拟效果。你可以拖拽图标、随手甩开、旋转图标，各种趣味交互全都支持。
+Author: Chloe
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/physpringboard.png
+Name: Physpringboard
+
+Package: com.chloe.physpringboard
+Version: 1.9.23
+Architecture: iphoneos-arm64
+Maintainer: Chloe
+Installed-Size: 584
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.chloe.gravitation17
+Replaces: com.chloe.gravitation17
+Provides: com.chloe.gravitation17
+Filename: ./debs/iphoneos-arm64/com.chloe.physpringboard_1.9.23_iphoneos-arm64.deb
+Size: 84772
+MD5sum: b1361a4cf5cbffc7ee3c61e4ee1fcf04
+SHA1: beedbe7f26b4b1b038753afcb8f5cd0f634e71b9
+SHA256: 290d8cf9b4c1425b1fcaec2564db9fd2427e1883ff9ee48b622fba9702ca1404
+Section: Tweaks
+Description: Shake SpringBoard icons loose with configurable physics on rootless Dopamine.摇晃手机，主屏与控制中心的图标会解锁物理碰撞动效，各项物理参数均可自定义调节。这款插件能让你摇晃手机后，所有图标开启物理模拟效果。你可以拖拽图标、随手甩开、旋转图标，各种趣味交互全都支持。
+Author: Chloe
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/physpringboard.png
+Name: Physpringboard
+
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.9
 Architecture: iphoneos-arm64e
