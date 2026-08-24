@@ -10776,6 +10776,41 @@ Author: taikula
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/patcher.png
 Name: RootHide Patcher汉化
 
+Package: com.taikulaiyyds.nbcrack
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: 歌一刀<https://t.me/geyidaofabu>
+Installed-Size: 998
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.taikulaiyyds.nbcrack_0.1_iphoneos-arm64e.deb
+Size: 224512
+MD5sum: 53b60640fb69f2ab69d38d6c2aa57e8d
+SHA1: 2aff06a2a425966bdb998a81e6812ac22bc7242a
+SHA256: c50ba2a0e1fc288d26c06921b0ca5b583c695fd03593f1288a27e2e62a28dd71
+Section: Tweaks
+Description: 破解会员，下载等权益
+Author: 歌一刀<https://t.me/geyidaofabu>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/nbmaster.png
+Name: NB助手破解
+
+Package: com.taikulaiyyds.nbcrack
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 歌一刀<https://t.me/geyidaofabu>
+Installed-Size: 998
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/com.taikulaiyyds.nbcrack_0.1_iphoneos-arm64.deb
+Size: 227244
+MD5sum: f06dea904c2d2b3a817c16e47127308e
+SHA1: 76ad398cfabb646e18351306c32ab30a978d773b
+SHA256: b8e5535ba66675da66bdf2c23e1d4c0ff33823c8020499dd809f27e877504844
+Section: Tweaks
+Description: 破解会员，下载等权益
+Author: 歌一刀<https://t.me/geyidaofabu>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/nbmaster.png
+Name: NB助手破解
+
 Package: com.taikulayyds.anthocrack2
 Version: 1.0.0
 Architecture: iphoneos-arm64e
