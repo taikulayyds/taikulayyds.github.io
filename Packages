@@ -12300,6 +12300,41 @@ Author: yan
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/anitime.png
 Name: AniTime
 
+Package: com.yan.anitime
+Version: 1.0.3k
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Installed-Size: 1432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/iphoneos-arm64e/com.yan.anitime_1.0.3k_iphoneos-arm64e.deb
+Size: 387812
+MD5sum: 7b634a71d60b6fa8c726dd2b535cc0b6
+SHA1: f77a1848cf1ff5a3e50098c11f1bb1cf0015d461
+SHA256: ed3aa3190f52fb5ddafa24d48d4d31eb59507ac97e1dd8aba9ac4f8d17025dbc
+Section: Tweaks
+Description: Animated anime characters as your clock digits.
+Author: yan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/anitime.png
+Name: AniTime
+
+Package: com.yan.anitime
+Version: 1.0.3k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 1432
+Depends: firmware (>= 14.0), com.ginsu.comet
+Filename: ./debs/iphoneos-arm64/com.yan.anitime_1.0.3k_iphoneos-arm64.deb
+Size: 387612
+MD5sum: 2531e1b38165f85150e2db808f9a5696
+SHA1: d63b827554c3e4d8c275cd6a2f632e2eaa8f5969
+SHA256: bce2a5bf47dcb7fa4342dba0e8c86fda578b9bc2933c3ea0e64a1cc321331e59
+Section: Tweaks
+Description: Animated anime characters as your clock digits.
+Author: yan
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/anitime.png
+Name: AniTime
+
 Package: com.yan.ring
 Version: 1.0.2
 Architecture: iphoneos-arm64e
@@ -12635,6 +12670,40 @@ Description: Modified version of mineeks tweak that lets you specify the minimum
 Author: Mineek
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
 Name: appstoretroller
+
+Package: dylv.liquidass
+Version: 0.1.0b
+Architecture: iphoneos-arm64e
+Maintainer: dylv
+Installed-Size: 3580
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/dylv.liquidass_0.1.0b_iphoneos-arm64e.deb
+Size: 1303172
+MD5sum: 91ba2cd4aec86c30ce48a145ef0b2228
+SHA1: 61382e90f4ff7485f755d554d59900912d637140
+SHA256: beda6ca3e6715bf7bfd0e250e10c5a59d5f36bd632000e1e17c7092a9019a134
+Section: Tweaks
+Description: next level diarrhea.让你的旧设备体验 Liquid Glass 液态玻璃
+Author: dylv
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/liquidass.png
+Name: Liquid (Gl)ass 液态玻璃
+
+Package: dylv.liquidass
+Version: 0.1.0b
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 3596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), firmware (<< 26.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/dylv.liquidass_0.1.0b_iphoneos-arm64.deb
+Size: 1304168
+MD5sum: 6f08fd9350c6a48e01b183ed8423a21b
+SHA1: a3745776485cc42445df99cbbf11f6683aff51db
+SHA256: 69c580a0d00cc54aaaba0a2755261c78630a14b3f10f587f3be4bc299fe88dbf
+Section: Tweaks
+Description: next level diarrhea.让你的旧设备体验 Liquid Glass 液态玻璃
+Author: dylv
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/liquidass.png
+Name: Liquid (Gl)ass 液态玻璃
 
 Package: jp.akusio.milkyway2
 Version: 1.0
