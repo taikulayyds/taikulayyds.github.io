@@ -5352,6 +5352,24 @@ Name: SHELLX
 
 Package: com.iosdump.shellx
 Version: 2.5.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 6920
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64e/com.iosdump.shellx_2.5.1_iphoneos-arm64e.deb
+Size: 3086068
+MD5sum: d2bf7c2b0343d0c44d6626fb0290c395
+SHA1: a1397eb51822ecc93cb7eadda0ecfe755092a035
+SHA256: 365084d847fb933eebd0b1c09a01bba01fcafda1d914fa71dd98919cb7392293
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.5.1
 Architecture: iphoneos-arm64
 Maintainer: iosdump
 Installed-Size: 6936
