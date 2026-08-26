@@ -5209,6 +5209,24 @@ Name: AppData
 
 Package: com.iosdump.appdata
 Version: 2.7.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_2.7.1_iphoneos-arm64e.deb
+Size: 1707768
+MD5sum: bbacdf7ea0c1617f7e0f92b8df7a853f
+SHA1: 88644fa767edd9a11f6874d5f77a2cfb7490342b
+SHA256: 683be88df51e02cdcb0355e6966d2dbf3a1d15ac066493924fda1f7cc7f607e2
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.7.1
 Architecture: iphoneos-arm64
 Maintainer: iosdump
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
