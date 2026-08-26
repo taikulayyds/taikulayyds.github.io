@@ -5172,6 +5172,58 @@ Author: iosdump
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
 Name: AppData
 
+Package: com.iosdump.appdata
+Version: 2.7.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_2.7.0_iphoneos-arm64e.deb
+Size: 1705728
+MD5sum: 55053f611f1be8cf6ff0464e135dac49
+SHA1: 5449d6a72271c6981146cfb76d6b2d9f813938fa
+SHA256: 57ace88e60ab8c865535274ce73547f2e40bf481e43fe4cd4352363e879f92f9
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.7.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_2.7.0_iphoneos-arm64.deb
+Size: 1716520
+MD5sum: 83938aff069cd3bab4a1880797fdb468
+SHA1: 9ad85c6920004c439178f0e2ee1693ad5317ed42
+SHA256: fded4f62f8d9aa5d6631125942fb9fa5bb87fe9cc77f5e959e2ebf98b58dd0f4
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.7.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_2.7.1_iphoneos-arm64.deb
+Size: 1718544
+MD5sum: 1d117343aa4eb1f6369076b2b1ed9383
+SHA1: 61fabeef562dbd6c0bffb037fee00ca1da36a0b3
+SHA256: 333e22dd87e294292b6a7e51a19d95833d6c5f3d2484b5595d841ff293b9c0d9
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
 Package: com.iosdump.shellx
 Version: 2.3.1
 Architecture: iphoneos-arm64e
@@ -5274,6 +5326,24 @@ Size: 2879952
 MD5sum: a5e3cb5f9adcefb3ff2a5ffc4f8d6b54
 SHA1: 40dcd65e6bb4e85e77e5bfb07ef43ea1134a948b
 SHA256: 7d29617187c3d9894aa24bb0c42f0cabe36eddb9c5ce7fa5f5ecbc8d5cf74fd4
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.5.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 6936
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64/com.iosdump.shellx_2.5.1_iphoneos-arm64.deb
+Size: 3089236
+MD5sum: 50684569d9723fa2ca94c497fcf1e5d6
+SHA1: ebfe2041c674b61695e9192a7edc6ee32264c476
+SHA256: b39e64c2f87848832f89032a5736e87b167b105f6270ddc69f5fd24b11ae07b2
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
 Author: iosdump
