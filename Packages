@@ -11642,6 +11642,22 @@ Author: sharedRoutine
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/onehandwizard2.png
 Name: OneHandWizard2
 
+Package: com.taikulayyds.perfectgrabber
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.perfectgrabber_1.1-7_iphoneos-arm64.deb
+Size: 836376
+MD5sum: b8756d56b3613b34db2430b0db14aa60
+SHA1: 2e1fd567bd764adfb6596cffb78771f4054f67ee
+SHA256: 530dd8e38365050147564d09d603101be121a70b0f2442b537e2fba9e7eff473
+Section: Tweaks
+Description: 在横屏游戏下拉一次时显示时间和电量（某些游戏不规范会无法唤出），支持自定义字体颜色，背景颜色，字体大小，字体样式，震动反馈等
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/perfectgrabber.png
+Name: PerfectGrabber
+
 Package: com.taikulayyds.replyactions
 Version: 2.0.0
 Architecture: iphoneos-arm64e
