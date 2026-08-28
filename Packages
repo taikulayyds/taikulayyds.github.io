@@ -11264,6 +11264,41 @@ Author: x✨+逆无止境
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dyhook.png
 Name: 抖音图层(破解版)
 
+Package: com.taikulayyds.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64e
+Maintainer: simon
+Installed-Size: 432
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.dynamicislandanimation_1.1.8_iphoneos-arm64e.deb
+Size: 35492
+MD5sum: e32c65baaa0c310d6dcb75fc331bbb73
+SHA1: 0d25d09ebc8175c7c155dab62c6fa5c2373dd70d
+SHA256: f2f64a3c67c3ffff004a3a057f5b4bfaee21c8ff63cd1402eab6c94c907b2b4f
+Section: Tweaks
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
+Name: 灵动岛跳舞动画PLUS
+
+Package: com.taikulayyds.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 432
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.dynamicislandanimation_1.1.8_iphoneos-arm64.deb
+Size: 35748
+MD5sum: 22e759926731326d254d0c064e5d1a58
+SHA1: 266e2116f2156a574ceeb600e8318139689441fd
+SHA256: fc3ca8c03f38b2f9a42f9b2e4d888a2a074f32cdce6435542a2ecf83c87204c2
+Section: Tweaks
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: simon
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
+Name: 灵动岛跳舞动画PLUS
+
 Package: com.taikulayyds.edgesiri
 Version: 3.1.1-9
 Architecture: iphoneos-arm64e
