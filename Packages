@@ -11644,6 +11644,23 @@ Name: OneHandWizard2
 
 Package: com.taikulayyds.perfectgrabber
 Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.perfectgrabber_1.1-7_iphoneos-arm64e.deb
+Size: 836692
+MD5sum: 976fa03b86cec1bd49a45f706d33f237
+SHA1: a16b493e0512ef67c07b6b1ea95d1227ebd82ea6
+SHA256: 11cb08da6decc02fbd580886375178a3f38debd6ee5328f97f8a4898f25369fb
+Section: Tweaks
+Description: 在横屏游戏下拉一次时显示时间和电量（某些游戏不规范会无法唤出），支持自定义字体颜色，背景颜色，字体大小，字体样式，震动反馈等
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/perfectgrabber.png
+Name: PerfectGrabber
+
+Package: com.taikulayyds.perfectgrabber
+Version: 1.1-7
 Architecture: iphoneos-arm64
 Maintainer: Netskao
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
