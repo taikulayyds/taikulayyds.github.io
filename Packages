@@ -7914,13 +7914,13 @@ Package: com.sbcpu.floating
 Version: 3.1
 Architecture: iphoneos-arm64e
 Maintainer: MoWang
-Installed-Size: 1268
+Installed-Size: 1300
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_3.1_iphoneos-arm64e.deb
-Size: 148212
-MD5sum: 02ab6ccdf0917de356c6559f6ebf475c
-SHA1: 240beea2d9ed73602865a031e1a3c00a330ca164
-SHA256: 3c282136cf85dbd6a91f91f79d249a57d65018b8b27bf68774a651e13d3d6309
+Size: 148076
+MD5sum: 93ea902d7c1c5ff86431810759eab20f
+SHA1: 68e912853de53c006373470c8639dd43ca0ef84e
+SHA256: df270881a5b101e5a522a4546d237d9f0db7e574af53f4138cbcc2ae6c0f7522
 Section: Tweaks
 Description: SpringBoard CPU Floating Monitor, Notification Manager with CPUthermal 1.6.4-53 thermal engine; preserves ChargeBoost and Force Fast Charge controls
 Author: MoWang
@@ -7931,13 +7931,13 @@ Package: com.sbcpu.floating
 Version: 3.1
 Architecture: iphoneos-arm64
 Maintainer: MoWang
-Installed-Size: 1268
+Installed-Size: 1300
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_3.1_iphoneos-arm64.deb
-Size: 147960
-MD5sum: a2137af66b8ab1367dfd8daa16110104
-SHA1: 1e32c4a89abdf73f98fdc98d772f98278ce8cb90
-SHA256: 92aeccb2b61b16003255e4b11adf46ebe1acea9dbc6a7e0df6d9a38939c46d75
+Size: 150124
+MD5sum: 9bbcba5dfd8bd370dcd23f3795bb7a3e
+SHA1: ee2420e0dc2cc9223dcb28540c0b84c4c3f634f0
+SHA256: 6ceee420560e9c3c26196c1da0f0284453b85bc429511a386472531022e28fec
 Section: Tweaks
 Description: SpringBoard CPU Floating Monitor, Notification Manager with CPUthermal 1.6.4-53 thermal engine; preserves ChargeBoost and Force Fast Charge controls
 Author: MoWang
