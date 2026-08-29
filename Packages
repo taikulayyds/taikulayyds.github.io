@@ -7757,6 +7757,25 @@ Author: roothide
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/lockdown.png
 Name: lockdown
 
+Package: com.roothide.patcher
+Version: 2.1.5
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 2476
+Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), uikittools(>= 2.1.6-4)
+Filename: ./debs/iphoneos-arm64e/com.roothide.patcher_2.1.5_iphoneos-arm64e.deb
+Size: 894612
+MD5sum: 788b1b1b7303a40b8559a5d9ef96d5e8
+SHA1: 7d40d5c72f6aa58f3afb17091ee043c201e68508
+SHA256: a4a138b06e9c4bec45fc6f15f8fbef98d44dca6a56f52a2807cb7a48550af4f1
+Section: Utilities
+Description: patch rootless package to roothide, not work for all packages.
+Author: roothide
+Depiction: https://github.com/roothide/RootHidePatcher
+Icon: https://github.com/roothide/RootHidePatcher/blob/master/derootifier-2-modified.png?raw=true
+Name: RootHide Patcher
+Support: https://github.com/roothide/RootHidePatcher
+
 Package: com.ryannair05.cylinder
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -13362,6 +13381,23 @@ Description: Block applications from creating their own albums禁止应用程序
 Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/blockappscreatealbum.png
 Name: 禁止应用自动创建相册BlockAppsCreateAlbum
+
+Package: org.coolstar.sileo
+Version: 2.5.1-13
+Architecture: iphoneos-arm64e
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debs/iphoneos-arm64e/org.coolstar.sileo_2.5.1-13_iphoneos-arm64e.deb
+Size: 3010932
+MD5sum: de4faa97a748b26d8a2b793aed67e710
+SHA1: 8da128625fafb209865cdc60d57d4499523a521a
+SHA256: efb7079ec791487a7c6a1954ac1a7c782b63e8b498deeb4df1ef279ec288b9e4
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: ovh.exerhythm.cardculator
 Version: 2.1.1
