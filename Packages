@@ -7432,6 +7432,22 @@ Author: opa334
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/crane.png
 Name: Crane
 
+Package: com.opa334.trollstorelite
+Version: 2.1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 3948
+Filename: ./debs/iphoneos-arm64e/com.opa334.trollstorelite_2.1.1-1_iphoneos-arm64e.deb
+Size: 1762780
+MD5sum: b17fbcc56e1be0ac17c562d82850a6cf
+SHA1: bf87c3c1b259f2133369862b445c47658175f6a7
+SHA256: 6445450ca70bb2a271d8ad28f5f51077f58ba8816b961eb6e1dbe36f07f3f4e0
+Section: Tweaks
+Description: TrollStore for RootHide jailbroken iOS.白巨魔，越狱专用的APP安装器，Relaxin(隐根)优化版，刀刀编译支持中英文翻译。
+Author: opa334
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/trollstorelite.png
+Name: TrollStore Lite (RootHide)
+
 Package: com.p2kdev.screenshotactions
 Version: 1.2
 Architecture: iphoneos-arm64e
