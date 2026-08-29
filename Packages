@@ -4068,6 +4068,46 @@ Author: dvntm
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filesbrowsingonly.png
 Name: FilesBrowsingOnly
 
+Package: com.dylv.liquidglass
+Version: 0.1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: dylv
+Installed-Size: 4848
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: com.iosdump.customccbg
+Replaces: com.iosdump.customccbg
+Provides: com.iosdump.customccbg
+Filename: ./debs/iphoneos-arm64e/com.dylv.liquidglass_0.1.2.1_iphoneos-arm64e.deb
+Size: 1660396
+MD5sum: 5af1b0fc32abf0cbc2642da89ab91f82
+SHA1: 04cf890ed8d7e050af7942e5989c1b272cbac279
+SHA256: 3bc0ae15dc9969ee00b3625e6cea37eed04461b3b5874d6226e34d67d79e5407
+Section: Tweaks
+Description: 液态玻璃体玻璃，基于LiquidAss项目修改
+Author: dylv
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/liquidass.png
+Name: 液态玻璃
+
+Package: com.dylv.liquidglass
+Version: 0.1.2.1
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 4848
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: com.iosdump.customccbg
+Replaces: com.iosdump.customccbg
+Provides: com.iosdump.customccbg
+Filename: ./debs/iphoneos-arm64/com.dylv.liquidglass_0.1.2.1_iphoneos-arm64.deb
+Size: 1659280
+MD5sum: 089e9881bd3a2f2ad731d29bdfa2353a
+SHA1: 151487e8a7f2b82b56d87250c2c313e9a36a1593
+SHA256: 0b879ff2079abd40be9a1fe5a11c7bab6436212f1ed282b5fda0132de9162a46
+Section: Tweaks
+Description: 液态玻璃体玻璃，基于LiquidAss项目修改
+Author: dylv
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/liquidass.png
+Name: 液态玻璃
+
 Package: com.ellasp.floaty
 Version: 1.2
 Architecture: iphoneos-arm64e
@@ -7780,6 +7820,40 @@ Moderndepiction: https://ryannair05.github.io/repo//depiction/native/com.ryannai
 Name: Cylinder Remade
 Sileodepiction: https://ryannair05.github.io/repo//depiction/native/com.ryannair05.cylinderremade.json
 Tags: compatible_min::ios14.0, compatible_max::ios18.5
+
+Package: com.sbcpu.floating
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 892
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_3.0_iphoneos-arm64e.deb
+Size: 116668
+MD5sum: 63e1215049dacc0c776eb130f3c0929d
+SHA1: 498bf48a7906f553454269554eba90a09771f93d
+SHA256: f996d65402430715dfd504c9d2680f87edb6ed9a74314e0ff7bac9143b55920b
+Section: Tweaks
+Description: SpringBoard CPU Floating Monitor, Notification Manager with CPUthermal 1.6.4-53 thermal engine; preserves ChargeBoost and Force Fast Charge controls
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 908
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_3.0_iphoneos-arm64.deb
+Size: 118292
+MD5sum: f97c32e3df761a89eef2656506eae055
+SHA1: d385f18395af01ec0a1f555a6ec575bc804279de
+SHA256: c585f050902e2b4158018a50b4afa18b049a7a3e606488abb4ce48e207d1b334
+Section: Tweaks
+Description: SpringBoard CPU Floating Monitor, Notification Manager with CPUthermal 1.6.4-53 thermal engine; preserves ChargeBoost and Force Fast Charge controls
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
 
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
