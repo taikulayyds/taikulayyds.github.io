@@ -11289,6 +11289,79 @@ Author: newwares
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/badgesync.png
 Name: BadgeSync
 
+Package: com.taikulayyds.calclog
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: alias20
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.calclog_0.0.1_iphoneos-arm64e.deb
+Size: 5276
+MD5sum: 2d2fecac389a93736a04cb3469e69454
+SHA1: 3ba2888790b2cedb93d27acab429658bacce34d5
+SHA256: 579bd509b5a0e0f4ac9539f2f7ad92d33edbb674b21d62089e4fc02c12364fb6
+Section: Tweaks
+Description: Create logs calculation history above the result window. Only basic arithmetic operations are supported.在计算器结果窗口上方创建日志计算历史记录。仅支持基本的算术运算。
+Author: alias20
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/calculator.png
+Name: CalcLog计算器显示过程
+
+Package: com.taikulayyds.calclog
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.calclog_0.0.1_iphoneos-arm64.deb
+Size: 5392
+MD5sum: 9827ed2da518cbc591f61c36d96e8937
+SHA1: 52de80249586376e7566fbb171d6edb6a42c54d8
+SHA256: 265976b787dc7c68c8ea1a78d57a61a0e79ca9218b4f53ee0eddcc235a92f429
+Section: Tweaks
+Description: Create logs calculation history above the result window. Only basic arithmetic operations are supported.在计算器结果窗口上方创建日志计算历史记录。仅支持基本的算术运算。
+Author: alias20
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/calculator.png
+Name: CalcLog计算器显示过程
+
+Package: com.taikulayyds.calculatorhistory
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: fiore
+Installed-Size: 240
+Depends: mobilesubstrate
+Conflicts: com.fiore.calculatorhistory
+Replaces: com.fiore.calculatorhistory
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.calculatorhistory_1.2_iphoneos-arm64e.deb
+Size: 24156
+MD5sum: f79b93b18fe4bd600f6b438b3a71d2ba
+SHA1: 65c3ac784d2b94375cb3c634b429089d285a42cd
+SHA256: 9bfa3c23fbbf640db648ad1972fe43fb4e499eeadcace6ad9e581d6c5cbf540d
+Section: Tweaks
+Description: iOS计算器添加历史按钮
+Author: fiore
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/calculator.png
+Name: CalculatorHistory计算器历史按钮
+
+Package: com.taikulayyds.calculatorhistory
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 240
+Depends: mobilesubstrate
+Conflicts: com.fiore.calculatorhistory
+Replaces: com.fiore.calculatorhistory
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.calculatorhistory_1.2_iphoneos-arm64.deb
+Size: 24160
+MD5sum: c548253acbdc13ef924a48f57b582f5f
+SHA1: ff9a65fdb7c24175e39426975b19f2feb49e2a0e
+SHA256: 24c790ea23c27806b31ae2b662c0462a6116bee4f45d65f40066da4825cf7e1f
+Section: Tweaks
+Description: iOS计算器添加历史按钮
+Author: fiore
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/calculator.png
+Name: CalculatorHistory计算器历史按钮
+
 Package: com.taikulayyds.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64e
