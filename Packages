@@ -5462,6 +5462,42 @@ Author: iosdump
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
 Name: SHELLX
 
+Package: com.iosdump.shellx
+Version: 2.6.4
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 7928
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64e/com.iosdump.shellx_2.6.4_iphoneos-arm64e.deb
+Size: 3342580
+MD5sum: 491c82bf0f9d101001aa65f353358ba6
+SHA1: 975c5f2936c4c3a9725591c4e613d4267a2b56db
+SHA256: 9478d4e23851b4edde3ce1110605e45cbf6a4200d8dab47f4b6e5ad343a4db00
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 2.6.4
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 7944
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64/com.iosdump.shellx_2.6.4_iphoneos-arm64.deb
+Size: 3341576
+MD5sum: f065591de522093fd96e1352bb05633c
+SHA1: 17bccab1e0284afaa5e7b145259d5b32a27f15af
+SHA256: 24bf009f1a8f5b411ed564d820b542874121d5fbcafc1e3e900af053e87e9cfb
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
+Name: SHELLX
+
 Package: com.jakeashacks.bounceit
 Version: 1.0.4
 Architecture: iphoneos-arm64e
