@@ -7978,6 +7978,40 @@ Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
 Name: SB CPU Floating
 
+Package: com.sbcpu.floating
+Version: 3.1.13
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 1300
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_3.1.13_iphoneos-arm64e.deb
+Size: 152272
+MD5sum: 5fa815159353f6152d560641da73183d
+SHA1: 1208724aba14bfa762f5fc94869df85fd6129991
+SHA256: 3d6237acd341d61369920a8704a08e34db00ea199e2d5af81ba40f573654c96c
+Section: Tweaks
+Description: SpringBoard CPU Floating Monitor, Notification Manager with CPUthermal 1.6.4-53 thermal engine; preserves ChargeBoost and Force Fast Charge controls
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 3.1.13
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 1300
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_3.1.13_iphoneos-arm64.deb
+Size: 154204
+MD5sum: ea1ce545a9ffe832fb7fd4dc265c6ee4
+SHA1: 77b46e3127afa2e93cfa893a9e71af91700f743e
+SHA256: dff79dd83f4bf5df4cdbe1f5c00017e42ca5577e0c006064c2ea800798c6bb55
+Section: Tweaks
+Description: SpringBoard CPU Floating Monitor, Notification Manager with CPUthermal 1.6.4-53 thermal engine; preserves ChargeBoost and Force Fast Charge controls
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64e
