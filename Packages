@@ -7058,6 +7058,40 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wechatnotiavatar.png
 Name: WeChatNotiAvatar
 
+Package: com.ngkhoi.26home
+Version: 1.1.7
+Architecture: iphoneos-arm64e
+Maintainer: ngkhoi
+Installed-Size: 28608
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.ngkhoi.26home_1.1.7_iphoneos-arm64e.deb
+Size: 20391876
+MD5sum: 1ec36b5d72302f2d9f24cd28b49e6691
+SHA1: aba707af9d5005421f84989521ba85581bb6deb5
+SHA256: 1575f7b58ae531cadaa5a16f2432d6699475de9eb5851d66ff08f786cdff6202
+Section: Tweaks
+Description: iOS 26 Homescreen customization.
+Author: ngkhoi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
+Name: 26Home
+
+Package: com.ngkhoi.26home
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: ngkhoi
+Installed-Size: 28628
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.ngkhoi.26home_1.1.7_iphoneos-arm64.deb
+Size: 20394776
+MD5sum: fff074d27f8d03bd6cd3e81a2784292a
+SHA1: ff6089ed72c1ca9ea073c6dc51e2720a3d10fb1a
+SHA256: 184f0bf5e5ee9cebe201003a9c4463d4485b5a172b01a46ac2eac94ae5be1733
+Section: Tweaks
+Description: iOS 26 Homescreen customization.
+Author: ngkhoi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
+Name: 26Home
+
 Package: com.noisyflake.velvet2
 Version: 2.1.2-3
 Architecture: iphoneos-arm64e
