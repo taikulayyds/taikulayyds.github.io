@@ -5533,6 +5533,40 @@ Author: Jake James
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bounceit.png
 Name: Bounce It!弹性动画
 
+Package: com.jl.liquidglass
+Version: 0.1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: jl
+Installed-Size: 4968
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.jl.liquidglass_0.1.2.3_iphoneos-arm64e.deb
+Size: 1673376
+MD5sum: bcdc65d847db3d9f20f2aac61f29a795
+SHA1: cf921820936e5ca103b5392477a3577b53142b96
+SHA256: dc5065cfd8c95734f61b18c001b66291d9f4e74a87fda5550b73dfd0aa9d83f8
+Section: Tweaks
+Description: 仿iOS26液态玻璃效果，支持锁屏，控制中心，通知等
+Author: jl
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/liquidglass.png
+Name: 液态玻璃
+
+Package: com.jl.liquidglass
+Version: 0.1.2.3
+Architecture: iphoneos-arm64
+Maintainer: jl
+Installed-Size: 4968
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.jl.liquidglass_0.1.2.3_iphoneos-arm64.deb
+Size: 1671020
+MD5sum: 80af303161fbfa9dbe175b0a1d0a555d
+SHA1: 4c244eea3e7bb4b1aad1f59f503d0686827df3ab
+SHA256: 1777430b13a1869b7fc3bf417b12f015a12e6233b1e8bc030e7091b1b5eda68a
+Section: Tweaks
+Description: 仿iOS26液态玻璃效果，支持锁屏，控制中心，通知等
+Author: jl
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/liquidglass.png
+Name: 液态玻璃
+
 Package: com.jontelang.snapper3
 Version: 1.2.1
 Architecture: iphoneos-arm64e
