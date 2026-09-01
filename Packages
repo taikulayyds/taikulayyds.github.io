@@ -13514,6 +13514,44 @@ Author: MilkyWay Reborn
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/milkyway.png
 Name: MilkyWay2
 
+Package: jp.dcsyhi.culprit
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Dcsyhi
+Installed-Size: 1164
+Depends: firmware (>=15.0)
+Filename: ./debs/iphoneos-arm64e/jp.dcsyhi.culprit_1.0.0_iphoneos-arm64e.deb
+Size: 692888
+MD5sum: 16f34b536701082a518734df09354d74
+SHA1: 6f586c086abbffd6cef75598800716fd66d0a531
+SHA256: de5e74deb1dd16a8b1f5be1edd4f090ee9e95ebd42f67de0d2dd7882d72eeff7
+Section: Tweaks
+Description: Crash reports grouped by process. Colored presentation informed by slog (Ethan Arbuckle, https://github.com/EthanArbuckle/slog).
+Author: Dcsyhi
+Depiction: https://dcsyhi1998.github.io/depiction/Culprit.html
+Icon: https://dcsyhi1998.github.io/icons/Culprit/Culprit.png
+Name: Culprit
+Sileodepiction: https://dcsyhi1998.github.io/Sileodepiction/Culprit.json
+
+Package: jp.dcsyhi.culprit
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Dcsyhi
+Installed-Size: 1164
+Depends: firmware (>=15.0)
+Filename: ./debs/iphoneos-arm64/jp.dcsyhi.culprit_1.0.0_iphoneos-arm64.deb
+Size: 692784
+MD5sum: eabfa1148cab1a102152a664c5e769f1
+SHA1: f522afcac3299822baf8eeacffdc3140d5618de0
+SHA256: b186d8d621d616c1b3f65e858ba6d38c0d1964b9362e20e745a55fa242b47bd3
+Section: Tweaks
+Description: Crash reports grouped by process. Colored presentation informed by slog (Ethan Arbuckle, https://github.com/EthanArbuckle/slog).
+Author: Dcsyhi
+Depiction: https://dcsyhi1998.github.io/depiction/Culprit.html
+Icon: https://dcsyhi1998.github.io/icons/Culprit/Culprit.png
+Name: Culprit
+Sileodepiction: https://dcsyhi1998.github.io/Sileodepiction/Culprit.json
+
 Package: jp.soh.freepip
 Version: 0.0.5
 Architecture: iphoneos-arm64e
