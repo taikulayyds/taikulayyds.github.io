@@ -12778,6 +12778,25 @@ Depiction: https://chariz.com/get/popoutbuttons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Name: PopOutButtons
 
+Package: com.tsangbaby.kayoko
+Version: 4.8
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Installed-Size: 3156
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64e/com.tsangbaby.kayoko_4.8_iphoneos-arm64e.deb
+Size: 669840
+MD5sum: 06aa50598e121ad272d8df4edebaf6e8
+SHA1: ef97fe1ade7ef7f0bb905ae2058302f897d1eda6
+SHA256: 19a1e1275244d4d8d707509e0ed7f8a4b6e68fa1868b2440b7eaf1278ea7167a
+Section: Tweaks
+Description: Kayoko 剪切板，Tsangbaby 基于 mlgm 版进行二次修改
+Author: Tsangbaby
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/kayoko.png
+Name: Kayoko
+
 Package: com.uckermark.siriplus
 Version: 1.3
 Architecture: iphoneos-arm64e
