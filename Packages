@@ -13638,6 +13638,42 @@ Icon: https://dcsyhi1998.github.io/icons/Culprit/Culprit.png
 Name: Culprit
 Sileodepiction: https://dcsyhi1998.github.io/Sileodepiction/Culprit.json
 
+Package: jp.dcsyhi.culprit
+Version: 1.0.0-zh
+Architecture: iphoneos-arm64e
+Maintainer: 灰灰 (汉化维护)
+Installed-Size: 1172
+Depends: firmware (>=15.0)
+Filename: ./debs/iphoneos-arm64e/jp.dcsyhi.culprit_1.0.0-zh_iphoneos-arm64e.deb
+Size: 694268
+MD5sum: 0a2717c40c1b9bcc5480be9ec992e651
+SHA1: a0b5ba77bb81ceeb2b3652c6393b33298b61e76f
+SHA256: 82113987afa0aba94346b5395da2d690e3b5adf48fc1169970c12bbda8278b70
+Section: Tweaks
+Description: 按进程分组查看崩溃报告，点开可看概要、崩溃栈、工程摘要和 .ips 全文。中文汉化：灰灰 与 MIAO。配色与排版参考 slog (Ethan Arbuckle, https://github.com/EthanArbuckle/slog)。
+Author: Dcsyhi
+Icon: https://dcsyhi1998.github.io/icons/Culprit/Culprit.png
+Name: Culprit
+Translator: 灰灰 与 MIAO (=^･ω･^=)
+
+Package: jp.dcsyhi.culprit
+Version: 1.0.0-zh
+Architecture: iphoneos-arm64
+Maintainer: 灰灰 (汉化维护)
+Installed-Size: 1172
+Depends: firmware (>=15.0)
+Filename: ./debs/iphoneos-arm64/jp.dcsyhi.culprit_1.0.0-zh_iphoneos-arm64.deb
+Size: 694328
+MD5sum: fb22a92763cca372ac35880921b841ba
+SHA1: e9edd2a81fe946c906c866294c0c710fa4641473
+SHA256: 05ab3f8cc94bc87a7075bcbe85ebc7e7117fac45465c563ab5e2f9ae0f16db51
+Section: Tweaks
+Description: 按进程分组查看崩溃报告，点开可看概要、崩溃栈、工程摘要和 .ips 全文。中文汉化：灰灰 与 MIAO。配色与排版参考 slog (Ethan Arbuckle, https://github.com/EthanArbuckle/slog)。
+Author: Dcsyhi
+Icon: https://dcsyhi1998.github.io/icons/Culprit/Culprit.png
+Name: Culprit
+Translator: 灰灰 与 MIAO (=^･ω･^=)
+
 Package: jp.soh.freepip
 Version: 0.0.5
 Architecture: iphoneos-arm64e
