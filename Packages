@@ -7661,6 +7661,38 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/crane.png
 Name: Crane
 
 Package: com.opa334.trollstorelite
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 8140
+Depends: ldid
+Filename: ./debs/iphoneos-arm64e/com.opa334.trollstorelite_2.1.1_iphoneos-arm64e.deb
+Size: 2218668
+MD5sum: 81615f2a8d466e9d89e16350aebd637a
+SHA1: e84e4947bd1a268ea47bb3416bf23776bede60df
+SHA256: 56919c190cae7d2692093e556a6ac6ac755e404422e29bbf82ba73fedcff0c79
+Section: Applications
+Description: TrollStore for RootHide jailbroken iOS
+Author: opa334
+Name: TrollStore Lite (0903)
+
+Package: com.opa334.trollstorelite
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 8140
+Depends: ldid
+Filename: ./debs/iphoneos-arm64/com.opa334.trollstorelite_2.1.1_iphoneos-arm64.deb
+Size: 2217840
+MD5sum: 47cd28d2ae246bd5be2480e8ad1a0443
+SHA1: af783f445f33e1fba18dc6ecf3209737223c0601
+SHA256: 1c1e552cd8cb72caad0caf94efd2302ae19aec9320f21d8e01d5b68c2ef05087
+Section: Applications
+Description: TrollStore for jailbroken iOS
+Author: opa334
+Name: TrollStore Lite (0903)
+
+Package: com.opa334.trollstorelite
 Version: 2.1.1-1
 Architecture: iphoneos-arm64e
 Maintainer: opa334
