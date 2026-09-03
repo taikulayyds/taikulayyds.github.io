@@ -6005,17 +6005,15 @@ Version: 1.7.0
 Architecture: iphoneos-arm64e
 Maintainer: MrGcGamer
 Installed-Size: 380
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
-Conflicts: com.mrgcgamer.libgcuniversals
 Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
 Filename: ./debs/iphoneos-arm64e/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
-Size: 53408
-MD5sum: 00a0b2f59478b18cad06a37c31c5dbf9
-SHA1: fb025b61aed8aeb0bc3546016e8af7bcd253eb61
-SHA256: 5353fc55e63190225b0311c205bf8357fc4638d6cd0945cefc6d9f6e9d5c71c0
-Section: 依赖
-Description: 开发通用库，例如SettingsRevamp就需要依赖此；转换支持roothide。
+Size: 54604
+MD5sum: 20251b125688721bc652cdf907f113c0
+SHA1: 72767fd80bce14a86d18f0d35123e2bfa6669130
+SHA256: 682dd65524319cbe0779225bf1658cbd8b665832e220d0cbaac6bc63792c8951
+Section: Development
+Description: An awesome library of some sort!!开发通用库，例如SettingsRevamp就需要此依赖。
 Tag: role::developer
 Author: MrGcGamer
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/libgcuniversal.png
@@ -12289,15 +12287,14 @@ Package: com.taikulayyds.settingsrevamp
 Version: 3.0.1
 Architecture: iphoneos-arm64e
 Maintainer: SOPPPra
-Pre-Depends: rootless-compat(>= 0.9), rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.settingsrevamp_3.0.1_iphoneos-arm64e.deb
-Size: 308752
-MD5sum: 9b59b2ec06f301dec6c578530bee08fb
-SHA1: e9e0b214221001e0d2c9edfad7eea6479715c118
-SHA256: c2dd2c4eb13889fa7df2fa6baa41e9c1a9ff390c3d4b95487eccdb17bf74de79
-Section: 插件
-Description: Customize the ios settings page.插件设置归类，一款将插件归类，美化系统设置的插件，可以更换设置背景图片，非常的nice！
+Size: 311600
+MD5sum: 709aa9e64687c29c802ae1c3796007d3
+SHA1: c73bf3125c61a4c709067f27ef4c368ff0cb309a
+SHA256: abe5012062ac61e17704dd267cf9fa1205f9c8aeffeec94a0e2561ffef5f22df
+Section: Tweaks
+Description: Customize the ios settings page.插件设置归类，一款将插件归类，美化系统设置的插件，可以更换设置背景图片，非常的nice！刀刀汉化。
 Author: SOPPPra
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingsrevamp.png
 Name: SettingsRevamp
@@ -12306,14 +12303,13 @@ Package: com.taikulayyds.settingsrevamp
 Version: 3.0.1
 Architecture: iphoneos-arm64
 Maintainer: SOPPPra
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Filename: ./debs/iphoneos-arm64/com.taikulayyds.settingsrevamp_3.0.1_iphoneos-arm64.deb
-Size: 308596
-MD5sum: 4d3e6ec03c0e18fdf10b37c793bc3a71
-SHA1: c3ca84ed11fd1206bddfe036adba1879299964b9
-SHA256: 243bb143e71096a184d84155219535cd922e3b561eee6ee8aca50fcf2f63a472
-Section: 插件
+Size: 311536
+MD5sum: 945295a9e38a45963a6e578ff8dbb9f1
+SHA1: 8870d27d6e0ff18a65a759220f85e3510ff16b9e
+SHA256: 2db09ae5a2d7788562421360072a7aba374a18c4e32ea7b6660f21137b73ad0b
+Section: Tweaks
 Description: Customize the ios settings page.插件设置归类，一款将插件归类，美化系统设置的插件，可以更换设置背景图片，非常的nice！
 Author: SOPPPra
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/settingsrevamp.png
