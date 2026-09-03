@@ -4292,10 +4292,10 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/iphoneos-arm64e/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
-Size: 970184
-MD5sum: 7f39f0fcf5f00993496610b5bf6ce46f
-SHA1: 1307322448ac43b0f0bf6ee15d025d8ca6ec2e0a
-SHA256: 0bdce40483aef54bcb5c07a8030001c361196505889e4280edd912122620fe6e
+Size: 967040
+MD5sum: 878e09e3ce3d20d5c8a312c8bd1acecc
+SHA1: c73ebdb3bea329cf15cb401a039d66c3cba1f7a2
+SHA256: 5eec403a77f9a534ebc9cc408e3e7c86c186fedec2cd9270103db54dbd8975f0
 Section: Tweaks
 Description: The first real iOS system cleanup and management utility
 Author: Ivano Bilenchi <support@ib-soft.net>
@@ -4310,10 +4310,10 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./debs/iphoneos-arm64/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 982176
-MD5sum: 6832db1270efdf6b8c0bad5c367bd9c3
-SHA1: 6c59720402de83c450c5aabb7263615ac29b297a
-SHA256: 7fd8ae4fa673fe467d359297c3ae7e199d28d478bf31f835161f7d02f418bf5c
+Size: 979084
+MD5sum: 810e4791dbf06dcaf3ae316a9c4123b1
+SHA1: 8c181e730b4a786e404dbcd691642381e9899a0d
+SHA256: b4bb572f1b95a16a4d0f2a565721ecd6ab242002a062d5edbb622ca514bc24b4
 Section: Tweaks
 Description: The first real iOS system cleanup and management utility
 Author: Ivano Bilenchi <support@ib-soft.net>
