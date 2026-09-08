@@ -14019,48 +14019,6 @@ Author: Soh Satoh & SINI
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/freepip.png
 Name: FreePIP
 
-Package: jp.soh.reprovision
-Version: 1.1.164
-Architecture: iphoneos-arm64
-Maintainer: AmorCool <admin@reprovision.dev>
-Depends: firmware (>= 15.0), zip, unzip
-Conflicts: jp.soh.reprovision
-Filename: ./debs/iphoneos-arm64/jp.soh.reprovision_1.1.164_iphoneos-arm64.deb
-Size: 4199256
-MD5sum: 6b4c0cf306c530314993c90e63ee6175
-SHA1: de6472594be3f6350f5687ccb1c0c6b7d587378f
-SHA256: 9a8b209ed3738e44f984333e679e22931f6b03755d53eb8773bc31593cc9307a
-Section: Utilities
-Priority: optional
-Description: 使用 苹果 ID 续签 IPA
- * 仅支持 iOS 17 Relaxin 越狱
- * 解决非巨魔设备签名 Relaxin IPA 问题
- * Re-signing tool for iOS jailbreak
-Author: Coolapk@Analytics
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
-Name: ReSign 苹果 ID 续签
-
-Package: jp.soh.reprovision
-Version: 1.1.164
-Architecture: iphoneos-arm64e
-Maintainer: AmorCool <admin@reprovision.dev>
-Depends: firmware (>= 15.0), zip, unzip
-Conflicts: jp.soh.reprovision
-Filename: ./debs/iphoneos-arm64e/jp.soh.reprovision_1.1.164_iphoneos-arm64e.deb
-Size: 4200492
-MD5sum: 1ecadd67b4be6bccb5be82560af2c7ac
-SHA1: 2b03a9aa02e46270c030abe05c99661f1821eec1
-SHA256: 1129b07cf1dd526dd37c3c110f35461130b44b6904dcf94e443991962877c7d0
-Section: Utilities
-Priority: optional
-Description: 使用 苹果 ID 续签 IPA
- * 仅支持 iOS 17 Relaxin 越狱
- * 解决非巨魔设备签名 Relaxin IPA 问题
- * Re-signing tool for iOS jailbreak
-Author: Coolapk@Analytics
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
-Name: ReSign 苹果 ID 续签
-
 Package: me.lau.atria
 Version: 1.4.1
 Architecture: iphoneos-arm64
