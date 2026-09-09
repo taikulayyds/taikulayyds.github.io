@@ -12489,6 +12489,50 @@ Author: sergy
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/replyactions.png
 Name: ReplyActions
 
+Package: com.taikulayyds.reprovision
+Version: 1.1.164
+Architecture: iphoneos-arm64
+Maintainer: AmorCool <admin@reprovision.dev>
+Installed-Size: 59700
+Depends: firmware (>= 15.0), zip, unzip
+Conflicts: jp.soh.reprovision,jp.soh.reprovisions
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.reprovision_1.1.164_iphoneos-arm64.deb
+Size: 4200428
+MD5sum: 015860a5d461ee871b4e22fccaae1fa6
+SHA1: 3d1092ceff3550c767117ef6a0d3f47b67fb7c7e
+SHA256: 8b6b5f623932739f57fc93dc3bff0a6204fef7535dd2454e74b2596c1bc4ce6b
+Section: Utilities
+Priority: optional
+Description: 使用 苹果 ID 续签 IPA
+ * 支持 iOS 17 Relaxin 越狱  其它越狱自行测试
+ * 解决非巨魔设备签名 Relaxin IPA 问题
+ * Re-signing tool for iOS jailbreak
+Author: Coolapk@Analytics
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
+Name: ReSign 苹果 ID 续签
+
+Package: com.taikulayyds.reprovision
+Version: 1.1.164
+Architecture: iphoneos-arm64e
+Maintainer: AmorCool <admin@reprovision.dev>
+Installed-Size: 59700
+Depends: firmware (>= 15.0), zip, unzip
+Conflicts: jp.soh.reprovision,jp.soh.reprovisions
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.reprovision_1.1.164_iphoneos-arm64e.deb
+Size: 4200064
+MD5sum: 6d2c8ed3180f4aa7d819ba3012f25156
+SHA1: 00f5ac088cf87b72eb809ad5a80fe060c2f7d54c
+SHA256: 9acb4f18fd3a0ddce9c851e62930962177dd582ecd17e4d0e6bcaeea65fe7bde
+Section: Utilities
+Priority: optional
+Description: 使用 苹果 ID 续签 IPA
+ * 支持 iOS 17 Relaxin 越狱  其它越狱自行测试
+ * 解决非巨魔设备签名 Relaxin IPA 问题
+ * Re-signing tool for iOS jailbreak
+Author: Coolapk@Analytics
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
+Name: ReSign 苹果 ID 续签
+
 Package: com.taikulayyds.satella
 Version: 1.9.0-1
 Architecture: iphoneos-arm64
