@@ -8473,6 +8473,40 @@ Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
 Name: SB CPU Floating
 
+Package: com.sbcpu.floating
+Version: 3.6.2
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 1816
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_3.6.2_iphoneos-arm64.deb
+Size: 246852
+MD5sum: 5ef141b5a1fddc84b5efbbd2ccd76864
+SHA1: f046509b21f11b1e751de8178c5c4d38e25a1ca1
+SHA256: acacbe6f1a899e46650cbe7a782ad3ac485e3ff521f6a8c975e2f04325c9448d
+Section: Tweaks
+Description: 修复 bug，新增横屏胶囊开关。
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 3.6.2
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 1800
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_3.6.2_iphoneos-arm64e.deb
+Size: 244172
+MD5sum: 8c4848529635a7730593a0a94109c701
+SHA1: e9c17592b7ea7bf3eb4048aae8a57cc17b087397
+SHA256: 9f5e7e6750718f8c70cdea86989b5fefdd6419a35e39f0201b7b1768edc25185
+Section: Tweaks
+Description: 修复 bug，新增横屏胶囊开关。
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64
