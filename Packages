@@ -948,6 +948,40 @@ Author: 0xkuj
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzadirprobe.png
 Name: FilzaDirProbe
 
+Package: com.0xkuj.iparanger
+Version: 2.5.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 33336
+Depends: gawk, unzip, plutil
+Filename: ./debs/iphoneos-arm64/com.0xkuj.iparanger_2.5.2_iphoneos-arm64.deb
+Size: 8382908
+MD5sum: 6ff843d0ea216d069ae5278a88cb6982
+SHA1: 7f1476f592967b0dc3ae235b0b0ccac2fe6bbf06
+SHA256: 44de523ebc8bbedbc79cef3fc3d0db34c113ed75f720be86de1ee792425b86b8
+Section: Tweaks
+Description: GUI Based Application for ipatool.使用您的苹果ID帐户从应用程序商店（加密）下载任何IPA！
+Author: 0xkuj
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iparanger.png
+Name: IPA Ranger
+
+Package: com.0xkuj.iparanger
+Version: 2.5.2
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 33336
+Depends: gawk, unzip, plutil
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.iparanger_2.5.2_iphoneos-arm64e.deb
+Size: 8384152
+MD5sum: 86cb4ba2d705baa78f69a519c1521337
+SHA1: 786e135dd1eb5259915efdcf9bd29ac58598b19c
+SHA256: 7647f1c563d87c45ad22d5f0c9966bedca6421002baaaa934f440442b7fe1065
+Section: Tweaks
+Description: GUI Based Application for ipatool.使用您的苹果ID帐户从应用程序商店（加密）下载任何IPA！
+Author: 0xkuj
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iparanger.png
+Name: IPA Ranger
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.8
 Architecture: iphoneos-arm64
