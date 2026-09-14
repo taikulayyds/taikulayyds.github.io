@@ -8530,6 +8530,40 @@ Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
 Name: SB CPU Floating
 
+Package: com.sbcpu.floating
+Version: 3.7
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 1848
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_3.7_iphoneos-arm64.deb
+Size: 259692
+MD5sum: 6f0081e4720f05e3c357218617c165f7
+SHA1: fa71fbda5ad57afb8755063be69578df07d8c672
+SHA256: 2cb64cf3059df1bc3bddff01f86c3b91902d9fb0aa0468095a6526239dec9b4f
+Section: Tweaks
+Description: 新增锁屏清理后台开关
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 3.7
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 1848
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_3.7_iphoneos-arm64e.deb
+Size: 257172
+MD5sum: b18ef7b9be2449253da22d6cb140722b
+SHA1: 857a094d17b2b2c4270592b72bd15483c0167680
+SHA256: 097386bb2880807a5d5aa5744fc90a06fafb4de450f7fc5e9e1dcd36cd3f4d9c
+Section: Tweaks
+Description: 新增锁屏清理后台开关
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64
