@@ -8564,6 +8564,46 @@ Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
 Name: SB CPU Floating
 
+Package: com.sbcpu.floating
+Version: 4.1.2
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 2116
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_4.1.2_iphoneos-arm64.deb
+Size: 278268
+MD5sum: 73a63a64fe460987ec982e0314beb900
+SHA1: 91ecf7cd796cbfa15445435ee519af671bbbec92
+SHA256: 3be495dfdfc69055173ffbc570ecd1c3ed306d01abf02236e33ffb667dfd29e6
+Section: Tweaks
+Description: 新增插件耗电情况，仅供参考
+ 新增长按浮窗显示充电详情、充电器瓦数、实际输入瓦数
+ 修复 120 强制帧率，强行注入每个进程，实现满帧率运行
+ 新增充电历史详情
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.1.2
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 2100
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_4.1.2_iphoneos-arm64e.deb
+Size: 275652
+MD5sum: 829b4c20071153bd1cfd3557d1eecd3f
+SHA1: abd78cddc700bd2e59bec781e78ba6e26b3c0129
+SHA256: 8c1af8b9f52cefd72be704c9158e0a7e42436eb07dc9b4cc37929708512c7054
+Section: Tweaks
+Description: 新增插件耗电情况，仅供参考
+ 新增长按浮窗显示充电详情、充电器瓦数、实际输入瓦数
+ 修复 120 强制帧率，强行注入每个进程，实现满帧率运行
+ 新增充电历史详情
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64
