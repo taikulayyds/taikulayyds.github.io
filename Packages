@@ -3496,6 +3496,40 @@ Author: 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccless.png
 Name: CCLess++
 
+Package: com.charlieleung.liquidify
+Version: 1.3.7-4+dao88.1
+Architecture: iphoneos-arm64
+Maintainer: 一刀
+Installed-Size: 40597
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.charlieleung.liquidify_1.3.7-4+dao88.1_iphoneos-arm64.deb
+Size: 10725420
+MD5sum: 54576d7e4228bc780cea41b670fe276a
+SHA1: 6f047713dcb93f7ee02f142489cd7be55120ce72
+SHA256: 98edb15a4f60551e2cf66a9aed6fd6d5901301d2c2ca4f998b8f7682ab4288b7
+Section: Tweaks
+Description: 为 iOS 界面注入液态玻璃质感。88元液态玻璃破解版。
+Author: 一刀
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/88yetai.png
+Name: Liquidify 88元 液态玻璃
+
+Package: com.charlieleung.liquidify
+Version: 1.3.7-4+dao88.1
+Architecture: iphoneos-arm64e
+Maintainer: 一刀
+Installed-Size: 40597
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.charlieleung.liquidify_1.3.7-4+dao88.1_iphoneos-arm64e.deb
+Size: 10722060
+MD5sum: 04eb171d948951d89de6c84e1f72d748
+SHA1: f0518d3624fa9f7708f71a6521a65c243dd5995f
+SHA256: f4bf75b8f1d7ae8bf593904a506e175e45ff2589e4fd1bf075e4183fb88c44c6
+Section: Tweaks
+Description: 为 iOS 界面注入液态玻璃质感。88元液态玻璃破解版。
+Author: 一刀
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/88yetai.png
+Name: Liquidify 88元 液态玻璃
+
 Package: com.chloe.physpringboard
 Version: 1.9.19
 Architecture: iphoneos-arm64
@@ -5775,6 +5809,42 @@ SHA1: 11ea51585f006af2875c486c764d197e94685bc6
 SHA256: 1b6813257339aef84b0d53212d16a0f39dc1676f9d0377ce17a62851763247df
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 3.2.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 14436
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64/com.iosdump.shellx_3.2.1_iphoneos-arm64.deb
+Size: 3205580
+MD5sum: 64d960a08608b7cf6561b6566097fe92
+SHA1: 820b1d45a28065b91d2dfbdbfca50222a90de380
+SHA256: b56ac6fdd78303235b73ecae08de6a9239e73662a9b5c37d37323953670d4f80
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 3.2.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 14436
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64e/com.iosdump.shellx_3.2.1_iphoneos-arm64e.deb
+Size: 3207976
+MD5sum: 6590da2a505f195d398fdee9385883f2
+SHA1: 043f7635fb6f674ca11f9e7914746bbffee4c0db
+SHA256: cdd59b549d1b680a999c78f31933f303e0d014119a8207c1aae17872341027dc
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
 Author: iosdump
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
 Name: SHELLX
@@ -8595,6 +8665,46 @@ Size: 275652
 MD5sum: 829b4c20071153bd1cfd3557d1eecd3f
 SHA1: abd78cddc700bd2e59bec781e78ba6e26b3c0129
 SHA256: 8c1af8b9f52cefd72be704c9158e0a7e42436eb07dc9b4cc37929708512c7054
+Section: Tweaks
+Description: 新增插件耗电情况，仅供参考
+ 新增长按浮窗显示充电详情、充电器瓦数、实际输入瓦数
+ 修复 120 强制帧率，强行注入每个进程，实现满帧率运行
+ 新增充电历史详情
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.1.6
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 2116
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_4.1.6_iphoneos-arm64.deb
+Size: 280468
+MD5sum: 63b64e833756372bc6b879fa07d0582c
+SHA1: c4bc11fde7a93740a4181726735c9974bef20260
+SHA256: b4278f431fe75bfd320cf8e0b9f92fead90217587e4219ee171d9996282d7b9c
+Section: Tweaks
+Description: 新增插件耗电情况，仅供参考
+ 新增长按浮窗显示充电详情、充电器瓦数、实际输入瓦数
+ 修复 120 强制帧率，强行注入每个进程，实现满帧率运行
+ 新增充电历史详情
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.1.6
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 2100
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_4.1.6_iphoneos-arm64e.deb
+Size: 277652
+MD5sum: d7b620588bde752952799c4bbaf5be7f
+SHA1: 8677f90774768344230fb2dc24bb9c817971db52
+SHA256: 617cf2ee17c88e93360a8cad7d5999e4bddb94b5dc8deea39b862f23026a2d0f
 Section: Tweaks
 Description: 新增插件耗电情况，仅供参考
  新增长按浮窗显示充电详情、充电器瓦数、实际输入瓦数
