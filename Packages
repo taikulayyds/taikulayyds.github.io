@@ -3537,13 +3537,14 @@ Maintainer: 一刀
 Installed-Size: 40749
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/com.charlieleung.liquidify_1.3.7-4+repair.4_iphoneos-arm64.deb
-Size: 10710112
-MD5sum: 8e6e181b004551b50f3ca486df92bb65
-SHA1: 2b95ea22f3bcd8a9d69746dbe0e5e648f0efe760
-SHA256: d93a333eae24b1dc13e9a3075d40f1c2571d8f23d792fefc8a487ff2ffa1f344
+Size: 10711008
+MD5sum: 926222727ddc6a311ce1b30cb8604151
+SHA1: a77c099d62d8e14c483ef09e2d7a4f0eb95faf6b
+SHA256: ea23f6edbf8159b964f49d70c32011d8e2104b4f9271d7dd4d2948f1918c6a83
 Section: Tweaks
 Description: 为 iOS 界面注入液态玻璃质感。88元液态玻璃破解版。
 Author: 一刀
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/88yetai.png
 Name: Liquidify 88元 液态玻璃
 
 Package: com.charlieleung.liquidify
@@ -3553,13 +3554,14 @@ Maintainer: 一刀
 Installed-Size: 40749
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64e/com.charlieleung.liquidify_1.3.7-4+repair.4_iphoneos-arm64e.deb
-Size: 10711392
-MD5sum: 697b65aef88b1b479e057fe82d782865
-SHA1: f91f43a16d35992cc378adec55a789fc6c86c15f
-SHA256: 902c778b11cf3ca4f0bce740f9c31df3cc4ae22593df70fe226e599be5d032b3
+Size: 10712772
+MD5sum: 71b90d0fab19860a152d099ccc27ff89
+SHA1: 6490bd194b7038979509ad534133d4246660369b
+SHA256: bec00becba1984b9dac8390ecd0a4ac46d8730465435bdf0a36d0e8c90833204
 Section: Tweaks
 Description: 为 iOS 界面注入液态玻璃质感。88元液态玻璃破解版。
 Author: 一刀
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/88yetai.png
 Name: Liquidify 88元 液态玻璃
 
 Package: com.chloe.physpringboard
