@@ -3530,6 +3530,22 @@ Author: 一刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/88yetai.png
 Name: Liquidify 88元 液态玻璃
 
+Package: com.charlieleung.liquidify
+Version: 1.3.7-4+repair.4
+Architecture: iphoneos-arm64
+Maintainer: 一刀
+Installed-Size: 40749
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.charlieleung.liquidify_1.3.7-4+repair.4_iphoneos-arm64.deb
+Size: 10710112
+MD5sum: 8e6e181b004551b50f3ca486df92bb65
+SHA1: 2b95ea22f3bcd8a9d69746dbe0e5e648f0efe760
+SHA256: d93a333eae24b1dc13e9a3075d40f1c2571d8f23d792fefc8a487ff2ffa1f344
+Section: Tweaks
+Description: 为 iOS 界面注入液态玻璃质感。88元液态玻璃破解版。
+Author: 一刀
+Name: Liquidify 88元 液态玻璃
+
 Package: com.chloe.physpringboard
 Version: 1.9.19
 Architecture: iphoneos-arm64
@@ -8710,6 +8726,23 @@ Description: 新增插件耗电情况，仅供参考
  新增长按浮窗显示充电详情、充电器瓦数、实际输入瓦数
  修复 120 强制帧率，强行注入每个进程，实现满帧率运行
  新增充电历史详情
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.20.0
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 2228
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_4.20.0_iphoneos-arm64.deb
+Size: 309672
+MD5sum: 54e093a80ee321e4b115ddd32de2c350
+SHA1: 0b1f446d9c6bae08417393b0d564cc2f8b88efb8
+SHA256: 2c608548c16bcfa17175907e0faece851f5c023e2ffdbf7280deaf3d862059e9
+Section: Tweaks
+Description: 新增网络频段锁定(Beta)：长按详情-蜂窝详情-网络工具进入，按卡勾选5G NR/4G LTE/3G/2G频段并真实下发基带(setActiveBandInfo)，支持全选/全不选、保存应用、恢复默认，无基带SPI权限时明示错误；另含浮窗信号行增强(运营商+dBm+频段+SA/NSA)与蜂窝详情页(信号质量/基站参数/IMEI)
 Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
 Name: SB CPU Floating
