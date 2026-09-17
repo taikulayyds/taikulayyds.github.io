@@ -3849,6 +3849,42 @@ Author: therealhoodboy
 Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
 Name: CC26
 
+Package: com.cydiabc.reprovisioncn
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Ai-小苹果™
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.cydiabc.reprovisioncn_1.0-1_iphoneos-arm64.deb
+Size: 22680
+MD5sum: bdd2acb36b01cdab93451499ac872547
+SHA1: efe12683afb7a96af87db55fdadc368fd18df4ec
+SHA256: 792417e77af752f0162b856ee63a6201d07c8dcc3e4c24eadee054dd5d88940c
+Section: Tweaks
+Description: ReProvision 简体中文语言包，安装即可生效。
+Author: Ai-小苹果™
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
+Name: ReProvision Reborn简体中文包
+Sponsor: Ai-小苹果™
+
+Package: com.cydiabc.reprovisioncn
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Ai-小苹果™
+Installed-Size: 220
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.cydiabc.reprovisioncn_1.0-1_iphoneos-arm64e.deb
+Size: 22588
+MD5sum: 9c5cbc9a972a5e24b71f7832723a9601
+SHA1: 49bbc52313c80ff1cbaffdee0f789e3ac80ecfd6
+SHA256: 2b0b5e72bb33a05fef45c56a8c7b92c9951d60922c1f356086ae851111d38e25
+Section: Tweaks
+Description: ReProvision 简体中文语言包，安装即可生效。
+Author: Ai-小苹果™
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
+Name: ReProvision Reborn简体中文包
+Sponsor: Ai-小苹果™
+
 Package: com.cydiageek.springanimations
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -13701,6 +13737,42 @@ Description: 解除温控，一切从简即可。灰灰参考作者开源代码�
 Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/insulation.png
 Name: insulation(解除温控)
+
+Package: com.yourepo.b4db1r3r3p0.reprovisionrebornagain
+Version: 0.8.4-rootless.28
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh, b4db1r3 <nfive060@gmail.com>
+Depends: firmware (>= 15.0), uikittools
+Conflicts: jp.soh.reprovision, com.matchstic.reprovision
+Replaces: jp.soh.reprovision
+Filename: ./debs/iphoneos-arm64/com.yourepo.b4db1r3r3p0.reprovisionrebornagain_0.8.4-rootless.28_iphoneos-arm64.deb
+Size: 14193108
+MD5sum: 7c1a898b60f90bca01272d27eab0e30c
+SHA1: 4b88a74e1ffd68c0b0d915b96d7d473cf6d99a99
+SHA256: 0a2555aaefce7af7bcd3ab3f2f86415e25aa002ff896a1dbaf5b301194845ace
+Section: Utilities
+Description: Re-sign applications directly on your rootless jailbroken deviceThis community-maintained build restores Apple account authentication,trusted-device two-factor authentication, background signing, and modernprovisioning-profile handling for iOS 15 and newer.
+Author: Soh Satoh, Matt Clarke, b4db1r3 <nfive060@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
+Name: ReProvision Reborn… Again
+
+Package: com.yourepo.b4db1r3r3p0.reprovisionrebornagain
+Version: 0.8.4-rootless.28
+Architecture: iphoneos-arm64e
+Maintainer: Soh Satoh, b4db1r3 <nfive060@gmail.com>
+Depends: firmware (>= 15.0), uikittools
+Conflicts: jp.soh.reprovision, com.matchstic.reprovision
+Replaces: jp.soh.reprovision
+Filename: ./debs/iphoneos-arm64e/com.yourepo.b4db1r3r3p0.reprovisionrebornagain_0.8.4-rootless.28_iphoneos-arm64e.deb
+Size: 14193236
+MD5sum: 07b83ff79326a09d6d699f0fdf898b69
+SHA1: e092cd92ec75ab9ccc532ba82fec7eff40c20182
+SHA256: 836f010ce8e2568650ef7add3013d0d4bebe5b811aa81db365c7c62893a1be7f
+Section: Utilities
+Description: Re-sign applications directly on your rootless jailbroken deviceThis community-maintained build restores Apple account authentication,trusted-device two-factor authentication, background signing, and modernprovisioning-profile handling for iOS 15 and newer.
+Author: Soh Satoh, Matt Clarke, b4db1r3 <nfive060@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
+Name: ReProvision Reborn… Again
 
 Package: com.yourepo.lly.dismissalert
 Version: 1.0.0
