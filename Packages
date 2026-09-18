@@ -3504,6 +3504,40 @@ Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.volumemi
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/volumemixer.png
 Name: VolumeMixer
 
+Package: com.bvn.squidforcecrack.rl
+Version: 1.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: BVN
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.bvn.squidforcecrack.rl_1.0.1-1_iphoneos-arm64.deb
+Size: 38248
+MD5sum: 6680fdc8eba0804b2f40fef63e583e62
+SHA1: 5b67753f903d49a4ad75b59a708a2b5a261c3f5a
+SHA256: 8ba8105e6c3fe9bd60e5a1f37ec28a4988ff871e8e7684c18cea914996bb6ff9
+Section: Tweaks
+Description: 乌贼三件套(squidextender，squidgesturepro，copyvault）通杀插件，安装即可生效。
+Author: BVN
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/squidforcecrack.png
+Name: SquidForce VIP
+
+Package: com.bvn.squidforcecrack.rl
+Version: 1.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: BVN
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.bvn.squidforcecrack.rl_1.0.1-1_iphoneos-arm64e.deb
+Size: 38080
+MD5sum: 5ff53434a11108e7d31d4fdf1a450384
+SHA1: cade085d607f7a8b2dea5a3865d207f858b4181f
+SHA256: 02f93630e880544efe082fcedbef53c9f3f6cf3ab978b05e967639407ad819a1
+Section: Tweaks
+Description: 乌贼三件套(squidextender，squidgesturepro，copyvault）通杀插件，安装即可生效。
+Author: BVN
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/squidforcecrack.png
+Name: SquidForce VIP
+
 Package: com.ccless
 Version: 2.0.6
 Architecture: iphoneos-arm64
@@ -13983,40 +14017,6 @@ Description: 关闭内嵌视频播放，不再使用低劣的html5视频播放�
 Author: tyiiirfvjjkjjj 凑合哥 Repack
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ultravideos.png
 Name: UltraVideos
-
-Package: com.unknown.squidforcevip
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Unknown
-Installed-Size: 822
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.unknown.squidforcevip_1.0_iphoneos-arm64.deb
-Size: 165696
-MD5sum: 2252f7bff959c1d5c8ffecf1f5ffa4ed
-SHA1: 4a3efb9dcb33748f6cea1fd3565c12fb1e8ede19
-SHA256: 3ba3ebf9af63938b6a2d8cf5bb42e472fcbc0008e7ca0349a865d8773669a732
-Section: Tweaks
-Description: 乌贼三件套(squidextender，squidgesturepro，copyvault）通杀插件，作者未知，安装即可生效。
-Author: Unknown
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wuzeililiang.png
-Name: SquidForce VIP
-
-Package: com.unknown.squidforcevip
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: Unknown
-Installed-Size: 822
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.unknown.squidforcevip_1.0_iphoneos-arm64e.deb
-Size: 165780
-MD5sum: f282991dc7c8d35f4243df96798d9bd4
-SHA1: 297b22fcff6258eb91beb66224aabfd7d0242647
-SHA256: ff9775a37636d0529f73be8bef32a1d59847701e6747883c4b1302e39669ca5b
-Section: Tweaks
-Description: 乌贼三件套(squidextender，squidgesturepro，copyvault）通杀插件，作者未知，安装即可生效。
-Author: Unknown
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/wuzeililiang.png
-Name: SquidForce VIP
 
 Package: com.w3ltyyy.lead
 Version: 1.4.4
