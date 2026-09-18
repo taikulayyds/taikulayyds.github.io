@@ -4729,6 +4729,44 @@ Author: Kritanta
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/gravitation.png
 Name: Gravitation
 
+Package: com.hang.squidgesturepro-ios17fix
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
+Conflicts: com.codex.squidgesture17fix
+Filename: ./debs/iphoneos-arm64/com.hang.squidgesturepro-ios17fix_2.3_iphoneos-arm64.deb
+Size: 15068
+MD5sum: b743b97cdc6e80f59cef1784441a072c
+SHA1: fe9c035b644f9ad2cbcee7666aa5b8f38bb1746e
+SHA256: c71034ec9c958ca8c7042f22c4014a8949c572d0fde84f4d4b8d92664eed9f67
+Section: Tweaks
+Description: 修复SquidGesturePro在iOS17状态栏不生效与启动快捷指令时导致的安全模式。
+ 不生效就把手势内总开关跟小开关重新开启一下，有问题请卸载。
+Author: 航
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/squidgesturepro.png
+Name: 乌贼手势 iOS 17 补丁
+
+Package: com.hang.squidgesturepro-ios17fix
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: 航
+Installed-Size: 92
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 17.0)
+Conflicts: com.codex.squidgesture17fix
+Filename: ./debs/iphoneos-arm64e/com.hang.squidgesturepro-ios17fix_2.3_iphoneos-arm64e.deb
+Size: 15064
+MD5sum: e661d48042412044e2421306c4e3a38b
+SHA1: 7c08b7936c207625daf348e49915e3b1a1f1a2af
+SHA256: abbb1f8db1870a0988cb1a8bc4b884b30e83ce07f006f0d8efcec6a531f1c1da
+Section: Tweaks
+Description: 修复SquidGesturePro在iOS17状态栏不生效与启动快捷指令时导致的安全模式。
+ 不生效就把手势内总开关跟小开关重新开启一下，有问题请卸载。
+Author: 航
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/squidgesturepro.png
+Name: 乌贼手势 iOS 17 补丁
+
 Package: com.ichitaso.hideserialnumber
 Version: 0.0.4
 Architecture: iphoneos-arm64
