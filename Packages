@@ -8818,6 +8818,110 @@ Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
 Name: SB CPU Floating
 
+Package: com.sbcpu.floating
+Version: 4.61
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 2852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_4.61_iphoneos-arm64.deb
+Size: 382136
+MD5sum: dbb990672bd57442aec693aab2a9f4e8
+SHA1: cd6eeb222618d95153bdcec5674a32d0b06732d5
+SHA256: 30ca86b9b251d514e2996fc3b8603e3dd8772dbf286a9ac709118ac93ff82006
+Section: Tweaks
+Description: V4.61 Charge Engine 稳定版：①修复电池事件回调签名错误（3参强转4参导致电量变化收不到通知、80/70 不随电量触发）——改为原生 4 参数 IOServiceInterestCallback 并检查注册返回值；②智能充电改用独立状态变量 gLimitBlocked/gLimitUsesPowerBlock，不再从 CH0C 反推，修复 keepAC=NO 时 CH0I 停充后无法恢复；③SBCPUPowerd 与智能停充完全解耦，只保留满血快充，删除伪造 ChargeInhibit/ChargeBlocked/ChargeLimit/FullyCharged 的 Hook；④overrideOBC/keepAC 真正贯穿 UI→socket→daemon→SMC（不再 drainMode 写死）；⑤socket 读写改为 read_full/write_full 防拆包；⑥补回 10 秒 watchdog 兜底（防 IOKit 通知不可用时 daemon 秒退）；⑦daemon 启动即决策一次，浮窗关闭/respring 后限制仍生效；⑧修复 SMC 读取长度越界风险；⑨修复拔插电/daemon 重启后的 CH0C/CH0I 状态漂移；⑩移除 powerd 对电池状态与充电准入属性的伪装
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.61
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 2852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_4.61_iphoneos-arm64e.deb
+Size: 354892
+MD5sum: f286de0f8271d53b5a2181ea371695de
+SHA1: 4b808f24d35c1600a437536810365732079af7a5
+SHA256: c0ee1a72c792b16f32fb5bc5b2a60d3e726b6a106b861c0c8980b35fde4b06fc
+Section: Tweaks
+Description: V4.61 Charge Engine 稳定版：①修复电池事件回调签名错误（3参强转4参导致电量变化收不到通知、80/70 不随电量触发）——改为原生 4 参数 IOServiceInterestCallback 并检查注册返回值；②智能充电改用独立状态变量 gLimitBlocked/gLimitUsesPowerBlock，不再从 CH0C 反推，修复 keepAC=NO 时 CH0I 停充后无法恢复；③SBCPUPowerd 与智能停充完全解耦，只保留满血快充，删除伪造 ChargeInhibit/ChargeBlocked/ChargeLimit/FullyCharged 的 Hook；④overrideOBC/keepAC 真正贯穿 UI→socket→daemon→SMC（不再 drainMode 写死）；⑤socket 读写改为 read_full/write_full 防拆包；⑥补回 10 秒 watchdog 兜底（防 IOKit 通知不可用时 daemon 秒退）；⑦daemon 启动即决策一次，浮窗关闭/respring 后限制仍生效；⑧修复 SMC 读取长度越界风险；⑨修复拔插电/daemon 重启后的 CH0C/CH0I 状态漂移；⑩移除 powerd 对电池状态与充电准入属性的伪装
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.63
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 2852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_4.63_iphoneos-arm64.deb
+Size: 381848
+MD5sum: 7b79619488157313229922d6e772f477
+SHA1: 4e94a75a977e1a390af3d40b29d244bdea998520
+SHA256: bb71368e415661117ccbad194d54b3f14faac0fc28c5188025c0e86186288a2c
+Section: Tweaks
+Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电与温控保护。
+ 【核心功能】
+  - CPU/FPS：实时查看 CPU 负载、物理频率与屏幕刷新率
+  - 电池/温度：读取真实电量、硬件级温度与充放电电流
+  - 通知与悬浮聊天：无缝显示微信/QQ 消息，点击直达聊天窗口
+  - 液态玻璃：浮窗材质可自定义强度、折射、厚度、高光、色散、折射率与渲染质量
+  - 充电管理：可手动阻止充电/外部供电；智能充电按上限停充、下限回充，支持保留外部电源与覆盖 OBC，保留满血快充
+  - CPUthermal 温控：高温自动降功耗、熄屏省电，温度恢复后自动还原
+ 【手势操作】
+  - 单击浮窗：展开胶囊 / 消息直达
+  - 双击浮窗：进入高级设置中心
+  - 长按浮窗：查看详细硬件状态
+  - 拖动浮窗：自由移动并自动边缘吸附
+ 【使用说明】
+  - 安装后请 Respring 一次
+  - 设置路径：设置 → SBCPU Floating（双击桌面浮窗也可进入高级设置）
+  - 建议先连接有线充电器再启用智能停充，无线充电不执行智能停充
+  - 值守进程 SBCPUChargeDaemon 由 launchd 常驻，请勿手动重复启动
+  - 本包为 Rootless（arm64）版；RootHide（arm64e）请安装对应版本
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.63
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 2852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_4.63_iphoneos-arm64e.deb
+Size: 354440
+MD5sum: 2ad426ddc11f0dc102d117dec8a38dd8
+SHA1: 0e51047157c9f9b9a00445a59ae1342eee69a1ac
+SHA256: 2058d04ddc3667d76c0a6278dbffeaaa7edbacf7abb2695962686cc8de0e2344
+Section: Tweaks
+Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电与温控保护。
+ 【核心功能】
+  - CPU/FPS：实时查看 CPU 负载、物理频率与屏幕刷新率
+  - 电池/温度：读取真实电量、硬件级温度与充放电电流
+  - 通知与悬浮聊天：无缝显示微信/QQ 消息，点击直达聊天窗口
+  - 液态玻璃：浮窗材质可自定义强度、折射、厚度、高光、色散、折射率与渲染质量
+  - 充电管理：可手动阻止充电/外部供电；智能充电按上限停充、下限回充，支持保留外部电源与覆盖 OBC，保留满血快充
+  - CPUthermal 温控：高温自动降功耗、熄屏省电，温度恢复后自动还原
+ 【手势操作】
+  - 单击浮窗：展开胶囊 / 消息直达
+  - 双击浮窗：进入高级设置中心
+  - 长按浮窗：查看详细硬件状态
+  - 拖动浮窗：自由移动并自动边缘吸附
+ 【使用说明】
+  - 安装后请 Respring 一次
+  - 设置路径：设置 → SBCPU Floating（双击桌面浮窗也可进入高级设置）
+  - 建议先连接有线充电器再启用智能停充，无线充电不执行智能停充
+  - 值守进程 SBCPUChargeDaemon 由 launchd 常驻，请勿手动重复启动
+  - 本包为 RootHide（arm64e）版；标准 Rootless（arm64）请安装对应版本
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -10530,6 +10634,40 @@ Description: 任意调整画中画大小和位置，长按画中画窗口切换�
 Author: Soh Satoh & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Name: FreePIP
+
+Package: com.sini921.lockscreenhelper
+Version: 0.0.1-18
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 732
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/com.sini921.lockscreenhelper_0.0.1-18_iphoneos-arm64.deb
+Size: 89500
+MD5sum: 1cfcacda629399a26dad9cb212dcabd1
+SHA1: 4584462d3114b74d8175b8273a7d256553a7324b
+SHA256: 9780f602a98495160e10398b6014bad85433b3850775b3ba72614687fb125dbf
+Section: Tweaks
+Description: 锁屏界面相关的简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
+Name: LockScreenHelper
+
+Package: com.sini921.lockscreenhelper
+Version: 0.0.1-18
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 732
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/com.sini921.lockscreenhelper_0.0.1-18_iphoneos-arm64e.deb
+Size: 88160
+MD5sum: 3bac39017d9fec1465076cd3af878c2a
+SHA1: 11c3562b8e5d4bd521c321e8c6098284a36a1ae9
+SHA256: 25f77a5c9823d14a595924c73464e817f0e6657746fb3f848eda3d425d90f3df
+Section: Tweaks
+Description: 锁屏界面相关的简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
+Name: LockScreenHelper
 
 Package: com.sini921.lstimeseconds
 Version: 0.0.5-1
@@ -13378,6 +13516,26 @@ Description: Kayoko 剪切板，Tsangbaby 基于 mlgm 版进行二次修改
 Author: Tsangbaby
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/Kayoko.png
 Name: Kayoko
+
+Package: com.tsangbaby.kayoko
+Version: 4.8.1
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Installed-Size: 3220
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: com.mlgm.kayoko, codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64e/com.tsangbaby.kayoko_4.8.1_iphoneos-arm64e.deb
+Size: 686100
+MD5sum: d3e5334d9dd7628d0516b1a56c4a6d9e
+SHA1: 068a5459f633f6c1e3621223fd5156daaf0a8fac
+SHA256: 3fa047c27f576db6f2e4400c3f3f3369be81a542ca597c6a1bbd1d3fa85b89fe
+Section: Tweaks
+Description: Kayoko 剪切板，Tsangbaby 基于 mlgm 版进行二次修改
+Author: Tsangbaby
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/Kayoko.png
+Name: Kayoko
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.kayoko/depiction.json
 
 Package: com.uckermark.siriplus
 Version: 1.3
