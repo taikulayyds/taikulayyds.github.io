@@ -8998,6 +8998,80 @@ Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
 Name: SB CPU Floating
 
+Package: com.sbcpu.floating
+Version: 4.65
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 2852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_4.65_iphoneos-arm64.deb
+Size: 357212
+MD5sum: 13974a756da7e12198df2ea18689b288
+SHA1: f14c3fe689d7a6d56e91e19612d32561c87cd537
+SHA256: 3e7c69bf6a67aeaf2585ec2e4c5669101dc7506408b315401bc703fdb6b56d43
+Section: Tweaks
+Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电与温控保护。
+ 【本次更新 V4.65】
+  - 修复系统设置里设置后又恢复默认 bug
+ 【核心功能】
+  - CPU/FPS：实时查看 CPU 负载、物理频率与屏幕刷新率
+  - 电池/温度：读取真实电量、硬件级温度与充放电电流
+  - 通知与悬浮聊天：无缝显示微信/QQ 消息，点击直达聊天窗口
+  - 液态玻璃：浮窗材质可自定义强度、折射、厚度、高光、色散、折射率与渲染质量
+  - 充电管理：可手动阻止充电/外部供电；智能充电按上限停充、下限回充，支持保留外部电源与覆盖 OBC，保留满血快充
+  - CPUthermal 温控：高温自动降功耗、熄屏省电，温度恢复后自动还原
+ 【手势操作】
+  - 单击浮窗：展开胶囊 / 消息直达
+  - 双击浮窗：进入高级设置中心
+  - 长按浮窗：查看详细硬件状态
+  - 拖动浮窗：自由移动并自动边缘吸附
+ 【使用说明】
+  - 安装后请 Respring 一次
+  - 设置路径：设置 → SBCPU Floating（双击桌面浮窗也可进入高级设置）
+  - 建议先连接有线充电器再启用智能停充，无线充电不执行智能停充
+  - 值守进程 SBCPUChargeDaemon 由 launchd 常驻，请勿手动重复启动
+  - 本包为 Rootless（arm64）版；RootHide（arm64e）请安装对应版本
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.65
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 2852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_4.65_iphoneos-arm64e.deb
+Size: 354664
+MD5sum: b38fac3954d750d5b7f67d14c6b028e3
+SHA1: e0a4431a8806d547284139be24e026009fa91f1d
+SHA256: 8f8682040c33b89de571e84be03c1de2000c8492ae8d33bcf10f48f93baa5448
+Section: Tweaks
+Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电与温控保护。
+ 【本次更新 V4.65】
+  - 修复系统设置里设置后又恢复默认 bug
+ 【核心功能】
+  - CPU/FPS：实时查看 CPU 负载、物理频率与屏幕刷新率
+  - 电池/温度：读取真实电量、硬件级温度与充放电电流
+  - 通知与悬浮聊天：无缝显示微信/QQ 消息，点击直达聊天窗口
+  - 液态玻璃：浮窗材质可自定义强度、折射、厚度、高光、色散、折射率与渲染质量
+  - 充电管理：可手动阻止充电/外部供电；智能充电按上限停充、下限回充，支持保留外部电源与覆盖 OBC，保留满血快充
+  - CPUthermal 温控：高温自动降功耗、熄屏省电，温度恢复后自动还原
+ 【手势操作】
+  - 单击浮窗：展开胶囊 / 消息直达
+  - 双击浮窗：进入高级设置中心
+  - 长按浮窗：查看详细硬件状态
+  - 拖动浮窗：自由移动并自动边缘吸附
+ 【使用说明】
+  - 安装后请 Respring 一次
+  - 设置路径：设置 → SBCPU Floating（双击桌面浮窗也可进入高级设置）
+  - 建议先连接有线充电器再启用智能停充，无线充电不执行智能停充
+  - 值守进程 SBCPUChargeDaemon 由 launchd 常驻，请勿手动重复启动
+  - 本包为 RootHide（arm64e）版；标准 Rootless（arm64）请安装对应版本
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64
