@@ -11084,6 +11084,42 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
 Name: LockScreenHelper
 
+Package: com.sini921.lockscreenhelper
+Version: 0.0.1-19
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 732
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/com.sini921.lockscreenhelper_0.0.1-19_iphoneos-arm64.deb
+Size: 89572
+MD5sum: 154109334f1538366a82d35fb1fd264b
+SHA1: 9bbe44b951c9c8fbe0602dce461da0dc77c1c998
+SHA256: 8bec73206d8879fcc103fcc7e6b36ad75541d73094138f8c02158b2303516370
+Section: Tweaks
+Description: 锁屏界面相关的简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
+Name: LockScreenHelper
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockscreenhelper/js.json
+
+Package: com.sini921.lockscreenhelper
+Version: 0.0.1-19
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 732
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/com.sini921.lockscreenhelper_0.0.1-19_iphoneos-arm64e.deb
+Size: 88008
+MD5sum: 8bf7f738e57eb9d8cdbbe5266d0d44e3
+SHA1: 439a8760d1465a99ea600ca7f7326c0ee8f3345a
+SHA256: 41a878915798f089693982bc51d796ffea73ecbee9d0a1d08a64d1aad876cf8c
+Section: Tweaks
+Description: 锁屏界面相关的简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
+Name: LockScreenHelper
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockscreenhelper/js.json
+
 Package: com.sini921.lstimeseconds
 Version: 0.0.5-1
 Architecture: iphoneos-arm64
