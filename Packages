@@ -14369,40 +14369,6 @@ Author: Your Name
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/backgroundretainer.png
 Name: BackgroundRetainer
 
-Package: com.wkk.copylogx
-Version: 1.1-9
-Architecture: iphoneos-arm64
-Maintainer: wkk
-Installed-Size: 1828
-Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64/com.wkk.copylogx_1.1-9_iphoneos-arm64.deb
-Size: 273146
-MD5sum: a8efce01b508a9d6cdcc205278d3a2c0
-SHA1: 620ba22d0d33e0b6ea6ba72b1330a517cef2556c
-SHA256: 2c570e9c10a5d64c3adf51bdeb6180211e3fc3658488e9b0b4d82381bce121db
-Section: Tweaks
-Description: cool！
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: CopylogX
-
-Package: com.wkk.copylogx
-Version: 1.1-9
-Architecture: iphoneos-arm64e
-Maintainer: wkk
-Installed-Size: 1828
-Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64e/com.wkk.copylogx_1.1-9_iphoneos-arm64e.deb
-Size: 273888
-MD5sum: c892fed320094444f9c324ada6546d8f
-SHA1: d2f3d168818a3e6cdcbc255b5e34d6249abfd0eb
-SHA256: fd95a0acae64178d566f64e78d30fa2974f2b609b1d75cac607dff60ca265941
-Section: Tweaks
-Description: cool！
-Author: wkk
-Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
-Name: CopylogX
-
 Package: com.xx.safarixhook
 Version: 1.0.0
 Architecture: iphoneos-arm64
