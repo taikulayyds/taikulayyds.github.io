@@ -5673,6 +5673,42 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/memorycontrol.png
 Name: MemoryControlX
 
 Package: com.iosdump.shellx
+Version: 10.0.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 16160
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64/com.iosdump.shellx_10.0.0_iphoneos-arm64.deb
+Size: 3785460
+MD5sum: 579efe6ef4ad18b0a23fe6f06899ebb8
+SHA1: 27361bd8ec943f58c8b24283d3391a2e0f83ce19
+SHA256: 5dd51995a6a7bdbf24fd8cd36f1ac9107d9429cfe1436b7315524a1383643dee
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 10.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 16160
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64e/com.iosdump.shellx_10.0.0_iphoneos-arm64e.deb
+Size: 3782560
+MD5sum: cb22208a0c1afdad2af699fc74590b40
+SHA1: 0c4071701cbed45a4bdf27913b885838dd2b0255
+SHA256: 8c2cbad9a76e0ef13934b71d01e572275556dfccf1d1490774f79b2639e96661
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
+Name: SHELLX
+
+Package: com.iosdump.shellx
 Version: 2.3.1
 Architecture: iphoneos-arm64
 Maintainer: iosdump
@@ -9516,6 +9552,96 @@ Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、�
  【本次更新 V4.71】
   - 修复已知 bug
  【历史更新】
+  - V4.70：新增智能温控限制充电
+  - V4.66：新增设置：莫忘越狱源
+  - V4.65：修复系统设置里设置后又恢复默认 bug
+  - V4.64：修复自动清后台 bug；修复下拉通知中心清后台 bug
+ 【核心功能】
+  - CPU/FPS：实时查看 CPU 负载、物理频率与屏幕刷新率
+  - 锁频段：长按浮窗进入详情，点右上角"蜂窝详情"，在里面点选想要锁定的 CPU 频段即可；锁定低档位更省电，锁定高档位可满血发挥
+  - 电池/温度：读取真实电量、硬件级温度与充放电电流
+  - 通知与悬浮聊天：无缝显示微信/QQ 消息，点击直达聊天窗口
+  - 液态玻璃：浮窗材质可自定义强度、折射、厚度、高光、色散、折射率与渲染质量
+  - 充电管理：可手动阻止充电/外部供电；智能充电按上限停充、下限回充，支持保留外部电源与覆盖 OBC，保留满血快充
+  - CPUthermal 温控：高温自动降功耗、熄屏省电，温度恢复后自动还原
+ 【手势操作】
+  - 单击浮窗：展开胶囊 / 消息直达
+  - 双击浮窗：进入高级设置中心
+  - 长按浮窗：查看详细硬件状态（右上角"蜂窝详情"可锁频段）
+  - 拖动浮窗：自由移动并自动边缘吸附
+ 【使用说明】
+  - 安装后请 Respring 一次
+  - 设置路径：设置 → SBCPU Floating（双击桌面浮窗也可进入高级设置）
+  - 建议先连接有线充电器再启用智能停充，无线充电不执行智能停充
+  - 值守进程 SBCPUChargeDaemon 由 launchd 常驻，请勿手动重复启动
+  - 本包为 RootHide（arm64e）版；标准 Rootless（arm64）请安装对应版本
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.73
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 2884
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_4.73_iphoneos-arm64.deb
+Size: 359748
+MD5sum: 9dc626b56c376ba69a7718fac7f7b730
+SHA1: b2668ca212bb02441edc1d7d5448568311007d84
+SHA256: e5dd96bca9717b68cfa4582eafcc1c76af12d0a80a086ccfd2c3a5b7d605eefc
+Section: Tweaks
+Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电、锁频段与温控保护。
+ 【本次更新 V4.73】
+  - 回归双击全屏设置
+ 【历史更新】
+  - V4.72：修复智能停充 bug
+  - V4.71：修复已知 bug
+  - V4.70：新增智能温控限制充电
+  - V4.66：新增设置：莫忘越狱源
+  - V4.65：修复系统设置里设置后又恢复默认 bug
+  - V4.64：修复自动清后台 bug；修复下拉通知中心清后台 bug
+ 【核心功能】
+  - CPU/FPS：实时查看 CPU 负载、物理频率与屏幕刷新率
+  - 锁频段：长按浮窗进入详情，点右上角"蜂窝详情"，在里面点选想要锁定的 CPU 频段即可；锁定低档位更省电，锁定高档位可满血发挥
+  - 电池/温度：读取真实电量、硬件级温度与充放电电流
+  - 通知与悬浮聊天：无缝显示微信/QQ 消息，点击直达聊天窗口
+  - 液态玻璃：浮窗材质可自定义强度、折射、厚度、高光、色散、折射率与渲染质量
+  - 充电管理：可手动阻止充电/外部供电；智能充电按上限停充、下限回充，支持保留外部电源与覆盖 OBC，保留满血快充
+  - CPUthermal 温控：高温自动降功耗、熄屏省电，温度恢复后自动还原
+ 【手势操作】
+  - 单击浮窗：展开胶囊 / 消息直达
+  - 双击浮窗：进入高级设置中心
+  - 长按浮窗：查看详细硬件状态（右上角"蜂窝详情"可锁频段）
+  - 拖动浮窗：自由移动并自动边缘吸附
+ 【使用说明】
+  - 安装后请 Respring 一次
+  - 设置路径：设置 → SBCPU Floating（双击桌面浮窗也可进入高级设置）
+  - 建议先连接有线充电器再启用智能停充，无线充电不执行智能停充
+  - 值守进程 SBCPUChargeDaemon 由 launchd 常驻，请勿手动重复启动
+  - 本包为 Rootless（arm64）版；RootHide（arm64e）请安装对应版本
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.73
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 2852
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_4.73_iphoneos-arm64e.deb
+Size: 359060
+MD5sum: 1ae85970420f03a1d602ee0308501d9a
+SHA1: b4592421863a048c3cb57af891c7d77186e1b1f8
+SHA256: 40c12b4e4d538565c9f37a6b8743308a42ad3b7e8274114c2bb34959cfb29e30
+Section: Tweaks
+Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电、锁频段与温控保护。
+ 【本次更新 V4.73】
+  - 回归双击全屏设置
+ 【历史更新】
+  - V4.72：修复智能停充 bug
+  - V4.71：修复已知 bug
   - V4.70：新增智能温控限制充电
   - V4.66：新增设置：莫忘越狱源
   - V4.65：修复系统设置里设置后又恢复默认 bug
