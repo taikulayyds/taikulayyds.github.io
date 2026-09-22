@@ -4203,11 +4203,11 @@ Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
 Filename: ./debs/iphoneos-arm64/com.dao.ccborder_1.2_iphoneos-arm64.deb
-Size: 41316
-MD5sum: df44677e19b69824ec2b2e8afc22af6b
-SHA1: b7e196578c1ed6f69ac51654782c3d9f98a60983
-SHA256: 33c5ee5f93e8ec27df51995e12ace913bdfaab6c0d3b6775bcaabdb695fe4b2b
-Section: 插件
+Size: 41272
+MD5sum: fb904fe0e92c303c371bb9f323a7d618
+SHA1: 65f226d16c92ece6a461567d0999d799b21b8386
+SHA256: 7581c75b8eaf961c2d848b899ec6a0cd438abbef4c096cbadf2e8efdd19489bd
+Section: Tweaks
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
@@ -4239,11 +4239,11 @@ Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
 Filename: ./debs/iphoneos-arm64e/com.dao.ccborder_1.2_iphoneos-arm64e.deb
-Size: 40052
-MD5sum: d8783d0568f37747ae9677feeaaaf069
-SHA1: 6b42983936f8cab1d971eb922caf16532d967e6c
-SHA256: 6748dd7c2d02083080aa58146bfd35d6aa1d8b3ba8a129c15f86e6a5d112f9fc
-Section: 插件
+Size: 40068
+MD5sum: ec76b8ca96cae181751ae84c45ebc6e2
+SHA1: f28e8007caac7a973c145a77d675a4c6b63d4338
+SHA256: 4301a73c16b088fbe45d52873d82508d8ad1dc289c343a45cacaa8ab088032a1
+Section: Tweaks
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
@@ -13871,6 +13871,90 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/perfectgrabber.png
 Name: PerfectGrabber
 
+Package: com.taikulayyds.rainbowkeyboard
+Version: 1.0.26~lite1
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.rainbowkeyboard_1.0.26~lite1_iphoneos-arm64.deb
+Size: 73520
+MD5sum: 81060f43c4085da92610424b895ac51a
+SHA1: bee5b89d48192a795b5b0a710e93828e38f56f31
+SHA256: 68d05ab5f64d99e62ee30934d5e2182052c54aff5bea634c2cac57881b88acb6
+Section: Tweaks
+Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输入法
+ 四种固定预设、三星风格扩散与霓虹圆环两种样式。
+ 自定义键盘底色和键帽颜色，保留按下态及跨 App 配色兼容。
+ 最多复用两组光效，默认快速点击预设，低电量或高温时降低光效频率。
+ 移除候选词渐变、键帽弹跳、调节滑条、诊断写盘和内置大预览图。
+Author: MoWang
+Icon: https://jimkanuo.github.io/apt-repo/depiction/rainbowkeyboard/icon.png
+Name: 彩虹键盘 · 轻量版
+
+Package: com.taikulayyds.rainbowkeyboard
+Version: 1.0.26~lite1
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 332
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.rainbowkeyboard_1.0.26~lite1_iphoneos-arm64e.deb
+Size: 73632
+MD5sum: 2b3442d053520f2830b018102219e74d
+SHA1: 1cfc6363650e535f0adbcd29fe2b500af8846e31
+SHA256: d759de43effb0d57de13fb32c6a38bff3f5749a8dbc2eadfd488b6a3793f799b
+Section: Tweaks
+Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输入法
+ 四种固定预设、三星风格扩散与霓虹圆环两种样式。
+ 自定义键盘底色和键帽颜色，保留按下态及跨 App 配色兼容。
+ 最多复用两组光效，默认快速点击预设，低电量或高温时降低光效频率。
+ 移除候选词渐变、键帽弹跳、调节滑条、诊断写盘和内置大预览图。
+Author: MoWang
+Icon: https://jimkanuo.github.io/apt-repo/depiction/rainbowkeyboard/icon.png
+Name: 彩虹键盘 · 轻量版
+
+Package: com.taikulayyds.rainbowkeyboard
+Version: 1.0.26~lite2
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 668
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.rainbowkeyboard_1.0.26~lite2_iphoneos-arm64.deb
+Size: 108752
+MD5sum: df150ef93ecdba67c52663f6a6b4f4f6
+SHA1: 52268f35776525a7cba7c1999f2e5dddac1229f9
+SHA256: b33c949e1800c13b43cb2c1e4e571aedd0c7b234a68927494d0ce4026b188929
+Section: Tweaks
+Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输入法
+ 四种固定预设、三星风格扩散与霓虹圆环两种样式。
+ 自定义键盘底色和键帽颜色，保留按下态及跨 App 配色兼容。
+ 最多复用两组光效，默认快速点击预设，低电量或高温时降低光效频率。
+ 移除候选词渐变、键帽弹跳、调节滑条、诊断写盘和内置大预览图。
+Author: MoWang
+Icon: https://jimkanuo.github.io/apt-repo/depiction/rainbowkeyboard/icon.png
+Name: 彩虹键盘 · 轻量版
+
+Package: com.taikulayyds.rainbowkeyboard
+Version: 1.0.26~lite2
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 332
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.rainbowkeyboard_1.0.26~lite2_iphoneos-arm64e.deb
+Size: 74668
+MD5sum: 79baa7dc8735e698409da9eac81367c6
+SHA1: 59abf3b50b7649b93d54bb365f317a2348c4e55a
+SHA256: 03981e60bdc07bc3d070829cddd9c3aafffc5ae0c264ea64167e1d2546b08f41
+Section: Tweaks
+Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输入法
+ 四种固定预设、三星风格扩散与霓虹圆环两种样式。
+ 自定义键盘底色和键帽颜色，保留按下态及跨 App 配色兼容。
+ 最多复用两组光效，默认快速点击预设，低电量或高温时降低光效频率。
+ 移除候选词渐变、键帽弹跳、调节滑条、诊断写盘和内置大预览图。
+Author: MoWang
+Icon: https://jimkanuo.github.io/apt-repo/depiction/rainbowkeyboard/icon.png
+Name: 彩虹键盘 · 轻量版
+
 Package: com.taikulayyds.replyactions
 Version: 2.0.0
 Architecture: iphoneos-arm64
@@ -14836,11 +14920,11 @@ Depends: firmware (>= 15.0), uikittools
 Conflicts: jp.soh.reprovision, com.matchstic.reprovision
 Replaces: jp.soh.reprovision
 Filename: ./debs/iphoneos-arm64/com.yourepo.b4db1r3r3p0.reprovisionrebornagain_0.8.4-rootless.28_iphoneos-arm64.deb
-Size: 14193108
-MD5sum: 7c1a898b60f90bca01272d27eab0e30c
-SHA1: 4b88a74e1ffd68c0b0d915b96d7d473cf6d99a99
-SHA256: 0a2555aaefce7af7bcd3ab3f2f86415e25aa002ff896a1dbaf5b301194845ace
-Section: Utilities
+Size: 14195092
+MD5sum: bdecda4349d8bfe2d237bf64d457f85c
+SHA1: 0d3937387c0c513e21b52a43efce74a491276b4d
+SHA256: 2078e0892118c42382b40941b188dccf380761eda1b830744336c2aa6c8725de
+Section: Tweaks
 Description: Re-sign applications directly on your rootless jailbroken deviceThis community-maintained build restores Apple account authentication,trusted-device two-factor authentication, background signing, and modernprovisioning-profile handling for iOS 15 and newer.
 Author: Soh Satoh, Matt Clarke, b4db1r3 <nfive060@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
