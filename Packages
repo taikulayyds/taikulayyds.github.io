@@ -14035,6 +14035,52 @@ Author: MoWang
 Icon: https://jimkanuo.github.io/apt-repo/depiction/rainbowkeyboard/icon.png
 Name: 彩虹键盘 · 轻量版
 
+Package: com.taikulayyds.rainbowkeyboard
+Version: 1.0.26~lite4
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 672
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.rainbowkeyboard_1.0.26~lite4_iphoneos-arm64.deb
+Size: 134532
+MD5sum: ef124ca4033ed5adbab1d9b451968cc5
+SHA1: bc3888862ca302a8ecdae74b9869972419220528
+SHA256: f8210f757cd02ae18b6bf1ccf32a26f2a6ab9b3e76c93c198097fdf4c04bd00b
+Section: Tweaks
+Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输入法
+ 四种固定预设、三星风格扩散与霓虹圆环两种样式。
+ 自定义键盘底色和键帽颜色，保留按下态及跨 App 配色兼容。
+ 键盘配色与搜索词颜色分别开关，支持搜索词单色或双色渐变、自定义颜色。
+ 九宫格及全键盘切换实时刷新粗霓虹边框，可指定微信输入法或原生键盘优先弹出。
+ 最多复用两组光效，默认快速点击预设，低电量或高温时降低光效频率。
+ 移除键帽弹跳、调节滑条、诊断写盘和内置大预览图。
+Author: MoWang
+Icon: https://jimkanuo.github.io/apt-repo/depiction/rainbowkeyboard/icon.png
+Name: 彩虹键盘 · 轻量版
+
+Package: com.taikulayyds.rainbowkeyboard
+Version: 1.0.26~lite4
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.rainbowkeyboard_1.0.26~lite4_iphoneos-arm64e.deb
+Size: 93124
+MD5sum: bcc4f86ff18317255f474efcfc54979d
+SHA1: ab5d71162e6942fe598bd5758d204da1870b899b
+SHA256: e93a0a41bd6d7ead22f53056eea4ff043b354a3820486f6652496c6286a37b4d
+Section: Tweaks
+Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输入法
+ 四种固定预设、三星风格扩散与霓虹圆环两种样式。
+ 自定义键盘底色和键帽颜色，保留按下态及跨 App 配色兼容。
+ 键盘配色与搜索词颜色分别开关，支持搜索词单色或双色渐变、自定义颜色。
+ 九宫格及全键盘切换实时刷新粗霓虹边框，可指定微信输入法或原生键盘优先弹出。
+ 最多复用两组光效，默认快速点击预设，低电量或高温时降低光效频率。
+ 移除键帽弹跳、调节滑条、诊断写盘和内置大预览图。
+Author: MoWang
+Icon: https://jimkanuo.github.io/apt-repo/depiction/rainbowkeyboard/icon.png
+Name: 彩虹键盘 · 轻量版
+
 Package: com.taikulayyds.replyactions
 Version: 2.0.0
 Architecture: iphoneos-arm64
