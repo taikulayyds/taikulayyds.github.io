@@ -3904,6 +3904,40 @@ Author: crctdd
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
 Name: StayAlive Lite
 
+Package: com.crctdd.stayalivelite
+Version: 0.1.7
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 604
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.crctdd.stayalivelite_0.1.7_iphoneos-arm64.deb
+Size: 89144
+MD5sum: 9758abd40c34f15cd6921476cd6fe9fc
+SHA1: 22c6218bcf98fca92a9b853e1de9e9b9eded9486
+SHA256: cb8bc5feb7d820b1e12a4f27f61526cd5f9f4e832190ff88a49757929e16b835
+Section: Tweaks
+Description: 为指定App开启守护后台，将任务角色注册为Inactive(非活跃)，并提供一直运行、定时运行、崩溃自动拉起、注销后自动拉起、Wi-Fi/充电/低电量条件控制等功能。同时支持通过桌面长按App图标快速开启/关闭，操作会直接同步到插件设置。已在15.6无根、16.3隐根、17.0隐根测试功能正常。
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.1.7
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 300
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.crctdd.stayalivelite_0.1.7_iphoneos-arm64e.deb
+Size: 65688
+MD5sum: 4f874497c1c6fb5695d6cf17a5f456ba
+SHA1: 04b954625d85169d4001568a42df01c987c0f9f4
+SHA256: 3eaf83f35a6055a353863ab82ded0df13baf68bf4c355dee1ee66cc3a5f5e679
+Section: Tweaks
+Description: 为指定App开启守护后台，将任务角色注册为Inactive(非活跃)，并提供一直运行、定时运行、崩溃自动拉起、注销后自动拉起、Wi-Fi/充电/低电量条件控制等功能。同时支持通过桌面长按App图标快速开启/关闭，操作会直接同步到插件设置。已在15.6无根、16.3隐根、17.0隐根测试功能正常。
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
+Name: StayAlive Lite
+
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.9
 Architecture: iphoneos-arm64
