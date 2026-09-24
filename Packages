@@ -3972,6 +3972,40 @@ Author: crctdd
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
 Name: StayAlive Lite
 
+Package: com.crctdd.stayalivelite
+Version: 0.2.2
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 492
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/com.crctdd.stayalivelite_0.2.2_iphoneos-arm64e.deb
+Size: 79092
+MD5sum: 6ab4bf01cae12f4e9dbc219007b0ff84
+SHA1: a44eda85969b8a2c26dc4ef2b8a6548517181382
+SHA256: 85b3bfb4941615e2dd77749a59882df08e8ccce0cd943a260ac0d691d230898c
+Section: Tweaks
+Description: 为指定App开启守护后台，将任务角色注册为Inactive(非活跃)，并提供一直运行、定时运行、崩溃自动拉起、注销后自动拉起、Wi-Fi/充电/低电量条件控制等功能。同时支持通过桌面长按App图标快速开启/关闭，操作会直接同步到插件设置。已在15.6无根、16.3隐根、17.0隐根测试功能正常。
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.2.2
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1004
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64/com.crctdd.stayalivelite_0.2.2_iphoneos-arm64.deb
+Size: 108184
+MD5sum: 15acadecf4f914614393e920ae5db9b1
+SHA1: e8cdf6fa2cb9cccd8a0f5b4e7959c0871aa1ec13
+SHA256: 9e1ad409fb007153d3373ec566317b9b1b27479837ad5ffcdd7be935dfc633d9
+Section: Tweaks
+Description: 为指定App开启守护后台，将任务角色注册为Inactive(非活跃)，并提供一直运行、定时运行、崩溃自动拉起、注销后自动拉起、Wi-Fi/充电/低电量条件控制等功能。同时支持通过桌面长按App图标快速开启/关闭，操作会直接同步到插件设置。已在15.6无根、16.3隐根、17.0隐根测试功能正常。
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
+Name: StayAlive Lite
+
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.9
 Architecture: iphoneos-arm64e
@@ -5847,6 +5881,40 @@ Size: 1710816
 MD5sum: ffaeedf6b24bc745d28b7515aa155d3f
 SHA1: c1b15aeacf6670afbc91f5fdc757ce90557572ae
 SHA256: b0a880784b6fe54be0424f32fae7736d378d2a4d58123bf98961348082d1d339
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.7.5
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_2.7.5_iphoneos-arm64e.deb
+Size: 1720168
+MD5sum: 94db736e7f8dd54753976b8ec22eb275
+SHA1: 6159176df8bba0991a8d41b3d9c838f049596823
+SHA256: 6d08a0fcd36189b825c9aa2daf1b447826393915cdba28621323f784ff4e8955
+Section: Tweaks
+Description: 在主屏幕查看应用数据与管理应用
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
+Name: AppData
+
+Package: com.iosdump.appdata
+Version: 2.7.5
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_2.7.5_iphoneos-arm64.deb
+Size: 1718004
+MD5sum: 9f0c4c5bfcce28826c3ec6f081302465
+SHA1: 466c0bb671174f283683dd3597a878591c70277b
+SHA256: b295a84562e1c01f4111d3d414153324dc703893ee966c8e85ebddca92984e57
 Section: Tweaks
 Description: 在主屏幕查看应用数据与管理应用
 Author: iosdump
