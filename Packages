@@ -4006,6 +4006,40 @@ Author: crctdd
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
 Name: StayAlive Lite
 
+Package: com.crctdd.stayalivelite
+Version: 0.2.5
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 512
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/com.crctdd.stayalivelite_0.2.5_iphoneos-arm64e.deb
+Size: 84404
+MD5sum: 534ece12e552fef93a3d488e37683677
+SHA1: 51000e9786587b43e20bae63999dc8871715d898
+SHA256: 4d604d3439b51249df91270caafbc332341d5c904a5679c31f0691b153636aed
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.2.5
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1040
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64/com.crctdd.stayalivelite_0.2.5_iphoneos-arm64.deb
+Size: 116332
+MD5sum: 2b7b87b5d91ceab9da74f7f813ff8c16
+SHA1: 5a135dcead9452a97f25a4bf4e8f9ec21a81ad53
+SHA256: 66be559eeea72826039f03c0033356b6c640e66956e5a3f7245b1e7452c07157
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
+Name: StayAlive Lite
+
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.9
 Architecture: iphoneos-arm64e
@@ -6021,6 +6055,42 @@ Size: 4284880
 MD5sum: f8c92c68e06ea9e6ad01fca2823e26a9
 SHA1: 8e877a90412e6ccc4c2fb270598f4894a7c402ed
 SHA256: 2f1df2a3efdf525bbc6ee21293d199ee77ddffa7e86834344c6262a2a9986b45
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 10.2.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 19916
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64e/com.iosdump.shellx_10.2.0_iphoneos-arm64e.deb
+Size: 4397360
+MD5sum: 62be97b05ad3fdeee7d65b0be7819127
+SHA1: f44ba3b9be90fc5d31fd81694fa98a8069001d96
+SHA256: 2ecbe69146f1ef1a953181d95385aac84dd639a300a84532e238dad6a8b4d503
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/shellx.png
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 10.2.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 19948
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/iphoneos-arm64/com.iosdump.shellx_10.2.0_iphoneos-arm64.deb
+Size: 4396860
+MD5sum: 0d7fd6c227d8ff5dc88179f60add6571
+SHA1: 0342bb49592540fcc3e643e7ee84dd31433732cb
+SHA256: 7eb14956a2443b6638a5918dfa3388b2ddb9d96a4b05b844a200e25c0ce11a6e
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
 Author: iosdump
@@ -15787,6 +15857,40 @@ Description: next level diarrhea.让你的旧设备体验 Liquid Glass 液态玻
 Author: dylv
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/liquidass.png
 Name: Liquid (Gl)ass 液态玻璃
+
+Package: im.mjh.fakeperm
+Version: 8.9.3
+Architecture: iphoneos-arm64e
+Maintainer: Junhong
+Installed-Size: 1588
+Depends: firmware (>=15.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/im.mjh.fakeperm_8.9.3_iphoneos-arm64e.deb
+Size: 281680
+MD5sum: ad7650c8618a14f63283802676fae602
+SHA1: 69dbe1f3510cb20e0537da766f5f86bd3a0ff879
+SHA256: fd775e05230787608de8cfa3b32ecba41d1255397bdaebbabcdfb717e8f1c53b
+Section: Tweaks
+Description: 针对任意 App 单独配置虚拟权限，防止隐私被过度索要。
+Author: Junhong
+Icon: https://huayuarc.github.io/icon/fakeperm.png
+Name: 虚拟权限 · Fake Permission
+
+Package: im.mjh.fakeperm
+Version: 8.9.3
+Architecture: iphoneos-arm64
+Maintainer: Junhong
+Installed-Size: 1588
+Depends: firmware (>=15.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/im.mjh.fakeperm_8.9.3_iphoneos-arm64.deb
+Size: 282856
+MD5sum: b2a289efcf21d13cdbf905ec12ba6843
+SHA1: cd6f78400c7758e06abbd023bdb82e80d5aca54f
+SHA256: 434d5b8527ca13014e95e679106a01e3f6e8b8447d6b0460ff431347dffe8efb
+Section: Tweaks
+Description: 针对任意 App 单独配置虚拟权限，防止隐私被过度索要。
+Author: Junhong
+Icon: https://huayuarc.github.io/icon/fakeperm.png
+Name: 虚拟权限 · Fake Permission
 
 Package: jp.akusio.milkyway2
 Version: 1.0
