@@ -7305,6 +7305,40 @@ Author: Maxim Shnirman
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/twistnturn.png
 Name: TwistNTurn智能旋转
 
+Package: com.mowang.crashanalyzer
+Version: 1.1.5
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 240
+Depends: preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.mowang.crashanalyzer_1.1.5_iphoneos-arm64e.deb
+Size: 76556
+MD5sum: cc09ffbf6e3d6262b9076079b78f4bf2
+SHA1: 0d929759aa608e815d7ca52aee688bfd5960ced7
+SHA256: f1d422e26901e4e66a7010119414c4e4518dda1eb96868000a6d9c60c70544b5
+Section: Utilities
+Description: 自动扫描、分类和分析 iOS .ips 日志
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
+Name: AI 日志分析
+
+Package: com.mowang.crashanalyzer
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 240
+Depends: preferenceloader
+Filename: ./debs/iphoneos-arm64/com.mowang.crashanalyzer_1.1.5_iphoneos-arm64.deb
+Size: 76576
+MD5sum: 4e0582062fa0805f8c354db78ca912e2
+SHA1: 510718c69c27015b8665ba1eec13b5407aaf1a11
+SHA256: 623a8962823e5c671f8abafc20364cacbbab4c3035d8786a193a04efa26fa0c1
+Section: Utilities
+Description: 自动扫描、分类和分析 iOS .ips 日志
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
+Name: AI 日志分析
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm64e
