@@ -7339,6 +7339,40 @@ Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
 Name: AI 日志分析
 
+Package: com.mowang.crashanalyzer
+Version: 1.1.6
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 260
+Depends: preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.mowang.crashanalyzer_1.1.6_iphoneos-arm64e.deb
+Size: 82720
+MD5sum: 06f964468c1f4673cd96aa09e3550f1c
+SHA1: 31b285938f43134acf040099c21b9bb8d57d5db5
+SHA256: b2aae6f4d0f08d5fa352df4e9d4eccd02f0040145115855b4091e51a1c5b524c
+Section: Utilities
+Description: 自动扫描、分类和分析 iOS .ips 日志
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
+Name: AI 日志分析
+
+Package: com.mowang.crashanalyzer
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 260
+Depends: preferenceloader
+Filename: ./debs/iphoneos-arm64/com.mowang.crashanalyzer_1.1.6_iphoneos-arm64.deb
+Size: 82804
+MD5sum: 1676a947ac54c92c7a1d658f59a14670
+SHA1: 39dabb76547a6a89e158b749bbfee6efe77d48f6
+SHA256: 1e58b9ef9a2fb7dfcfb11a30662e823aef338f293d7dd3147a62328225426d22
+Section: Utilities
+Description: 自动扫描、分类和分析 iOS .ips 日志
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
+Name: AI 日志分析
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm64e
@@ -10624,6 +10658,40 @@ Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、�
   - 本包为 Rootless（arm64）版；RootHide（arm64e）请安装对应版本
 Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbcpu.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.78
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 2924
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_4.78_iphoneos-arm64e.deb
+Size: 405564
+MD5sum: c0e4d349b6ab91ddf8a2796eb2807900
+SHA1: 20d2f1e3ba10223e33fe1e1170debdd31cbb0d62
+SHA256: ade1ee5635e45adf38ec5caa37b0ed03d08868a6f325760c9874d8a681345255
+Section: Tweaks
+Description: 新增智能切换，新增夜间分时充电，新增吸附顶部状态栏
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
+Name: SB CPU Floating
+
+Package: com.sbcpu.floating
+Version: 4.78
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 2924
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_4.78_iphoneos-arm64.deb
+Size: 402068
+MD5sum: 2bce467c272f0be7670768bfc1bf0af2
+SHA1: 4b18882c850730062fbb82fab1bc13b96c37f48a
+SHA256: 2efcc5f42975c8866a5ec5652edbc29e54dd0a34a280b86220ba6bf90761a0ed
+Section: Tweaks
+Description: 新增智能切换，新增夜间分时充电，新增吸附顶部状态栏
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
 Name: SB CPU Floating
 
 Package: com.shtm.flexibleexpression
