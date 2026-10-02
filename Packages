@@ -10539,10 +10539,10 @@ Maintainer: MoWang
 Installed-Size: 2888
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.sbcpu.floating_4.75_iphoneos-arm64e.deb
-Size: 363376
-MD5sum: 44bce96a22f060c0bed419a5f9b76d8e
-SHA1: b070db576b9fa9692d4755a4b198127cc7c67ca6
-SHA256: abd1f5e26ecdf197a854d0c32c94c2572d5a82346bbe876e42e2ddc20d30b25b
+Size: 387116
+MD5sum: 7a29f1b519e2fd673890af1331c10d1c
+SHA1: a0c50acaedec08e74f73a28ffb3df490d1d810ed
+SHA256: 23c6fa16809e36d68b43539ab825ced2f38287c2518bd48385f4f013f9b633fc
 Section: Tweaks
 Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电、锁频段与温控保护。
  【本次更新 V4.75】
@@ -10586,10 +10586,10 @@ Maintainer: MoWang
 Installed-Size: 2888
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64/com.sbcpu.floating_4.75_iphoneos-arm64.deb
-Size: 365476
-MD5sum: 6238f546f0b9715c59d163b3ad294366
-SHA1: 84b8a4e28a16868358475ffe4591711573f17cf9
-SHA256: fdaeb213e6f4e0b4cba67125e1599d0fbc63342c9529d6a161dd1e5fd5dbc303
+Size: 388612
+MD5sum: cab83b3aa10d854fe148d6e6756e7cbf
+SHA1: 1267945235284d74618bb5be6f6cc87d946573d3
+SHA256: 9151bec1a39cb23f1bb71063dde57eee5c439a2bd284bfb22d6e57b82adcbd3c
 Section: Tweaks
 Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电、锁频段与温控保护。
  【本次更新 V4.75】
