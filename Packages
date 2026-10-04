@@ -3870,6 +3870,42 @@ Author: kanuo
 Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
 Name: Bottom-x 悬浮球
 
+Package: com.crctdd.memtrim
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/iphoneos-arm64e/com.crctdd.memtrim_0.0.1_iphoneos-arm64e.deb
+Size: 51464
+MD5sum: 767da431ec46e3a234c213879e1bfd88
+SHA1: 333e0c5c678726fcfd6525420f13871baacdac30
+SHA256: fd1c278d3b5e7fcf56fc279b78d9692cc32b2c04dc27c8b19706d65378b9de5c
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/memtrim.png
+Name: MemTrim
+
+Package: com.crctdd.memtrim
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/iphoneos-arm64/com.crctdd.memtrim_0.0.1_iphoneos-arm64.deb
+Size: 65464
+MD5sum: 23792baff85b21f38bc6e69258d70134
+SHA1: 8d8478400ec1abc001f101071a8d36f1585c6d63
+SHA256: ce3ce120d3352d95f4bd1d3922264d6c90582e05c06c9050908996c084ce6334
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/memtrim.png
+Name: MemTrim
+
 Package: com.crctdd.stayalivelite
 Version: 0.1.3
 Architecture: iphoneos-arm64e
