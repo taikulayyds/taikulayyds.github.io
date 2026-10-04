@@ -9115,6 +9115,38 @@ Author: opa334&iosdump
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/trollstorelite.png
 Name: TrollStore Lite
 
+Package: com.opa334.trollstorelite
+Version: 2.1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 11424
+Filename: ./debs/iphoneos-arm64e/com.opa334.trollstorelite_2.1.1-2_iphoneos-arm64e.deb
+Size: 3678912
+MD5sum: dabbf5a0b5700ff9f844f663a0d884ed
+SHA1: 7d08035aab901f0a67fd534be10e7f4c7339e197
+SHA256: 717eb170f6cbd7aadf09c2ad1cfceca215d1f9c45b4b8173d676e51b0e371bfc
+Section: Applications
+Description: A modified TrollStore by iosdump for jailbroken iOS.越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)。(20261004)
+Author: opa334&iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/trollstorelite.png
+Name: TrollStore Lite (RootHide)
+
+Package: com.opa334.trollstorelite
+Version: 2.1.1-2
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 11424
+Filename: ./debs/iphoneos-arm64/com.opa334.trollstorelite_2.1.1-2_iphoneos-arm64.deb
+Size: 3681396
+MD5sum: 8aad6b72bc49c06c109dc5a688ba2d35
+SHA1: 8529b8662273b4db769e685c1fa7c9b7b09c85a3
+SHA256: bbd4e45a48f065a93f752990e889dee48802f5dd341cbbd5e3f1090a2035b9fb
+Section: Applications
+Description: A modified TrollStore by iosdump for jailbroken iOS.越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)。(20261004)
+Author: opa334&iosdump
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/trollstorelite.png
+Name: TrollStore Lite
+
 Package: com.p2kdev.screenshotactions
 Version: 1.2
 Architecture: iphoneos-arm64e
