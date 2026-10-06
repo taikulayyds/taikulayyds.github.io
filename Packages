@@ -1204,13 +1204,12 @@ Package: com.0xkuj.safarix
 Version: 1.9.9.1
 Architecture: iphoneos-arm64e
 Maintainer: 0xkuj
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debs/iphoneos-arm64e/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64e.deb
-Size: 312152
-MD5sum: a8d68a601dff380f48c5303b1bb83e76
-SHA1: 39541932afea96b897052e04f2e9fd996ef00ec9
-SHA256: 044d3c55234ca4c044560fae7466f19567072cabb64e5050c8648666d7d348b7
+Size: 312128
+MD5sum: d22456af3b5f80ed0a868b8b33d80f52
+SHA1: 4d413f17005e8df3a334c5aa144f122259be42dc
+SHA256: b6c0c710e13d3a48728aabd88c3fd807a00420ab6d3e75cfe13a6485abb97ff9
 Section: Tweaks
 Description: Safari Essential Features.Safari浏览器增强。
 Author: 0xkuj
@@ -3756,16 +3755,15 @@ Version: 1.9.23
 Architecture: iphoneos-arm64e
 Maintainer: Chloe
 Installed-Size: 584
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.chloe.gravitation17
 Replaces: com.chloe.gravitation17
 Provides: com.chloe.gravitation17
 Filename: ./debs/iphoneos-arm64e/com.chloe.physpringboard_1.9.23_iphoneos-arm64e.deb
-Size: 83320
-MD5sum: b9948b8b2047e4bdf3f4a608a4e7ff7e
-SHA1: f1e5fa44aa1a1ff072446db360afcfdcfd008d70
-SHA256: 46bddd33ec442bb4533cfca7593de7fe258c8beeb6c5645c7c45d8fced31b5a9
+Size: 83180
+MD5sum: e05889e69cf967dd1034216adde6ad0b
+SHA1: 3474b1e6fbe1cd2a290a72900f58886b78af1734
+SHA256: f24848ee5ab6641aee6413e14ea1b3de1cfbd3e3ddeb8c1119a22aac821005ec
 Section: Tweaks
 Description: Shake SpringBoard icons loose with configurable physics on rootless Dopamine.摇晃手机，主屏与控制中心的图标会解锁物理碰撞动效，各项物理参数均可自定义调节。这款插件能让你摇晃手机后，所有图标开启物理模拟效果。你可以拖拽图标、随手甩开、旋转图标，各种趣味交互全都支持。
 Author: Chloe
@@ -4378,6 +4376,40 @@ Size: 179664
 MD5sum: 7a0e8efca18573412ee3551f90d49ab2
 SHA1: e730c9daaeff3275443144554806ae2961056aff
 SHA256: e7c7cd4a96b0090ddea70ff62447ba321469c161d25a11452c8d769464420c3c
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.3.8
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 948
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/com.crctdd.stayalivelite_0.3.8_iphoneos-arm64e.deb
+Size: 158024
+MD5sum: 90dfc29c17f794a3df8d355e3a41ff3d
+SHA1: a8f5e005d9f260a6d968f3217356eee273491b30
+SHA256: e8197c0e3dbb2a5ab131fc459e6df723b8e25e8f339d957780be62ef4f3ba646
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.3.8
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1924
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64/com.crctdd.stayalivelite_0.3.8_iphoneos-arm64.deb
+Size: 232752
+MD5sum: f624722f1792b2f77ce5d8a3ba4c7517
+SHA1: cb96d0246b630fafd3217c2e4459cc540dd77262
+SHA256: 5f05126af659dba9d75e2f2172ceacd6160d27107f9df01cf4b9a233d9724a4c
 Section: Tweaks
 Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
 Author: crctdd
@@ -5164,13 +5196,12 @@ Version: 1.3
 Architecture: iphoneos-arm64e
 Maintainer: EllaSP
 Installed-Size: 460
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debs/iphoneos-arm64e/com.ellasp.looky_1.3_iphoneos-arm64e.deb
-Size: 54852
-MD5sum: e453a20b63fd54670c8b3bdf357ac613
-SHA1: 8b1df6e0194140f74ec47879048208766c8c4a52
-SHA256: 78401d431e19162e9de7bb0d0dd92b19412b4803b1905a4fcec715a55a42019c
+Size: 54816
+MD5sum: 0dfb15c2f7eb4cee6ae4f97e2759f2a5
+SHA1: a669438ec96ff69bb68420f165f4e35952d5bdf9
+SHA256: aefae815223bfef957fde056aed3a48ef7505d0439d4e5ebc6d61e60775d881d
 Section: Tweaks
 Description: Effortless Elegant lock screen notification experience!
 Author: EllaSP
@@ -7234,13 +7265,12 @@ Version: 1.7.1
 Architecture: iphoneos-arm64e
 Maintainer: lclrc(SquidForce)
 Installed-Size: 3808
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
 Filename: ./debs/iphoneos-arm64e/com.lclrc.hammerit_1.7.1_iphoneos-arm64e.deb
-Size: 964204
-MD5sum: 369dd2ccc21d1993692c6a4d670f3d9c
-SHA1: 67fcbe5d1cdd9ac3b66c7c823940d2d723c42cd9
-SHA256: cbfcafe4b7d2ee49e9e2ef682e07a55ed7ca3abb56db6cab47518b0478b340e8
+Size: 962936
+MD5sum: c75f8983a4a486d847b6f8524aaea4c9
+SHA1: 41f802610425cac72c2917aeba6d552572d0cf29
+SHA256: 825bc5e49a4fa2da9390972914715da90edf76424015bbf412609f6143e9dad5
 Section: Tweaks
 Description: Control your text or translate as you wish.
 Author: lclrc(SquidForce)
@@ -8518,13 +8548,12 @@ Version: 1.1-9
 Architecture: iphoneos-arm64e
 Maintainer: Nets
 Installed-Size: 120
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.netskao.filzacrack_1.1-9_iphoneos-arm64e.deb
-Size: 28896
-MD5sum: 940746de7e78fa8b2e181417e4697628
-SHA1: c32239d09f7c296d49a4b9f973476645775e68a1
-SHA256: 6cdd4a7e82ec678508223769081504832958f88e26da513e6761ef5a93bc9c26
+Size: 28860
+MD5sum: d7cc39886218d561e152ebdfc2520d01
+SHA1: 7189636ffe3fad7cfaa05c19f8977e28d2117ce9
+SHA256: fbb370cb63a349f41032498373dd3273cda47d8dc15ed4e887d13bfa63b3544e
 Section: Tweaks
 Description: Filza Crack
 Author: Netskao
@@ -8858,6 +8887,40 @@ SHA1: 4574b59e5a234d505585e6445ceefe6d2507d44c
 SHA256: 33034ea590bca4ae1109654ca1853240fb53a5a6140d9eac8afab2ec6791fb79
 Section: Tweaks
 Description: iOS 26 Homescreen customization.
+Author: ngkhoi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
+Name: 26Home
+
+Package: com.ngkhoi.26home
+Version: 1.3.3-unlock-persist-zh
+Architecture: iphoneos-arm64e
+Maintainer: ngkhoi
+Installed-Size: 29320
+Depends: mobilesubstrate | ellekit, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.ngkhoi.26home_1.3.3-unlock-persist-zh_iphoneos-arm64e.deb
+Size: 20520084
+MD5sum: a890f229f7410933714d62cde4e2e7f9
+SHA1: b3a099e90636a7d28695ad1314f0325678d2b536
+SHA256: b7e6e90a5f95ee9900f6e7b135add6e9a0b868606e3ddd0f6ca64085576c8f36
+Section: Tweaks
+Description: 26Home 中文版 —— iOS 26 风格液态玻璃桌面美化（隐根 RootHide）
+Author: ngkhoi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
+Name: 26Home
+
+Package: com.ngkhoi.26home
+Version: 1.3.3-unlock-persist-zh
+Architecture: iphoneos-arm64
+Maintainer: ngkhoi
+Installed-Size: 29320
+Depends: mobilesubstrate | ellekit, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.ngkhoi.26home_1.3.3-unlock-persist-zh_iphoneos-arm64.deb
+Size: 20518700
+MD5sum: 34c0665f912d21a539e7306c50d8db4a
+SHA1: a984b09110367d270cd1b8dfa453f60c5c0ea068
+SHA256: 73079452587d6eecd6ccb9f03fda1bcd31d0ab61ba1de456fd5c6090b491db47
+Section: Tweaks
+Description: 26Home 中文版 —— iOS 26 风格液态玻璃桌面美化（无根 rootless）
 Author: ngkhoi
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
 Name: 26Home
@@ -9208,14 +9271,13 @@ Version: 1.3.17-2
 Architecture: iphoneos-arm64e
 Maintainer: opa334
 Installed-Size: 3252
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy (>=1.1.6), com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debs/iphoneos-arm64e/com.opa334.crane_1.3.17-2_iphoneos-arm64e.deb
-Size: 603692
-MD5sum: b63e98d60ec29d4586524cc07a452b80
-SHA1: 20bd9a13d4334e711eb8af4a03a13628d3ae7659
-SHA256: dbf4c8851af29a9303c9c8a2680758d148e6623f3e5001540417e4ae1f2af609
+Size: 604780
+MD5sum: f4174f84e80f46ee55edac395dc6dfac
+SHA1: e29c8c1180ad5ac2f15d3937b3aa714e84b97656
+SHA256: 7e24fd68ea1377e67a058ce691acd8c3a0812a0aa52df95d6153657978e38ec7
 Section: Tweaks
 Description: Multiple containers for your applications!
 Author: opa334
@@ -9397,13 +9459,12 @@ Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 164
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.p2kdev.screenshotactions_1.2_iphoneos-arm64e.deb
-Size: 18800
-MD5sum: df5f4a8b8a6db05d359056b1b0ad46d5
-SHA1: 205e327f5fe931cca25662dceeb2770d09aa5d2a
-SHA256: 844d87d4dde5ac5accab0951fb29327764db84a899c82896d8aad80d012fdeae
+Size: 18748
+MD5sum: 2537b7c8d1d2bea61f3948ee9333583b
+SHA1: 85ce1fcc00b8bcbe4e24a9085096d50df902eea3
+SHA256: 99a0bd343572c1f1708e16228d94117c6e26da74699b1d47f3ff50627d844559
 Section: Tweaks
 Description: Add Quick Actions to the screenshot preview!
 Author: P2KDev <p2kdev@gmail.com>
@@ -9432,13 +9493,12 @@ Version: 1.2.2
 Architecture: iphoneos-arm64e
 Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 436
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
 Filename: ./debs/iphoneos-arm64e/com.p2kdev.tinge_1.2.2_iphoneos-arm64e.deb
-Size: 40400
-MD5sum: 1960154db7806d6fb7ba453b58f0731e
-SHA1: 57dd8c97f3a4cf86cf5d8964da91dfb17d2263dc
-SHA256: 5085125fe4c1383156fcb8cd64625f31d7d013c5b870b9e9e41b3319e8554dea
+Size: 40336
+MD5sum: b39f1bd30c1b34aeacd9df564318cac1
+SHA1: 2e087c608379a1ef50733f8d1036085d28c7fc1d
+SHA256: 07020675facc944ea95116983eba7fce362834e89f794313110e4f221e84d688
 Section: Tweaks
 Description: Color your badges with Perfection!根据你的软件图标颜色来自适应角标颜色!
 Author: P2KDev <p2kdev@gmail.com>
@@ -11284,6 +11344,23 @@ Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需
 Author: simon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
 Name: 灵动岛跳舞动画PLUS
+
+Package: com.sini921.appstoretroller
+Version: 0.1.2-5
+Architecture: iphoneos-arm64e
+Maintainer: Mineek & Nathan & SINI
+Installed-Size: 568
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.sini921.appstoretroller_0.1.2-5_iphoneos-arm64e.deb
+Size: 44024
+MD5sum: cadc86c04b1bcfead5683b0072097082
+SHA1: 0da36206da9646d71dc2f6d0693153236346aabb
+SHA256: 26bdf5e71a3655e38c868767f010ff5b92d86d799c03e6853b350f96839a8a99
+Section: Tweaks
+Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
+Author: Mineek & Nathan & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller
 
 Package: com.sini921.appstoretroller
 Version: 0.1.2-5
@@ -14257,13 +14334,12 @@ Version: 1.0.7
 Architecture: iphoneos-arm64e
 Maintainer: 苏苏
 Installed-Size: 212
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 11), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.susu.storeswitcher2_1.0.7_iphoneos-arm64e.deb
-Size: 14636
-MD5sum: 717baabd4e730590ec047067861c720e
-SHA1: d4aef35061e065c2ad315b20c959db44e0f803fe
-SHA256: 55cbef672150e3e92c64718a8f3f3e130b484f33812aa400ad722edcf6accaa8
+Size: 14508
+MD5sum: cfae338994ca294bb80632cd2088c18f
+SHA1: 478c82f285ad284b8e72881ba792f705b37e7870
+SHA256: dec7ac08365c9a65977d5cb923103a55240fec0e8d5d32acf37d873f7c221594
 Section: Tweaks
 Description: App Store 账户快速切换。苏苏修改编译，优化了账号切换逻辑
 Author: 苏苏
@@ -14391,13 +14467,12 @@ Package: com.taikulayyds.anthocrack2
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: CyPwn
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.anthocrack2_1.0.0_iphoneos-arm64e.deb
-Size: 2864
-MD5sum: f491d14809d423dcc4d742c86627cbbf
-SHA1: c04fcafa4938ed7cfba0bf30f3c28ff83f705242
-SHA256: b74e967693ae1bd9cb134dfe08e177bdfbadf2794f6d05e1e442d965bbc2b3d7
+Size: 2792
+MD5sum: f5d8ecdf9173cae3f105786925d36e3b
+SHA1: 762589bb8984a0920923fbf00f81fe2356010441
+SHA256: d63aac85d9626992f72f02779cc3f5cdd7f585e677d35e5582119c0903e3b71e
 Section: Tweaks
 Description: Disable alerts for AnthoPak tweaks. This one's for the 95% who pirate!破解依赖！
 Author: CBZ
@@ -14632,13 +14707,12 @@ Version: 1.0.5
 Architecture: iphoneos-arm64e
 Maintainer: simon
 Installed-Size: 428
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.ccmusic_1.0.5_iphoneos-arm64e.deb
-Size: 56186
-MD5sum: 961d28a0e65d15849829a7887e71f98a
-SHA1: 805478cfdac71fdc6a1585b65f4064c44d195ba2
-SHA256: 1c56bc460c83ce1590fc5c56a82ade1c2566cfba6f2d459811134ad3002c641a
+Size: 34928
+MD5sum: 75ba451e5376083b39c7a4242ecd02e1
+SHA1: 14d7f9cfff2f2c32f679f6b974f2d2b935e69459
+SHA256: cc71a2875a8c40ac53eabd78605d8d7566e5ea04597a8ccfa8e70cd4818d83c5
 Section: Tweaks
 Description: 为控制中心的音乐模块添加动画
 Author: simon
@@ -14733,13 +14807,12 @@ Version: 1.1.8
 Architecture: iphoneos-arm64e
 Maintainer: simon
 Installed-Size: 432
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.dynamicislandanimation_1.1.8_iphoneos-arm64e.deb
-Size: 35492
-MD5sum: e32c65baaa0c310d6dcb75fc331bbb73
-SHA1: 0d25d09ebc8175c7c155dab62c6fa5c2373dd70d
-SHA256: f2f64a3c67c3ffff004a3a057f5b4bfaee21c8ff63cd1402eab6c94c907b2b4f
+Size: 35388
+MD5sum: 24b84f811edbc44d1e47a11c924005a2
+SHA1: 0e31e7b3b10e06055a1b27ff01012236fcd7912f
+SHA256: 7cca49a3b53c362267be8e4a2c850604d15b8437466e8fea52d1be42f5e5eae0
 Section: Tweaks
 Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
 Author: simon
@@ -16053,13 +16126,12 @@ Package: com.xx.safarixhook
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: x✨
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64e/com.xx.safarixhook_1.0.0_iphoneos-arm64e.deb
-Size: 10388
-MD5sum: 37c7817e8f46852dbf54c7203f8b34d0
-SHA1: 7b2721edf86a5229ccb5dd05f2b085aacd686039
-SHA256: 98573f6f51be98a821b8d136135c3ef54caa7fd6990361253ebd92b223af7ca4
+Size: 10352
+MD5sum: 0e46012068e8c35a8578f4cb1439a186
+SHA1: 35d78dd109310bf5942cf517105be124389a9bee
+SHA256: 53079ca90b34a1975d6bd55bd39597d503474b1b8eeb5fb5ee472aa73f759ed6
 Section: Tweaks
 Description: 解决SafariX闪退问题,图层出品！
 Author: x✨
@@ -16153,13 +16225,12 @@ Version: 1.0.3k
 Architecture: iphoneos-arm64e
 Maintainer: CyPwn
 Installed-Size: 1432
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), com.ginsu.comet
 Filename: ./debs/iphoneos-arm64e/com.yan.anitime_1.0.3k_iphoneos-arm64e.deb
-Size: 387812
-MD5sum: 7b634a71d60b6fa8c726dd2b535cc0b6
-SHA1: f77a1848cf1ff5a3e50098c11f1bb1cf0015d461
-SHA256: ed3aa3190f52fb5ddafa24d48d4d31eb59507ac97e1dd8aba9ac4f8d17025dbc
+Size: 387752
+MD5sum: 0675281ae6cbe185db42806d36455564
+SHA1: 4094f72ee5d2026f358c8523d7c8db11fdae81dd
+SHA256: 4d643f10e0d169d60be7a8367c8ddd7cd22ffa832fc82d6980e14c090124d2c2
 Section: Tweaks
 Description: Animated anime characters as your clock digits.
 Author: yan
