@@ -7587,11 +7587,11 @@ Maintainer: MoWang
 Installed-Size: 276
 Depends: preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.mowang.crashanalyzer_1.3.3_iphoneos-arm64e.deb
-Size: 85496
-MD5sum: b201cc02ca5ec34ce07cdc5809c89275
-SHA1: 5524891df548b1400025d21c6ab114363c608565
-SHA256: 3479a639db4d86a39429f37970ed1f0f4ab5fa7a9c0f8435c8051fd02311c8f8
-Section: Utilities
+Size: 85448
+MD5sum: a0e43ac6c113bdfda11fa654d4f2ebb5
+SHA1: 36d51185ddcb55a420b5e849d5a8342c896617ab
+SHA256: 2a4419c565cd35a5e6b26eef52d633b86dbe54cc460c41806bd8977f1ffd7f6b
+Section: Tweaks
 Description: 自动扫描、分类和分析 iOS .ips 日志
 Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
@@ -7604,11 +7604,11 @@ Maintainer: MoWang
 Installed-Size: 276
 Depends: preferenceloader
 Filename: ./debs/iphoneos-arm64/com.mowang.crashanalyzer_1.3.3_iphoneos-arm64.deb
-Size: 85512
-MD5sum: 5388838c46bdb886981ce4123f7432c9
-SHA1: 7cfe0ffd9a72f125d2d6692ef466446b025e872e
-SHA256: c2e497c30a5926f877f8ce289ef4abd74a18e18723bb602415d611d598489132
-Section: Utilities
+Size: 85552
+MD5sum: 5e94f6c5dfca260df3be7cb8129b25f1
+SHA1: 892b0e6be9cb31d8e9cc5e0259c02309ed26db5f
+SHA256: f7a6e3ccbd177484c41886473ead705657688912b8f7f1949ec0bbfc7f83be29
+Section: Tweaks
 Description: 自动扫描、分类和分析 iOS .ips 日志
 Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
@@ -8476,11 +8476,11 @@ Maintainer: Nets
 Installed-Size: 108
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.netskao.evilmeowcrack_1.1-2_iphoneos-arm64e.deb
-Size: 22456
-MD5sum: 888a451cb2de04cbeb1ecea59c158e88
-SHA1: d2d3d8fed425308b6789a6dbc6fdd668e259e2f8
-SHA256: 9d0483fcaa09d88aff5154768796408d3e3ea500be43bce0e301b4d49c4d9ae4
-Section: Netskao-Tweaks
+Size: 22412
+MD5sum: f27f3296b838f607225fabe8c965ae1f
+SHA1: 3e55395f02f305242281e3bc72dc0f2f996ce56f
+SHA256: ff2f6b850297f5e13dec7a6356485c1b0aa96602b49a852dbd8f56898c949a86
+Section: Tweaks
 Description: 让我喵喵解锁会员, 支持1.6.8及以上版本(当前最新版1.7.0已测试)
 Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/rangwomiaomiao.png
@@ -8493,11 +8493,11 @@ Maintainer: Nets
 Installed-Size: 108
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.netskao.evilmeowcrack_1.1-2_iphoneos-arm64.deb
-Size: 22472
-MD5sum: 2f039cfd9fadb6082e5dd3967dc6afa5
-SHA1: 1b5e4e86924aaa18e601f842735ce726d726e85f
-SHA256: 4c3facb20ab04e901363d4bcfe7bb1f4b75d0ac9465b15a8cf21fe743b1738f2
-Section: Netskao-Tweaks
+Size: 22432
+MD5sum: 170a5025f35df64d11fb160ea34a96c0
+SHA1: 6f188a0d5a01296d38711a9dc1693d2401b90be6
+SHA256: 514a0da56838880d15c27e7a03c001705a5f16fc64965f2deb09fe7dcacaca55
+Section: Tweaks
 Description: 让我喵喵解锁会员, 支持1.6.8及以上版本(当前最新版1.7.0已测试)
 Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/rangwomiaomiao.png
@@ -8583,11 +8583,11 @@ Maintainer: Nets
 Installed-Size: 320
 Depends: firmware (>= 12.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.netskao.mangaboxcrack_1.1-5_iphoneos-arm64e.deb
-Size: 95632
-MD5sum: 30561fcb772395f5876f320f3c1a3a0a
-SHA1: 7b85b1d20ccfd2732d094482252db5b33252b295
-SHA256: b7bb41861e10d3fcc5451792fa9bdae3f940d4443cc0f6764fbadfc4e049fb00
-Section: Netskao-Tweaks
+Size: 95308
+MD5sum: 6ee26495cee0d452e3836136d87d7519
+SHA1: ffdf943c51db544a60ed99d7d51d64fd7d591a77
+SHA256: 9e25fda4ea23498cfcc83943b8b617cbc589b2db21ade5601f330f1845a39529
+Section: Tweaks
 Description: MangaBox Crack, Supports version 1.2.4 and above
 Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mangabox.png
@@ -8601,11 +8601,11 @@ Maintainer: Nets
 Installed-Size: 320
 Depends: firmware (>= 12.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.netskao.mangaboxcrack_1.1-5_iphoneos-arm64.deb
-Size: 95704
-MD5sum: 15d6e7ab41a6b4d3a49a6dda2517bf68
-SHA1: d5817300029d1a775f99be2e0fe5636aaedceffb
-SHA256: c545757da6beddb44e5ec8077712825143c02ce9aee5b463b8002563caafcec2
-Section: Netskao-Tweaks
+Size: 95468
+MD5sum: 043f1ea40c78b7fafedc43a4dab7c582
+SHA1: bd60a3a9a8bc959af427a2096deb419784ce0aad
+SHA256: 507332720e7cf9ed16b6daa0ccb40729da23b99f051a4160ec9743e967b71a9b
+Section: Tweaks
 Description: MangaBox Crack, Supports version 1.2.4 and above
 Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mangabox.png
@@ -9461,15 +9461,15 @@ Architecture: iphoneos-arm64e
 Maintainer: opa334
 Installed-Size: 11424
 Filename: ./debs/iphoneos-arm64e/com.opa334.trollstorelite_2.1.1-2_iphoneos-arm64e.deb
-Size: 3678912
-MD5sum: dabbf5a0b5700ff9f844f663a0d884ed
-SHA1: 7d08035aab901f0a67fd534be10e7f4c7339e197
-SHA256: 717eb170f6cbd7aadf09c2ad1cfceca215d1f9c45b4b8173d676e51b0e371bfc
-Section: Applications
+Size: 3679164
+MD5sum: 0d601999423d79a9253348882f5a7b8d
+SHA1: ba8053c961f9496148a4df379c8ab9fe86e061e4
+SHA256: a6f18431b2142572d3843958565ef32be4ef9ccd5ff4f453d01e79b4379bd0bf
+Section: Tweaks
 Description: A modified TrollStore by iosdump for jailbroken iOS.越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)。(20261004)
 Author: opa334&iosdump
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/trollstorelite.png
-Name: TrollStore Lite (RootHide)
+Name: TrollStore Lite
 
 Package: com.opa334.trollstorelite
 Version: 2.1.1-2
@@ -9477,11 +9477,11 @@ Architecture: iphoneos-arm64
 Maintainer: opa334
 Installed-Size: 11424
 Filename: ./debs/iphoneos-arm64/com.opa334.trollstorelite_2.1.1-2_iphoneos-arm64.deb
-Size: 3681396
-MD5sum: 8aad6b72bc49c06c109dc5a688ba2d35
-SHA1: 8529b8662273b4db769e685c1fa7c9b7b09c85a3
-SHA256: bbd4e45a48f065a93f752990e889dee48802f5dd341cbbd5e3f1090a2035b9fb
-Section: Applications
+Size: 3679808
+MD5sum: f5f4d771e8617d9d5609adcebd4c71b2
+SHA1: e4d9ca9c3ba1b57481225a3f05037f12787de64d
+SHA256: 52815de546f2aabd70bc347b97fb3329afb479a447881b1f17cefa2442ea6809
+Section: Tweaks
 Description: A modified TrollStore by iosdump for jailbroken iOS.越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)。(20261004)
 Author: opa334&iosdump
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/trollstorelite.png
