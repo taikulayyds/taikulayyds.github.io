@@ -8891,6 +8891,40 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
 Name: 26Home
 
 Package: com.ngkhoi.26home
+Version: 1.3.12-clear-top-highlight-control-zh
+Architecture: iphoneos-arm64e
+Maintainer: ngkhoi
+Installed-Size: 29408
+Depends: mobilesubstrate | ellekit, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.ngkhoi.26home_1.3.12-clear-top-highlight-control-zh_iphoneos-arm64e.deb
+Size: 20545280
+MD5sum: f77c6d77abc23991ea7b10af019ca806
+SHA1: 2094ffb4409900f4d5f3cc4655911b70aa8455cc
+SHA256: a70cd15991fcbe3e91ff40e05add97d6eb7063b594cafa03d71bf51969cf24d1
+Section: Tweaks
+Description: 26Home 中文版 —— iOS 26 风格液态玻璃桌面美化（隐根 RootHide）
+Author: ngkhoi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
+Name: 26Home
+
+Package: com.ngkhoi.26home
+Version: 1.3.12-clear-top-highlight-control-zh
+Architecture: iphoneos-arm64
+Maintainer: ngkhoi
+Installed-Size: 29408
+Depends: mobilesubstrate | ellekit, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.ngkhoi.26home_1.3.12-clear-top-highlight-control-zh_iphoneos-arm64.deb
+Size: 20545156
+MD5sum: 5892906f45920d8a370c0d93dc949bc4
+SHA1: 5482e53bbfbf3192866198bc83c2c8bd8044266e
+SHA256: f8d4d59e2d32ff1c8c5cf37750055b40f1637a10a6799769fc602272ffce84e5
+Section: Tweaks
+Description: 26Home 中文版 —— iOS 26 风格液态玻璃桌面美化（无根 rootless）
+Author: ngkhoi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
+Name: 26Home
+
+Package: com.ngkhoi.26home
 Version: 1.3.3-unlock-persist-zh
 Architecture: iphoneos-arm64e
 Maintainer: ngkhoi
