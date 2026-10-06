@@ -11285,6 +11285,23 @@ Author: simon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
 Name: 灵动岛跳舞动画PLUS
 
+Package: com.sini921.appstoretroller
+Version: 0.1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Mineek & Nathan & SINI
+Installed-Size: 568
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.sini921.appstoretroller_0.1.2-5_iphoneos-arm64.deb
+Size: 46300
+MD5sum: f6c0b6912c258cac0fcba062c1f0f3a0
+SHA1: 9e61b04f8638d45faa8c5f7719c11bd3bcdba00b
+SHA256: 341fead2618ca32f0e1ea90084dee813d9a886aa232b3dc17c4e688abd18dd89
+Section: Tweaks
+Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
+Author: Mineek & Nathan & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller
+
 Package: com.sini921.atria
 Version: 1.4.1-2
 Architecture: iphoneos-arm64e
