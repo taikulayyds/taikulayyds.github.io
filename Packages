@@ -14375,13 +14375,12 @@ Package: com.taikulayyds.autoscroll
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: pxcex
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.autoscroll_1.0.0_iphoneos-arm64e.deb
-Size: 5232
-MD5sum: 05a9bc5be7c4983907ec0f08cbb831a9
-SHA1: 1755aac9d093f44bed6781bb9bbeee65ccb2d53f
-SHA256: 379d2c3fb49b980761378639bd6cc7362a9702a9b890d7d9d748257b9e2313ae
+Size: 5144
+MD5sum: ed2568dae0a022f7926d8840f7432fde
+SHA1: 7763e174b387f703a4d94ef2a27c1d3129527db0
+SHA256: 41d4713713f162ce1d2d1b8f1a9127ab740b85b978dc833485adb0df01baa1ae
 Section: Tweaks
 Description: 防止手指疲劳，跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置。
 Author: pxcex
