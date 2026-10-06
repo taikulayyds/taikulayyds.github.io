@@ -7907,12 +7907,11 @@ Package: com.nahtedetihw.loopvideos
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: ETHN <ethanwhited2208@gmail.com>
-Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/iphoneos-arm64e/com.nahtedetihw.loopvideos_1.0_iphoneos-arm64e.deb
-Size: 2972
-MD5sum: 1c6bf57416729c0fb43a936260508631
-SHA1: 150521c314485222858e8dfce9d6eae9cf5d5139
-SHA256: 4f75f3da1e0f7cc099022b9d6129c3f1302087e4dbadfc262759655b2795bb50
+Size: 2892
+MD5sum: 81da6f7f7de4b64a5d5df30ddbdac8fd
+SHA1: d49c44e0852b6f2fb55c5527a0a2c57d98438162
+SHA256: 01632e0dc6112de201ea816c2bdad423bd3e44d332d5e424a31241724dda3d71
 Section: Tweaks
 Description: Loop videos in Photos app!  在照片应用程序中循环播放视频，就像在iOS 18上一样！
 Author: ETHN <ethanwhited2208@gmail.com>
@@ -8200,12 +8199,11 @@ Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
-Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./debs/iphoneos-arm64e/com.nathan.internalstoragesettings_1.0.1_iphoneos-arm64e.deb
-Size: 2772
-MD5sum: d1035c78d3fb28106df19fb404504755
-SHA1: c001e96beea2886cf77f819f208e1a19ba8145e6
-SHA256: 00044590b8d5e3acab663d82fbff680b5e90d8156106888b120bc16672b5d9dc
+Size: 2696
+MD5sum: 365c6817252dcb2f5688a76d74cf80ad
+SHA1: 18e8284aecc8ce909a295b7788404a00440ed559
+SHA256: daa1dd0770ca27d267a9cbb5eb8be4b7a909f72901fe7fcc0e064fcf941799b5
 Section: Tweaks
 Description: Tweak to enable the hidden storage settings  显示存储“系统数据”详情
 Author: Nathan Senter
@@ -8442,6 +8440,40 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/classickeyboardxs.
 Name: ClassicKeyboardXS
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.classickeyboardxs.json
 
+Package: com.netskao.evilmeowcrack
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.evilmeowcrack_1.1-2_iphoneos-arm64e.deb
+Size: 22456
+MD5sum: 888a451cb2de04cbeb1ecea59c158e88
+SHA1: d2d3d8fed425308b6789a6dbc6fdd668e259e2f8
+SHA256: 9d0483fcaa09d88aff5154768796408d3e3ea500be43bce0e301b4d49c4d9ae4
+Section: Netskao-Tweaks
+Description: 让我喵喵解锁会员, 支持1.6.8及以上版本(当前最新版1.7.0已测试)
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/rangwomiaomiao.png
+Name: 让我喵喵 Crack
+
+Package: com.netskao.evilmeowcrack
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.evilmeowcrack_1.1-2_iphoneos-arm64.deb
+Size: 22472
+MD5sum: 2f039cfd9fadb6082e5dd3967dc6afa5
+SHA1: 1b5e4e86924aaa18e601f842735ce726d726e85f
+SHA256: 4c3facb20ab04e901363d4bcfe7bb1f4b75d0ac9465b15a8cf21fe743b1738f2
+Section: Netskao-Tweaks
+Description: 让我喵喵解锁会员, 支持1.6.8及以上版本(当前最新版1.7.0已测试)
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/rangwomiaomiao.png
+Name: 让我喵喵 Crack
+
 Package: com.netskao.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm64e
@@ -8516,6 +8548,42 @@ Author: Netskao
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filzacrack.png
 Name: Filza Crack
 
+Package: com.netskao.mangaboxcrack
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 320
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.mangaboxcrack_1.1-5_iphoneos-arm64e.deb
+Size: 95632
+MD5sum: 30561fcb772395f5876f320f3c1a3a0a
+SHA1: 7b85b1d20ccfd2732d094482252db5b33252b295
+SHA256: b7bb41861e10d3fcc5451792fa9bdae3f940d4443cc0f6764fbadfc4e049fb00
+Section: Netskao-Tweaks
+Description: MangaBox Crack, Supports version 1.2.4 and above
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mangabox.png
+Markdowndescription: MangaBox Crack, Supports version 1.2.4 and above<br><br>• v1.1.5: Quickly launch the app
+Name: MangaBox Crack
+
+Package: com.netskao.mangaboxcrack
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 320
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.mangaboxcrack_1.1-5_iphoneos-arm64.deb
+Size: 95704
+MD5sum: 15d6e7ab41a6b4d3a49a6dda2517bf68
+SHA1: d5817300029d1a775f99be2e0fe5636aaedceffb
+SHA256: c545757da6beddb44e5ec8077712825143c02ce9aee5b463b8002563caafcec2
+Section: Netskao-Tweaks
+Description: MangaBox Crack, Supports version 1.2.4 and above
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mangabox.png
+Markdowndescription: MangaBox Crack, Supports version 1.2.4 and above<br><br>• v1.1.5: Quickly launch the app
+Name: MangaBox Crack
+
 Package: com.netskao.perfectgrabber
 Version: 1.1-7
 Architecture: iphoneos-arm64e
@@ -8554,13 +8622,12 @@ Version: 1.1-8
 Architecture: iphoneos-arm64e
 Maintainer: Nets
 Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.netskao.pullclearnc_1.1-8_iphoneos-arm64e.deb
-Size: 7112
-MD5sum: d819d293dcf804795657f43f47ef74d5
-SHA1: b62a7af0f09c070d02010341973fa67e7b4da14a
-SHA256: 12a8b2e8de2494cdc58084fa30aa8136abe1e9e405cb463ac54acccd4452264b
+Size: 7028
+MD5sum: d941a5344688880649abad885809ef22
+SHA1: 69932b9ac78fcd896d3dee89a7765177fc5303f6
+SHA256: 78f37e4be57ecc823f31a9d0917f39814c40083a1d576b488b29bf336a3facee
 Section: Tweaks
 Description: Notifications page quick drop down to clean up all notifications. 通知栏快速下拉即可清理通知，并显示清理成功几条。
 Author: Netskao
@@ -9399,13 +9466,12 @@ Package: com.phucdo.badgebreathing
 Version: 0.0.1
 Architecture: iphoneos-arm64e
 Maintainer: Phuc Do
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64e/com.phucdo.badgebreathing_0.0.1_iphoneos-arm64e.deb
-Size: 4156
-MD5sum: 93300fab0e24f5a78b5f33a2aaceea48
-SHA1: af654665883be16b9be5cede193e340e6f72b463
-SHA256: 18f2eb2089b387006675e052cbca1fc0be515e3591d686c65219c8160220e76c
+Size: 4104
+MD5sum: 082224c2f33d92b1afd8e460c1ea6164
+SHA1: 9782837f2423fc7be41d604cc72f34e9e2ac188d
+SHA256: 245689f2d3dfa324238fa0fbb7d024684a69d4f122e5d311e7f25feaf0ff1b36
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak! 本插件的作用是让你的APP角标变的灵动起来，就是会动，非常不错的小插件，无设置项，注销即可生效！
 Author: Phuc Do
@@ -13964,14 +14030,13 @@ Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: SquidForce
 Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Conflicts: info.adolfoi.simplehome
 Filename: ./debs/iphoneos-arm64e/com.squidforce.simplehomelite_1.0.0_iphoneos-arm64e.deb
-Size: 4784
-MD5sum: 1c670a4792875c067db38671e4963454
-SHA1: cb84dd127f5d5448b0c600c985f5f49f2f94b200
-SHA256: cc5256cc1e84af805299fd7ae232d181d35acd0b60af760b3956c3e956f092f2
+Size: 4732
+MD5sum: 62b1240fee97d307b1431bb16640ed47
+SHA1: 2b4f329aed730fdea57e06096359429a7fd9f121
+SHA256: edc5a5477ce20e75b47086e4a035331574d532f3cf4ca289c70853ba68cb629a
 Section: Tweaks
 Description: Remove App Library View.
 Author: SquidForce
@@ -14444,15 +14509,14 @@ Package: com.taikulayyds.badgesync
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: newwares
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.badgesync_1.0.0_iphoneos-arm64e.deb
-Size: 3360
-MD5sum: a561edc2fa87c977113cf7b8866a748b
-SHA1: b8d7256b6f1b65ebca0c7c0785d82935ee618f51
-SHA256: 4bdd46f39919ae70994cf18c8137257c1495e055ebd012229e76bac24d0a64e6
+Size: 3364
+MD5sum: 34fbfc8a663013ad7e297cca39aa7e5c
+SHA1: fcf63ea566ddb063a730a221e55ba31e3a763e71
+SHA256: a1abea841d76ba4da76b6da712ff7b5423557a024a0f49e474a78d5fb686f723
 Section: Tweaks
-Description: Syncs icon badge values when notifications are dismissed from the notification centre.
+Description: Syncs icon badge values when notifications are dismissed from the notification centre.当通知中心关闭通知时，同步取消桌面应用角标。
 Author: newwares
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/badgesync.png
 Name: BadgeSync
@@ -14786,13 +14850,12 @@ Version: 0.0.4
 Architecture: iphoneos-arm64e
 Maintainer: Korboy <korboybeats@gmail.com>
 Installed-Size: 188
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.filzaswipeselect_0.0.4_iphoneos-arm64e.deb
-Size: 13484
-MD5sum: c1b8b333c6f94544e199063536906812
-SHA1: b7b10e28596c8dd5c1e12cce0d5c49554645315f
-SHA256: 207b908e1a0f42e748bff378dc2fa3c383d1ab932832c6930bcac1b5e6c6b894
+Size: 13428
+MD5sum: ade5f5522ec5aa9d06453d4d16c12d27
+SHA1: f56774fb1331f3b1f363c9f94e0ad71414170737
+SHA256: 1d87bab2ad2f72037546e531d176ac1f520c0ac24925670dc92e9785ee9cb84e
 Section: Tweaks
 Description: Swipe to multi-select functionality for Filza. No more individually tapping each file to select.为 Filza 提供滑动多选功能。无需再单独点击每个文件进行选择。
 Author: Korboy <korboybeats@gmail.com>
@@ -16926,13 +16989,12 @@ Package: netskao.blockappscreatealbum
 Version: 1.1.2
 Architecture: iphoneos-arm64e
 Maintainer: Netskao
-Pre-Depends: rootless-compat(>= 0.9), rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/iphoneos-arm64e/netskao.blockappscreatealbum_1.1.2_iphoneos-arm64e.deb
-Size: 4712
-MD5sum: 930a782d606d6c74e1d3e1dea385fbb0
-SHA1: 709406ac2a464dc0077efc31f6aa8e76c28bf4ff
-SHA256: fbf888bb37d17f9127cc8edeb4929d12aff277879182fd2abb6fddb2d2e8bfe1
+Size: 4648
+MD5sum: 73d53e8bd43de341b5d3d16c4d2bc3f8
+SHA1: 82e5a8243867656763cf6b06f0dc2ee32f096227
+SHA256: e0e8355f8307ce102fd576de9241f2706acca8f04c2620947338ea4c3af109b8
 Section: Tweaks
 Description: Block applications from creating their own albums禁止应用程序创建自己的相册
 Author: Netskao
