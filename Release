@@ -1,7 +1,7 @@
 Origin: Taikula's Repo
 Label: Taikula's Repo
-Description: Taikula's Repo opens the repository for sharing
+Description: 自用插件收藏备份，有问题请卸载！！！
 Suite: stable
 Version: 1.0
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
