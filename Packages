@@ -1100,13 +1100,12 @@ Version: 1.0.8
 Architecture: iphoneos-arm64e
 Maintainer: 0xkuj
 Installed-Size: 488
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64e/com.0xkuj.notificationsgroupcounts_1.0.8_iphoneos-arm64e.deb
-Size: 65492
-MD5sum: bf8b8e49ec2f4058750472a96ee11668
-SHA1: b33f64eda12e53a1e4480f68bbea9a9d7a39fac5
-SHA256: ec26dd5c3cf805bc7f642a2a3cdcae3a44fdb486b9d66482448e76ccaff77382
+Size: 65412
+MD5sum: 74e0e31c00c336a52a37e7a666915630
+SHA1: 1dd45b56778e084bc005fa22e8bc9e4654ddcdd6
+SHA256: e1ef576eb4b02e4fcf3512a09cbe1a7363cc6994982c99c103b7625e5fe80789
 Section: Tweaks
 Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
@@ -15675,13 +15674,12 @@ Package: com.taikulayyds.systeminfo
 Version: 2.7.2-3
 Architecture: iphoneos-arm64e
 Maintainer: ARX8x 来了老弟
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.systeminfo_2.7.2-3_iphoneos-arm64e.deb
-Size: 268392
-MD5sum: 447d185ed81c17a189d8901f0fcc960b
-SHA1: 41e9c18d13fa32a4909e8196b949baf0324dcfb1
-SHA256: 6aadac090ed3dd115666ca7753346b9ebe2d80f55bcfd7aae11ad98137c14f5c
+Size: 268360
+MD5sum: 81fd4851968f9b280e423871fd9d3c74
+SHA1: aab3da6a85846aa256cf7e0af74270dc7bb9f433
+SHA256: d8f2da075fd12083f923bdc5a95d17fa3e4be06751c65f0a0072f66dab8e58ec
 Section: Tweaks
 Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save SHSH, battery info etc.Display all system information of iOS.显示 iOS 所有系统信息。不用装Legacy arm64e Support(来了老弟修复)。
 Author: ARX8x 来了老弟
@@ -16258,13 +16256,12 @@ Package: com.yan.ring
 Version: 1.0.2
 Architecture: iphoneos-arm64e
 Maintainer: yan
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
 Filename: ./debs/iphoneos-arm64e/com.yan.ring_1.0.2_iphoneos-arm64e.deb
-Size: 133380
-MD5sum: 994f392d35a9f25f4ad681e07007b477
-SHA1: b314ce8317433e4cc3c861e6eed33e12558e6dcb
-SHA256: fe0926170dfd8f4293dea8f9a6ad8c3e2badfaa26795c38a86d973fa6a1b3e64
+Size: 133296
+MD5sum: 218105409f92f9cd922896e27418fb46
+SHA1: 65e4f46ca396c4e4a5ddfaffbc4dcb19545cbc5d
+SHA256: 74b3cee19ee5ef6c4fbacd8cb41b457ec440455fda7a0b9e47ff6ff6e5431774
 Section: Tweaks
 Description: Effortlessly manage your ringer volume!
 Author: yan
