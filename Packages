@@ -8959,6 +8959,40 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
 Name: 26Home
 
 Package: com.ngkhoi.26home
+Version: 1.3.14-launch-flicker-fix-zh
+Architecture: iphoneos-arm64e
+Maintainer: ngkhoi
+Installed-Size: 29440
+Depends: mobilesubstrate | ellekit, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.ngkhoi.26home_1.3.14-launch-flicker-fix-zh_iphoneos-arm64e.deb
+Size: 20550368
+MD5sum: 4df79ddd69f3a30e98cd653e09975868
+SHA1: 74deb77648aa43cf20d82c497379e62ff29d19a2
+SHA256: ee508e7cfbf09d3463806018ca6581d6de0091abad61629e48877920e283059f
+Section: Tweaks
+Description: 26Home 中文版 —— iOS 26 风格液态玻璃桌面美化（隐根 RootHide）
+Author: ngkhoi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
+Name: 26Home
+
+Package: com.ngkhoi.26home
+Version: 1.3.14-launch-flicker-fix-zh
+Architecture: iphoneos-arm64
+Maintainer: ngkhoi
+Installed-Size: 29440
+Depends: mobilesubstrate | ellekit, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.ngkhoi.26home_1.3.14-launch-flicker-fix-zh_iphoneos-arm64.deb
+Size: 20551300
+MD5sum: 586fa3b340cb3b757de57c7ab6180b0d
+SHA1: 2051132462a85116cbae2568c06713a4efafb55d
+SHA256: 6e10cad57e94d842edef7c58c6858a48e51b8b7d453bb072c1487d5e627ba789
+Section: Tweaks
+Description: 26Home 中文版 —— iOS 26 风格液态玻璃桌面美化（无根 rootless）
+Author: ngkhoi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
+Name: 26Home
+
+Package: com.ngkhoi.26home
 Version: 1.3.3-unlock-persist-zh
 Architecture: iphoneos-arm64e
 Maintainer: ngkhoi
