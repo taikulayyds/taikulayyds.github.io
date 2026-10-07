@@ -9876,6 +9876,46 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swipeextenderx.png
 Name: SwipeExtenderX
 
+Package: com.qq391160.cpucore
+Version: 2.0.5
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 3112
+Depends: firmware (>= 16.0.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.5_iphoneos-arm64e.deb
+Size: 460484
+MD5sum: 79139fb202bc045f6b491b0b29f1ec27
+SHA1: 55a68d694e61a131d017c3c1cf01b4912600b612
+SHA256: dcb3f3394d0390134808f6af6e50d708640d0550aecb88240dadd099e96d7ffd
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 3112
+Depends: firmware (>= 16.0.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.5_iphoneos-arm64.deb
+Size: 460248
+MD5sum: a22f7c01a140e443c08f4bfb2bfe953c
+SHA1: f0a15b0525aec704f8b5d31f21f2e5249a6cd289
+SHA256: c2368271085cb8cb88a75545e3dcc99e66d9e5358a72a07f4c406374a00d6a0a
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
 Package: com.roothide.patcher
 Version: 2.1.5
 Architecture: iphoneos-arm64e
