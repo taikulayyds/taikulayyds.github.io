@@ -7546,6 +7546,144 @@ Author: Maxim Shnirman
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/twistnturn.png
 Name: TwistNTurn智能旋转
 
+Package: com.mlgm.actra
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3552
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64e/com.mlgm.actra_1.0_iphoneos-arm64e.deb
+Size: 699528
+MD5sum: bdf4e8fff64fb3d42e5374e1a3281489
+SHA1: f13bdeef9166a226cd059fdda1286ffe0e0a4a8f
+SHA256: 60e4b1bc644891f8dca182fc8d7895be8be1f1f80fc737b866cf7c517690beb7
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
+Package: com.mlgm.actra
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 3564
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64/com.mlgm.actra_1.0_iphoneos-arm64.deb
+Size: 698992
+MD5sum: d1949cb5d1eb96943b0aa513ccb739c9
+SHA1: a42e9953a25afa2bfc17b603faca3a9b2a53479f
+SHA256: 3e00816c0d67677199c5326903c36ea6b66327b94a14b2dea220854dbd5a14f2
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
+Package: com.mlgm.idata
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 8244
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/iphoneos-arm64e/com.mlgm.idata_1.3_iphoneos-arm64e.deb
+Size: 2464380
+MD5sum: 2837bf7d086db10b6bb02c3335c0ae88
+SHA1: bb752338fc83bc552506321cc00f0f1d58b598bd
+SHA256: b3f36e9cab4f48a1542a2fcdbd39d57e89d5872c492a018b923060c20a1f2593
+Section: Applications
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 8244
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/iphoneos-arm64/com.mlgm.idata_1.3_iphoneos-arm64.deb
+Size: 2464804
+MD5sum: 2a9cd5a94d35eb0df191eca0767b4200
+SHA1: 05d17abd397f3860d310593752d9f56e8162694c
+SHA256: 552edbbfe87a6d6d32d41ec0cee3b4fb1d44b00d4c71fd2e18f6424691a1c412
+Section: Applications
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.ilog
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 2564
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.mlgm.ilog_1.3_iphoneos-arm64e.deb
+Size: 1558720
+MD5sum: 35d04c83be563c6c74f766117678de82
+SHA1: e321dc2adce44bbeb1084b579b8aa2a222d63b6d
+SHA256: 1085f4f8c1c0dff3229c4365ca0b83634cc34c30aab5b7ec938dde8a8a3f8335
+Section: Applications
+Description: 查看、预览、分享和清理 iOS 日志
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/ilog.png
+Name: iLog
+
+Package: com.mlgm.ilog
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 2564
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.mlgm.ilog_1.3_iphoneos-arm64.deb
+Size: 1558892
+MD5sum: 2fc1b615d7a10de0f285e681dfd532c0
+SHA1: 399d0743ea45ba0336fddb94a1188202535de93d
+SHA256: d3e3fde02846a1d89f18fd7bd90fb9dc223bc29accbc435f85af0630a32273c0
+Section: Applications
+Description: 查看、预览、分享和清理 iOS 日志
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/ilog.png
+Name: iLog
+
+Package: com.mlgm.prefnest
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 872
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.mlgm.prefnest_1.2_iphoneos-arm64e.deb
+Size: 168088
+MD5sum: 4c5d9402bbac464ff875fd8fb39eeae8
+SHA1: e092e10d8c247d6b09cc6ed79f8ff0d49b71b047
+SHA256: 9ae9c6789c88112eba98029267b6fb5e0f1aa80e3a7bc2e20b40af0e4580e61e
+Section: Tweaks
+Description: 整理设置首页，集中收纳越狱插件。
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/prefnest.png
+Name: PrefNest
+
+Package: com.mlgm.prefnest
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 872
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.mlgm.prefnest_1.2_iphoneos-arm64.deb
+Size: 169092
+MD5sum: 977356c9905082a3349f5f99f58f87a2
+SHA1: 4644769e16d93abf6223b0ac8a0a85e3b61e7780
+SHA256: 41fe7039342bbb96cd198aa1f21a861e3367bf0256c57ca9da6bbcf25915b0ae
+Section: Tweaks
+Description: 整理设置首页，集中收纳越狱插件。
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/prefnest.png
+Name: PrefNest
+
 Package: com.mowang.crashanalyzer
 Version: 1.1.5
 Architecture: iphoneos-arm64e
