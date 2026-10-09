@@ -4483,6 +4483,40 @@ Author: crctdd
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
 Name: StayAlive Lite
 
+Package: com.crctdd.stayalivelite
+Version: 0.4.0
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 1000
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/com.crctdd.stayalivelite_0.4.0_iphoneos-arm64e.deb
+Size: 162228
+MD5sum: a13027d0562a1e0c114a7b94837631ed
+SHA1: d4d1b5f6d70c74ab14766c40106ce0fa27bcb6ae
+SHA256: 4e62a74eca932d6fc5e87db3e6b1ffa18c97fcc691049baa6b8001990fd34dcb
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
+Name: StayAlive Lite
+
+Package: com.crctdd.stayalivelite
+Version: 0.4.0
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 1944
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64/com.crctdd.stayalivelite_0.4.0_iphoneos-arm64.deb
+Size: 239856
+MD5sum: d2912c635b62e64fb6f745e1aec433fc
+SHA1: be561f630d0507d954b0d23d744c7b315630f731
+SHA256: e7d35dfee0793f2cdfab2291bd0ca2972ac0355145639fc3d1b998d1dee6accf
+Section: Tweaks
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/stayalivelite.png
+Name: StayAlive Lite
+
 Package: com.creaturecoding.tweaksettings
 Version: 1.0.9
 Architecture: iphoneos-arm64e
