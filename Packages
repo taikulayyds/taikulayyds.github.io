@@ -3901,6 +3901,80 @@ Author: kanuo
 Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
 Name: Bottom-x 悬浮球
 
+Package: com.crctdd.choicy-patch
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 96
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, com.opa334.choicy (>= 1.4), com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/iphoneos-arm64e/com.crctdd.choicy-patch_0.0.2_iphoneos-arm64e.deb
+Size: 13452
+MD5sum: 5486b30726b390ec09c62897baa6d11f
+SHA1: 93e3071e92a66990eaca46fa579cd4d2a0d11065
+SHA256: 2a13763360587c6279d3ee05e909847f277e9e8bf21829b341ee84d2f656f175
+Section: Tweaks
+Description: 给Choicy增加已设置置顶 / 进程页面本地缓存。(支持iOS 15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
+Name: Choicy Patch
+
+Package: com.crctdd.choicy-patch
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 208
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, com.opa334.choicy (>= 1.4), com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/iphoneos-arm64/com.crctdd.choicy-patch_0.0.2_iphoneos-arm64.deb
+Size: 17404
+MD5sum: be2b2006381f33b9f55be79639ba153d
+SHA1: 38c21714afd9c652894a1c607586ef3d2cd114bb
+SHA256: 94e546d0b3edf5d7699606b9dd6bf304ed0847b1973af312a8cd27f7004833ac
+Section: Tweaks
+Description: 给Choicy增加已设置置顶 / 进程页面本地缓存。(支持iOS 15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
+Name: Choicy Patch
+
+Package: com.crctdd.filzarename
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 96
+Depends: firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.filzadebname
+Replaces: com.crctdd.filzadebname
+Filename: ./debs/iphoneos-arm64e/com.crctdd.filzarename_0.0.1_iphoneos-arm64e.deb
+Size: 17148
+MD5sum: 184ad84db1bd3b88cf7b633f249dfd39
+SHA1: bcd359281506dcabfc417bbf11b115b2210762f6
+SHA256: e77dd6bff183191d8092161686e9df985e3ddb0877da27c814aac9a030894c58
+Section: Tweaks
+Priority: optional
+Description: 在Filza内的.deb/.ipa/.tipa安装包长按可规范命名。
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filza.png
+Name: Filza Rename
+
+Package: com.crctdd.filzarename
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 208
+Depends: firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.filzadebname
+Replaces: com.crctdd.filzadebname
+Filename: ./debs/iphoneos-arm64/com.crctdd.filzarename_0.0.1_iphoneos-arm64.deb
+Size: 23064
+MD5sum: e74e3cc1473c5cdbb1a318d8c6cf7eb8
+SHA1: 63dc990ceada413aa77bb4529156d4b776b5dc03
+SHA256: ecf0d547d500b2f1f20939fbd952315809faa0bac26659fb8da12d81206222c0
+Section: Tweaks
+Priority: optional
+Description: 在Filza内的.deb/.ipa/.tipa安装包长按可规范命名。
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/filza.png
+Name: Filza Rename
+
 Package: com.crctdd.memtrim
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -3972,6 +4046,40 @@ Description: 优化并释放部分运行内存。(支持iOS 15-17)
 Author: crctdd
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/memtrim.png
 Name: MemTrim
+
+Package: com.crctdd.sbtrim
+Version: 0.0.15
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/iphoneos-arm64e/com.crctdd.sbtrim_0.0.15_iphoneos-arm64e.deb
+Size: 73048
+MD5sum: 0cd2d5b3b2038c9e39987b4c884bc73d
+SHA1: 0eeee4ba1117f9bca597db080d4681aead92881f
+SHA256: 3edfd98d86f6c051269a0b7600f9f3e9039ed8b7745e8f9f12d240f15f2ee0b6
+Section: Tweaks
+Description: 当SpringBoard的Phys占用阈值超过一定数值，自动轻量优化回收。(支持iOS 15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbtrim.png
+Name: SBTrim
+
+Package: com.crctdd.sbtrim
+Version: 0.0.15
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/iphoneos-arm64/com.crctdd.sbtrim_0.0.15_iphoneos-arm64.deb
+Size: 73040
+MD5sum: d40a3fcee7626e3ac0153ca2b8627ab4
+SHA1: 499a6291227c83672277b3bc95f0731ae7d1ee2c
+SHA256: 147c6a90f40aff79431a8a98ac6d2ea7d02a53efe66fe6c244b21bbc3f218bd8
+Section: Tweaks
+Description: 当SpringBoard的Phys占用阈值超过一定数值，自动轻量优化回收。(支持iOS 15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sbtrim.png
+Name: SBTrim
 
 Package: com.crctdd.stayalivelite
 Version: 0.1.3
@@ -7445,6 +7553,40 @@ Author: Crassna
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/applecard.png
 Name: App Lecard
 
+Package: com.lenglengyu.ghallownetwork
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.ghallownetwork_0.0.1_iphoneos-arm64e.deb
+Size: 7888
+MD5sum: 69c5a2b9e5c902dcc78935135e49fc19
+SHA1: 24053caf4880bc7c98c7c668246f0495e8be73df
+SHA256: 9be8159ba9969c29f5f7d40155b0774ac1c96dc695719de7e632f60144396c78
+Section: Tweaks
+Description: 国行手机自动允许使用网络。
+Author: lenglengyu
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ghallownetwork.png
+Name: Allow Network
+
+Package: com.lenglengyu.ghallownetwork
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.ghallownetwork_0.0.1_iphoneos-arm64.deb
+Size: 8076
+MD5sum: 96298117a5afd1cbc949dcc28e4547cc
+SHA1: 95c5482ef1d8624cb6884353a818441926de4875
+SHA256: 43256a0d07a9d9ab9b1892467741a42f53d629955955141ec4f805a8b3d0effd
+Section: Tweaks
+Description: 国行手机自动允许使用网络。
+Author: lenglengyu
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ghallownetwork.png
+Name: Allow Network
+
 Package: com.level3tjg.betterccbrightness
 Version: 1.0.2
 Architecture: iphoneos-arm64e
@@ -7610,6 +7752,42 @@ Size: 698992
 MD5sum: d1949cb5d1eb96943b0aa513ccb739c9
 SHA1: a42e9953a25afa2bfc17b603faca3a9b2a53479f
 SHA256: 3e00816c0d67677199c5326903c36ea6b66327b94a14b2dea220854dbd5a14f2
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
+Package: com.mlgm.actra
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3684
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64e/com.mlgm.actra_1.1_iphoneos-arm64e.deb
+Size: 715116
+MD5sum: 183bb762f85b24c833d676f1706b2760
+SHA1: 87ce7598a3255f77f2682868642077885af2baa1
+SHA256: f809fbb76ca4244f59fb85edfa9884d1fe3d6bc189133489d2dbacd0e94c9712
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
+Package: com.mlgm.actra
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 3716
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64/com.mlgm.actra_1.1_iphoneos-arm64.deb
+Size: 714876
+MD5sum: 184a092b931477005de3350c9b43db12
+SHA1: 1b4ab8d342285452ed941b5f6966c89c72b5ad21
+SHA256: 82ff1bba1ba77a8355e5ac5013074539a4a305db3c806e3a1a54e520f6326187
 Section: Tweaks
 Description: 手势与事件自动化工具
 Author: mlgm
