@@ -3901,6 +3901,89 @@ Author: kanuo
 Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
 Name: Bottom-x 悬浮球
 
+Package: com.colorblack.bottomx.floatingball
+Version: 6.59+screencore.2.user1012
+Architecture: iphoneos-arm64e
+Maintainer: kanuo
+Installed-Size: 1225
+Depends: mobilesubstrate | ellekit, preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
+Conflicts: com.kanuo.floatballx
+Filename: ./debs/iphoneos-arm64e/com.colorblack.bottomx.floatingball_6.59+screencore.2.user1012_iphoneos-arm64e.deb
+Size: 425196
+MD5sum: 522110f4b36d3d8e967361c8efcb7317
+SHA1: 97ba6e4a506012d820637bec266c031c5c0065f6
+SHA256: 79a90b6317d211301f364c97e09fc4981f93dae1953581adff705e8c94bd48ca
+Section: Tweaks
+Description: 依赖 Bottom-x 底部横条返回插件，为其新增一个可自定义的悬浮球，点击即可返回上一层。
+ 依赖 Bottom-x 底部横条返回插件（感谢大佬开发），在其基础上新增悬浮球交互。
+ .
+ 【核心功能】
+ - 单击悬浮球返回上一层，到达最底层时自动回到桌面
+ - 支持拖动到任意位置，位置全局记忆，切换 App 自动恢复
+ - 点击后悬浮球高亮至 100%，2 秒后自动恢复设置的透明度，不遮挡界面
+ - 内置返回箭头图标，支持从相册选择图片替换整个悬浮球外观
+ .
+ 【使用说明】
+ - 安装后请手动 Respring 一次，让 SpringBoard 重新加载插件
+ - 设置路径：设置 > 悬浮球
+ - 如需恢复默认图标与位置，点击「恢复默认大小、透明度和位置」
+ .
+ 【6.59 SmartDeck Home】
+ - 开放 iOS 16 安装，提供 RootHide 与标准 rootless 两种安装包
+ - 设置页可显示；键盘弹出时隐藏，收起恢复；桌面隐藏
+ - 优化自定义容器、嵌套导航和分栏根页面识别，优先系统 Home 路径
+ - SmartDeck 0.4.8 保留原生 Home 图标，单次请求逐层返回托管 App，到底层后回九宫格。其他 App 与 PullOver-X 悬浮球保持原样
+ .
+ 【依赖】
+ - com.colorblack.bottomx.ios17（Bottom-x 底部横条返回）
+Author: kanuo
+Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
+Name: Bottom-x 悬浮球
+X-Screencore-Adapter: 10-12-exact-binary.1
+X-Screencore-Adapter-Input-Sha256: b6c3c02ec3f359f019fc74fb23c8a6022f233f6d46878e0b66b13ff8689f566d
+
+Package: com.colorblack.bottomx.floatingball
+Version: 6.59+screencore.2.user1012
+Architecture: iphoneos-arm64
+Maintainer: kanuo
+Installed-Size: 1225
+Depends: mobilesubstrate | ellekit, preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
+Conflicts: com.kanuo.floatballx
+Filename: ./debs/iphoneos-arm64/com.colorblack.bottomx.floatingball_6.59+screencore.2.user1012_iphoneos-arm64.deb
+Size: 425520
+MD5sum: 4ca1306a2b0c0ccf719e7204dedfb028
+SHA1: 627f10e6724cb2e69557e3741db458ae3acad8ba
+SHA256: 339b56f93ce88ebe8038b08447d486d8b18ada4f61715616d84a394f2146eb9b
+Section: Tweaks
+Description: 依赖 Bottom-x 底部横条返回插件，为其新增一个可自定义的悬浮球，点击即可返回上一层。
+ 依赖 Bottom-x 底部横条返回插件（感谢大佬开发），在其基础上新增悬浮球交互。
+ .
+ 【核心功能】
+ - 单击悬浮球返回上一层，到达最底层时自动回到桌面
+ - 支持拖动到任意位置，位置全局记忆，切换 App 自动恢复
+ - 点击后悬浮球高亮至 100%，2 秒后自动恢复设置的透明度，不遮挡界面
+ - 内置返回箭头图标，支持从相册选择图片替换整个悬浮球外观
+ .
+ 【使用说明】
+ - 安装后请手动 Respring 一次，让 SpringBoard 重新加载插件
+ - 设置路径：设置 > 悬浮球
+ - 如需恢复默认图标与位置，点击「恢复默认大小、透明度和位置」
+ .
+ 【6.59 SmartDeck Home】
+ - 开放 iOS 16 安装，本包使用标准 rootless /var/jb 安装布局
+ - 设置页可显示；键盘弹出时隐藏，收起恢复；桌面隐藏
+ - 优化自定义容器、嵌套导航和分栏根页面识别，优先系统 Home 路径
+ - SmartDeck 0.4.8 保留原生 Home 图标，单次请求逐层返回托管 App，到底层后回九宫格。其他 App 与 PullOver-X 悬浮球保持原样
+ .
+ 【依赖】
+ - com.colorblack.bottomx.ios17（Bottom-x 底部横条返回）
+Author: kanuo
+Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
+Name: Bottom-x 悬浮球
+X-Install-Environment: standard-rootless-var-jb
+X-Screencore-Adapter: 10-12-exact-binary.1
+X-Screencore-Adapter-Input-Sha256: b6c3c02ec3f359f019fc74fb23c8a6022f233f6d46878e0b66b13ff8689f566d
+
 Package: com.crctdd.choicy-patch
 Version: 0.0.2
 Architecture: iphoneos-arm64e
