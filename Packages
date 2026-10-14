@@ -7983,6 +7983,42 @@ Author: mlgm
 Icon: https://mlgm66.github.io/icon/actra.png
 Name: Actra
 
+Package: com.mlgm.actra
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3844
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64e/com.mlgm.actra_1.2_iphoneos-arm64e.deb
+Size: 756088
+MD5sum: cbeec22020a8577b829bf724c18927ec
+SHA1: a412b40915d3dd39bd8b58a5e86acbab66eb6f99
+SHA256: 0b37742e3cc17376388e0d41239fc74f870467d4b05f05247cd0c2669990d584
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
+Package: com.mlgm.actra
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 3844
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64/com.mlgm.actra_1.2_iphoneos-arm64.deb
+Size: 753536
+MD5sum: ebbdea623e9f5c109a49cd9f9e8961c3
+SHA1: 36c06bbab4e08489c8553e50b8b72e2221796cc8
+SHA256: 77b524eeed95f5b4a31dedbd38720755c35f775d12db4365adb7e92927172e39
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
 Package: com.mlgm.idata
 Version: 1.3
 Architecture: iphoneos-arm64e
@@ -8217,6 +8253,40 @@ SHA1: 892b0e6be9cb31d8e9cc5e0259c02309ed26db5f
 SHA256: f7a6e3ccbd177484c41886473ead705657688912b8f7f1949ec0bbfc7f83be29
 Section: Tweaks
 Description: 自动扫描、分类和分析 iOS .ips 日志
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
+Name: AI 日志分析
+
+Package: com.mowang.crashanalyzer
+Version: 1.4.0
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 292
+Depends: preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.mowang.crashanalyzer_1.4.0_iphoneos-arm64e.deb
+Size: 91452
+MD5sum: ba327a3da2940131893cf96ac989ac35
+SHA1: d644d31ca89376c1046338d4d4698302e38ed57d
+SHA256: f28d825cb764778d4c18a3453ca4a29a5726d56ef61be3f90bc43af944370258
+Section: Tweaks
+Description: iOS IPS 日志搜索、进程分组与证据分析（1.4.0 体验版）
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
+Name: AI 日志分析
+
+Package: com.mowang.crashanalyzer
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 292
+Depends: preferenceloader
+Filename: ./debs/iphoneos-arm64/com.mowang.crashanalyzer_1.4.0_iphoneos-arm64.deb
+Size: 91460
+MD5sum: 48d8cb28782e1147eacf53720ec1a273
+SHA1: 925515974015ed4444e1370b0d58ba6d7370eec7
+SHA256: 8cbcc62b68ba48a219a1a9b8a709d942265dd13925a5b3fa27f1866c501bf171
+Section: Tweaks
+Description: iOS IPS 日志搜索、进程分组与证据分析（1.4.0 体验版）
 Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
 Name: AI 日志分析
@@ -10516,6 +10586,46 @@ Description: Reinvent your keyboard with this full remake of the legendary Swipe
 Author: MiRO <tweaks_support@miro92.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/swipeextenderx.png
 Name: SwipeExtenderX
+
+Package: com.qq391160.cpucore
+Version: 2.0.109
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4220
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.109_iphoneos-arm64e.deb
+Size: 620404
+MD5sum: c14aeb8a3ec0e4250e54e042d98222dc
+SHA1: 352965a9f7f306870645d1962b35c66fc9590610
+SHA256: 797acdadde30ee289412baede53683ab2a32f57fc15bd0ae14e4ee014da88011
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.109
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4012
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.109_iphoneos-arm64.deb
+Size: 578412
+MD5sum: 1a9a264c25b20b1b6865e39f816cd0da
+SHA1: 41390b3bc603531f0b01fd888c45da38fa89395d
+SHA256: 2dcddf520701e74747bee034646d076deb225e5094ef13f24149db65fc198502
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
 
 Package: com.qq391160.cpucore
 Version: 2.0.45
