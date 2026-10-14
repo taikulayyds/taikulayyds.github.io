@@ -8026,11 +8026,11 @@ Maintainer: mlgm
 Installed-Size: 8244
 Depends: firmware (>= 15.0), apt, dpkg
 Filename: ./debs/iphoneos-arm64e/com.mlgm.idata_1.3_iphoneos-arm64e.deb
-Size: 2464380
-MD5sum: 2837bf7d086db10b6bb02c3335c0ae88
-SHA1: bb752338fc83bc552506321cc00f0f1d58b598bd
-SHA256: b3f36e9cab4f48a1542a2fcdbd39d57e89d5872c492a018b923060c20a1f2593
-Section: Applications
+Size: 2462836
+MD5sum: 96fddf5dc30c65c25e75c9dafa1ce168
+SHA1: 3d892ed7f7bb6039f0c2cac0581082420892a2f4
+SHA256: de74b6aef3f3532881c0999f9be31efa123c8ac9307abf7d8d99543878528371
+Section: Tweaks
 Description: 应用、插件数据管理工具，一键备份/恢复
 Author: mlgm
 Icon: https://mlgm66.github.io/icon/idata.png
@@ -8043,11 +8043,11 @@ Maintainer: mlgm
 Installed-Size: 8244
 Depends: firmware (>= 15.0), apt, dpkg
 Filename: ./debs/iphoneos-arm64/com.mlgm.idata_1.3_iphoneos-arm64.deb
-Size: 2464804
-MD5sum: 2a9cd5a94d35eb0df191eca0767b4200
-SHA1: 05d17abd397f3860d310593752d9f56e8162694c
-SHA256: 552edbbfe87a6d6d32d41ec0cee3b4fb1d44b00d4c71fd2e18f6424691a1c412
-Section: Applications
+Size: 2464520
+MD5sum: 91e0aa253019b316c8ec161c643f58a8
+SHA1: b37cf8bdd9cd8937750786584f8fa0923da73d8f
+SHA256: 5aa67f6c9d2f24a41da6c181e6d339724dec30eccb5010cf4ffd4b469d626ca8
+Section: Tweaks
 Description: 应用、插件数据管理工具，一键备份/恢复
 Author: mlgm
 Icon: https://mlgm66.github.io/icon/idata.png
@@ -8060,11 +8060,11 @@ Maintainer: mlgm
 Installed-Size: 2564
 Depends: firmware (>= 15.0)
 Filename: ./debs/iphoneos-arm64e/com.mlgm.ilog_1.3_iphoneos-arm64e.deb
-Size: 1558720
-MD5sum: 35d04c83be563c6c74f766117678de82
-SHA1: e321dc2adce44bbeb1084b579b8aa2a222d63b6d
-SHA256: 1085f4f8c1c0dff3229c4365ca0b83634cc34c30aab5b7ec938dde8a8a3f8335
-Section: Applications
+Size: 1558412
+MD5sum: fe0bb6761519e52e5fc0c54d4f654d71
+SHA1: 66407cfe5ddca32388a009ca5fb1f14b40b5d097
+SHA256: ffbad91b7e5bc11b93da0c5293191d5ceeecdbd1743ba895ef051c6638488897
+Section: Tweaks
 Description: 查看、预览、分享和清理 iOS 日志
 Author: mlgm
 Icon: https://mlgm66.github.io/icon/ilog.png
@@ -8077,11 +8077,11 @@ Maintainer: mlgm
 Installed-Size: 2564
 Depends: firmware (>= 15.0)
 Filename: ./debs/iphoneos-arm64/com.mlgm.ilog_1.3_iphoneos-arm64.deb
-Size: 1558892
-MD5sum: 2fc1b615d7a10de0f285e681dfd532c0
-SHA1: 399d0743ea45ba0336fddb94a1188202535de93d
-SHA256: d3e3fde02846a1d89f18fd7bd90fb9dc223bc29accbc435f85af0630a32273c0
-Section: Applications
+Size: 1558600
+MD5sum: c969a7bdd7c15f5f0856d93e475e876d
+SHA1: c729c9b0e8d67585d5a68d3ead0b3b5e2fa48f7f
+SHA256: 13424dc319cf68518084b310d5c88ec6e7cd1da159faf31fd9ca7c50329a8341
+Section: Tweaks
 Description: 查看、预览、分享和清理 iOS 日志
 Author: mlgm
 Icon: https://mlgm66.github.io/icon/ilog.png
