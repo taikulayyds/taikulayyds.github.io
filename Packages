@@ -1231,6 +1231,74 @@ Author: 0xkuj
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/safarix.png
 Name: SafariX
 
+Package: com.34306.upsidedowned
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.34306.upsidedowned_1.1-7_iphoneos-arm64e.deb
+Size: 5552
+MD5sum: f02e3b8f3dd99a81776f48bb0ab3e09b
+SHA1: 78cc861b977000bef8fda2f941b0301983d6fd36
+SHA256: 5ecbcc74fca5c4d2ce2bb57c1aa5a188036f1d415e82843e9807a66c853b1a6c
+Section: Tweaks
+Description: Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Author: 34306, KhanhDuyTran
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/upsidedowned.png
+Name: upsidedowned
+
+Package: com.34306.upsidedowned
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.34306.upsidedowned_1.1-7_iphoneos-arm64.deb
+Size: 5604
+MD5sum: 926c140d5ec7ab525d6f6f24a32d41d1
+SHA1: 97519f317aa591952e3d738f7238bffca400b1ac
+SHA256: bf291ef0643246cc7ca7f4807ad287975bbb17b1ab46ffbe05699e3a9f5470f4
+Section: Tweaks
+Description: Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Author: 34306, KhanhDuyTran
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/upsidedowned.png
+Name: upsidedowned
+
+Package: com.34306.upsidedowned
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.34306.upsidedowned_1.1-8_iphoneos-arm64e.deb
+Size: 5528
+MD5sum: cb00acba4d9a7b10a116566bb5285099
+SHA1: 05a787eefea3735007eb25782a278c6096c9e962
+SHA256: b5a07933e2fa45c3a49a7afb1dfcd7c927f6345c7288a004052253ce067431dd
+Section: Tweaks
+Description: Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Author: 34306, KhanhDuyTran
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/upsidedowned.png
+Name: upsidedowned
+
+Package: com.34306.upsidedowned
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.34306.upsidedowned_1.1-8_iphoneos-arm64.deb
+Size: 5612
+MD5sum: ac51cb8587e84fb1c6b336f68a376d4a
+SHA1: f88f18a48a885ec1f3b85f6bc82539898406457b
+SHA256: d5986513b94c2b0922fc93587bb49e94504b05047e7645f3f0452fc273d0f6d9
+Section: Tweaks
+Description: Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Author: 34306, KhanhDuyTran
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/upsidedowned.png
+Name: upsidedowned
+
 Package: com.82flex.cranepkdserverfix
 Version: 0.0.1
 Architecture: iphoneos-arm64e
