@@ -16139,6 +16139,42 @@ Author: newwares
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/badgesync.png
 Name: BadgeSync
 
+Package: com.taikulayyds.bottomx
+Version: 6.59
+Architecture: iphoneos-arm64e
+Maintainer: kanuo
+Installed-Size: 1084
+Depends: mobilesubstrate | ellekit, preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
+Conflicts: com.kanuo.floatballx
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.bottomx_6.59_iphoneos-arm64e.deb
+Size: 419044
+MD5sum: 8f54a97fd51d430d6c00a74741579cdd
+SHA1: dd5ab0c7318d56e9af56ce88581522fca81002b2
+SHA256: 417b2746785705ec92c41e21f60bdc116bfd467446778499c15af653727c1cb3
+Section: Tweaks
+Description: SmartDeck的托管返回依赖 Bottom-x 悬浮球 6.59，否则 Home 返回键不生效。安装 SmartDeck 前请先确认已安装 Bottom-x 悬浮球 6.59（本仓库同源提供，可一键安装）。已安装的用户无需重复安装。
+Author: kanuo
+Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
+Name: Bottom-x 悬浮球(SmartDeck依赖)
+
+Package: com.taikulayyds.bottomx
+Version: 6.59
+Architecture: iphoneos-arm64
+Maintainer: kanuo
+Installed-Size: 1084
+Depends: mobilesubstrate | ellekit, preferenceloader, com.colorblack.bottomx.ios17, firmware (>= 16.0), firmware (<< 18.0)
+Conflicts: com.kanuo.floatballx
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.bottomx_6.59_iphoneos-arm64.deb
+Size: 419048
+MD5sum: e224c83afcbefc538032e4cf353f385b
+SHA1: b4fce6468e7e7691878b36aa1933a7bc1c44d3ec
+SHA256: deca4c78baaf18ad1eddc93e67b00b713e0904b65582ea8d006544d971ab8f95
+Section: Tweaks
+Description: SmartDeck的托管返回依赖 Bottom-x 悬浮球 6.59，否则 Home 返回键不生效。安装 SmartDeck 前请先确认已安装 Bottom-x 悬浮球 6.59（本仓库同源提供，可一键安装）。已安装的用户无需重复安装。
+Author: kanuo
+Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
+Name: Bottom-x 悬浮球(SmartDeck依赖)
+
 Package: com.taikulayyds.calclog
 Version: 0.0.1
 Architecture: iphoneos-arm64e
