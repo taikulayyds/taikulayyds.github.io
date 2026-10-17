@@ -18398,6 +18398,82 @@ Author: Junhong
 Icon: https://huayuarc.github.io/icon/fakeperm.png
 Name: 虚拟权限 · Fake Permission
 
+Package: iya.banana.iphoneduoicon
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 4524
+Depends: firmware (>= 15.0), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Suggests: iya.banana.audioservice (>= 1.0.4)
+Conflicts: com.82flex.singlevpn
+Filename: ./debs/iphoneos-arm64e/iya.banana.iphoneduoicon_1.1.0_iphoneos-arm64e.deb
+Size: 798456
+MD5sum: 2c976f82b567d97037d73dc8aa02326b
+SHA1: def547393f91ef0c280a63d4e021336e18fe0abc
+SHA256: de60bebe1c90137fffd84ee304b36e48ffe7d89fab9aaef053eede7bcb107475
+Section: Tweaks
+Description: Customizable glass status bar capsules with weather, media, notifications and mini Dock.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
+Name: Lunora
+
+Package: iya.banana.iphoneduoicon
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 4540
+Depends: firmware (>= 15.0), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Suggests: iya.banana.audioservice (>= 1.0.4)
+Conflicts: com.82flex.singlevpn
+Filename: ./debs/iphoneos-arm64/iya.banana.iphoneduoicon_1.1.0_iphoneos-arm64.deb
+Size: 805416
+MD5sum: 00b4a889f3efb28d30f141dc6ab9dc9b
+SHA1: 85da395c1a207b5520218bbc9f297d919bfdd9f0
+SHA256: eb247be3d59c2963c9c90703c43ee5a9481baed70bae8bbcbb1a2582641ab8ba
+Section: Tweaks
+Description: Customizable glass status bar capsules with weather, media, notifications and mini Dock.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
+Name: Lunora
+
+Package: iya.iapple.siri
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: Thijs mussig
+Installed-Size: 2252
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourcompany.liquidsiri
+Replaces: com.yourcompany.liquidsiri
+Filename: ./debs/iphoneos-arm64e/iya.iapple.siri_1.1.3_iphoneos-arm64e.deb
+Size: 984128
+MD5sum: a09069495ae9519ad9c3213e359010d7
+SHA1: 7cc262b02d974e749a89d45267efd931315053e3
+SHA256: 6a744eaa89739d9369c5bf73f1e7f76e8a21e8416d8a300c39b556be62070bff
+Section: Tweaks
+Description: Customize Siri with NewSiri edge lighting or the SiriAI glass interface.
+Author: Thijs mussig, Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/siri.png
+Name: LiquidSiri
+
+Package: iya.iapple.siri
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Thijs mussig
+Installed-Size: 2252
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourcompany.liquidsiri
+Replaces: com.yourcompany.liquidsiri
+Filename: ./debs/iphoneos-arm64/iya.iapple.siri_1.1.3_iphoneos-arm64.deb
+Size: 985864
+MD5sum: f580a027ba9ee06e92b0fc94aff4bb5b
+SHA1: 837f7f7fb43a9a2e1e09ab9a19761b3ebe25f999
+SHA256: f888e52aeb6d6e8cbdf2d1707c05c9c43105d2c7555fd86d6b608e10e8558567
+Section: Tweaks
+Description: Customize Siri with NewSiri edge lighting or the SiriAI glass interface.
+Author: Thijs mussig, Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/siri.png
+Name: LiquidSiri
+
 Package: jp.akusio.milkyway2
 Version: 1.0
 Architecture: iphoneos-arm64e
