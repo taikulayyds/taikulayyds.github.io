@@ -16961,10 +16961,10 @@ Maintainer: kanuo
 Installed-Size: 696
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.rainbowkeyboard_1.0.26~lite40_iphoneos-arm64e.deb
-Size: 194680
-MD5sum: 7b119a3c94928cb19f0874bdac025329
-SHA1: 9d849f7920ff7c0ad0fbf78f123a9d9bd3180e4d
-SHA256: c2a8b699363070d3975ee3f87b2485dfe12729a258af82aa16ed24d630647c03
+Size: 194592
+MD5sum: e64428f922859e9d035e2ad42dc38274
+SHA1: d054e9043306f63ac876cde85c66d09f3483f46f
+SHA256: 968fe89ef6dfbe77bb223946cd0a97bcfc1a17de4b1dd29e1f9a246f0f424eca
 Section: Tweaks
 Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输入法
  四种固定预设、三星风格扩散与霓虹圆环两种样式，支持单独关闭扩散光效。
@@ -17005,10 +17005,10 @@ Maintainer: kanuo
 Installed-Size: 1336
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64/com.taikulayyds.rainbowkeyboard_1.0.26~lite40_iphoneos-arm64.deb
-Size: 287076
-MD5sum: 2413381be5b1123a369982067212ddf3
-SHA1: 9f0cc12b09f3a00e607b664dbd74df0ab7e4c5f0
-SHA256: ec97ebbcdf90bc04e19134fc637038e095488fffa139b67dee0c187ae3e47aa0
+Size: 288004
+MD5sum: 229641172b775d333e6ad4686c15fc1e
+SHA1: dd7fcb09dce1072f0e653908d30229421fb2a000
+SHA256: d025e7f986fa0ac49c5127b240abc9f7d7be88771015c6c90aefe6e208f7152e
 Section: Tweaks
 Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输入法
  四种固定预设、三星风格扩散与霓虹圆环两种样式，支持单独关闭扩散光效。
