@@ -4246,6 +4246,25 @@ Author: crctdd
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
 Name: Choicy-Whitelist
 
+Package: com.crctdd.choicy-whitelist
+Version: 1.5.4-6
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 648
+Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
+Conflicts: com.opa334.choicy, com.crctdd.choicy-patch
+Replaces: com.opa334.choicy, com.crctdd.choicy-patch
+Filename: ./debs/iphoneos-arm64e/com.crctdd.choicy-whitelist_1.5.4-6_iphoneos-arm64e.deb
+Size: 134380
+MD5sum: 86f314943768ebbef2782e0bbde477b9
+SHA1: c46472821ad4040a01b06395528e3f23f2daa8e5
+SHA256: b18cac80d1b7deddb2f48d47ce7e5a5c1517eaad771a6150f09025ddd88f0c2c
+Section: Tweaks
+Description: Choicy白名单 (支持iOS 15-17 roothide)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
+Name: Choicy-Whitelist
+
 Package: com.crctdd.filzarename
 Version: 0.0.1
 Architecture: iphoneos-arm64e
