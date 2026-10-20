@@ -18906,6 +18906,40 @@ Depiction: https://chariz.com/get/atria
 Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
 Name: Atria
 
+Package: moe.waru.jikan
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: waruhachi
+Installed-Size: 2344
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/iphoneos-arm64e/moe.waru.jikan_1.0.2_iphoneos-arm64e.deb
+Size: 347784
+MD5sum: be727ccb3a84bd8e6a153f2999d1cfa4
+SHA1: c4f9eb92b2d1ea6c3d2e3ac393d36c2bb152efd5
+SHA256: d9dd901ec0b22366a33712be694c263a0cc52010f95f8b369f367d4f53c0ed70
+Section: Tweaks
+Description: Show time left to full charge on your lock screen
+Author: waruhachi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/jikan.png
+Name: Jikan
+
+Package: moe.waru.jikan
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: waruhachi
+Installed-Size: 2380
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/iphoneos-arm64/moe.waru.jikan_1.0.2_iphoneos-arm64.deb
+Size: 346388
+MD5sum: 9dab1ec3fedb5b681b56da4dcb63f395
+SHA1: ede7c23da22464547b467484cd95fa99e40a06a3
+SHA256: 2b0af61152202d0124abb977f184b5fcd46e80ef570a2c10582def86a27e573d
+Section: Tweaks
+Description: Show time left to full charge on your lock screen
+Author: waruhachi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/jikan.png
+Name: Jikan
+
 Package: netskao.blockappscreatealbum
 Version: 1.1.2
 Architecture: iphoneos-arm64e
