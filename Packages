@@ -6420,12 +6420,12 @@ Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: ./debs/iphoneos-arm64e/com.dao.ccborder_1.2_iphoneos-arm64e.deb
-Size: 40068
-MD5sum: ec76b8ca96cae181751ae84c45ebc6e2
-SHA1: f28e8007caac7a973c145a77d675a4c6b63d4338
-SHA256: 4301a73c16b088fbe45d52873d82508d8ad1dc289c343a45cacaa8ab088032a1
-Section: Tweaks
+Filename: ./debs/iphoneos-arm64e/CCBorder16-1.2-iphoneos-arm64e.deb
+Size: 40052
+MD5sum: d8783d0568f37747ae9677feeaaaf069
+SHA1: 6b42983936f8cab1d971eb922caf16532d967e6c
+SHA256: 6748dd7c2d02083080aa58146bfd35d6aa1d8b3ba8a129c15f86e6a5d112f9fc
+Section: 插件
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
@@ -6438,12 +6438,12 @@ Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: ./debs/iphoneos-arm64e/CCBorder16-1.2-iphoneos-arm64e.deb
-Size: 40052
-MD5sum: d8783d0568f37747ae9677feeaaaf069
-SHA1: 6b42983936f8cab1d971eb922caf16532d967e6c
-SHA256: 6748dd7c2d02083080aa58146bfd35d6aa1d8b3ba8a129c15f86e6a5d112f9fc
-Section: 插件
+Filename: ./debs/iphoneos-arm64e/com.dao.ccborder_1.2_iphoneos-arm64e.deb
+Size: 40068
+MD5sum: ec76b8ca96cae181751ae84c45ebc6e2
+SHA1: f28e8007caac7a973c145a77d675a4c6b63d4338
+SHA256: 4301a73c16b088fbe45d52873d82508d8ad1dc289c343a45cacaa8ab088032a1
+Section: Tweaks
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
@@ -10439,6 +10439,39 @@ Description: View & Manage Applications Data from your Home Screen. 从主屏幕
 Author: Fouad Raheb
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appdata.png
 Name: AppData
+
+Package: com.netskao.blockappscreatealbum
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.netskao.blockappscreatealbum_1.1.2_iphoneos-arm64e.deb
+Size: 4668
+MD5sum: b297a7e355b8ea4dad373b4ffd986676
+SHA1: f0f8b48e5f36ff0306009d030899d905947615bd
+SHA256: b48e642f987ccc54849cd3dcc09ceb6b7f800cd43e325236abaf5e8fe5390bb2
+Section: Tweaks
+Description: Block applications from creating their own albums禁止应用程序创建自己的相册
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/blockappscreatealbum.png
+Name: 禁止应用自动创建相册BlockAppsCreateAlbum
+
+Package: com.netskao.blockappscreatealbum
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.blockappscreatealbum_1.1.2_iphoneos-arm64.deb
+Size: 4708
+MD5sum: 48cf06780b975974db9979066fe21d04
+SHA1: faaf44576d351ecc621560df4da9103dd88b6014
+SHA256: bd905d81c676eb72bc063439004bec0217e4bb1c0e9e0aab97f2a1605e43e112
+Section: Tweaks
+Description: Block applications from creating their own albums禁止应用程序创建自己的相册
+Author: Netskao
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/blockappscreatealbum.png
+Name: 禁止应用自动创建相册BlockAppsCreateAlbum
 
 Package: com.netskao.classickeyboardxs
 Version: 1.1-8
@@ -20094,39 +20127,6 @@ Description: Show time left to full charge on your lock screen
 Author: waruhachi
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/jikan.png
 Name: Jikan
-
-Package: netskao.blockappscreatealbum
-Version: 1.1.2
-Architecture: iphoneos-arm64e
-Maintainer: Netskao
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/iphoneos-arm64e/netskao.blockappscreatealbum_1.1.2_iphoneos-arm64e.deb
-Size: 4648
-MD5sum: 73d53e8bd43de341b5d3d16c4d2bc3f8
-SHA1: 82e5a8243867656763cf6b06f0dc2ee32f096227
-SHA256: e0e8355f8307ce102fd576de9241f2706acca8f04c2620947338ea4c3af109b8
-Section: Tweaks
-Description: Block applications from creating their own albums禁止应用程序创建自己的相册
-Author: Netskao
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/blockappscreatealbum.png
-Name: 禁止应用自动创建相册BlockAppsCreateAlbum
-
-Package: netskao.blockappscreatealbum
-Version: 1.1.2
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/iphoneos-arm64/netskao.blockappscreatealbum_1.1.2_iphoneos-arm64.deb
-Size: 4684
-MD5sum: 11630e70c37794ab7c13028af442cabc
-SHA1: a5a7fe8eab04399d44a6014ddfc46c9e88c6e714
-SHA256: d9372c0a296329b212ddeea341ade1c28f9835cb483565ea6fa5a0d0d018728b
-Section: Tweaks
-Description: Block applications from creating their own albums禁止应用程序创建自己的相册
-Author: Netskao
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/blockappscreatealbum.png
-Name: 禁止应用自动创建相册BlockAppsCreateAlbum
 
 Package: org.coolstar.sileo
 Version: 2.5.1-13
