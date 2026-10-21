@@ -5382,6 +5382,25 @@ Author: crctdd
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
 Name: Choicy-Whitelist
 
+Package: com.crctdd.choicy-whitelist
+Version: 1.5.4-8
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 700
+Depends: mobilesubstrate, com.opa334.altlist (>= 1.0.4), preferenceloader
+Conflicts: com.opa334.choicy, com.crctdd.choicy-patch
+Replaces: com.opa334.choicy, com.crctdd.choicy-patch
+Filename: ./debs/iphoneos-arm64e/com.crctdd.choicy-whitelist_1.5.4-8_iphoneos-arm64e.deb
+Size: 143960
+MD5sum: b177896b6b693adf1cc170402af3c62e
+SHA1: d9017a937bccc825a5f8895e5a2ce8bd5aa5def6
+SHA256: 16448f91cea64cefcdfda3f3dbee9714908c625587a404664f9a5bebd3b0190a
+Section: Tweaks
+Description: Choicy白名单 (支持iOS 15-17 roothide)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/choicy.png
+Name: Choicy-Whitelist
+
 Package: com.crctdd.filzarename
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -6420,12 +6439,12 @@ Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: ./debs/iphoneos-arm64e/com.dao.ccborder_1.2_iphoneos-arm64e.deb
-Size: 40068
-MD5sum: ec76b8ca96cae181751ae84c45ebc6e2
-SHA1: f28e8007caac7a973c145a77d675a4c6b63d4338
-SHA256: 4301a73c16b088fbe45d52873d82508d8ad1dc289c343a45cacaa8ab088032a1
-Section: Tweaks
+Filename: ./debs/iphoneos-arm64e/CCBorder16-1.2-iphoneos-arm64e.deb
+Size: 40052
+MD5sum: d8783d0568f37747ae9677feeaaaf069
+SHA1: 6b42983936f8cab1d971eb922caf16532d967e6c
+SHA256: 6748dd7c2d02083080aa58146bfd35d6aa1d8b3ba8a129c15f86e6a5d112f9fc
+Section: 插件
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
@@ -6438,12 +6457,12 @@ Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: ./debs/iphoneos-arm64e/CCBorder16-1.2-iphoneos-arm64e.deb
-Size: 40052
-MD5sum: d8783d0568f37747ae9677feeaaaf069
-SHA1: 6b42983936f8cab1d971eb922caf16532d967e6c
-SHA256: 6748dd7c2d02083080aa58146bfd35d6aa1d8b3ba8a129c15f86e6a5d112f9fc
-Section: 插件
+Filename: ./debs/iphoneos-arm64e/com.dao.ccborder_1.2_iphoneos-arm64e.deb
+Size: 40068
+MD5sum: ec76b8ca96cae181751ae84c45ebc6e2
+SHA1: f28e8007caac7a973c145a77d675a4c6b63d4338
+SHA256: 4301a73c16b088fbe45d52873d82508d8ad1dc289c343a45cacaa8ab088032a1
+Section: Tweaks
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
@@ -15534,6 +15553,40 @@ Size: 246356
 MD5sum: 11bce91b69cafe812c9ee3e249eab374
 SHA1: c76a54f7ed1a70e6ae50f1fb091dc580f37d46fc
 SHA256: dafb19a9d35fe121a5c31f4826630d3f49fc4b9d9ee4abcfbdc6a898fd061060
+Section: Tweaks
+Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn
+
+Package: com.sini921.cylinderreborn
+Version: 1.2.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1840
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.sini921.cylinderreborn_1.2.0-1_iphoneos-arm64e.deb
+Size: 337928
+MD5sum: fd78917beae7ea093ce04275dc4ab5c0
+SHA1: 9bffc2274fbec9cf89370c1b3faab5d1303b3d0e
+SHA256: 7c3fd59ab950c0ee9fc39f4cc636e42cab79217713fcbd636a53ba633353b290
+Section: Tweaks
+Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn
+
+Package: com.sini921.cylinderreborn
+Version: 1.2.0-1
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1860
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.sini921.cylinderreborn_1.2.0-1_iphoneos-arm64.deb
+Size: 339032
+MD5sum: a893612ac93ca88756ea78f0d3c84ed7
+SHA1: 9d573cc3b21460880e4b67d8033e8c77cc48eb9e
+SHA256: bcd35e5046493825f14295e43417c1df7ed3693195e01a96628525bd95f90128
 Section: Tweaks
 Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
 Author: Ryan Nair & SINI
