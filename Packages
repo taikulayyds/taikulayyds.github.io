@@ -19749,6 +19749,44 @@ Author: Thijs mussig, Banana
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/siri.png
 Name: LiquidSiri
 
+Package: iya.iapple.siri
+Version: 1.1.4
+Architecture: iphoneos-arm64e
+Maintainer: Thijs mussig
+Installed-Size: 2340
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourcompany.liquidsiri
+Replaces: com.yourcompany.liquidsiri
+Filename: ./debs/iphoneos-arm64e/iya.iapple.siri_1.1.4_iphoneos-arm64e.deb
+Size: 999324
+MD5sum: 034223df36a5137183bea75e01adb8fb
+SHA1: b40cc7058e2d7f0636ca590e3080f7cdb5121bfb
+SHA256: 76fed687cbb2eaad71f3673974129a83a582ab6f6d9342e8c82a8998a99f58dc
+Section: Tweaks
+Description: Customize Siri with NewSiri edge lighting or the SiriAI glass interface.
+Author: Thijs mussig, Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/siri.png
+Name: LiquidSiri
+
+Package: iya.iapple.siri
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: Thijs mussig
+Installed-Size: 2340
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourcompany.liquidsiri
+Replaces: com.yourcompany.liquidsiri
+Filename: ./debs/iphoneos-arm64/iya.iapple.siri_1.1.4_iphoneos-arm64.deb
+Size: 1002628
+MD5sum: 3314bc33f682f74a09dbb41e2d2a61f2
+SHA1: fbda16ce4afd08d472c18e63e30e7cb2e6c0f045
+SHA256: 8e8b4154a8251b8a40bc7f3380754eaeac616165894fa95551b7125da4d6cbb7
+Section: Tweaks
+Description: Customize Siri with NewSiri edge lighting or the SiriAI glass interface.
+Author: Thijs mussig, Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/siri.png
+Name: LiquidSiri
+
 Package: jp.akusio.milkyway2
 Version: 1.0
 Architecture: iphoneos-arm64e
