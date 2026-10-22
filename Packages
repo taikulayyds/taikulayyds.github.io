@@ -20656,6 +20656,44 @@ Author: Banana
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
 Name: Lunora
 
+Package: iya.banana.iphoneduoicon
+Version: 1.1.3-1
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 5240
+Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Suggests: iya.banana.audioservice (>= 1.0.4)
+Conflicts: com.82flex.singlevpn
+Filename: ./debs/iphoneos-arm64e/iya.banana.iphoneduoicon_1.1.3-1_iphoneos-arm64e.deb
+Size: 939248
+MD5sum: e01a850fde7a9291227d24a98d6f5932
+SHA1: 43919286ee674850df9c31d915ee786d790423e3
+SHA256: 6d780634126cfa9f601855c128fd7da0151c2d59e4d444379abdd073e5730c38
+Section: Tweaks
+Description: Customizable glass status bar capsules with weather, media, notifications and mini Dock.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
+Name: Lunora
+
+Package: iya.banana.iphoneduoicon
+Version: 1.1.3-1
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 5240
+Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Suggests: iya.banana.audioservice (>= 1.0.4)
+Conflicts: com.82flex.singlevpn
+Filename: ./debs/iphoneos-arm64/iya.banana.iphoneduoicon_1.1.3-1_iphoneos-arm64.deb
+Size: 941208
+MD5sum: 38bd91ca6d6a45a671c235ae1c28aff6
+SHA1: b70759f9556dbe37342a0b91fecf60ae09d0492f
+SHA256: 44f623f98f2ac1b886d39a385c80106fc93a231e8329062c8fd13e0ccdf30e5c
+Section: Tweaks
+Description: Customizable glass status bar capsules with weather, media, notifications and mini Dock.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
+Name: Lunora
+
 Package: iya.iapple.siri
 Version: 1.1.3
 Architecture: iphoneos-arm64e
