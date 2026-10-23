@@ -21095,6 +21095,42 @@ Author: Junhong
 Icon: https://huayuarc.github.io/icon/fakeperm.png
 Name: 虚拟权限 · Fake Permission
 
+Package: iya.banana.duoicon
+Version: 0.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 1636
+Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.singlevpn
+Filename: ./debs/iphoneos-arm64e/iya.banana.duoicon_0.1.2_iphoneos-arm64e.deb
+Size: 280476
+MD5sum: aa4a1848de0d838d191f900027c976a4
+SHA1: 86a652f545b23791a597cb4ba708399402c04600
+SHA256: 5cfab354b93408c2c9033e8b4e302f7221171581d1c7cb95f6f07385974c41f8
+Section: Tweaks
+Description: Right-side Orbit and Capsule status icons with native reveal animations.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
+Name: Lunora DuoIcon
+
+Package: iya.banana.duoicon
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 1636
+Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.singlevpn
+Filename: ./debs/iphoneos-arm64/iya.banana.duoicon_0.1.2_iphoneos-arm64.deb
+Size: 281752
+MD5sum: a4a518968e5f16417ac751ace162d125
+SHA1: cd1c37d0901d1ac5ccaa8cc6bbee3123b3b7360e
+SHA256: f4d67385b3f290fccd739c746896a78d050add0cb8cb96be04c253ffb0d4ddb0
+Section: Tweaks
+Description: Right-side Orbit and Capsule status icons with native reveal animations.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
+Name: Lunora DuoIcon
+
 Package: iya.banana.iphoneduoicon
 Version: 1.1.0
 Architecture: iphoneos-arm64e
