@@ -12713,13 +12713,14 @@ Version: 1.3.3
 Architecture: iphoneos-arm64e
 Maintainer: pixelomer
 Installed-Size: 4932
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Recommends: libarchive13 (>= 3.7.2), com.opa334.altlist (>= 1.0.10)
 Filename: ./debs/iphoneos-arm64e/com.pixelomer.shijima-ios_1.3.3_iphoneos-arm64e.deb
-Size: 988048
-MD5sum: 742cc1ba3aa99f4071892b53914025b4
-SHA1: 8143a81845a544264d90fa3202a60ce6f205c73b
-SHA256: f8064597b33c3f7c62ea84a73cf8a31d7f05f2efc75143d198725859afa2a728
+Size: 967364
+MD5sum: 266d485853525f25ac1a457cb4518957
+SHA1: 1b68f72a76b3d07cc0d5500ed6d93e1e479801d0
+SHA256: 8b452c4f9939cdb19a8553319a7f6c2eb2839562ba7407cbd649f926fdd16499
 Section: Tweaks
 Description: A shimeji simulator for iOS.一款桌面宠物插件，插件下载后在桌面，不在设置里。之前付费，现在免费下载，可以自定义宠物，还不错！暂无汉化，自行研究一下怎么使用。
 Author: pixelomer
