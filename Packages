@@ -8302,6 +8302,152 @@ Author: EllaSP
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/looky.png
 Name: Looky
 
+Package: com.evgeniy558.controlcenter18
+Version: 3.0-beta
+Architecture: iphoneos-arm64e
+Maintainer: evgeniy558
+Installed-Size: 22808
+Depends: mobilesubstrate, firmware (>= 16.0), firmware (<< 18.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.evgeniy558.controlcenter18_3.0-beta_iphoneos-arm64e.deb
+Size: 6117720
+MD5sum: 5bb9e9cd6b34a9fa0837a897dd5bc97b
+SHA1: f3bba6032ecfdbcb1cb6333e21d53eff2a0c028c
+SHA256: dc20f8227694cb6a6710c4896467b4f9de093c28925bf8bd4b4833ce977c8b50
+Section: Tweaks
+Description: The full iOS 18 Control Center for iOS 16 and 17 (iPhone only).
+ ControlCenter18 brings the full iOS 18 Control Center to iOS 16 and 17. It's not a theme or a reskin: modules, pages and gestures work the same way they do on iOS 18.
+ .
+ iPhone only. iPad is not supported.
+ .
+ Pages and Customizable Modules
+ Control Center is no longer limited to a single page. Add as many pages as you like and move between them with a swipe or with the indicator on the side. Every module is customizable: change the size of any module to 1×1, 1×2 or 2×2. Some modules, such as the player, can be resized even more flexibly.
+ .
+ Editing Right in Control Center
+ Tap "+" in the top-left corner of the screen or press and hold an empty spot to enter edit mode. Move modules or remove the ones you don't need right in Control Center, with no need to open Settings.
+ .
+ Connectivity Module
+ Wi-Fi, Bluetooth, AirDrop, Cellular Data, Personal Hotspot, VPN and Airplane Mode are all together in the new Connectivity module. Open the module to see all of its buttons as a list.
+ .
+ Player
+ The player module now shows the album artwork, with a soft glow around it that matches the colors of the song that's playing, just like on iOS 18.
+ .
+ Everything Else
+ Focus, Flashlight, Timer, Calculator, Camera, Code Scanner, Silent Mode, Hearing and other system modules are redrawn in the iOS 18 style. Shortcut and Open App controls are included too, and Settings › Control Center looks like it does on iOS 18, including "Reset Control Center".
+ .
+ Settings
+ You'll find the tweak in Settings › ControlCenter18. It's turned off after installation, so turn it on and respring. There you can also save your layout as a preset to import later, and if SpringBoard ever crashes, send us the crash log in one tap (logs are kept for 3 days).
+ .
+ Before You Start
+ Turn off other tweaks that change Control Center: themes, module styles and custom layouts. ControlCenter18 draws the whole Control Center itself, so they will conflict.
+ .
+ This is a beta. If something doesn't work, send us the crash log from the settings and we'll fix it.
+ .
+ ControlCenter18 переносит полноценный пункт управления из iOS 18 на iOS 16 и 17. Это не тема и не перерисовка: модули, страницы и жесты работают так же, как на iOS 18.
+ .
+ Только iPhone. iPad не поддерживается.
+ .
+ Страницы и настраиваемые модули
+ Пункт управления больше не ограничен одной страницей. Добавляйте сколько угодно страниц и удобно переключайтесь между ними свайпами или с помощью индикатора сбоку. Каждый модуль настраивается: у любого модуля можно изменить размер на 1×1, 1×2 или 2×2. А у некоторых модулей, например у плеера, размер настраивается ещё гибче.
+ .
+ Редактирование прямо в шторке
+ Нажмите «+» в левом верхнем углу экрана или зажмите свободное место, чтобы войти в режим редактирования. Перемещайте модули и убирайте ненужные прямо в пункте управления — заходить для этого в настройки не нужно.
+ .
+ Модуль связи
+ Wi-Fi, Bluetooth, AirDrop, сотовые данные, режим модема, VPN и авиарежим собраны в новом модуле связи. Откройте модуль, чтобы увидеть все его кнопки в виде списка.
+ .
+ Плеер
+ Модуль плеера теперь показывает обложку, а вокруг неё — лёгкое свечение в цвет проигрываемой песни, точно так же, как на iOS 18.
+ .
+ Всё остальное
+ Фокусирование, фонарик, таймер, калькулятор, камера, сканер кода, бесшумный режим, слух и другие системные модули перерисованы в стиле iOS 18. Есть и элементы управления «Быстрая команда» и «Открыть приложение», а раздел «Настройки» › «Пункт управления» выглядит так же, как в iOS 18, вместе с кнопкой «Сбросить пункт управления».
+ .
+ Настройки
+ Твик находится в разделе «Настройки» › «ControlCenter18». После установки он выключен — включите его и сделайте респринг. Там же можно сохранить пресет, импортировать, а ещё отправить нам крашлог.
+ .
+ Перед началом
+ Отключите другие твики, которые меняют пункт управления: темы, стили модулей и собственные раскладки. ControlCenter18 сам рисует весь пункт управления, поэтому они будут конфликтовать.
+ .
+ Это бета-версия. Если что-то не работает, отправьте нам крашлог из настроек, и мы всё исправим.
+ .
+ .
+ Repo: https://repo.ya-ebal.mom
+Author: evgeniy558
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/controlcenter18.png
+Name: ControlCenter18
+
+Package: com.evgeniy558.controlcenter18
+Version: 3.0-beta
+Architecture: iphoneos-arm64
+Maintainer: evgeniy558
+Installed-Size: 22808
+Depends: mobilesubstrate, firmware (>= 16.0), firmware (<< 18.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.evgeniy558.controlcenter18_3.0-beta_iphoneos-arm64.deb
+Size: 6119108
+MD5sum: fa59997997b2a04c88a5cda8bb35b2cb
+SHA1: 86ec643940825cc3b33c3cf56bb288317a05d5cc
+SHA256: 8fe1a33386975e93ec75ba4470def18f29e1e7729a58176b2a3eed4f6f96fdbe
+Section: Tweaks
+Description: The full iOS 18 Control Center for iOS 16 and 17 (iPhone only).
+ ControlCenter18 brings the full iOS 18 Control Center to iOS 16 and 17. It's not a theme or a reskin: modules, pages and gestures work the same way they do on iOS 18.
+ .
+ iPhone only. iPad is not supported.
+ .
+ Pages and Customizable Modules
+ Control Center is no longer limited to a single page. Add as many pages as you like and move between them with a swipe or with the indicator on the side. Every module is customizable: change the size of any module to 1×1, 1×2 or 2×2. Some modules, such as the player, can be resized even more flexibly.
+ .
+ Editing Right in Control Center
+ Tap "+" in the top-left corner of the screen or press and hold an empty spot to enter edit mode. Move modules or remove the ones you don't need right in Control Center, with no need to open Settings.
+ .
+ Connectivity Module
+ Wi-Fi, Bluetooth, AirDrop, Cellular Data, Personal Hotspot, VPN and Airplane Mode are all together in the new Connectivity module. Open the module to see all of its buttons as a list.
+ .
+ Player
+ The player module now shows the album artwork, with a soft glow around it that matches the colors of the song that's playing, just like on iOS 18.
+ .
+ Everything Else
+ Focus, Flashlight, Timer, Calculator, Camera, Code Scanner, Silent Mode, Hearing and other system modules are redrawn in the iOS 18 style. Shortcut and Open App controls are included too, and Settings › Control Center looks like it does on iOS 18, including "Reset Control Center".
+ .
+ Settings
+ You'll find the tweak in Settings › ControlCenter18. It's turned off after installation, so turn it on and respring. There you can also save your layout as a preset to import later, and if SpringBoard ever crashes, send us the crash log in one tap (logs are kept for 3 days).
+ .
+ Before You Start
+ Turn off other tweaks that change Control Center: themes, module styles and custom layouts. ControlCenter18 draws the whole Control Center itself, so they will conflict.
+ .
+ This is a beta. If something doesn't work, send us the crash log from the settings and we'll fix it.
+ .
+ ControlCenter18 переносит полноценный пункт управления из iOS 18 на iOS 16 и 17. Это не тема и не перерисовка: модули, страницы и жесты работают так же, как на iOS 18.
+ .
+ Только iPhone. iPad не поддерживается.
+ .
+ Страницы и настраиваемые модули
+ Пункт управления больше не ограничен одной страницей. Добавляйте сколько угодно страниц и удобно переключайтесь между ними свайпами или с помощью индикатора сбоку. Каждый модуль настраивается: у любого модуля можно изменить размер на 1×1, 1×2 или 2×2. А у некоторых модулей, например у плеера, размер настраивается ещё гибче.
+ .
+ Редактирование прямо в шторке
+ Нажмите «+» в левом верхнем углу экрана или зажмите свободное место, чтобы войти в режим редактирования. Перемещайте модули и убирайте ненужные прямо в пункте управления — заходить для этого в настройки не нужно.
+ .
+ Модуль связи
+ Wi-Fi, Bluetooth, AirDrop, сотовые данные, режим модема, VPN и авиарежим собраны в новом модуле связи. Откройте модуль, чтобы увидеть все его кнопки в виде списка.
+ .
+ Плеер
+ Модуль плеера теперь показывает обложку, а вокруг неё — лёгкое свечение в цвет проигрываемой песни, точно так же, как на iOS 18.
+ .
+ Всё остальное
+ Фокусирование, фонарик, таймер, калькулятор, камера, сканер кода, бесшумный режим, слух и другие системные модули перерисованы в стиле iOS 18. Есть и элементы управления «Быстрая команда» и «Открыть приложение», а раздел «Настройки» › «Пункт управления» выглядит так же, как в iOS 18, вместе с кнопкой «Сбросить пункт управления».
+ .
+ Настройки
+ Твик находится в разделе «Настройки» › «ControlCenter18». После установки он выключен — включите его и сделайте респринг. Там же можно сохранить пресет, импортировать, а ещё отправить нам крашлог.
+ .
+ Перед началом
+ Отключите другие твики, которые меняют пункт управления: темы, стили модулей и собственные раскладки. ControlCenter18 сам рисует весь пункт управления, поэтому они будут конфликтовать.
+ .
+ Это бета-версия. Если что-то не работает, отправьте нам крашлог из настроек, и мы всё исправим.
+ .
+ .
+ Repo: https://repo.ya-ebal.mom
+Author: evgeniy558
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/controlcenter18.png
+Name: ControlCenter18
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64e
@@ -14017,14 +14163,14 @@ Package: com.sanderzen.novaunlock
 Version: 1.2.3
 Architecture: iphoneos-arm64e
 Maintainer: CyPwn
-Depends: mobilesubstrate, firmware (>= 17.0), preferenceloader
+Depends: mobilesubstrate, firmware (>= 16.0), preferenceloader
 Conflicts: com.sanderzen.unlock26
 Replaces: com.sanderzen.unlock26
 Filename: ./debs/iphoneos-arm64e/com.sanderzen.novaunlock_1.2.3_iphoneos-arm64e.deb
-Size: 226232
-MD5sum: 393adfe5fbbd932336abc0539ed4c15d
-SHA1: 7cf7da6965d8e14882d1ba484606cc055cd5dff2
-SHA256: 4d45ffd20ba5db8d55ad4d0073fc5887859b3d45867b28ff357220f768754b55
+Size: 226200
+MD5sum: 47398cdf11904815d3a0e3fd970b0363
+SHA1: 9b1692bb4b214cdc10516d3f7653cf2e48de04b6
+SHA256: 5c5669bfa5e077441e29fe32af80e524b2740bf329addf7437091f9efa2bd36a
 Section: Tweaks
 Description: iOS 26 style unlock and lock animations for iOS 16 and 17. iOS16和17的iOS26风格解锁和锁定动画。
 Author: Sanderzen
@@ -14035,14 +14181,14 @@ Package: com.sanderzen.novaunlock
 Version: 1.2.3
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
-Depends: mobilesubstrate, firmware (>= 17.0), preferenceloader
+Depends: mobilesubstrate, firmware (>= 16.0), preferenceloader
 Conflicts: com.sanderzen.unlock26
 Replaces: com.sanderzen.unlock26
 Filename: ./debs/iphoneos-arm64/com.sanderzen.novaunlock_1.2.3_iphoneos-arm64.deb
-Size: 226196
-MD5sum: bd1122253b38d006eb0f46f7ff3abdbc
-SHA1: 77cfb1fe90033a2d8dc7b870dea27cf9b349ae23
-SHA256: 8ffb0d70eb1da21740e1cb23927ddbe48db080c7e67036b2f2ce38b126947147
+Size: 226248
+MD5sum: 5a30d94c657c9f1009dceca747ff1ebe
+SHA1: 60debe4c83921300a78bc7f2b593ad4b806e74ed
+SHA256: d043984a5a0b491e5f345422d8c8a4f3b3452af0f32563dbfb2246739aa2faf2
 Section: Tweaks
 Description: iOS 26 style unlock and lock animations for iOS 16 and 17. iOS16和17的iOS26风格解锁和锁定动画。
 Author: Sanderzen
@@ -22065,14 +22211,14 @@ Package: xyz.cypwn.novaunlock
 Version: 1.2.3
 Architecture: iphoneos-arm64e
 Maintainer: CyPwn
-Depends: mobilesubstrate, firmware (>= 17.0), preferenceloader
+Depends: mobilesubstrate, firmware (>= 16.0), preferenceloader
 Conflicts: com.sanderzen.unlock26
 Replaces: com.sanderzen.unlock26
 Filename: ./debs/iphoneos-arm64e/xyz.cypwn.novaunlock_1.2.3_iphoneos-arm64e.deb
-Size: 226220
-MD5sum: 7536120e75896f8b86370de79b89ae6a
-SHA1: 29678634f8f8191b8f02fd48c733db3582749919
-SHA256: 2020fb2c202e5473d81db677a94c7ad65993bd98a9b1b8142a921f0cd13fdf61
+Size: 226192
+MD5sum: 967e43411ff15f2cdb9c4b4dff390fa2
+SHA1: 0c85e2e5191ae83e0050afc2ac0c18a9569eacf1
+SHA256: 4d21b5fa6bb917d6213fa25ce6b38da3b849654263bd5b4f80916670e25eab51
 Section: Tweaks
 Description: iOS 26 style unlock and lock animations for iOS 16 and 17. iOS16和17的iOS26风格解锁和锁定动画。
 Author: Sanderzen
@@ -22083,14 +22229,14 @@ Package: xyz.cypwn.novaunlock
 Version: 1.2.3
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
-Depends: mobilesubstrate, firmware (>= 17.0), preferenceloader
+Depends: mobilesubstrate, firmware (>= 16.0), preferenceloader
 Conflicts: com.sanderzen.unlock26
 Replaces: com.sanderzen.unlock26
 Filename: ./debs/iphoneos-arm64/xyz.cypwn.novaunlock_1.2.3_iphoneos-arm64.deb
-Size: 226188
-MD5sum: 74d47b9230aa2962f9e7626771e7d751
-SHA1: a46b643160c90c099e2ba42f34c1cedeb7589310
-SHA256: 84d856c27d5333515e0205b23a69d393a0682b2446247cc259d18b060a1cf7c5
+Size: 226200
+MD5sum: 01f6556447806ef5e6f11e0b5c58aea0
+SHA1: 528ac60df17d94b45f959dc408cfbcb8c19395cc
+SHA256: c1bd5e8cd4763976f7aae10e2ad38e8f2fecd6e6dd3a3850f8897d69754ebe98
 Section: Tweaks
 Description: iOS 26 style unlock and lock animations for iOS 16 and 17. iOS16和17的iOS26风格解锁和锁定动画。
 Author: Sanderzen
