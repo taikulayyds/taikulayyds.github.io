@@ -14013,6 +14013,42 @@ Name: Cylinder Remade
 Sileodepiction: https://ryannair05.github.io/repo//depiction/native/com.ryannair05.cylinderremade.json
 Tags: compatible_min::ios14.0, compatible_max::ios18.5
 
+Package: com.sanderzen.novaunlock
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Depends: mobilesubstrate, firmware (>= 17.0), preferenceloader
+Conflicts: com.sanderzen.unlock26
+Replaces: com.sanderzen.unlock26
+Filename: ./debs/iphoneos-arm64e/com.sanderzen.novaunlock_1.2.3_iphoneos-arm64e.deb
+Size: 226232
+MD5sum: 393adfe5fbbd932336abc0539ed4c15d
+SHA1: 7cf7da6965d8e14882d1ba484606cc055cd5dff2
+SHA256: 4d45ffd20ba5db8d55ad4d0073fc5887859b3d45867b28ff357220f768754b55
+Section: Tweaks
+Description: iOS 26 style unlock and lock animations for iOS 16 and 17. iOS16和17的iOS26风格解锁和锁定动画。
+Author: Sanderzen
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/novaunlock.png
+Name: NovaUnlock
+
+Package: com.sanderzen.novaunlock
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, firmware (>= 17.0), preferenceloader
+Conflicts: com.sanderzen.unlock26
+Replaces: com.sanderzen.unlock26
+Filename: ./debs/iphoneos-arm64/com.sanderzen.novaunlock_1.2.3_iphoneos-arm64.deb
+Size: 226196
+MD5sum: bd1122253b38d006eb0f46f7ff3abdbc
+SHA1: 77cfb1fe90033a2d8dc7b870dea27cf9b349ae23
+SHA256: 8ffb0d70eb1da21740e1cb23927ddbe48db080c7e67036b2f2ce38b126947147
+Section: Tweaks
+Description: iOS 26 style unlock and lock animations for iOS 16 and 17. iOS16和17的iOS26风格解锁和锁定动画。
+Author: Sanderzen
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/novaunlock.png
+Name: NovaUnlock
+
 Package: com.sbcpu.floating
 Version: 3.0
 Architecture: iphoneos-arm64e
