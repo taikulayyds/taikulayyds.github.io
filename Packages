@@ -7993,6 +7993,40 @@ Author: MrDeNsor
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/locktouchx.png
 Name: LockTouchX
 
+Package: com.doimty.fiona
+Version: 0.3
+Architecture: iphoneos-arm64e
+Maintainer: doimty
+Installed-Size: 304
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.doimty.fiona_0.3_iphoneos-arm64e.deb
+Size: 5032
+MD5sum: 0abe25c678a2c97664296cc801bab159
+SHA1: d110115cb644c2ffbf94a06dd7c4a1475da14a16
+SHA256: 81d76cb8f5056cec45f473ee278c9bbe2369fa3029978edd2a10338cb47ed1d0
+Section: Tweaks
+Description: 锁屏时保持 WiFi 连接；热点无客户端时不自动关闭。无开关，安装即生效；
+Author: doimty
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/fiona.png
+Name: Fiona
+
+Package: com.doimty.fiona
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 304
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.doimty.fiona_0.3_iphoneos-arm64.deb
+Size: 5080
+MD5sum: 24efac88ec9d311a0ee3d64c1277bbf9
+SHA1: cd87ef270f61a8ee96ce43451372e517626eb0ff
+SHA256: 6c0f1c9687044278b1668adf7849f134dfbd1c34ed0704d39fab1fe31cea12a1
+Section: Tweaks
+Description: 锁屏时保持 WiFi 连接；热点无客户端时不自动关闭。无开关，安装即生效；
+Author: doimty
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/fiona.png
+Name: Fiona
+
 Package: com.dopamine.swapforcer
 Version: 0.0.2-7+debug
 Architecture: iphoneos-arm64e
