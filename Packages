@@ -10969,6 +10969,42 @@ Author: mlgm
 Icon: https://mlgm66.github.io/icon/actra.png
 Name: Actra
 
+Package: com.mlgm.actra
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 4076
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64e/com.mlgm.actra_1.3_iphoneos-arm64e.deb
+Size: 812914
+MD5sum: a0aa2b9a93a3dd7698256f8149807dbc
+SHA1: 79c329f7a333a488f9b341824b084726fda87ce8
+SHA256: 643d91f4ec44233f0a88975390b4d3d0f186a8ec2cf44cca601d58c4318f0a6f
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
+Package: com.mlgm.actra
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 4072
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64/com.mlgm.actra_1.3_iphoneos-arm64.deb
+Size: 815142
+MD5sum: b73dc8ddc4b2d9b54c9eadb92f5bb351
+SHA1: 2c28c635a8189effa51378802174f2e793d817f8
+SHA256: 843996e623a7996cdfb16822466d4bc414bc6785450579ccb88a00c7c718d6f7
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
 Package: com.mlgm.idata
 Version: 1.3
 Architecture: iphoneos-arm64e
@@ -10998,6 +11034,40 @@ MD5sum: 91e0aa253019b316c8ec161c643f58a8
 SHA1: b37cf8bdd9cd8937750786584f8fa0923da73d8f
 SHA256: 5aa67f6c9d2f24a41da6c181e6d339724dec30eccb5010cf4ffd4b469d626ca8
 Section: Tweaks
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.3.2
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 8248
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/iphoneos-arm64e/com.mlgm.idata_1.3.2_iphoneos-arm64e.deb
+Size: 2463822
+MD5sum: f4f87ace53b6580d72230c562bb0ba48
+SHA1: 8b64f7fd3fef25f8ef3cec9e97052c83e84b3340
+SHA256: b030e09fe0efac19b0bee15776a0edf53f802b108e00f5314959d91ab8484316
+Section: Applications
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 8248
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/iphoneos-arm64/com.mlgm.idata_1.3.2_iphoneos-arm64.deb
+Size: 2463428
+MD5sum: 69753efbdde28136099de80c79a1fb2f
+SHA1: aceafa0ca941773a976f6c7d724650229d22a865
+SHA256: 4b20303b43245d72bc70bd8eba8a4f8abc8609100772d0085614601066366fdd
+Section: Applications
 Description: 应用、插件数据管理工具，一键备份/恢复
 Author: mlgm
 Icon: https://mlgm66.github.io/icon/idata.png
@@ -11065,6 +11135,40 @@ Size: 169092
 MD5sum: 977356c9905082a3349f5f99f58f87a2
 SHA1: 4644769e16d93abf6223b0ac8a0a85e3b61e7780
 SHA256: 41fe7039342bbb96cd198aa1f21a861e3367bf0256c57ca9da6bbcf25915b0ae
+Section: Tweaks
+Description: 整理设置首页，集中收纳越狱插件。
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/prefnest.png
+Name: PrefNest
+
+Package: com.mlgm.prefnest
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 888
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.mlgm.prefnest_1.2.2_iphoneos-arm64e.deb
+Size: 170984
+MD5sum: 13e91aecebcc882266eec11934ccf57c
+SHA1: 661b77ce582d3c83112819601c111882aa2f5eac
+SHA256: c63f49cfc92763cb30458cc11c6d7c251276dc11764b1b7da16113efef45f491
+Section: Tweaks
+Description: 整理设置首页，集中收纳越狱插件。
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/prefnest.png
+Name: PrefNest
+
+Package: com.mlgm.prefnest
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 888
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.mlgm.prefnest_1.2.2_iphoneos-arm64.deb
+Size: 172652
+MD5sum: e5f3459eb054352fcf3f1a8569b1e7dd
+SHA1: a0a562564670ced2a00fa6882df3a0b6cfef5ef5
+SHA256: 5f074e8c2dd3fa5ec4e95255c2314144a69553e6274ac4eb93bab43eb7c60111
 Section: Tweaks
 Description: 整理设置首页，集中收纳越狱插件。
 Author: mlgm
