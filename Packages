@@ -11005,6 +11005,42 @@ Author: mlgm
 Icon: https://mlgm66.github.io/icon/actra.png
 Name: Actra
 
+Package: com.mlgm.actra
+Version: 1.3.1
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 4080
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64e/com.mlgm.actra_1.3.1_iphoneos-arm64e.deb
+Size: 813664
+MD5sum: 1d7dfe8daae9e1b7d0a343bd0092e1c1
+SHA1: 6795a8e3bdd4a2ae81f481b9d41ec5fee6db19e0
+SHA256: 0d238d40b6d6706dc9a0622953be4b14e16dc78829ee3b822e93390a65598382
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
+Package: com.mlgm.actra
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 4076
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64/com.mlgm.actra_1.3.1_iphoneos-arm64.deb
+Size: 813346
+MD5sum: b1b981872e2857dade9a3b9b12ce0d04
+SHA1: 9927938e9dae35482bcfaee3f6aed613203e70fa
+SHA256: b10f0f9bdb05faddebc660d8c191ef8f1296da22dc05a2ad986fa00e72833187
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
 Package: com.mlgm.idata
 Version: 1.3
 Architecture: iphoneos-arm64e
@@ -11067,6 +11103,40 @@ Size: 2463428
 MD5sum: 69753efbdde28136099de80c79a1fb2f
 SHA1: aceafa0ca941773a976f6c7d724650229d22a865
 SHA256: 4b20303b43245d72bc70bd8eba8a4f8abc8609100772d0085614601066366fdd
+Section: Applications
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.3.3
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 8432
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/iphoneos-arm64e/com.mlgm.idata_1.3.3_iphoneos-arm64e.deb
+Size: 2509550
+MD5sum: a7bf65ced70d1d4f9da00b90194e365a
+SHA1: 09cade82e2d168ba6fac796877bcdc566ffb020e
+SHA256: 6ffe82e80d92e2b29fb292a8456597ac9ce78077ab90f72dd51752af266bc42a
+Section: Applications
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.3.3
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 8432
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/iphoneos-arm64/com.mlgm.idata_1.3.3_iphoneos-arm64.deb
+Size: 2507636
+MD5sum: 0e1deee59acec711a0d58c9d2173a1d3
+SHA1: d8ecc53a753e71145dd81b890da501b8bb9bf1e4
+SHA256: a056a99c566e1a02a59a48a5e7687bc066b4be8f28b33aa844f432ed41563b4d
 Section: Applications
 Description: 应用、插件数据管理工具，一键备份/恢复
 Author: mlgm
