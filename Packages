@@ -11455,6 +11455,40 @@ Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
 Name: AI 日志分析
 
+Package: com.mowang.crashanalyzer
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Maintainer: MoWang
+Installed-Size: 292
+Depends: preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.mowang.crashanalyzer_1.4.1_iphoneos-arm64e.deb
+Size: 91612
+MD5sum: 24e41e3515d1a5b3a5cee4a24727d3c4
+SHA1: 2e19d5cf7420322e59d7ad1f48ffa85c23d5558e
+SHA256: abbf10266a8e928362905bf191671a6924d6fce69d6d95d9a5298d2ce07f11ed
+Section: Utilities
+Description: iOS IPS 日志搜索、进程分组与证据分析（1.4.0 体验版）
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
+Name: AI 日志分析
+
+Package: com.mowang.crashanalyzer
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: MoWang
+Installed-Size: 292
+Depends: preferenceloader
+Filename: ./debs/iphoneos-arm64/com.mowang.crashanalyzer_1.4.1_iphoneos-arm64.deb
+Size: 91660
+MD5sum: b28ea0d18293df99aa04f7709670d8ea
+SHA1: 04ec78f79ab7d8aa982218d5eecaf055f9aada58
+SHA256: cc96c18f0dbc997426fff72c7533c00f424ff62549a45fd83ce7adf91c7ef542
+Section: Utilities
+Description: iOS IPS 日志搜索、进程分组与证据分析（1.4.0 体验版）
+Author: MoWang
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
+Name: AI 日志分析
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm64e
