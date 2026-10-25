@@ -11107,6 +11107,46 @@ Author: mlgm
 Icon: https://mlgm66.github.io/icon/ilog.png
 Name: iLog
 
+Package: com.mlgm.kayoko
+Version: 5.0.3
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3500
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64e/com.mlgm.kayoko_5.0.3_iphoneos-arm64e.deb
+Size: 746610
+MD5sum: 1d968bb89298e4a58a1bdcaa6528f87b
+SHA1: 590f4ba85a389eee74cf07afe40f5303ab1754f7
+SHA256: 0b693c5d4513ee3d36de04fe87fba2bb56366d1be329ad45123a34e06a598e63
+Section: Tweaks
+Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/kayoko.png
+Name: Kayoko
+Sileodepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
+
+Package: com.mlgm.kayoko
+Version: 5.0.3
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 3532
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64/com.mlgm.kayoko_5.0.3_iphoneos-arm64.deb
+Size: 752392
+MD5sum: c5b9f7f2a28ac123d8da8a1ff6064c74
+SHA1: 05eae8ccc25097fd27bd13d21208ed86ae4424c3
+SHA256: 869f80de553edfa62879f5ef67c3162bf110906ce82f23658e29a77763c545b6
+Section: Tweaks
+Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/kayoko.png
+Name: Kayoko
+Sileodepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
+
 Package: com.mlgm.prefnest
 Version: 1.2
 Architecture: iphoneos-arm64e
