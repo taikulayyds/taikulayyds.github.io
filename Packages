@@ -11143,6 +11143,40 @@ Author: mlgm
 Icon: https://mlgm66.github.io/icon/idata.png
 Name: iData
 
+Package: com.mlgm.idata
+Version: 1.3.4
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 8532
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/iphoneos-arm64e/com.mlgm.idata_1.3.4_iphoneos-arm64e.deb
+Size: 2530848
+MD5sum: b813994e78fae46ddee0b1ff78064ce8
+SHA1: 0d836b4566bf0c783cda7ba35e8b34f8237cd9ff
+SHA256: 6b9c4809c88a81f43b85b5d1a545c8f264d4003bf8956fd38038cd2b151056d3
+Section: Tweaks
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.3.4
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 8532
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/iphoneos-arm64/com.mlgm.idata_1.3.4_iphoneos-arm64.deb
+Size: 2531856
+MD5sum: fc910baa5188efe3f0208f19c6c0bbd1
+SHA1: 654dd2af2b1f6d021ef7f1d913b87ce57e9e05fd
+SHA256: f65dd742a24c23bfaf92676ef6ef8e811c8b0427e2bc719149e0ae11d0c95fe9
+Section: Tweaks
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
 Package: com.mlgm.ilog
 Version: 1.3
 Architecture: iphoneos-arm64e
@@ -21908,6 +21942,44 @@ Size: 972792
 MD5sum: e82b98edc8af77b0c2f82168de099514
 SHA1: 542a09228d17b1c45c44c6c72a4eea60561ef9f7
 SHA256: 003040283f7cc93dd076e1725ab3fcd4794d762548b6f9557c9c33deec383614
+Section: Tweaks
+Description: Customizable glass status bar capsules with weather, media, notifications and mini Dock.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
+Name: Lunora
+
+Package: iya.banana.iphoneduoicon
+Version: 1.1.5
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 5428
+Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Suggests: iya.banana.audioservice (>= 1.0.4)
+Conflicts: com.82flex.singlevpn
+Filename: ./debs/iphoneos-arm64e/iya.banana.iphoneduoicon_1.1.5_iphoneos-arm64e.deb
+Size: 992712
+MD5sum: bbd7e35cf297d01162fc6809b88b1a3b
+SHA1: 5fc32d267b2c9a5a87c811182e804c60f2568813
+SHA256: 2b7b4974ef4905f6e69a1a095a92dcc5d6fb157ae2f375bb7d9460fa53b49c34
+Section: Tweaks
+Description: Customizable glass status bar capsules with weather, media, notifications and mini Dock.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
+Name: Lunora
+
+Package: iya.banana.iphoneduoicon
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 5428
+Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Suggests: iya.banana.audioservice (>= 1.0.4)
+Conflicts: com.82flex.singlevpn
+Filename: ./debs/iphoneos-arm64/iya.banana.iphoneduoicon_1.1.5_iphoneos-arm64.deb
+Size: 990604
+MD5sum: ec8af28e0705807d64cf1897b7b8cebb
+SHA1: 0baf859b47deb0c5306fdb86cbe0a311e2f7ecee
+SHA256: aebfc614fb0dad4479c2f728ca7ea66fea311ef9d21687e4370ae9d25e153eda
 Section: Tweaks
 Description: Customizable glass status bar capsules with weather, media, notifications and mini Dock.
 Author: Banana
