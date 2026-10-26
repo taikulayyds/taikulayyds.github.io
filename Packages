@@ -21800,6 +21800,42 @@ Author: Banana
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
 Name: Lunora DuoIcon
 
+Package: iya.banana.duoicon
+Version: 0.1.6
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 1692
+Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.singlevpn
+Filename: ./debs/iphoneos-arm64e/iya.banana.duoicon_0.1.6_iphoneos-arm64e.deb
+Size: 291272
+MD5sum: e73aa38754f61dbfebe27344afae02c6
+SHA1: 7fcb2c2ac1c0e5883ed98738c73f3ff3924931b7
+SHA256: 2108f28c4c663c12cda2c38b8469555fd5c117ac4418f8e298c9a62658db885f
+Section: Tweaks
+Description: Right-side Orbit and Capsule status icons with native reveal animations.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
+Name: Lunora DuoIcon
+
+Package: iya.banana.duoicon
+Version: 0.1.6
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 1692
+Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.singlevpn
+Filename: ./debs/iphoneos-arm64/iya.banana.duoicon_0.1.6_iphoneos-arm64.deb
+Size: 291808
+MD5sum: cf3b35aa2b6f350296b48c739e23b417
+SHA1: 394555b6a4f9de5fb978c38d6a84b5c05360e8db
+SHA256: 49c73eebac28454a4a98962bf937421106eba39f22b350cb2de289ac59693b95
+Section: Tweaks
+Description: Right-side Orbit and Capsule status icons with native reveal animations.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
+Name: Lunora DuoIcon
+
 Package: iya.banana.iphoneduoflow
 Version: 0.1.5
 Architecture: iphoneos-arm64e
