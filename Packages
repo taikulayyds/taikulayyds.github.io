@@ -6754,6 +6754,44 @@ Author: 7513
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/7513.png
 Name: 熄屏幻术
 
+Package: com.cracklock.7513
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 7513
+Installed-Size: 1852
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Replaces: com.cracklock.shatter
+Provides: com.cracklock.shatter
+Filename: ./debs/iphoneos-arm64/com.cracklock.7513_1.0.4_iphoneos-arm64.deb
+Size: 1166804
+MD5sum: 73c595d38e26ef33a06c939b1041b0d1
+SHA1: 9219cbcbe7d050a907cc3a9c87bace26086e7e78
+SHA256: 440dd4759fd98c561345ace630882fffe82b56ecc9047af211323ce4d062c9ff
+Section: Tweaks
+Description: 熄屏幻术（FadeCraft）—— 十六种熄屏动画（碎屏 / 像素消散 / 百叶窗 / 信号故障 / CRT 关机 / 竖条翻牌 / 旋涡吸入 / 灰烬升腾 / 风沙吹散 / 条带垂落 / 波纹扭曲 / 方块散开 / 螺旋甩出 / 漆皮剥落 / 灯管熄灭 / 烟尘飘散），每种可单独调参。
+Author: 7513
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/7513.png
+Name: 熄屏幻术
+
+Package: com.cracklock.7513
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 7513
+Installed-Size: 1776
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Replaces: com.cracklock.shatter
+Provides: com.cracklock.shatter
+Filename: ./debs/iphoneos-arm64e/com.cracklock.7513_1.0.4_iphoneos-arm64e.deb
+Size: 1166564
+MD5sum: 5bcfe28f86bcfb578e4d423d56ec374d
+SHA1: 8042a318913a1286e3cdc18e7d64f9ba0bcc259f
+SHA256: fc2c9e8bdbe5b59bfb32af1d6720be0ba1e83c1cb3285908f50a8feb9eeb1c7d
+Section: Tweaks
+Description: 熄屏幻术（FadeCraft）—— 十六种熄屏动画（碎屏 / 像素消散 / 百叶窗 / 信号故障 / CRT 关机 / 竖条翻牌 / 旋涡吸入 / 灰烬升腾 / 风沙吹散 / 条带垂落 / 波纹扭曲 / 方块散开 / 螺旋甩出 / 漆皮剥落 / 灯管熄灭 / 烟尘飘散），每种可单独调参。
+Author: 7513
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/7513.png
+Name: 熄屏幻术
+
 Package: com.crctdd.choicy-patch
 Version: 0.0.2
 Architecture: iphoneos-arm64
