@@ -14552,6 +14552,46 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Name: CPU智能温控(iOS16/17)
 
 Package: com.qq391160.cpucore
+Version: 2.0.319
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4336
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.319_iphoneos-arm64.deb
+Size: 649644
+MD5sum: c932d5ca9d90edce529b1e84fc902617
+SHA1: efdb6efd7ff84bf5c02e5b7719ffd35bfdb72093
+SHA256: 58da8126368698e375bf4ecd4ef44e1964f9eeca09463b9160442b4a23c0b287
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.319
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4608
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.319_iphoneos-arm64e.deb
+Size: 717236
+MD5sum: 2b1c8d109518500c78b7f6a375f0553e
+SHA1: 14957c741532bd98d54532cc54cf63bf40b56b3f
+SHA256: 85b6d9426f8a49845ed697ef7faa84dcd2caaeb8b5cda44b5dc41d2ee4789cb2
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
 Version: 2.0.45
 Architecture: iphoneos-arm64
 Maintainer: qq391160
@@ -21491,10 +21531,10 @@ Installed-Size: 4140
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), firmware (<< 18.0), mobilesubstrate, com.opa334.ccsupport
 Filename: ./debs/iphoneos-arm64e/com.wee1ka.ifetch_6.0.0_iphoneos-arm64e.deb
-Size: 1928592
-MD5sum: e90c461846bc7d27415b4f79cd127e1f
-SHA1: 70b359f352276928078f10cdba736014780b1420
-SHA256: c94ece65ad3193c80ad2cccb68f9a639ba0aaf29f84575778ca10ccce8adbdb1
+Size: 1929856
+MD5sum: fb3f807298ed26c3989fd1ee024b2ff2
+SHA1: 6d666c117bee3ef24a0a21c0888a22d693efe931
+SHA256: b50d83a88cfc2e2993475f93d4ef0b4718387844b347749c6c2267d2c53e3542
 Section: Tweaks
 Description: Advanced system diagnostics, process monitor and CLI fetch for rootless and RootHide jailbreak devices on iOS 14–17
 Author: wee1ka
