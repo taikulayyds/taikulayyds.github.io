@@ -23782,6 +23782,23 @@ Icon: https://getsileo.app/img/icon.png
 Name: Sileo
 Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
+Package: org.coolstar.sileo
+Version: 2.5.1-14.1
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debs/iphoneos-arm64e/org.coolstar.sileo_2.5.1-14.1_iphoneos-arm64e.deb
+Size: 3006420
+MD5sum: 409066bc1ce5dcb169dea0b968d899d6
+SHA1: 999c2acd92953bab8c57733250cb40eb6d8b0ebb
+SHA256: e342ceb7e210e1605c3c25a614e0fd4ed0b27e15df2928b65e77cee1a97cba5c
+Section: Tweaks
+Description: A modern APT package manager frontend.刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的RootHidePatcher 中文版，也识别 UmbraPatcher，转换插件一条龙。
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: ovh.exerhythm.cardculator
 Version: 2.1.1
 Architecture: iphoneos-arm64
