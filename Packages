@@ -11815,6 +11815,42 @@ Author: mlgm
 Icon: https://mlgm66.github.io/icon/actra.png
 Name: Actra
 
+Package: com.mlgm.actra
+Version: 1.3.3
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 4112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64/com.mlgm.actra_1.3.3_iphoneos-arm64.deb
+Size: 817588
+MD5sum: 7815859103be3dbb5dcc30ea0936563d
+SHA1: e215d3f5fe57fb66954ee2f6332130bb92d08055
+SHA256: dcd8b699e2314f13670399d19a283b92f5416f28b876dbadf9cb5be737fde0c6
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
+Package: com.mlgm.actra
+Version: 1.3.3
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 4116
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64e/com.mlgm.actra_1.3.3_iphoneos-arm64e.deb
+Size: 817962
+MD5sum: 192a073f50142090de149be41ea70c7f
+SHA1: 3ac9e347fbcbf040cf7ff215356c3bb0069dbeaf
+SHA256: 639762752bcc3227a0cec04445e57743bea287863b623a4b587132338d3f905e
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
 Package: com.mlgm.idata
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -12065,6 +12101,46 @@ Icon: https://mlgm66.github.io/icon/kayoko.png
 Name: Kayoko
 Sileodepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
 
+Package: com.mlgm.kayoko
+Version: 5.1
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 3896
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64/com.mlgm.kayoko_5.1_iphoneos-arm64.deb
+Size: 823300
+MD5sum: a52f107b8607e47364844922f9006038
+SHA1: b76b7ade1b8fd1b7de269e6466434c1a1cb00809
+SHA256: 9cf73b9117b87d7888d77f0e678fe2ae714121fff8684546b26b62a85fad011e
+Section: Tweaks
+Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/kayoko.png
+Name: Kayoko
+Sileodepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
+
+Package: com.mlgm.kayoko
+Version: 5.1
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3864
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64e/com.mlgm.kayoko_5.1_iphoneos-arm64e.deb
+Size: 817970
+MD5sum: 7c0e4fba29f0fe1d75b5fa15c016261d
+SHA1: b1898090f8564e5f14b31a18562a5285e377bc32
+SHA256: 80f683238a9e081293cb6bfdded979b37249aedbcc5926210a4f41ffd66e9992
+Section: Tweaks
+Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/kayoko.png
+Name: Kayoko
+Sileodepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
+
 Package: com.mlgm.prefnest
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -12127,6 +12203,40 @@ Size: 170984
 MD5sum: 13e91aecebcc882266eec11934ccf57c
 SHA1: 661b77ce582d3c83112819601c111882aa2f5eac
 SHA256: c63f49cfc92763cb30458cc11c6d7c251276dc11764b1b7da16113efef45f491
+Section: Tweaks
+Description: 整理设置首页，集中收纳越狱插件。
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/prefnest.png
+Name: PrefNest
+
+Package: com.mlgm.prefnest
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 888
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.mlgm.prefnest_1.2.3_iphoneos-arm64.deb
+Size: 173566
+MD5sum: 5422aa416b3300203e00a22b8cf78bfc
+SHA1: 5b8b24e67d38aaff361812c61f686287cb5bacaa
+SHA256: f0f768d3957d5db9ce9a7efbe15d7c5dde88e922124f3223eea7025e902ec91c
+Section: Tweaks
+Description: 整理设置首页，集中收纳越狱插件。
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/prefnest.png
+Name: PrefNest
+
+Package: com.mlgm.prefnest
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 888
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.mlgm.prefnest_1.2.3_iphoneos-arm64e.deb
+Size: 171396
+MD5sum: d711334ad1f194e13145aaf715be91fa
+SHA1: 429ec9df7d731dc2902b6908ba1a7b33f37e1eec
+SHA256: 64777b016faab23e5876ff06b8489a00e684c233a0234d9c88108f1687c043bc
 Section: Tweaks
 Description: 整理设置首页，集中收纳越狱插件。
 Author: mlgm
@@ -22444,6 +22554,50 @@ Author: Tsangbaby
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/Kayoko.png
 Name: Kayoko
 
+Package: com.tsangbaby.pulloverx
+Version: 2.4.0
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: ./debs/iphoneos-arm64/com.tsangbaby.pulloverx_2.4.0_iphoneos-arm64.deb
+Size: 678840
+MD5sum: dc4d46d762443c89083905f26e43d157
+SHA1: 0cb41da73e0ee6bb36a737b0709bc159dcf1b6e1
+SHA256: 021565e7e1ed929ef5560aa87d3b757e3859d15e90fef03ef363c1829cde5228
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Depiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.4.0
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: ./debs/iphoneos-arm64e/com.tsangbaby.pulloverx_2.4.0_iphoneos-arm64e.deb
+Size: 676960
+MD5sum: 2b85d0356c0d514c47eabad50aa079bb
+SHA1: a35ad7cf6db01e574c5318b5af83fabb3b4252db
+SHA256: b8ddce754f68d8ec601e4262e6f0aa86a31413682318fd31352d57d86904843a
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Depiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
 Package: com.uckermark.siriplus
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -24092,6 +24246,23 @@ SHA1: 999c2acd92953bab8c57733250cb40eb6d8b0ebb
 SHA256: e342ceb7e210e1605c3c25a614e0fd4ed0b27e15df2928b65e77cee1a97cba5c
 Section: Tweaks
 Description: A modern APT package manager frontend.刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的RootHidePatcher 中文版，也识别 UmbraPatcher，转换插件一条龙。
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileo
+Version: 2.5.1-15
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debs/iphoneos-arm64e/org.coolstar.sileo_2.5.1-15_iphoneos-arm64e.deb
+Size: 3007580
+MD5sum: 5cf845fa43ae31a0e4169e374f2f5727
+SHA1: 41a44f75f28de2fec82a8b55872b3fa5e3ca7c96
+SHA256: fd0ca0aa62afdbac408064ce3adbdf0173565d181151a9fb3553d90bc96debc1
+Section: Tweaks
+Description: A modern APT package manager frontend.刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的RootHidePatcher 中文版，也可识别 UmbraPatcher，转换插件一条龙。
 Author: Amy While <me@anamy.gay>
 Icon: https://getsileo.app/img/icon.png
 Name: Sileo
