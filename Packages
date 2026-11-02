@@ -23195,14 +23195,14 @@ Package: iya.banana.duoicon
 Version: 0.1.6
 Architecture: iphoneos-arm64
 Maintainer: Banana
-Installed-Size: 1692
+Installed-Size: 1760
 Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
 Conflicts: com.82flex.singlevpn
 Filename: ./debs/iphoneos-arm64/iya.banana.duoicon_0.1.6_iphoneos-arm64.deb
-Size: 291808
-MD5sum: cf3b35aa2b6f350296b48c739e23b417
-SHA1: 394555b6a4f9de5fb978c38d6a84b5c05360e8db
-SHA256: 49c73eebac28454a4a98962bf937421106eba39f22b350cb2de289ac59693b95
+Size: 301548
+MD5sum: 7b25d16236a9cb6b1e4c95423cb89ebf
+SHA1: 64902a5872a99aee2458c7890bcfb8e4487e9fd2
+SHA256: f29bbdda3d486a18c88a3e0eae60018a6a0262ee56df5a1e227323fff26d7273
 Section: Tweaks
 Description: Right-side Orbit and Capsule status icons with native reveal animations.
 Author: Banana
@@ -23213,14 +23213,14 @@ Package: iya.banana.duoicon
 Version: 0.1.6
 Architecture: iphoneos-arm64e
 Maintainer: Banana
-Installed-Size: 1692
+Installed-Size: 1760
 Depends: firmware (>= 15.1), firmware (<< 27.0), mobilesubstrate, preferenceloader
 Conflicts: com.82flex.singlevpn
 Filename: ./debs/iphoneos-arm64e/iya.banana.duoicon_0.1.6_iphoneos-arm64e.deb
-Size: 291272
-MD5sum: e73aa38754f61dbfebe27344afae02c6
-SHA1: 7fcb2c2ac1c0e5883ed98738c73f3ff3924931b7
-SHA256: 2108f28c4c663c12cda2c38b8469555fd5c117ac4418f8e298c9a62658db885f
+Size: 302108
+MD5sum: 94a5e1cffd3b65a57c929c8b7b6fbb46
+SHA1: 893dc048380dd248157cc988c9a03fcd4e081490
+SHA256: cc3180720be32a3f58d3d0bf23ea31d70c0ebbcf79c46c0514cdb3aa49ad3867
 Section: Tweaks
 Description: Right-side Orbit and Capsule status icons with native reveal animations.
 Author: Banana
