@@ -11893,6 +11893,42 @@ Author: mlgm
 Icon: https://mlgm66.github.io/icon/actra.png
 Name: Actra
 
+Package: com.mlgm.actra
+Version: 1.3.4
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 4112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64/com.mlgm.actra_1.3.4_iphoneos-arm64.deb
+Size: 815832
+MD5sum: dddd9ad1b561b2454077df65e1b3a2cc
+SHA1: b2bcac8da51897d7da87c46b8cef37b95917a780
+SHA256: 168f44be83048b29eeda44eefb3c9a4b59593950aebb36e4f084caff59391aa0
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
+Package: com.mlgm.actra
+Version: 1.3.4
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 4116
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64e/com.mlgm.actra_1.3.4_iphoneos-arm64e.deb
+Size: 816554
+MD5sum: e8be9fb9e46451c7abc4a0c26d3c0dda
+SHA1: ace773b5d7578dd7c1d64db4e576d15b8fb17677
+SHA256: 3e3574f6b8a1c8cf0159c36368803ecc5859919c002da93c84df5e9e942b3b9a
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
 Package: com.mlgm.idata
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -12024,6 +12060,40 @@ MD5sum: b813994e78fae46ddee0b1ff78064ce8
 SHA1: 0d836b4566bf0c783cda7ba35e8b34f8237cd9ff
 SHA256: 6b9c4809c88a81f43b85b5d1a545c8f264d4003bf8956fd38038cd2b151056d3
 Section: Tweaks
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 8252
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/iphoneos-arm64/com.mlgm.idata_1.3.5_iphoneos-arm64.deb
+Size: 2475518
+MD5sum: 51f0fae70a2ff595a5cd26010c302487
+SHA1: 48f20eaca17256ad6583b0a40ae8a4836d089d26
+SHA256: 4e6678bfcf6b7a5bb25ee9c29e0e8fe9c2f68d4c4c03e8538374596f14046d49
+Section: Applications
+Description: 应用、插件数据管理工具，一键备份/恢复
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/idata.png
+Name: iData
+
+Package: com.mlgm.idata
+Version: 1.3.5
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 8252
+Depends: firmware (>= 15.0), apt, dpkg
+Filename: ./debs/iphoneos-arm64e/com.mlgm.idata_1.3.5_iphoneos-arm64e.deb
+Size: 2477040
+MD5sum: b321e623d4f0ce701315fbbc8ac12d05
+SHA1: ff4d15719e05327f941d7502a43056c1e6ee28eb
+SHA256: 3814ea9a0e9bd0f8b08f17fde482aeee936bf750b56108ae930282744246a1f4
+Section: Applications
 Description: 应用、插件数据管理工具，一键备份/恢复
 Author: mlgm
 Icon: https://mlgm66.github.io/icon/idata.png
@@ -12176,6 +12246,46 @@ Size: 817970
 MD5sum: 7c0e4fba29f0fe1d75b5fa15c016261d
 SHA1: b1898090f8564e5f14b31a18562a5285e377bc32
 SHA256: 80f683238a9e081293cb6bfdded979b37249aedbcc5926210a4f41ffd66e9992
+Section: Tweaks
+Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/kayoko.png
+Name: Kayoko
+Sileodepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
+
+Package: com.mlgm.kayoko
+Version: 5.1.1
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 3896
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64/com.mlgm.kayoko_5.1.1_iphoneos-arm64.deb
+Size: 824746
+MD5sum: b717bb54b1aeee61ab1324a3dc17a155
+SHA1: eb4c90be3d10d32e7c5b0b2b77d913c4282df47a
+SHA256: e8f4dcee4828862f95fbf72d6a680c01a2b44eee0fe06207f895a7f43eb06d64
+Section: Tweaks
+Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/kayoko.png
+Name: Kayoko
+Sileodepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
+
+Package: com.mlgm.kayoko
+Version: 5.1.1
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3864
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64e/com.mlgm.kayoko_5.1.1_iphoneos-arm64e.deb
+Size: 813400
+MD5sum: 196b0b81c40c884b7e9c0f7924327a6a
+SHA1: 99fee4442ac151e9592fcb475f8b95c8e203e659
+SHA256: 86bb7bb6832a0c4370c52fca8f5afebce9bc8eeff11829aa6b6a0a8fc3bc72ee
 Section: Tweaks
 Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
 Author: mlgm
@@ -15596,6 +15706,86 @@ Size: 704898
 MD5sum: f3d787e057feaa49ee13923ad1f37e75
 SHA1: 2850ba5eaab643d3c2654c216dd53588ae65cb2d
 SHA256: 43fa20ad194193521d46acbe34b866529c9873f4afddcf78bd50e44de5f6186b
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.416
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4360
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.416_iphoneos-arm64.deb
+Size: 649472
+MD5sum: be7d685f62674eba739cb39777297e5e
+SHA1: d8eb9a89bffa605eb5f3f31ad4cb6e1f65eb4475
+SHA256: fa8faf3b521c06efb5dc18ea34a297a9a09b9fe7dd2542f773f3c4a3d6d4e6f0
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.416
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4616
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.416_iphoneos-arm64e.deb
+Size: 718070
+MD5sum: 95f511296df25856aa5c90b892e4bcff
+SHA1: 3635dd651e347a97937da4d6e5c37162120db3ae
+SHA256: 4ecd466766da7517b92acd68f2ca4e813d3721671c3d4d6bee93324981240cd4
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.432
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4360
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.432_iphoneos-arm64.deb
+Size: 649568
+MD5sum: 98bf35ccc222d9fc24cbcacc9cea2c19
+SHA1: 1da084f7e7c68878f237db0ba4e72e8a53324469
+SHA256: fe8ea5c90c2bfebb0fd8bac5d48f87deeb3596f069686a676095427d73c93111
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.432
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4632
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.432_iphoneos-arm64e.deb
+Size: 718190
+MD5sum: 170f488be56dd882fa960ebb4c805cd9
+SHA1: 87376df979666c452d778cbe13de58141cb9f140
+SHA256: cd3625d0efeca9a97ba83276f876d7b1a94c90147c8f4d034d23e3f0674df565
 Section: Tweaks
 Priority: optional
 Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
