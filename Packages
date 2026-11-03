@@ -7378,6 +7378,48 @@ Author: 7513
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/7513.png
 Name: 熄屏幻术
 
+Package: com.cracklock.7513
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 7513
+Installed-Size: 1824
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Replaces: com.cracklock.shatter
+Provides: com.cracklock.shatter
+Filename: ./debs/iphoneos-arm64/com.cracklock.7513_1.0.5_iphoneos-arm64.deb
+Size: 1259518
+MD5sum: 364b37509fbffca44529dd08a6d060ec
+SHA1: 63f1be4538ab187bffe5f7d9f77c8b3d2d56ca2c
+SHA256: e1baacb596f3cb639e3af1aa20be6ca37e69e0ec4a19de9a27ab237d328ce687
+Section: Tweaks
+Description: 熄屏幻术（FadeCraft）—— 18 种熄屏 / 锁屏动画，按电源键的瞬间把真实画面打碎、吹散或溶解。内置碎屏、像素消散、百叶窗、信号故障、CRT 关机、竖条翻牌、旋涡吸入、灰烬升腾、风沙吹散、条带垂落、波纹扭曲、方块散开、螺旋甩出、漆皮剥落、灯管熄灭、烟尘飘散、柏林溶解、灭霸响指。可在设置里勾选多种效果随机播放，每种效果都能单独调整时长、颗粒大小、力度等参数。
+Author: 7513
+Depiction: https://lubenjian88.github.io/7513/depictions/com.cracklock.7513/
+Icon: https://lubenjian88.github.io/7513/depictions/com.cracklock.7513/icon.png
+Name: 熄屏幻术
+Sileodepiction: https://lubenjian88.github.io/7513/depictions/com.cracklock.7513/depiction.json
+
+Package: com.cracklock.7513
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 7513
+Installed-Size: 1793
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Replaces: com.cracklock.shatter
+Provides: com.cracklock.shatter
+Filename: ./debs/iphoneos-arm64e/com.cracklock.7513_1.0.5_iphoneos-arm64e.deb
+Size: 1259362
+MD5sum: f3f0696e08a048a4045c83f88be8dfee
+SHA1: 70cc4db166c39a935e88342e815651a151108c52
+SHA256: 6b4d215197c6871f19f6de6dcd78aa579f1766125895f0baebca712641715210
+Section: Tweaks
+Description: 熄屏幻术（FadeCraft）—— 18 种熄屏 / 锁屏动画，按电源键的瞬间把真实画面打碎、吹散或溶解。内置碎屏、像素消散、百叶窗、信号故障、CRT 关机、竖条翻牌、旋涡吸入、灰烬升腾、风沙吹散、条带垂落、波纹扭曲、方块散开、螺旋甩出、漆皮剥落、灯管熄灭、烟尘飘散、柏林溶解、灭霸响指。可在设置里勾选多种效果随机播放，每种效果都能单独调整时长、颗粒大小、力度等参数。
+Author: 7513
+Depiction: https://lubenjian88.github.io/7513/depictions/com.cracklock.7513/
+Icon: https://lubenjian88.github.io/7513/depictions/com.cracklock.7513/icon.png
+Name: 熄屏幻术
+Sileodepiction: https://lubenjian88.github.io/7513/depictions/com.cracklock.7513/depiction.json
+
 Package: com.crctdd.choicy-patch
 Version: 0.0.2
 Architecture: iphoneos-arm64
