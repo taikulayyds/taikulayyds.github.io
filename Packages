@@ -22950,6 +22950,48 @@ Icon: https://weekanya.github.io/iFetch/assets/ifetch-icon.png
 Name: iFetch
 Sileodepiction: https://weekanya.github.io/iFetch/sileodepiction.json
 
+Package: com.xsxs18.voidy
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: xsxs18
+Installed-Size: 1016
+Depends: firmware (>= 15.0)
+Recommends: uikittools
+Filename: ./debs/iphoneos-arm64/com.xsxs18.voidy_1.0.1_iphoneos-arm64.deb
+Size: 295952
+MD5sum: 7a3f2fcd431bfdff4ea6f10801cb7f7d
+SHA1: 3987eb74d6289293be5ffff7c9ecb7b598b24c9b
+SHA256: c8c3c8a7bd310ae932b4fb1cff7817baa53db4a7b6450f0a089b56a35449ff16
+Section: Tweaks
+Description: Lightweight system cleaner for rootless and roothide jailbreaks.
+ Removes caches, logs, temporary files and package leftovers, manages
+ tweaks and launch daemons, finds large files and orphaned packages and
+ can clean automatically on a schedule.
+Author: xsxs18
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/voidy.png
+Name: Voidy
+
+Package: com.xsxs18.voidy
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: xsxs18
+Installed-Size: 1016
+Depends: firmware (>= 15.0)
+Recommends: uikittools
+Filename: ./debs/iphoneos-arm64e/com.xsxs18.voidy_1.0.1_iphoneos-arm64e.deb
+Size: 296320
+MD5sum: 263ad73ba19c4ae30b386168d22d223e
+SHA1: 9d10141d847228b59e9cc60445d0e048d3f22eaa
+SHA256: 016fa1e9ae6416810b15cb91236fac5f8a3fff7ee6eeeaec70a9d3372bbfa0e5
+Section: Tweaks
+Description: Lightweight system cleaner for rootless and roothide jailbreaks.
+ Removes caches, logs, temporary files and package leftovers, manages
+ tweaks and launch daemons, finds large files and orphaned packages and
+ can clean automatically on a schedule.
+Author: xsxs18
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/voidy.png
+Name: Voidy
+
 Package: com.xx.safarixhook
 Version: 1.0.0
 Architecture: iphoneos-arm64
