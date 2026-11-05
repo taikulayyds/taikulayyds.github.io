@@ -23880,6 +23880,46 @@ Author: xsxs18
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/voidy.png
 Name: Voidy
 
+Package: com.xsxs18.voidy
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: xsxs18
+Installed-Size: 1032
+Depends: firmware (>= 15.0), uikittools
+Filename: ./debs/iphoneos-arm64/com.xsxs18.voidy_1.0.4_iphoneos-arm64.deb
+Size: 306892
+MD5sum: cf209a89e7a79413423c9e5cb58f455d
+SHA1: 246beeb5b70c95bd6e74c64738f4f979618229aa
+SHA256: 846a38e29ccd2bcf8b371cf344463484744759fd23de48592dd290ed2b9151ba
+Section: Applications
+Description: Lightweight system cleaner for rootless and roothide jailbreaks.
+ Removes caches, logs, temporary files and package leftovers, manages
+ tweaks and launch daemons, finds large files and orphaned packages and
+ can clean automatically on a schedule.
+Author: xsxs18
+Icon: https://raw.githubusercontent.com/taikulayyds/icon/refs/heads/mina/voidy.png
+Name: Voidy
+
+Package: com.xsxs18.voidy
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: xsxs18
+Installed-Size: 1032
+Depends: firmware (>= 15.0), uikittools
+Filename: ./debs/iphoneos-arm64e/com.xsxs18.voidy_1.0.4_iphoneos-arm64e.deb
+Size: 306812
+MD5sum: 641a6227eff14b25e98d7f52ae9f2fe7
+SHA1: 601aef377cffe2be1ba10a14b0da966934bb20de
+SHA256: c692f32b85c8cef195da56554762611590779f15b73089231a0757f0263459e7
+Section: Applications
+Description: Lightweight system cleaner for rootless and roothide jailbreaks.
+ Removes caches, logs, temporary files and package leftovers, manages
+ tweaks and launch daemons, finds large files and orphaned packages and
+ can clean automatically on a schedule.
+Author: xsxs18
+Icon: https://raw.githubusercontent.com/taikulayyds/icon/refs/heads/mina/voidy.png
+Name: Voidy
+
 Package: com.xx.safarixhook
 Version: 1.0.0
 Architecture: iphoneos-arm64
