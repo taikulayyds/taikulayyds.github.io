@@ -8238,6 +8238,42 @@ Author: crctdd
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/memtrim.png
 Name: MemTrim
 
+Package: com.crctdd.memtrim
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: crctdd
+Installed-Size: 992
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/iphoneos-arm64/com.crctdd.memtrim_0.0.3_iphoneos-arm64.deb
+Size: 69532
+MD5sum: 8d7dff0f9bae88b5cbb0f9bae4f8e302
+SHA1: 443ca2366e34135fa3c135129d5e2a0c188c484a
+SHA256: e67c3c5a232a911b561b430c0028aad0cc9b2a931033c05f280839e4891245c6
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/memtrim.png
+Name: MemTrim
+
+Package: com.crctdd.memtrim
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: crctdd
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: ./debs/iphoneos-arm64e/com.crctdd.memtrim_0.0.3_iphoneos-arm64e.deb
+Size: 54488
+MD5sum: ebd2b7fb94b2096d06f0042ea222c5fc
+SHA1: b68dbf74570954e1196858e4dbea79f49a58ff48
+SHA256: 3f6a05b43ebe5c9b96dbffcfd0bda938369ed7ba5d4e3018ce052d1416648388
+Section: Tweaks
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Author: crctdd
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/memtrim.png
+Name: MemTrim
+
 Package: com.crctdd.sbtrim
 Version: 0.0.15
 Architecture: iphoneos-arm64
@@ -23802,6 +23838,48 @@ Author: xsxs18
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/voidy.png
 Name: Voidy
 
+Package: com.xsxs18.voidy
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: xsxs18
+Installed-Size: 1032
+Depends: firmware (>= 15.0)
+Recommends: uikittools
+Filename: ./debs/iphoneos-arm64/com.xsxs18.voidy_1.0.3_iphoneos-arm64.deb
+Size: 306732
+MD5sum: 0c655ce984ac00f4ccd24bf1dac2604b
+SHA1: 61f35c315bc211fe033f97eca41f4005c05bcb47
+SHA256: 1b36515febfe68056b310294065b26d8a980fbb54b0ec55fea03521718446926
+Section: Applications
+Description: Lightweight system cleaner for rootless and roothide jailbreaks.
+ Removes caches, logs, temporary files and package leftovers, manages
+ tweaks and launch daemons, finds large files and orphaned packages and
+ can clean automatically on a schedule.
+Author: xsxs18
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/voidy.png
+Name: Voidy
+
+Package: com.xsxs18.voidy
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: xsxs18
+Installed-Size: 1032
+Depends: firmware (>= 15.0)
+Recommends: uikittools
+Filename: ./debs/iphoneos-arm64e/com.xsxs18.voidy_1.0.3_iphoneos-arm64e.deb
+Size: 306332
+MD5sum: 8803f81c5c036fe544acc36eaf2ae8cd
+SHA1: 900745e5562975a8767b11ae50abf15264d1bcde
+SHA256: 7f5eb785450a1537375ad64bc5f10babe8af37d56199817f0f853f05faf664cd
+Section: Applications
+Description: Lightweight system cleaner for rootless and roothide jailbreaks.
+ Removes caches, logs, temporary files and package leftovers, manages
+ tweaks and launch daemons, finds large files and orphaned packages and
+ can clean automatically on a schedule.
+Author: xsxs18
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/voidy.png
+Name: Voidy
+
 Package: com.xx.safarixhook
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -25289,6 +25367,26 @@ SHA1: 41a44f75f28de2fec82a8b55872b3fa5e3ca7c96
 SHA256: fd0ca0aa62afdbac408064ce3adbdf0173565d181151a9fb3553d90bc96debc1
 Section: Tweaks
 Description: A modern APT package manager frontend.刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的RootHidePatcher 中文版，也可识别 UmbraPatcher，转换插件一条龙。
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.mlgm.sileo
+Version: 2.5.1-18
+Architecture: iphoneos-arm64e
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Conflicts: org.coolstar.sileo
+Replaces: org.coolstar.sileo
+Provides: org.coolstar.sileo (= 2.5.1-18)
+Filename: ./debs/iphoneos-arm64e/org.mlgm.sileo_2.5.1-18_iphoneos-arm64e.deb
+Size: 3114944
+MD5sum: fc933c8f9deab9e5c429fc255701b9d5
+SHA1: 83b5046b99b89daa2b96ac502163529448f712fa
+SHA256: 5016b70d1c7985d954b94070914c038490137caa47c7accb8d743bed0db92c3c
+Section: Packaging
+Description: A modern APT package manager frontend
 Author: Amy While <me@anamy.gay>
 Icon: https://getsileo.app/img/icon.png
 Name: Sileo
