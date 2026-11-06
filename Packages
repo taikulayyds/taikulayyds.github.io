@@ -1586,6 +1586,53 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
 Name: Touch-Viz
 
+Package: com.abyss.repomgr
+Version: 1.4.4
+Architecture: iphoneos-arm64e
+Maintainer: Ty
+Depends: firmware (>= 15.0)
+Conflicts: com.abyss.sileo
+Replaces: com.abyss.sileo
+Filename: ./debs/iphoneos-arm64e/com.abyss.repomgr_1.4.4_iphoneos-arm64e.deb
+Size: 768856
+MD5sum: a88e24fe5b02d7ae6a192702ae813fe7
+SHA1: c7ec4d7a68caf3606ea6938d25d5e384b5753995
+SHA256: 590fa96fe0f162027b85e7e1f1cf209910043507e0c5b32aab4123a75857c83f
+Section: Utilities
+Priority: optional
+Homepage: https://t.me/D757677
+Description: Repo Manager 软件介绍
+ Repo Manager 是一款 iOS 越狱软件源管理工具，专为使用 GitHub 搭建 APT 软件源的用户设计。
+ 无需电脑和复杂命令，即可直接在 iPhone 上创建、维护和发布自己的越狱软件源。
+ .
+ 主要功能
+ .
+ 一键创建越狱源
+ .
+ 自定义源图标
+ .
+ 多仓库管理
+ .
+ 批量上传插件
+ .
+ 从其他源批量导入
+ .
+ 插件更新与删除
+ .
+ 插件信息展示
+ .
+ 自动生成软件源索引
+ .
+ 主题切换
+ .
+ 安全设计
+ .
+ GitHub Token 仅保存在当前设备的 iOS Keychain 中。
+ 应用支持 Fine-grained Token，并建议只授予目标仓库所需的最小权限。
+Author: Ty
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/repomgr.png
+Name: Repo Manager (RootHide)
+
 Package: com.anthopak.pancake
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -23753,6 +23800,23 @@ Author: wee1ka
 Icon: https://weekanya.github.io/iFetch/assets/ifetch-icon.png
 Name: iFetch
 Sileodepiction: https://weekanya.github.io/iFetch/sileodepiction.json
+
+Package: com.wkk.sidebuttonrecorder
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: wkk
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.wkk.sidebuttonrecorder_1.0_iphoneos-arm64e.deb
+Size: 4948
+MD5sum: 3d37564244aec108b9a41eace55f5718
+SHA1: 404a4f12b61669dd0290da970675f49eb5c96b6f
+SHA256: ccb289fcc9daa519f30194530abc0eb469070aa1f46747d70ef8ada6b32d9199
+Section: Tweaks
+Description: Toggle system screen recording with a long press of the side button after unlocking.长按侧边锁屏按钮即可启动系统屏幕录制，再次长按取消屏幕录制不保存内容到相册。据说玩游戏的时候开启能够保持游戏高帧率运行。
+Author: wkk
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sidebuttonrecorder.png
+Name: SideButtonRecorder
 
 Package: com.xsxs18.voidy
 Version: 1.0.1
