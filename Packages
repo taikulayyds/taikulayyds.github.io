@@ -1340,13 +1340,14 @@ Maintainer: 82flex
 Installed-Size: 72
 Depends: firmware (>= 17.0), mobilesubstrate, com.opa334.crane
 Filename: ./debs/iphoneos-arm64e/com.82flex.cranepkdserverfix_0.0.1_iphoneos-arm64e.deb
-Size: 2800
-MD5sum: 22636cbceb5c081f27785707f034c5ec
-SHA1: 68cbdeb3fa7d8f81ed53a4bdf86ae0e0a1f8c930
-SHA256: cde4cc5a18ff81d283e8a63ac92cce0519d67a92bbff3b29530b47e4fd414e92
+Size: 2856
+MD5sum: 5df025cdb6f7974f5423fe7a072ef437
+SHA1: 789ad66e8fe4c4e2d133e5eb58f3cec9acb80370
+SHA256: 6fb2cfb13234cb567cbc94d132e1760750cfa106d2315fdfa136dfdf3b803a6c
 Section: Tweaks
 Description: Repairs Crane PKDServer discovery on iOS 17.
 Author: 82flex
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/crane.png
 Name: Crane PKDServer Fix
 
 Package: com.82flex.noredirect
@@ -12570,6 +12571,42 @@ Author: mlgm
 Icon: https://mlgm66.github.io/icon/actra.png
 Name: Actra
 
+Package: com.mlgm.actra
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 4116
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64/com.mlgm.actra_1.3.5_iphoneos-arm64.deb
+Size: 817094
+MD5sum: e27d91e8a742d22ac942f93214995726
+SHA1: 83d180456292e039ce86535742f6a9a0714409d3
+SHA256: 0c7f97a3dcf186ce897a4782e771d71017a59dd875c47e32e352e59aca0a7d75
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
+Package: com.mlgm.actra
+Version: 1.3.5
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 4116
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: ./debs/iphoneos-arm64e/com.mlgm.actra_1.3.5_iphoneos-arm64e.deb
+Size: 818212
+MD5sum: 212e54e2794f7ce533ad61d9f552dfb5
+SHA1: 3bab30f83b5a0394c780db778dee69aac0af9af2
+SHA256: a7963708f64be12c763b1474f912c7d0245ae9e9225bdcdc2a0ddc191e0d26be
+Section: Tweaks
+Description: 手势与事件自动化工具
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/actra.png
+Name: Actra
+
 Package: com.mlgm.idata
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -12927,6 +12964,46 @@ Size: 813400
 MD5sum: 196b0b81c40c884b7e9c0f7924327a6a
 SHA1: 99fee4442ac151e9592fcb475f8b95c8e203e659
 SHA256: 86bb7bb6832a0c4370c52fca8f5afebce9bc8eeff11829aa6b6a0a8fc3bc72ee
+Section: Tweaks
+Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/kayoko.png
+Name: Kayoko
+Sileodepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
+
+Package: com.mlgm.kayoko
+Version: 5.1.2
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 3896
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64/com.mlgm.kayoko_5.1.2_iphoneos-arm64.deb
+Size: 825832
+MD5sum: cf315d4ed0db39d6806671a1b34dc6bb
+SHA1: 6208f22b280eaded3be3ed4bee35973daf783131
+SHA256: ff3fc976201f1a066bae6e9d7bacdcf3ffb0c41a09194dae755adf3a76c07141
+Section: Tweaks
+Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/kayoko.png
+Name: Kayoko
+Sileodepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
+
+Package: com.mlgm.kayoko
+Version: 5.1.2
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3864
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64e/com.mlgm.kayoko_5.1.2_iphoneos-arm64e.deb
+Size: 814484
+MD5sum: 98f9e8edbb12d1762fd0c7bc668c3dfa
+SHA1: cec09ed1b850c14a9ee98d66b044f2fde697ef37
+SHA256: 187999be953b45d25fc610e3df8114f51f6d8abb2caa2cb8d2d5fe582f396051
 Section: Tweaks
 Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
 Author: mlgm
@@ -15733,14 +15810,14 @@ Installed-Size: 1688
 Depends: uikittools, mobilesubstrate, firmware (>= 16.0), firmware (<< 17.3.2)
 Conflicts: com.qianuo.smartdeck
 Filename: ./debs/iphoneos-arm64/com.qianuo.smartdeck.app_0.8.19_iphoneos-arm64.deb
-Size: 358280
-MD5sum: ede94315c2b935517f0b63efc4c9a85b
-SHA1: 5d1649edfa20f40f2ef4f8eb4111662b43a5a273
-SHA256: 664c0b58069edf8db5f4bdb80f5940ad62eb5d676f5dd9425e94682953ba763e
+Size: 357960
+MD5sum: 725c34cb448cb32f0da5209da45bf79d
+SHA1: fa0358ec39a39ab739f3af79d9b4cef1a68e668e
+SHA256: 7cf0f9cf507f5de0cb0352cbe8ff5825ec25f9d260a32a10417f6b1ea1c50296
 Section: Tweaks
 Description: Experimental standalone desktop with a SpringBoard scene-hosting companion. Does not replace the native Home screen. Device validation required.
 Author: kanuo
-Icon: https://jimkanuo.github.io/apt-repo/depiction/smartdeck/icon-v3.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/smartdeck.png
 Name: SmartDeck App
 
 Package: com.qianuo.smartdeck.app
@@ -15751,14 +15828,14 @@ Installed-Size: 1688
 Depends: uikittools, mobilesubstrate, firmware (>= 16.0), firmware (<< 17.3.2)
 Conflicts: com.qianuo.smartdeck
 Filename: ./debs/iphoneos-arm64e/com.qianuo.smartdeck.app_0.8.19_iphoneos-arm64e.deb
-Size: 357904
-MD5sum: ae60db1287d19dd269d861e18f4e9e6d
-SHA1: 2951bc68b8fcac546b82eede47976dfae9e284e4
-SHA256: aa308117f764f2311731d1d2dbaf18ba1972027390a8bfcfa93ef02301380fac
+Size: 357284
+MD5sum: a8299b1dd89d0a65e499bc2d357a5875
+SHA1: 29c184420ca47b7183f87772834efa05c0bda281
+SHA256: c21490a4f575a3d05d8fb5ee99df7b5db936b4d693c60285b979b874e0b1009f
 Section: Tweaks
 Description: Experimental standalone desktop with a SpringBoard scene-hosting companion. Does not replace the native Home screen. Device validation required.
 Author: kanuo
-Icon: https://jimkanuo.github.io/apt-repo/depiction/smartdeck/icon-v3.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/smartdeck.png
 Name: SmartDeck App
 
 Package: com.qiop1379.swipeextenderx
@@ -22813,10 +22890,10 @@ Maintainer: MoWang
 Installed-Size: 672
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64/com.taikulayyds.rainbowkeyboard_1.0.26~lite4_iphoneos-arm64.deb
-Size: 134532
-MD5sum: ef124ca4033ed5adbab1d9b451968cc5
-SHA1: bc3888862ca302a8ecdae74b9869972419220528
-SHA256: f8210f757cd02ae18b6bf1ccf32a26f2a6ab9b3e76c93c198097fdf4c04bd00b
+Size: 134444
+MD5sum: 73559359f5473691ca84dee8f2805b16
+SHA1: 501d1f6750ef87793d35802da29ee7d34c01b7ab
+SHA256: 9c0fb4fa7cc48788e73746df640a113d05a0f654a33d18541038ee87fd775f1a
 Section: Tweaks
 Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输入法
  四种固定预设、三星风格扩散与霓虹圆环两种样式。
@@ -22826,7 +22903,7 @@ Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输�
  最多复用两组光效，默认快速点击预设，低电量或高温时降低光效频率。
  移除键帽弹跳、调节滑条、诊断写盘和内置大预览图。
 Author: MoWang
-Icon: https://jimkanuo.github.io/apt-repo/depiction/rainbowkeyboard/icon.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/rainbowkeyboard.png
 Name: 彩虹键盘 · 轻量版
 
 Package: com.taikulayyds.rainbowkeyboard
@@ -22836,10 +22913,10 @@ Maintainer: MoWang
 Installed-Size: 384
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.rainbowkeyboard_1.0.26~lite4_iphoneos-arm64e.deb
-Size: 93124
-MD5sum: bcc4f86ff18317255f474efcfc54979d
-SHA1: ab5d71162e6942fe598bd5758d204da1870b899b
-SHA256: e93a0a41bd6d7ead22f53056eea4ff043b354a3820486f6652496c6286a37b4d
+Size: 93192
+MD5sum: 007e27e8712080dd11cae2e7d0253079
+SHA1: 0cd78083a129d77c88d4b7f3a3d4937c6d324780
+SHA256: a1e5a544aec9a8b2b4a0a81d9084ac7c6b5b62f816930f416c22429e2e8c76fd
 Section: Tweaks
 Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输入法
  四种固定预设、三星风格扩散与霓虹圆环两种样式。
@@ -22849,7 +22926,7 @@ Description: 固定霓虹预设与键盘配色，支持原生键盘和微信输�
  最多复用两组光效，默认快速点击预设，低电量或高温时降低光效频率。
  移除键帽弹跳、调节滑条、诊断写盘和内置大预览图。
 Author: MoWang
-Icon: https://jimkanuo.github.io/apt-repo/depiction/rainbowkeyboard/icon.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/rainbowkeyboard.png
 Name: 彩虹键盘 · 轻量版
 
 Package: com.taikulayyds.replyactions
