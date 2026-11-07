@@ -20851,14 +20851,14 @@ Installed-Size: 1084
 Depends: mobilesubstrate | ellekit, preferenceloader, com.colorblack.bottomx.ios17, firmware (>= 16.0), firmware (<< 18.0)
 Conflicts: com.kanuo.floatballx
 Filename: ./debs/iphoneos-arm64/com.taikulayyds.bottomx_6.59_iphoneos-arm64.deb
-Size: 419048
-MD5sum: e224c83afcbefc538032e4cf353f385b
-SHA1: b4fce6468e7e7691878b36aa1933a7bc1c44d3ec
-SHA256: deca4c78baaf18ad1eddc93e67b00b713e0904b65582ea8d006544d971ab8f95
+Size: 418924
+MD5sum: 7dbedca3a1da03896a3e5a7d352c7ddd
+SHA1: 954151768e1337dcde535cf5c0f905c7e3ce1470
+SHA256: bfc4d3e323fa98104c5f9ed3aa902000a10e952a23ae587061da4a9556eb2cd1
 Section: Tweaks
 Description: SmartDeck的托管返回依赖 Bottom-x 悬浮球 6.59，否则 Home 返回键不生效。安装 SmartDeck 前请先确认已安装 Bottom-x 悬浮球 6.59（本仓库同源提供，可一键安装）。已安装的用户无需重复安装。
 Author: kanuo
-Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bottomx.png
 Name: Bottom-x 悬浮球(SmartDeck依赖)
 
 Package: com.taikulayyds.bottomx
@@ -20869,14 +20869,14 @@ Installed-Size: 1084
 Depends: mobilesubstrate | ellekit, preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
 Conflicts: com.kanuo.floatballx
 Filename: ./debs/iphoneos-arm64e/com.taikulayyds.bottomx_6.59_iphoneos-arm64e.deb
-Size: 419044
-MD5sum: 8f54a97fd51d430d6c00a74741579cdd
-SHA1: dd5ab0c7318d56e9af56ce88581522fca81002b2
-SHA256: 417b2746785705ec92c41e21f60bdc116bfd467446778499c15af653727c1cb3
+Size: 419236
+MD5sum: ab6b2c9549c641e0098edf62f2901291
+SHA1: 2d7a1dcf79ceda5d21782b2f7d742ae3bf8688d5
+SHA256: dcf98320a6f68af1aa1812231bb77030f91447c64e03506293a3dfc489d27b84
 Section: Tweaks
 Description: SmartDeck的托管返回依赖 Bottom-x 悬浮球 6.59，否则 Home 返回键不生效。安装 SmartDeck 前请先确认已安装 Bottom-x 悬浮球 6.59（本仓库同源提供，可一键安装）。已安装的用户无需重复安装。
 Author: kanuo
-Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bottomx.png
 Name: Bottom-x 悬浮球(SmartDeck依赖)
 
 Package: com.taikulayyds.calclog
