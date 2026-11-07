@@ -16053,6 +16053,46 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Name: CPU智能温控(iOS16/17)
 
 Package: com.qq391160.cpucore
+Version: 2.0.473
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4396
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.473_iphoneos-arm64.deb
+Size: 659252
+MD5sum: c3f3c2821d7d757b8eaae20ba1b94781
+SHA1: 47f56a07455989f0263041c00873cf8bed1717b3
+SHA256: c0388c3b8cc120980a541fb272278318a3d44a46e463b4b58d7a06a4525faccb
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.473
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4668
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.473_iphoneos-arm64e.deb
+Size: 728416
+MD5sum: e52cfd3978781eefa4027b159847d73d
+SHA1: 93c20413253161740bfb367732cf1c28c71aae8b
+SHA256: 0c6a075d2f998d78a9a7f48e8d70d15db331f08fcc6277cd19b90671ba2727c3
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
 Version: 2.0.5
 Architecture: iphoneos-arm64
 Maintainer: qq391160
@@ -23130,6 +23170,44 @@ Description: next level diarrhea.让你的旧设备体验 Liquid Glass 液态玻
 Author: dylv
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/liquidass.png
 Name: Liquid (Gl)ass 液态玻璃
+
+Package: dylv.liquidass
+Version: 0.1.2t+r2
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 10560
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), preferenceloader, com.opa334.libsandy (>= 1.1.6)
+Conflicts: dylv.blurless, com.ngkhoi.liquidass27
+Replaces: dylv.blurless, com.ngkhoi.liquidass27
+Filename: ./debs/iphoneos-arm64/dylv.liquidass_0.1.2t+r2_iphoneos-arm64.deb
+Size: 4113284
+MD5sum: 49d30e42146e82dfa4c60c97960c9a33
+SHA1: f697456b7cce3902d3bcb95139ad755d4b8b23f6
+SHA256: b910d07aa304f683d2a5fc4f54a91a8d6daeb1870328023428c3e4ded345e23e
+Section: Tweaks
+Description: next level diarrhea
+Author: dylv
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Name: Liquid (Gl)ass
+
+Package: dylv.liquidass
+Version: 0.1.2t+r2
+Architecture: iphoneos-arm64e
+Maintainer: dylv
+Installed-Size: 10560
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), preferenceloader, com.opa334.libsandy (>= 1.1.6)
+Conflicts: dylv.blurless, com.ngkhoi.liquidass27
+Replaces: dylv.blurless, com.ngkhoi.liquidass27
+Filename: ./debs/iphoneos-arm64e/dylv.liquidass_0.1.2t+r2_iphoneos-arm64e.deb
+Size: 4106836
+MD5sum: e9205ebf1e92f0a4ac5f45c244109714
+SHA1: 3fcaf3e7737e83fa1ba9c68c575287d89164a2e1
+SHA256: ef87d8b40d10ccb3dc509f02daa398de3a467c11e1ef87ecfde0bf320fae7ea0
+Section: Tweaks
+Description: next level diarrhea
+Author: dylv
+Icon: https://winaviation.github.io/repo/depictions/dylv.liquidass/icon.png
+Name: Liquid (Gl)ass
 
 Package: im.mjh.fakeperm
 Version: 8.9.3
