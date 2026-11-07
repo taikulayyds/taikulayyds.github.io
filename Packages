@@ -14981,6 +14981,38 @@ Depiction: https://chariz.com/get/velvet-2
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/velvet2.png
 Name: Velvet 2
 
+Package: com.ntm.batteryanalyzer
+Version: 1.6.10
+Architecture: iphoneos-arm64
+Maintainer: yzdmm2024
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/iphoneos-arm64/com.ntm.batteryanalyzer_1.6.10_iphoneos-arm64.deb
+Size: 94136
+MD5sum: 591117c9fb1646dcc9e8ec25de33a51e
+SHA1: 10dbcdd6be991c484b83351e1eb98eaa91528c01
+SHA256: b89879245f79b31e8d8ecd51b607a0ccb5eed9f3976296cb4ab8e71b42d9680f
+Section: Tweaks
+Description: 电池耗电分析：注入SpringBoard监控每App前台/后台运行时间与电量变化，估算每App耗电，显示电量历史与本次耗电统计
+Author: yzdmm2024
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/batteryanalyzer.png
+Name: 电池耗电分析
+
+Package: com.ntm.batteryanalyzer
+Version: 1.6.10
+Architecture: iphoneos-arm64e
+Maintainer: yzdmm2024
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.ntm.batteryanalyzer_1.6.10_iphoneos-arm64e.deb
+Size: 94080
+MD5sum: 3c966e9874bdc8154662c29d93e0cdef
+SHA1: e555de482f5cfca35f9a3c4e6ddc1d7bda27ddc0
+SHA256: 71b88f86d97addeeab53891f2f04ab1d6362f40b4288294b9dcf3bb446d84fdc
+Section: Tweaks
+Description: 电池耗电分析：注入SpringBoard监控每App前台/后台运行时间与电量变化，估算每App耗电，显示电量历史与本次耗电统计
+Author: yzdmm2024
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/batteryanalyzer.png
+Name: 电池耗电分析
+
 Package: com.ntm.notifymanager
 Version: 2.3.50
 Architecture: iphoneos-arm64
