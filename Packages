@@ -25623,6 +25623,40 @@ Author: waruhachi
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/jikan.png
 Name: Jikan
 
+Package: moe.waru.jikan
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: waruhachi
+Installed-Size: 2704
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/iphoneos-arm64/moe.waru.jikan_1.2.0_iphoneos-arm64.deb
+Size: 394736
+MD5sum: aa8be8c949277e744fac9d5ae3b17e6b
+SHA1: 0cb464648a666b52fdf098dc2f7bd2204188a881
+SHA256: 0c681f530c2729b0602fd15be7bc1082c1fbbe86e92816effcc04fa7ded53445
+Section: Tweaks
+Description: Show time left to full charge on your lock screen
+Author: waruhachi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/jikan.png
+Name: Jikan
+
+Package: moe.waru.jikan
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: waruhachi
+Installed-Size: 2704
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/iphoneos-arm64e/moe.waru.jikan_1.2.0_iphoneos-arm64e.deb
+Size: 391584
+MD5sum: 689d5aae0d0e46918c8eaa98e584fbd9
+SHA1: 8c45f010746209072e0e20f7564c6c8907094bee
+SHA256: 80167a4e7df096350bafbc1679d75ca539f206c07fccdc50089b9bcbf01b3aaa
+Section: Tweaks
+Description: Show time left to full charge on your lock screen
+Author: waruhachi
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/jikan.png
+Name: Jikan
+
 Package: org.coolstar.sileo
 Version: 2.5.1-13
 Architecture: iphoneos-arm64e
