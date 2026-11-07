@@ -4513,10 +4513,10 @@ Installed-Size: 1084
 Depends: mobilesubstrate | ellekit, preferenceloader, com.colorblack.bottomx.ios17, firmware (>= 16.0), firmware (<< 18.0)
 Conflicts: com.kanuo.floatballx
 Filename: ./debs/iphoneos-arm64/com.colorblack.bottomx.floatingball_6.59_iphoneos-arm64.deb
-Size: 419520
-MD5sum: ecd22af8c0c290819f08e25d3974ae6f
-SHA1: f8fad22960743203d74c1d03067498183f5175c8
-SHA256: 4eac882341584cd60a087fcd8c3bdb46e564d4ca1e9620e45314488f697fee4c
+Size: 419668
+MD5sum: ca5c728a622c2a1e752d57db6b8d3198
+SHA1: ee872149a999df89cdab1502be6edf552a3b287e
+SHA256: 87e2a3ef05571ebe057adf99ff4fb76d4f8fc192a170874753d79ccad60ffafa
 Section: Tweaks
 Description: 依赖 Bottom-x 底部横条返回插件，为其新增一个可自定义的悬浮球，点击即可返回上一层。
  依赖 Bottom-x 底部横条返回插件（感谢大佬开发），在其基础上新增悬浮球交互。
@@ -4541,7 +4541,7 @@ Description: 依赖 Bottom-x 底部横条返回插件，为其新增一个可自
  【依赖】
  - com.colorblack.bottomx.ios17（Bottom-x 底部横条返回）
 Author: kanuo
-Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bottomx.png
 Name: Bottom-x 悬浮球
 
 Package: com.colorblack.bottomx.floatingball
@@ -4552,10 +4552,10 @@ Installed-Size: 1084
 Depends: mobilesubstrate | ellekit, preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
 Conflicts: com.kanuo.floatballx
 Filename: ./debs/iphoneos-arm64e/com.colorblack.bottomx.floatingball_6.59_iphoneos-arm64e.deb
-Size: 419680
-MD5sum: 58cf04812208ae41884287089a353350
-SHA1: 7a317d38c98024042391b7b0abe7e058250feecf
-SHA256: 4868837c9ecbc080a5b11e9e99ad0f62175faef6a943e425953654bd92dd16d9
+Size: 419772
+MD5sum: 0d94bcdb9a77b1aa5169973ab03a2782
+SHA1: 6732e56fa01fb0cd7974a60a9a27c616879cce3b
+SHA256: cc3ca4d22bbc64f7451daea97446ae8b6e18bcbabf898ecde1639e291963c6b2
 Section: Tweaks
 Description: 依赖 Bottom-x 底部横条返回插件，为其新增一个可自定义的悬浮球，点击即可返回上一层。
  依赖 Bottom-x 底部横条返回插件（感谢大佬开发），在其基础上新增悬浮球交互。
@@ -4580,7 +4580,7 @@ Description: 依赖 Bottom-x 底部横条返回插件，为其新增一个可自
  【依赖】
  - com.colorblack.bottomx.ios17（Bottom-x 底部横条返回）
 Author: kanuo
-Icon: https://jimkanuo.github.io/apt-repo/depiction/bottomx-floatingball/avatar.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/bottomx.png
 Name: Bottom-x 悬浮球
 
 Package: com.colorblack.bottomx.floatingball
@@ -20435,13 +20435,13 @@ Installed-Size: 404
 Pre-Depends: firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64/com.susu.hidekbsettings_1.0.7_iphoneos-arm64.deb
-Size: 24612
-MD5sum: c242e5ae73eb3f39d72a219556c4c74b
-SHA1: 0f6241b50fe8358d249569c159d401ea7281b438
-SHA256: 7878a6c53df91ef425f88453ec4569c5740ed87cc3e13237e26602af2a547680
+Size: 24616
+MD5sum: d81c972387d49c48b419155aab64be5b
+SHA1: 2f8d7376ac8be0171e846af58697eda5812d389b
+SHA256: 085b1e8f993437e83ecf17ffe38abf133e03fdf7cd0662d2b743f77e8cd4d59b
 Section: Tweaks
 Description: 隐藏键盘切换中的"键盘设置"选项,苏苏汉化编译
-Icon: https://www.susubaby.top/images/HidekBSettings.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/hidekbsettings.png
 Name: HideKBSettings
 
 Package: com.susu.hidekbsettings
@@ -20452,13 +20452,13 @@ Installed-Size: 404
 Pre-Depends: rootless-compat(>= 0.9), firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.susu.hidekbsettings_1.0.7_iphoneos-arm64e.deb
-Size: 24120
-MD5sum: 3e4c9575d684e34a2e6f3695a32859e8
-SHA1: 7eb663ea4d814ca1ba857064650640fdbc38a022
-SHA256: e218bea38f09631773e8cb51f9a4460f213bb9ff7355a52cd37e6ac0048c36c2
+Size: 24148
+MD5sum: d87c636cc358d6f477bbeff0621d922a
+SHA1: 8f3b61818ba2f6d18e2c91ddf01c3408b9ce39fd
+SHA256: c84bf55e896560fe21f66c97e4efbf2ef91a499652f86cd46bedd168520c7672
 Section: Tweaks
 Description: 隐藏键盘切换中的"键盘设置"选项,苏苏汉化编译
-Icon: https://www.susubaby.top/images/HidekBSettings.png
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/hidekbsettings.png
 Name: HideKBSettings
 
 Package: com.susu.powermenu
