@@ -16825,6 +16825,44 @@ Author: qq391160
 Icon: https://qq391160.github.io/repo/icons/thermal.png
 Name: CPU智能温控(iOS16/17)
 
+Package: com.qy.freememory
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: 清野
+Installed-Size: 1407
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Replaces: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Filename: ./debs/iphoneos-arm64/com.qy.freememory_0.0.6_iphoneos-arm64.deb
+Size: 109796
+MD5sum: c2e5b8e21fce47b4757010966678abd0
+SHA1: 0df16e6b38b4286c668500b03bbd18b203160607
+SHA256: dff555da633e722ae00875f16979da64e454bc3470e1573fb8f03ae26b310981
+Section: Tweaks
+Description: 一键结束后台 App 释放物理内存，只在设置页点「立即回收」时执行。(iOS 15-17)
+Author: 清野
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/memtrim.png
+Name: free memory
+
+Package: com.qy.freememory
+Version: 0.0.6
+Architecture: iphoneos-arm64e
+Maintainer: 清野
+Installed-Size: 1119
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Conflicts: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Replaces: com.crctdd.memtrim, com.crctdd.memtrim.auto
+Filename: ./debs/iphoneos-arm64e/com.qy.freememory_0.0.6_iphoneos-arm64e.deb
+Size: 106480
+MD5sum: 87d54bd6eebca56c59f52581558d1344
+SHA1: eb61e7f5d719cf00af08589f9d34c0134b6fda99
+SHA256: ae457cfbca200a4822010e070de41de8b53d6ac65fd02bfc7ffcec4c6ba59f27
+Section: Tweaks
+Description: 一键结束后台 App 释放物理内存，只在设置页点「立即回收」时执行。(iOS 15-17)
+Author: 清野
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/memtrim.png
+Name: free memory
+
 Package: com.roothide.patcher
 Version: 2.1.5
 Architecture: iphoneos-arm64e
