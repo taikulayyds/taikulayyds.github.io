@@ -23421,6 +23421,40 @@ Author: Banana
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
 Name: iOS27 Animation
 
+Package: iya.banana.ios27animation
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 4044
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/iya.banana.ios27animation_1.0.3_iphoneos-arm64.deb
+Size: 1015968
+MD5sum: beb31e571ca91bef8bfdd0ab4916c228
+SHA1: c8b0692e27f03af9fd795afcc23e5e8663183c01
+SHA256: 7e0b4cb3362935ba9f19e9458921308079e41fb6c2d2f03e3c8b8ac6a1ceb886
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 4044
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/iya.banana.ios27animation_1.0.3_iphoneos-arm64e.deb
+Size: 1013676
+MD5sum: 5f846d8973680cd02119bca906df8c0e
+SHA1: 8a0562ecd9e671fd560ed6d1ea43ac68f950e5c0
+SHA256: 81a4c24fa6758d9ead6e379605868cc15b32997cb45c9a2d685e6f2bfdeb616a
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
 Package: iya.banana.iphoneduoflow
 Version: 0.1.5
 Architecture: iphoneos-arm64
