@@ -16093,6 +16093,46 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Name: CPU智能温控(iOS16/17)
 
 Package: com.qq391160.cpucore
+Version: 2.0.479
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4396
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.479_iphoneos-arm64.deb
+Size: 659550
+MD5sum: 9a91b7b36c8236aa37212b9ec944f952
+SHA1: f05a64273733e15034a15b5a0bf276a36944c34c
+SHA256: 0fdedf10e74bcd4e6b89166136fee7c08b2672c58ded2e01f842dc6a97267975
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.479
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4636
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.479_iphoneos-arm64e.deb
+Size: 726314
+MD5sum: 686532a8025b38fb4b1bda97f1c0ebab
+SHA1: 00270ca8ec4f58c54e4ed2f4fc8aaedb75501724
+SHA256: 00973fa465da28d2479b331cd0b4477c97ae66739eb7e228c7dbba60bffed818
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
 Version: 2.0.5
 Architecture: iphoneos-arm64
 Maintainer: qq391160
@@ -23180,10 +23220,10 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), 
 Conflicts: dylv.blurless, com.ngkhoi.liquidass27
 Replaces: dylv.blurless, com.ngkhoi.liquidass27
 Filename: ./debs/iphoneos-arm64/dylv.liquidass_0.1.2t+r2_iphoneos-arm64.deb
-Size: 4109744
-MD5sum: 769b7f460d7246ad3b741f3731a8175b
-SHA1: 58e655d6d6a8df011d2f0229cbfe3bed3d11437e
-SHA256: 22c593ae9beeb56cab79488400137c59e983158edc73aaa339304f18b795333a
+Size: 4105964
+MD5sum: abddace14898982d5e6c73e7d3965272
+SHA1: 8c0d5cc470f4af138abb985bc6aed0ea63f59845
+SHA256: 1e9bc90ce770470bb3333cf6cdf25f307e8acba1d3b59ac3990cf19d13224178
 Section: Tweaks
 Description: next level diarrhea
 Author: dylv
@@ -23199,10 +23239,10 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), 
 Conflicts: dylv.blurless, com.ngkhoi.liquidass27
 Replaces: dylv.blurless, com.ngkhoi.liquidass27
 Filename: ./debs/iphoneos-arm64e/dylv.liquidass_0.1.2t+r2_iphoneos-arm64e.deb
-Size: 4109112
-MD5sum: 9dbd2401cd3ec2a4994c175a8177cfe2
-SHA1: 128709cfe8798ea9a38a149f76d722fc664f9d9d
-SHA256: 91f640e9d9cf3552b9f2171233453bb29b3ac0d18910a3dfebcf8357cb7dfd9d
+Size: 4106568
+MD5sum: 0d01d650b5f173e8e89aea9b8110abc7
+SHA1: 78dd96b7041a1f9ddbe1746730cbb5d4675454f6
+SHA256: 1672b725c313c68a7c895441bfb55a9a78947c0bae7331a226d291c83771a156
 Section: Tweaks
 Description: next level diarrhea
 Author: dylv
