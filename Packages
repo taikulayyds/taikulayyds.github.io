@@ -23180,10 +23180,10 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), 
 Conflicts: dylv.blurless, com.ngkhoi.liquidass27
 Replaces: dylv.blurless, com.ngkhoi.liquidass27
 Filename: ./debs/iphoneos-arm64/dylv.liquidass_0.1.2t+r2_iphoneos-arm64.deb
-Size: 4113284
-MD5sum: 49d30e42146e82dfa4c60c97960c9a33
-SHA1: f697456b7cce3902d3bcb95139ad755d4b8b23f6
-SHA256: b910d07aa304f683d2a5fc4f54a91a8d6daeb1870328023428c3e4ded345e23e
+Size: 4109744
+MD5sum: 769b7f460d7246ad3b741f3731a8175b
+SHA1: 58e655d6d6a8df011d2f0229cbfe3bed3d11437e
+SHA256: 22c593ae9beeb56cab79488400137c59e983158edc73aaa339304f18b795333a
 Section: Tweaks
 Description: next level diarrhea
 Author: dylv
@@ -23199,10 +23199,10 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), 
 Conflicts: dylv.blurless, com.ngkhoi.liquidass27
 Replaces: dylv.blurless, com.ngkhoi.liquidass27
 Filename: ./debs/iphoneos-arm64e/dylv.liquidass_0.1.2t+r2_iphoneos-arm64e.deb
-Size: 4106836
-MD5sum: e9205ebf1e92f0a4ac5f45c244109714
-SHA1: 3fcaf3e7737e83fa1ba9c68c575287d89164a2e1
-SHA256: ef87d8b40d10ccb3dc509f02daa398de3a467c11e1ef87ecfde0bf320fae7ea0
+Size: 4109112
+MD5sum: 9dbd2401cd3ec2a4994c175a8177cfe2
+SHA1: 128709cfe8798ea9a38a149f76d722fc664f9d9d
+SHA256: 91f640e9d9cf3552b9f2171233453bb29b3ac0d18910a3dfebcf8357cb7dfd9d
 Section: Tweaks
 Description: next level diarrhea
 Author: dylv
