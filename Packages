@@ -22383,6 +22383,50 @@ Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
 Name: PullOver X
 Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
 
+Package: com.tsangbaby.pulloverx
+Version: 2.4.1
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: ./debs/iphoneos-arm64/com.tsangbaby.pulloverx_2.4.1_iphoneos-arm64.deb
+Size: 677716
+MD5sum: 59acc465239f0f42120cd4a1c1ae4633
+SHA1: d1ebd81296a5b1c6d2c3ac4c8ab93ba50257711a
+SHA256: 8b78f3b7a2c912a73acd70683258ac5d5542282a6da775e61ba0d3e13e3f4178
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Depiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.4.1
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: ./debs/iphoneos-arm64e/com.tsangbaby.pulloverx_2.4.1_iphoneos-arm64e.deb
+Size: 675804
+MD5sum: 0faefd18400f838782b1000cc09b2fc2
+SHA1: 8f86d8096d66af3107cc79e9f18af0f4fb8255fa
+SHA256: 168570c122bebea574696dfdc6d9d8cfd1bf718d4fc5e93a4d6bf86921eedb1f
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Depiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
 Package: com.tsangbaby.randomiconsflip
 Version: 0.1.1
 Architecture: iphoneos-arm64e
@@ -23580,6 +23624,40 @@ Size: 1038368
 MD5sum: e48b92e0e1614c0452b93be62bc71dfe
 SHA1: 1cd6ad541af114d22e2f18a5c887be4e7d945c81
 SHA256: 3f2b93c5ebaee15752bb733d879f021e82c8214c25a0141c1d2a974d2b23d566
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 4148
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/iya.banana.ios27animation_1.0.5_iphoneos-arm64.deb
+Size: 1057524
+MD5sum: 8c512dd22afbf49d8ec9dfc1ccd30560
+SHA1: b4df6ecdaa7ac870aab9e57b975a77de217932c9
+SHA256: e3be78e1e9d39e49bf7c65c9cfee205f778b6633cdef87250eb48a349cf10ce5
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 4144
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/iya.banana.ios27animation_1.0.5_iphoneos-arm64e.deb
+Size: 1057312
+MD5sum: ce1d6b158a14176a32dd40d7b3deac21
+SHA1: 87863e13e23c77cd8f628d6494e4dbaf4012f64f
+SHA256: 168c81e98f8e59ad82abdb47f9a7d0b78f2459b7c79075211c58df6fc45ce397
 Section: Tweaks
 Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
 Author: Banana
