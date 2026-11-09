@@ -22245,6 +22245,23 @@ Depiction: https://chariz.com/get/popoutbuttons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Name: PopOutButtons
 
+Package: com.tigisoftware.filza64bit
+Version: 4.0.1-4~roothide
+Architecture: iphoneos-arm64e
+Maintainer: TIGI Software
+Pre-Depends: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/iphoneos-arm64e/com.tigisoftware.filza64bit_4.0.1-4~roothide_iphoneos-arm64e.deb
+Size: 6974956
+MD5sum: e925b48d337a7026569ffee45b3681d7
+SHA1: 83ef690924a9ff716bd11e445b4dbd39aad7030a
+SHA256: 6c33cb2f7f1a2d797959e83688419afccb9241965a1816351bb119652a1f147c
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Author: TIGI Software
+Name: Filza File Manager 64-bit
+
 Package: com.tsangbaby.kayoko
 Version: 4.8
 Architecture: iphoneos-arm64e
@@ -24398,6 +24415,25 @@ Description: Calculator, but smaller
 Author: sourcelocation
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cardculator.png
 Name: Cardculator
+
+Package: roothide.patches.filza
+Version: 0.6-1
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 284
+Depends: com.roothide.patchloader
+Recommends: com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Conflicts: com.tigisoftware.filza64bit(>> 4.0.1-4~roothide), com.tigisoftware.filza64bit(<< 4.0.1-4~roothide)
+Provides: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Filename: ./debs/iphoneos-arm64e/roothide.patches.filza_0.6-1_iphoneos-arm64e.deb
+Size: 34260
+MD5sum: c8112fba238e04f0aa2a635a3081bffc
+SHA1: 6541e9e7d13ff90bbfc4f17864eefff04655a89d
+SHA256: 8d1c5abf0b63a29b8085efd8190efd2751f5beef95fff3282960ec55cce412a0
+Section: RootHide Patches
+Description: RootHide Dynamic Patches For Filza
+Author: roothide
+Name: Patches for Filza 64bit
 
 Package: ru.domo.cocoatop64
 Version: 2.2.4
