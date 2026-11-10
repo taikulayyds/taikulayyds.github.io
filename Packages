@@ -11907,6 +11907,39 @@ Author: Jonathan Winger-lang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/snapper3.png
 Name: Snapper 3
 
+Package: com.jumping.thermaldetect
+Version: 1.0.32
+Architecture: iphoneos-arm64
+Maintainer: jumping8
+Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
+Filename: ./debs/iphoneos-arm64/com.jumping.thermaldetect_1.0.32_iphoneos-arm64.deb
+Size: 155960
+MD5sum: 3f9197115793b5a8f6825d5744d74edc
+SHA1: db79b8112ec8256bc9682015f60a9ff4a63720c8
+SHA256: 69ad7b518dbd01f54d0a7a9321531fd1837e5e7c8202641699332dadb03c51c3
+Section: Tweaks
+Description: 定位导致设备过热/耗电的进程/插件/App（thermalState + 每进程 CPU + 插件 Filter 匹配）
+Author: jumping8
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/thermaldetect.png
+Name: 耗电发热排行榜
+
+Package: com.jumping.thermaldetect
+Version: 1.0.32
+Architecture: iphoneos-arm64e
+Maintainer: jumping8
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
+Filename: ./debs/iphoneos-arm64e/com.jumping.thermaldetect_1.0.32_iphoneos-arm64e.deb
+Size: 155808
+MD5sum: cd21bcfd186b9d664d6c8cb591797545
+SHA1: 24a03fc18a8342b538733ab7ce0059e164b92c2c
+SHA256: 2f3a24d3508aeeaac055941123f908613cfa97752fb257edcdeff2d16b85a7b1
+Section: Tweaks
+Description: 定位导致设备过热/耗电的进程/插件/App（thermalState + 每进程 CPU + 插件 Filter 匹配）
+Author: jumping8
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/thermaldetect.png
+Name: 耗电发热排行榜
+
 Package: com.kitten.tweaktool
 Version: 2.0.0-beta
 Architecture: iphoneos-arm64
@@ -16789,6 +16822,46 @@ Size: 727760
 MD5sum: f64cde20b62b2560c89f582c6f874b38
 SHA1: 29fa5198321ae3b3d4b54f2232f8d0144975bb42
 SHA256: 2943ac0f61984bb183a73024d284aa9d2fdbe944c7636c71e69168d86e5217fb
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.495
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4396
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.495_iphoneos-arm64.deb
+Size: 662952
+MD5sum: 615d25b434074aa4eb7f59f64d34e2d6
+SHA1: c9f2b41d8bc1bda0ed0e0bc60d7e362a68633c43
+SHA256: 66ca3240356eb12285e0ff63365490e77bc0dc13142d877dbc86ecc4cdde75c5
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.495
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4700
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.495_iphoneos-arm64e.deb
+Size: 736136
+MD5sum: 65d7907abf9da4c41c673303d4a48cc6
+SHA1: 226f26ebf4321974a3ba0bd4f6d627b0be8a6f7a
+SHA256: e51802ee5a91b654e6c30e40e83717acd09ab983e2fd0de16ce336a180b24115
 Section: Tweaks
 Priority: optional
 Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
@@ -22877,11 +22950,11 @@ Pre-Depends: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
 Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
 Filename: ./debs/iphoneos-arm64e/com.tigisoftware.filza64bit_4.0.1-4~roothide_iphoneos-arm64e.deb
-Size: 6974956
-MD5sum: e925b48d337a7026569ffee45b3681d7
-SHA1: 83ef690924a9ff716bd11e445b4dbd39aad7030a
-SHA256: 6c33cb2f7f1a2d797959e83688419afccb9241965a1816351bb119652a1f147c
-Section: Utilities
+Size: 6975612
+MD5sum: 30e5ab7776ff1a493fc11d9031fb9c84
+SHA1: da5f1e9722bc7fb7432f080abd5562c243d0ca20
+SHA256: 5f71f28eb209fb01294003aa8d46d641b7f7b3dd56dd5ea2232ff7dc66453db3
+Section: Tweaks
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
 Author: TIGI Software
 Name: Filza File Manager 64-bit
@@ -24322,6 +24395,40 @@ Author: Banana
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
 Name: iOS27 Animation
 
+Package: iya.banana.ios27animation
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 4148
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/iya.banana.ios27animation_1.0.7_iphoneos-arm64.deb
+Size: 1087560
+MD5sum: 50cc61c9ed620c439b3ea791993b1834
+SHA1: bc9f6c03b2738e92ed1f6a866780764ef9f6cc4e
+SHA256: 7f79ba3afc535662ce7304530def55de5b46ed3bf0e989fe01d29d324dfec4f2
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 4144
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/iya.banana.ios27animation_1.0.7_iphoneos-arm64e.deb
+Size: 1083536
+MD5sum: 977f673fe06b7d5c871d5a100a147875
+SHA1: c3608cae6878edd7c1a800196f1d342f65a49c36
+SHA256: 623ac626d0089ad0e6e1093f6a6f260def5e97ff8ab537e569592bad7eb6ea62
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
 Package: iya.banana.iphoneduoflow
 Version: 0.1.5
 Architecture: iphoneos-arm64
@@ -25162,11 +25269,11 @@ Recommends: com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
 Conflicts: com.tigisoftware.filza64bit(>> 4.0.1-4~roothide), com.tigisoftware.filza64bit(<< 4.0.1-4~roothide)
 Provides: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
 Filename: ./debs/iphoneos-arm64e/roothide.patches.filza_0.6-1_iphoneos-arm64e.deb
-Size: 34260
-MD5sum: c8112fba238e04f0aa2a635a3081bffc
-SHA1: 6541e9e7d13ff90bbfc4f17864eefff04655a89d
-SHA256: 8d1c5abf0b63a29b8085efd8190efd2751f5beef95fff3282960ec55cce412a0
-Section: RootHide Patches
+Size: 34292
+MD5sum: 237c448533c069a1de6acb02eb3d9e98
+SHA1: c73e70efd68d325db403e929a4d9ebd44743037f
+SHA256: a123e3ceaf9c5c959487625c81b834e4d66456cf41ff75847e2b3c02866876d0
+Section: Tweaks
 Description: RootHide Dynamic Patches For Filza
 Author: roothide
 Name: Patches for Filza 64bit
@@ -25207,6 +25314,38 @@ Author: Domo <domo@rambler.ru>
 Icon: https://siieo.github.io/sileodepictions/CocoaTop/icon.png
 Name: CocoaTop64
 Sileodepiction: https://siieo.github.io/sileodepictions/CocoaTop/CocoaTop.json
+
+Package: wacljcr.batteryanalyzer
+Version: 1.6.7
+Architecture: iphoneos-arm64
+Maintainer: yzdmm2024
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/iphoneos-arm64/wacljcr.batteryanalyzer_1.6.7_iphoneos-arm64.deb
+Size: 126212
+MD5sum: 1b672038fd38eab962e890bfabc1d281
+SHA1: 1d5c49d5f6f59202cf4ba286b6048186686e0b68
+SHA256: 6614f3d810dcad666604c8d9ebc2dbf5c000766ac911a7c62dd7e8cec25a19ee
+Section: Tweaks
+Description: 电池耗电分析：统计各 App 前台/后台运行时长与电量变化，估算耗电占比，展示电量历史与充放电统计。注：耗电为估算值，仅供参考，非精确测量。
+Author: yzdmm2024
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/batteryanalyzer.png
+Name: 电池耗电分析
+
+Package: wacljcr.batteryanalyzer
+Version: 1.6.7
+Architecture: iphoneos-arm64e
+Maintainer: yzdmm2024
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/iphoneos-arm64e/wacljcr.batteryanalyzer_1.6.7_iphoneos-arm64e.deb
+Size: 126292
+MD5sum: 3728a3be999693661014ef338032be79
+SHA1: f512de34e989a499503855a7148ff36a8a87de7d
+SHA256: 57c779fd9cbec2e8ba4ddbe0e71a6eddb793a0486191873ef7f528d17523a6b1
+Section: Tweaks
+Description: 电池耗电分析：统计各 App 前台/后台运行时长与电量变化，估算耗电占比，展示电量历史与充放电统计。注：耗电为估算值，仅供参考，非精确测量。
+Author: yzdmm2024
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/batteryanalyzer.png
+Name: 电池耗电分析
 
 Package: wiki.qaq.colorfulwallpaperx
 Version: 5.2
