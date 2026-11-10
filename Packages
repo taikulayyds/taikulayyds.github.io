@@ -24617,15 +24617,15 @@ Package: dylv.liquidass
 Version: 0.1.2t+r2
 Architecture: iphoneos-arm64
 Maintainer: dylv
-Installed-Size: 10560
+Installed-Size: 11412
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), preferenceloader, com.opa334.libsandy (>= 1.1.6)
 Conflicts: dylv.blurless, com.ngkhoi.liquidass27
 Replaces: dylv.blurless, com.ngkhoi.liquidass27
 Filename: ./debs/iphoneos-arm64/dylv.liquidass_0.1.2t+r2_iphoneos-arm64.deb
-Size: 4105964
-MD5sum: abddace14898982d5e6c73e7d3965272
-SHA1: 8c0d5cc470f4af138abb985bc6aed0ea63f59845
-SHA256: 1e9bc90ce770470bb3333cf6cdf25f307e8acba1d3b59ac3990cf19d13224178
+Size: 4182296
+MD5sum: c6dbf897aa6d18d14249b09223dfa601
+SHA1: dc782858b8d48d9668b73b226c1889fc72d2b175
+SHA256: 08efb58e0c89d636b1adcffac25603dbd98a235c97ae04652c70e475e07967bf
 Section: Tweaks
 Description: next level diarrhea
 Author: dylv
@@ -24636,15 +24636,15 @@ Package: dylv.liquidass
 Version: 0.1.2t+r2
 Architecture: iphoneos-arm64e
 Maintainer: dylv
-Installed-Size: 10560
+Installed-Size: 11412
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), preferenceloader, com.opa334.libsandy (>= 1.1.6)
 Conflicts: dylv.blurless, com.ngkhoi.liquidass27
 Replaces: dylv.blurless, com.ngkhoi.liquidass27
 Filename: ./debs/iphoneos-arm64e/dylv.liquidass_0.1.2t+r2_iphoneos-arm64e.deb
-Size: 4106568
-MD5sum: 0d01d650b5f173e8e89aea9b8110abc7
-SHA1: 78dd96b7041a1f9ddbe1746730cbb5d4675454f6
-SHA256: 1672b725c313c68a7c895441bfb55a9a78947c0bae7331a226d291c83771a156
+Size: 4184424
+MD5sum: 621b24f751452c48cf356749dd77c7c8
+SHA1: cdcaf274c487dbcbacf71f13ce66ff7b90f671f3
+SHA256: 2a4c9f15521c01d5ee8886005519bb41ce56ce7004ff1a99b3e30a31a4b96d2b
 Section: Tweaks
 Description: next level diarrhea
 Author: dylv
