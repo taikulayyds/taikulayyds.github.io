@@ -10780,6 +10780,38 @@ Author: 航
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/squidgesturepro.png
 Name: 乌贼手势 iOS 17 补丁
 
+Package: com.huayuarc.vpncc
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 442
+Depends: firmware (>= 16.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64/com.huayuarc.vpncc_0.1.0_iphoneos-arm64.deb
+Size: 27264
+MD5sum: 192cd7ccc23b3e21dcbfe196e36eaa11
+SHA1: 630e1f3d265abe76e8bed76380c5a0c3f46de22e
+SHA256: a5eb6f08a8bc9bb4ce8da4e670a83995c4c0ff5a468e103e322afc9aa0dbbe0e
+Section: Tweaks
+Description: Toggle and select system personal VPN configurations from Control Center.
+Author: Huayuarc
+Name: VPN CC
+
+Package: com.huayuarc.vpncc
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Huayuarc
+Installed-Size: 200
+Depends: firmware (>= 16.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/com.huayuarc.vpncc_0.1.0_iphoneos-arm64e.deb
+Size: 20736
+MD5sum: 29e0f89dcca879009a24d952c37e9a9e
+SHA1: 4313a6f20746736ac31de8ef542e2d48e83d3420
+SHA256: e0700fa4c550124f4ceb2394805c18aa3a3c6b4bba38eb1ba804f0e8c0529f69
+Section: Tweaks
+Description: Toggle and select system personal VPN configurations from Control Center.
+Author: Huayuarc
+Name: VPN CC
+
 Package: com.ichitaso.hideserialnumber
 Version: 0.0.4
 Architecture: iphoneos-arm64
