@@ -13337,10 +13337,10 @@ Installed-Size: 4196
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
 Conflicts: com.example.actra-plugin
 Filename: ./debs/iphoneos-arm64/com.mlgm.actra_1.4_iphoneos-arm64.deb
-Size: 830910
-MD5sum: e7dabbf810ba9c061dd0534dc681bbbf
-SHA1: 46ec14174a4aae8ebce40132642d478555dadc70
-SHA256: 5ba93db9190c7fac8920ca7d31d90a13a9ee07b789116bd63a13535b00b07c02
+Size: 834680
+MD5sum: 2eb889a7abd51c8411f2a6d524362b7e
+SHA1: b5123efd20e3bcca46ea3f685a235ee5841ea4e4
+SHA256: ad83ca80e6447542b6f8336ded26a74bfafad06f200eb387c3d53e026df7ce8a
 Section: Tweaks
 Description: 手势与事件自动化工具
 Author: mlgm
@@ -13355,10 +13355,10 @@ Installed-Size: 4164
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
 Conflicts: com.example.actra-plugin
 Filename: ./debs/iphoneos-arm64e/com.mlgm.actra_1.4_iphoneos-arm64e.deb
-Size: 832932
-MD5sum: 8f8106b4988f54193bebb158f5071af8
-SHA1: eed26b518ee7f22fa592cfb8332d511c7fe4c4fe
-SHA256: 7c2234c869504b4f33527ac2cae3cf05a4cb012cc7fde1cb49a5a52f41bdb21b
+Size: 834664
+MD5sum: 6025024f365b8728b87d054efb811c99
+SHA1: 179c47b645d24b1e22a9975e84419b45d2696fc2
+SHA256: 26d4e1c1839bd28c49deb2952b377c81c9bffab7c765d7a150074e223ca3dd3d
 Section: Tweaks
 Description: 手势与事件自动化工具
 Author: mlgm
@@ -16273,6 +16273,42 @@ Author: opa334
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/crane.png
 Name: Crane
 
+Package: com.opa334.crane
+Version: 1.3.18
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 3268
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy (>=1.1.6), com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/iphoneos-arm64/com.opa334.crane_1.3.18_iphoneos-arm64.deb
+Size: 611024
+MD5sum: cff236dd4f0acf7637ff312531d436dd
+SHA1: a921af33fa1150ec892f912c52d1951def7fd81f
+SHA256: fc8f6a7ca196c3e5aa21152f1f2e51bec4f65dfb659a1e10ef09ccabba68f5f4
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/crane.png
+Name: Crane
+
+Package: com.opa334.crane
+Version: 1.3.18
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 3268
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy (>=1.1.6), com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/iphoneos-arm64e/com.opa334.crane_1.3.18_iphoneos-arm64e.deb
+Size: 610920
+MD5sum: 21cbb4254d3cd4874c8a5a571e61007a
+SHA1: d2744afc9c95e1efaac7aef30f66820530c3cc4d
+SHA256: c5d47c6b0a477e0fcacbb4f5d265f063a7959f551fc7406e0d31bc2a87672bf5
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/crane.png
+Name: Crane
+
 Package: com.opa334.cranes
 Version: 1.3.16-3
 Architecture: iphoneos-arm64
@@ -17724,6 +17760,46 @@ Size: 493516
 MD5sum: 577a5ed7dab22c8551188eea2f82ac8f
 SHA1: d0841f0b6412658803bbaa3cb60aca5a409174bd
 SHA256: f37407cc3b2fa42bff15a27b83f4143ced8c744bbbe3369fea9d6a91db8fad3d
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.500
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4428
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.500_iphoneos-arm64.deb
+Size: 675544
+MD5sum: 96ce9b44ded0e7fd83ebaf79ab5f09af
+SHA1: d5fb41c34e6633701b01265c701c5a186151897d
+SHA256: d667d60510e4643f8cd343acf94830859eec0d37f8ca708ddac21e6e6877092f
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.500
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4700
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.500_iphoneos-arm64e.deb
+Size: 750988
+MD5sum: b4722f7c6b26a29feae2a0480aa84b0e
+SHA1: 60c6971a91faf16d9689ccde810a0ec6928a0214
+SHA256: 2048689e6f280442912d4eeb9482c8cf84d5d3e35fc8704cbd1b077f62054f06
 Section: Tweaks
 Priority: optional
 Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
@@ -25006,6 +25082,74 @@ Description: Right-side Orbit and Capsule status icons with native reveal animat
 Author: Banana
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iphoneduoicon.png
 Name: Lunora DuoIcon
+
+Package: iya.banana.ios27animation
+Version: 1.0.10
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 4148
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/iya.banana.ios27animation_1.0.10_iphoneos-arm64.deb
+Size: 1109076
+MD5sum: 7c408560268cf2df4a9957c8dd969063
+SHA1: 0d859160f046a02bbfc324af31a549835e648825
+SHA256: 9ef52965eb28fea1cfdcb80bc2ad6a9833f10d449d102783685fa8bb1c327d9f
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.10
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 4144
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/iya.banana.ios27animation_1.0.10_iphoneos-arm64e.deb
+Size: 1107336
+MD5sum: 63e1e0a4d18bebbc0d86968a5b22fc04
+SHA1: 167f8becd769dea680af97628025d9ec4fd595c8
+SHA256: 522bec044ff85c4030cc0c1c56448895c3d4b3730b81cfedc3977d427d5c47b7
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.11
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 4148
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/iya.banana.ios27animation_1.0.11_iphoneos-arm64.deb
+Size: 1112864
+MD5sum: 39e8795b28460946d13b045bc32aa47b
+SHA1: a6ad1f6c7d026d20b80897849b99e0ba3bff6084
+SHA256: 61ee72fbf5ca4d2ab98f41b4af4d9a1e5b4d6f819b6ef776c5d2dda9285f0c9b
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.11
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 4144
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/iya.banana.ios27animation_1.0.11_iphoneos-arm64e.deb
+Size: 1112268
+MD5sum: 617964917c51a61646269156ada7955f
+SHA1: 64be091c375661d06d7fe660231e616c03c9d5cc
+SHA256: f78d4fd5876d8d0b14ae8cb4a04ec7258719a1ea4f9b7dd19d19b54e03921c33
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
 
 Package: iya.banana.ios27animation
 Version: 1.0.2
