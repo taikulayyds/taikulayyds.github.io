@@ -12643,6 +12643,39 @@ Author: jumping8
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/thermaldetect.png
 Name: 耗电发热排行榜
 
+Package: com.jumping.thermaldetect
+Version: 1.0.32-2
+Architecture: iphoneos-arm64
+Maintainer: jumping8
+Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
+Filename: ./debs/iphoneos-arm64/com.jumping.thermaldetect_1.0.32-2_iphoneos-arm64.deb
+Size: 220584
+MD5sum: e4eeb160ff501ffdec09453c785bfe7c
+SHA1: 168114f7ca4eec8e4eddf57c7d24eaebd88da8e6
+SHA256: 298e0384111f9abdf58c8cd205c19c031df58d02bd2e429d65831021b0709521
+Section: Tweaks
+Description: 定位哪个插件耗电发热排行榜，仅16.2系统真机，其他系统要安装自行负责。
+Author: jumping8
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/thermaldetect.png
+Name: 耗电发热排行榜
+
+Package: com.jumping.thermaldetect
+Version: 1.0.32-2
+Architecture: iphoneos-arm64e
+Maintainer: jumping8
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
+Filename: ./debs/iphoneos-arm64e/com.jumping.thermaldetect_1.0.32-2_iphoneos-arm64e.deb
+Size: 219884
+MD5sum: 40910c39cd7b4cc8d8c3f503a5c71de4
+SHA1: e8ae1c9193d7f38a1721eb56f8b16e6dd555d803
+SHA256: 73228cd79f717595801e99a7f5dd6d3a7872701b259773aad6115d490831d2ae
+Section: Tweaks
+Description: 定位哪个插件耗电发热排行榜，仅16.2系统真机，其他系统要安装自行负责。
+Author: jumping8
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/thermaldetect.png
+Name: 耗电发热排行榜
+
 Package: com.kitten.tweaktool
 Version: 2.0.0-beta
 Architecture: iphoneos-arm64
