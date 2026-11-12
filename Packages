@@ -738,6 +738,40 @@ Author: 82flex
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/crane.png
 Name: Crane PKDServer Fix
 
+Package: com.82flex.iconrestore
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.82flex.iconrestore_1.7_iphoneos-arm64.deb
+Size: 30632
+MD5sum: b8a900ee28b667341be5e9020cdff520
+SHA1: d0002227bd3dba70b907d0fb5c48b43b389b1e9d
+SHA256: d99eb2bee078083444e9bbc832b2008477121edf35c12efbaee7e89bbc1dcd86
+Section: Tweaks
+Description: Save and restore the layout of your icons.保存并恢复桌面图标布局。
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iconrestore.png
+Name: Icon Restore
+
+Package: com.82flex.iconrestore
+Version: 1.7
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.82flex.iconrestore_1.7_iphoneos-arm64e.deb
+Size: 30572
+MD5sum: c590de00da8c3c58e2800935a77c6da3
+SHA1: cb1e27820595570a218ae22daa5bf17643adb883
+SHA256: 526018141e29c6f5a2155f448780995626bab21bf72447e9e0a21ab94cfb6607
+Section: Tweaks
+Description: Save and restore the layout of your icons.保存并恢复桌面图标布局。
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/iconrestore.png
+Name: Icon Restore
+
 Package: com.82flex.noredirect
 Version: 1.10
 Architecture: iphoneos-arm64
