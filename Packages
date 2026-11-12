@@ -13614,11 +13614,11 @@ Maintainer: mlgm
 Installed-Size: 8288
 Depends: firmware (>= 15.0), apt, dpkg
 Filename: ./debs/iphoneos-arm64/com.mlgm.idata_1.3.7_iphoneos-arm64.deb
-Size: 2482608
-MD5sum: cd37002bb364477612132a4b9d3344f6
-SHA1: dd546b4799ad21d416e24d7137be99f742cef065
-SHA256: 867b7eff00239cb52f4c99f6d9971107310fb99afbb17aaab295718c4363eb94
-Section: Applications
+Size: 2484024
+MD5sum: ef60911a9a0b5d47ffd2d36560875b78
+SHA1: 508fc9ccbf78387c6486f3ee597587c5daeb20a6
+SHA256: f926a5a54d26315510b76871927df79344fda5a1d98cbf248f66ca5f25c14c9b
+Section: Tweaks
 Description: 应用、插件数据管理工具，一键备份/恢复
 Author: mlgm
 Icon: https://mlgm66.github.io/icon/idata.png
@@ -13631,11 +13631,11 @@ Maintainer: mlgm
 Installed-Size: 8272
 Depends: firmware (>= 15.0), apt, dpkg, roothide
 Filename: ./debs/iphoneos-arm64e/com.mlgm.idata_1.3.7_iphoneos-arm64e.deb
-Size: 2478752
-MD5sum: bf43aec6703f7ef03b03e9599e5bcc3a
-SHA1: 2427a85a9ed1c76480f85bbfec25c5a66aebc5a0
-SHA256: 1fd0a9e0bd3246557213df245fb1ecef27ebb341fd04f9b0df1ee977d62efb5c
-Section: Applications
+Size: 2481180
+MD5sum: ac8359d7b4dd1fcde78afac56abad9d5
+SHA1: 1e883e7af00c9e1607a6ed3570b31b4a9ed24dce
+SHA256: 29ee006dfa22fcdaaa03fde113a3f72db0a5c52f21c70f0c7cc25ce467002b8b
+Section: Tweaks
 Description: 应用、插件数据管理工具，一键备份/恢复
 Author: mlgm
 Icon: https://mlgm66.github.io/icon/idata.png
@@ -24868,6 +24868,46 @@ Description: Modified version of mineeks tweak that lets you specify the minimum
 Author: Mineek
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/appstoretroller.png
 Name: appstoretroller
+
+Package: dev.theos.orion14
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Theos Team <support@theos.dev>
+Installed-Size: 514
+Depends: firmware (>= 14.0), firmware (<< 18.0), mobilesubstrate (>= 0.9.5000)
+Provides: dev.theos.orion (= 1.0.2)
+Filename: ./debs/iphoneos-arm64/dev.theos.orion14_1.0.2_iphoneos-arm64.deb
+Size: 93596
+MD5sum: d0bcb3b4d9ed7320014a3a50465f05fb
+SHA1: 765ea94b7e0e64a0039b00b0aae65113101b164b
+SHA256: 081684e11125fde1066d6e0a97f4573eea392dabf131f849195a2aa8dae7d1bd
+Section: 依赖
+Description: Runtime for tweaks built using Orion and Swift
+Tag: role::developer, compatible_min::ios14.0
+Author: Theos Team <support@theos.dev>
+Depiction: https://chariz.com/get/orion-runtime14
+Icon: https://img.chariz.cloud/icon/orion-runtime14/icon@3x.png
+Name: Orion Runtime (iOS 14 – 17)
+
+Package: dev.theos.orion14
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Theos Team <support@theos.dev>
+Installed-Size: 514
+Depends: firmware (>= 14.0), firmware (<< 18.0), mobilesubstrate (>= 0.9.5000)
+Provides: dev.theos.orion (= 1.0.2)
+Filename: ./debs/iphoneos-arm64e/dev.theos.orion14_1.0.2_iphoneos-arm64e.deb
+Size: 93616
+MD5sum: eb1bc496954b1a699de144997ce9969f
+SHA1: 56432cc3b8de2433f2530fc4564b7bdf4980d7be
+SHA256: d694782fc357ed5700ac61ec97e7183ab001780a05064b73ee7abaa614b31698
+Section: 依赖
+Description: Runtime for tweaks built using Orion and Swift
+Tag: role::developer, compatible_min::ios14.0
+Author: Theos Team <support@theos.dev>
+Depiction: https://chariz.com/get/orion-runtime14
+Icon: https://img.chariz.cloud/icon/orion-runtime14/icon@3x.png
+Name: Orion Runtime (iOS 14 – 17)
 
 Package: dylv.liquidass
 Version: 0.1.0b
