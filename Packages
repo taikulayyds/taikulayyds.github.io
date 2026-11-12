@@ -1009,6 +1009,40 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
 Name: Touch-Viz
 
+Package: com.82flex.touchvis
+Version: 4.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3644
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.82flex.touchvis_4.2_iphoneos-arm64.deb
+Size: 728592
+MD5sum: fe3708fc99918b3f4b4d287cfe9ebfb8
+SHA1: d724ae0c7633db950679fa7437b48d0752384818
+SHA256: ad1b6b499cfd0a3a69e5210f69704f78f73c15f8fa7375969e336880b29fdd3a
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 4.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3644
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.82flex.touchvis_4.2_iphoneos-arm64e.deb
+Size: 728808
+MD5sum: 185b6de6c0b5d24585945dc488db489e
+SHA1: f366571d81871a784c7c71fa8318766cee40b51b
+SHA256: d20c9552253cf774cb8e50b7c338612484df00127cf9e4d67fc4cb0dfd46c7be
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/touchvis.png
+Name: Touch-Viz
+
 Package: com.abyss.repomgr
 Version: 1.4.4
 Architecture: iphoneos-arm64
@@ -10685,6 +10719,38 @@ Description: Add iOS 18 unit conversion to the Calculator app.
 Author: fiore
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/calculatorconverter.png
 Name: CalculatorConverter
+
+Package: com.fizz.ripple
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 15.0), preferenceloader.top | preferenceloader
+Filename: ./debs/iphoneos-arm64/com.fizz.ripple_0.1.2_iphoneos-arm64.deb
+Size: 114364
+MD5sum: 056fc5807d3126d5b3f1f1caa89a6c43
+SHA1: 61e57a2bd856b4509ad00a93376fc6853e3a6309
+SHA256: 0c16ddbdf6a7e3f67e22383d689990667f7bee9e969c5d7405ffdf06495d8b68
+Section: Tweaks
+Description: Two-finger spread gesture for the home screen: the icons ripple outwards, every app badge grows out and fades away and is kept cleared, and one system tap marks the moment they are gone.
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/fizz.png
+Name: Fizz
+
+Package: com.fizz.ripple
+Version: 0.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 15.0), preferenceloader.top | preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.fizz.ripple_0.1.2_iphoneos-arm64e.deb
+Size: 100720
+MD5sum: c8962ec27876da57532242251290bf16
+SHA1: 17a745fef18284865961e48c44374fbcfc89e107
+SHA256: 067ba236dae7e71bc7d38cd8b3ab5ec3f4cdd595137909310db83fd89ade4c58
+Section: Tweaks
+Description: Two-finger spread gesture for the home screen: the icons ripple outwards, every app badge grows out and fades away and is kept cleared, and one system tap marks the moment they are gone.
+Author: Lessica <82flex@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/fizz.png
+Name: Fizz
 
 Package: com.foxfort.foxforttools
 Version: 1.4.15
