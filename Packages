@@ -10648,6 +10648,40 @@ Author: evgeniy558
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/controlcenter18.png
 Name: ControlCenter18
 
+Package: com.example.noticelisttweak
+Version: 1.0.1~test16+h2l1
+Architecture: iphoneos-arm64
+Maintainer: Local User
+Installed-Size: 759
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.1~test16+h2l1_iphoneos-arm64.deb
+Size: 140976
+MD5sum: a882cdee1da3fb852600f9ade86859ec
+SHA1: 24edcbd57e5cae5bb8463a23a65e61d760d1772b
+SHA256: dcb62dd45c388c36202fa42101c182d69a2c5d4211b5807cbf2a73c320f954eb
+Section: Tweaks
+Description: 通知列表、应用程序图标和横幅灰尘消散效果。
+Author: Local User
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.1~test16+h2l1
+Architecture: iphoneos-arm64e
+Maintainer: Local User
+Installed-Size: 759
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.1~test16+h2l1_iphoneos-arm64e.deb
+Size: 141184
+MD5sum: 255ee3e722a4601d3c990b80c13d94be
+SHA1: 4e59c19f385b3871b145957d8867ee1975a73979
+SHA256: b82baf07d86f477e9a6bd2b46f05995abdf3d62fda3277179bfa315c6bb6396b
+Section: Tweaks
+Description: 通知列表、应用程序图标和横幅灰尘消散效果。
+Author: Local User
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
