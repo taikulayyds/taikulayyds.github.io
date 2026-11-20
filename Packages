@@ -18084,6 +18084,26 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Name: CPU智能温控(iOS16/17)
 
 Package: com.qq391160.cpucore
+Version: 2.0.565
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4428
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.565_iphoneos-arm64.deb
+Size: 678934
+MD5sum: 6e0b7b7fa476c9f88098410efafd201b
+SHA1: 6650f3ff35acd16db2924eb236abfdc20337fa0c
+SHA256: f640e394ef81af0730da42017f8ac4e5efaa5a748aabc3136854106c558bcd35
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
 Version: 2.0.89
 Architecture: iphoneos-arm64
 Maintainer: qq391160
@@ -22936,6 +22956,23 @@ Description: 为控制中心的音乐模块添加动画
 Author: simon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccmusic.png
 Name: 控制中心音乐模块动画
+
+Package: com.taikulayyds.clean
+Version: 5.2.1-15
+Architecture: iphoneos-arm64
+Maintainer: taikula & Axs & kanuo
+Installed-Size: 438
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.taikulayyds.clean_5.2.1-15_iphoneos-arm64.deb
+Size: 135044
+MD5sum: 16948b6e880ae0c26721659f0d63ef00
+SHA1: c2f101f374536bbf0671e09f338d8f4d7ef03ba4
+SHA256: 94c6e4eac8c9e52d8e3da231012b20fc69053b7aa55236887efabdacfd3e8f6a
+Section: Tweaks
+Description: 这是一款快速清理系统缓存和日志工具。
+Author: taikula & Axs & kanuo
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/clean.png
+Name: CacheClean
 
 Package: com.taikulayyds.colorfulwallpaperx
 Version: 4.6k
