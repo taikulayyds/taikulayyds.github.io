@@ -18104,6 +18104,26 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Name: CPU智能温控(iOS16/17)
 
 Package: com.qq391160.cpucore
+Version: 2.0.565
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4748
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.565_iphoneos-arm64e.deb
+Size: 753540
+MD5sum: 76136feec955e7d1c41ffde8ee072c90
+SHA1: efb9460f584ff916648041cd284ac5fd9866faeb
+SHA256: fd3bd465b52e90f23e1ba44b262c63d5bed83a8b3783f65992f0daddf2dbaeff
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
 Version: 2.0.89
 Architecture: iphoneos-arm64
 Maintainer: qq391160
@@ -22968,6 +22988,23 @@ Size: 135044
 MD5sum: 16948b6e880ae0c26721659f0d63ef00
 SHA1: c2f101f374536bbf0671e09f338d8f4d7ef03ba4
 SHA256: 94c6e4eac8c9e52d8e3da231012b20fc69053b7aa55236887efabdacfd3e8f6a
+Section: Tweaks
+Description: 这是一款快速清理系统缓存和日志工具。
+Author: taikula & Axs & kanuo
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/clean.png
+Name: CacheClean
+
+Package: com.taikulayyds.clean
+Version: 5.2.1-15
+Architecture: iphoneos-arm64e
+Maintainer: taikula & Axs & kanuo
+Installed-Size: 438
+Depends: firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.taikulayyds.clean_5.2.1-15_iphoneos-arm64e.deb
+Size: 134992
+MD5sum: 056c865fb61dcc1e41d9842530921a19
+SHA1: f2ebb7ebf9e33c150076d149f45bc8062ece1834
+SHA256: bb885cef3fb5e44e0a94213cecfddbe77727a328bc6b9d17d8ea6905a0c6ea72
 Section: Tweaks
 Description: 这是一款快速清理系统缓存和日志工具。
 Author: taikula & Axs & kanuo
