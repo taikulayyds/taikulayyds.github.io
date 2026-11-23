@@ -14754,6 +14754,42 @@ Author: Muirey03
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/cr4shed.png
 Name: Cr4shed
 
+Package: com.muratkurt.cockpit
+Version: 0.4.2
+Architecture: iphoneos-arm64
+Maintainer: muratkurt
+Installed-Size: 1952
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, uikittools, coreutils, findutils, gawk
+Suggests: com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64/com.muratkurt.cockpit_0.4.2_iphoneos-arm64.deb
+Size: 309888
+MD5sum: ddf7a3631013b4ae09f156bf834e4577
+SHA1: 491d9b48b86d317c252a8aa2e29695d6b661d18a
+SHA256: bb44225f8c7a289efba14a78b8d9f44c0af7adc4211cf73e279aa7c23741d945
+Section: Tweaks
+Description: 设备状态、快速操作和清理代替“今天”视图，在主屏幕上向右滑动：实时CPU、内存、电池和网络、每个应用程序的能源和数据；您的小部件；Wi-Fi、蓝牙、蜂窝和隔空投送；调整、服务和流程；缓存清理。也从左上角（设置）和控制中心按钮（iOS 16-17需要CCSupport）打开。
+Author: muratkurt
+Icon: https://muratkurt.github.io/assets/cockpit/icon.png
+Name: Cockpit
+
+Package: com.muratkurt.cockpit
+Version: 0.4.2
+Architecture: iphoneos-arm64e
+Maintainer: muratkurt
+Installed-Size: 1952
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, uikittools, coreutils, findutils, gawk
+Suggests: com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/com.muratkurt.cockpit_0.4.2_iphoneos-arm64e.deb
+Size: 309772
+MD5sum: 2ef7f852dc64c5b00516e7b0797cd1dc
+SHA1: 3a47bd657c7e5bee5be56bd68f81af53534f54c8
+SHA256: f8fb8d4b8f0f237c512ebe0bfd4fb401925a56d60b8815f1003b840b9edc4488
+Section: Tweaks
+Description: 设备状态、快速操作和清理代替“今天”视图，在主屏幕上向右滑动：实时CPU、内存、电池和网络、每个应用程序的能源和数据；您的小部件；Wi-Fi、蓝牙、蜂窝和隔空投送；调整、服务和流程；缓存清理。也从左上角（设置）和控制中心按钮（iOS 16-17需要CCSupport）打开。
+Author: muratkurt
+Icon: https://muratkurt.github.io/assets/cockpit/icon.png
+Name: Cockpit
+
 Package: com.muratkurt.frontcamfix
 Version: 0.1.1
 Architecture: iphoneos-arm64
