@@ -9973,12 +9973,12 @@ Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: ./debs/iphoneos-arm64/CCBorder16-1.2-iphoneos-arm64.deb
-Size: 41316
-MD5sum: df44677e19b69824ec2b2e8afc22af6b
-SHA1: b7e196578c1ed6f69ac51654782c3d9f98a60983
-SHA256: 33c5ee5f93e8ec27df51995e12ace913bdfaab6c0d3b6775bcaabdb695fe4b2b
-Section: 插件
+Filename: ./debs/iphoneos-arm64/com.dao.ccborder_1.2_iphoneos-arm64.deb
+Size: 41272
+MD5sum: fb904fe0e92c303c371bb9f323a7d618
+SHA1: 65f226d16c92ece6a461567d0999d799b21b8386
+SHA256: 7581c75b8eaf961c2d848b899ec6a0cd438abbef4c096cbadf2e8efdd19489bd
+Section: Tweaks
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
@@ -9991,12 +9991,12 @@ Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: ./debs/iphoneos-arm64/com.dao.ccborder_1.2_iphoneos-arm64.deb
-Size: 41272
-MD5sum: fb904fe0e92c303c371bb9f323a7d618
-SHA1: 65f226d16c92ece6a461567d0999d799b21b8386
-SHA256: 7581c75b8eaf961c2d848b899ec6a0cd438abbef4c096cbadf2e8efdd19489bd
-Section: Tweaks
+Filename: ./debs/iphoneos-arm64/CCBorder16-1.2-iphoneos-arm64.deb
+Size: 41316
+MD5sum: df44677e19b69824ec2b2e8afc22af6b
+SHA1: b7e196578c1ed6f69ac51654782c3d9f98a60983
+SHA256: 33c5ee5f93e8ec27df51995e12ace913bdfaab6c0d3b6775bcaabdb695fe4b2b
+Section: 插件
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
@@ -19750,6 +19750,40 @@ Author: MoWang
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/mowang.png
 Name: SB CPU Floating
 
+Package: com.sharehotspotvpn.tweak
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: zhuifeng
+Installed-Size: 752
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.sharehotspotvpn.tweak_1.1.7_iphoneos-arm64.deb
+Size: 83100
+MD5sum: d2558a23cf32c774baa2102d4990c521
+SHA1: a5abbef44346890ba00b124a834b28c2cdd9eb5a
+SHA256: 8e0d920603aac7ccbe8cef369f6ec6775de3872fb7d481cc49ee76245d83afa1
+Section: Tweaks
+Description: 一键通过个人热点共享本机 Shadowrocket/VPN，连入设备零配置，支持控制中心快捷开关、DNS/UDP 转发与防 IPv6 泄露，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
+Author: zhuifeng
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sharehotspotvpn.png
+Name: VPN热点共享
+
+Package: com.sharehotspotvpn.tweak
+Version: 1.1.7
+Architecture: iphoneos-arm64e
+Maintainer: zhuifeng
+Installed-Size: 752
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.sharehotspotvpn.tweak_1.1.7_iphoneos-arm64e.deb
+Size: 68980
+MD5sum: 1d51401cace9b7b343277e50e17f86ed
+SHA1: ef7a1a55dc87d9c1c7741a4817b16b9c5d91e766
+SHA256: 089864e44437ae8ddd629e02b9c47af490583a6d70a48e48ebd3100916b54e9e
+Section: Tweaks
+Description: 一键通过个人热点共享本机 Shadowrocket/VPN，连入设备零配置，支持控制中心快捷开关、DNS/UDP 转发与防 IPv6 泄露，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
+Author: zhuifeng
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sharehotspotvpn.png
+Name: VPN热点共享
+
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -26511,6 +26545,90 @@ Description: 任意调整画中画大小和位置，长按画中画窗口切换�
 Author: Soh Satoh & SINI
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/freepip.png
 Name: FreePIP
+
+Package: jp.soh.reprovisions
+Version: 1.1.164
+Architecture: iphoneos-arm64
+Maintainer: AmorCool <admin@reprovision.dev>
+Depends: firmware (>= 15.0), zip, unzip
+Conflicts: jp.soh.reprovision
+Filename: ./debs/iphoneos-arm64/jp.soh.reprovisions_1.1.164_iphoneos-arm64.deb
+Size: 4200552
+MD5sum: 19e940b78235c4fffbde7552868eefc0
+SHA1: 73f2179845d4aad523601b74897ee456a13a554d
+SHA256: 96f6eab647e5634d91375a94a24fd4b9a3eeb433543c08b5bc6233155dd6c2a1
+Section: Tweaks
+Priority: optional
+Description: 使用 苹果 ID 续签 IPA
+ * 仅支持 iOS 17 Relaxin 越狱，其它越狱自测
+ * 解决非巨魔设备签名 Relaxin IPA 问题
+ * Re-signing tool for iOS jailbreak
+Author: Coolapk@Analytics
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovisions.png
+Name: ReSign 苹果 ID 续签
+
+Package: jp.soh.reprovisions
+Version: 1.1.164
+Architecture: iphoneos-arm64e
+Maintainer: AmorCool <admin@reprovision.dev>
+Depends: firmware (>= 15.0), zip, unzip
+Conflicts: jp.soh.reprovision
+Filename: ./debs/iphoneos-arm64e/jp.soh.reprovisions_1.1.164_iphoneos-arm64e.deb
+Size: 4199704
+MD5sum: 99bcc74446ac85cdb761afb0b469ca85
+SHA1: 3af6b2c635d885f58ebe1f5221af830aaae25038
+SHA256: 3cf9b88b8630ba872017e8d2b331939b5cabcf56638782c1e551e334b12364e1
+Section: Tweaks
+Priority: optional
+Description: 使用 苹果 ID 续签 IPA
+ * 仅支持 iOS 17 Relaxin 越狱，其它越狱自测
+ * 解决非巨魔设备签名 Relaxin IPA 问题
+ * Re-signing tool for iOS jailbreak
+Author: Coolapk@Analytics
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovisions.png
+Name: ReSign 苹果 ID 续签
+
+Package: jp.soh.reprovisions
+Version: 1.1.94
+Architecture: iphoneos-arm64
+Maintainer: AmorCool <admin@reprovision.dev>
+Depends: firmware (>= 15.0), zip, unzip
+Conflicts: jp.soh.reprovision
+Filename: ./debs/iphoneos-arm64/jp.soh.reprovisions_1.1.94_iphoneos-arm64.deb
+Size: 4164384
+MD5sum: 6a728f5a7a6c778e36a61092095d0e5e
+SHA1: c03691c75bb3d75d1e662baec1ce60d7950d510b
+SHA256: a0680a82fdf252e3469ed3e2397b8ad949314585d8d0d4ee642d3b15721605b1
+Section: Tweaks
+Priority: optional
+Description: 使用 苹果 ID 续签 IPA
+ * 仅支持 iOS 17 Relaxin 越狱，其它越狱自测
+ * 解决非巨魔设备签名 Relaxin IPA 问题
+ * Re-signing tool for iOS jailbreak(iOS17+)
+Author: Coolapk@Analytics
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovisions.png
+Name: ReSign 苹果 ID 续签
+
+Package: jp.soh.reprovisions
+Version: 1.1.94
+Architecture: iphoneos-arm64e
+Maintainer: AmorCool <admin@reprovision.dev>
+Depends: firmware (>= 15.0), zip, unzip
+Conflicts: jp.soh.reprovision
+Filename: ./debs/iphoneos-arm64e/jp.soh.reprovisions_1.1.94_iphoneos-arm64e.deb
+Size: 4165564
+MD5sum: dc13e5ce5ef7be4542f6dda99d6bb254
+SHA1: 6f61b4bb0a2b167fe4c7dc217c09e90ad98c9065
+SHA256: 72201bc9cb73b88e8078c64b5ad8a8856274fccb06feafc4bd2631dd703f41b6
+Section: Tweaks
+Priority: optional
+Description: 使用 苹果 ID 续签 IPA
+ * 仅支持 iOS 17 Relaxin 越狱，其它越狱自测
+ * 解决非巨魔设备签名 Relaxin IPA 问题
+ * Re-signing tool for iOS jailbreak(iOS17+)
+Author: Coolapk@Analytics
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovisions.png
+Name: ReSign 苹果 ID 续签
 
 Package: me.lau.atria
 Version: 1.4.1
