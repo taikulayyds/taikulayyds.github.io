@@ -10689,12 +10689,12 @@ Maintainer: YUE
 Installed-Size: 1279
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.1~test29+h2l1_iphoneos-arm64.deb
-Size: 297160
-MD5sum: a168c714e15209036029e08887cf03cb
-SHA1: e9aae65c43448d9052d52675ae12bc22470c7434
-SHA256: cef943cca7b690c83339791ee447676531498670db4c0a3424740e25e4805fc2
+Size: 296716
+MD5sum: dd18965e9199eb076845bfc3e3f1c058
+SHA1: 8059b05bb823f8bf7c8a25138a9b0466aad00f5f
+SHA256: 5265252b26ac7f298ebb01e081871d2d6c558092edcf7636967dd495cfadeb7f
 Section: Tweaks
-Description: 通知列表和横幅烟尘消散效果。
+Description: 通知列表、应用程序图标和横幅灰尘消散效果。
 Author: YUE
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
 Name: 通知消散
@@ -10706,12 +10706,12 @@ Maintainer: YUE
 Installed-Size: 1279
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.1~test29+h2l1_iphoneos-arm64e.deb
-Size: 297120
-MD5sum: 5d0359c7f979377015132649b67d7c1b
-SHA1: 9aaf3b13eedad8ca91e2afa85be34a243b0a1b7d
-SHA256: a967be86b658162cc2529bf508415c5e77b5c8b0d68128dd8d33d80e9bcc1a0c
+Size: 296900
+MD5sum: 2bc588120de7ea8511f598f740fad7bb
+SHA1: 475b72580678877ad0ed42d6d21ddc5bb45162ca
+SHA256: c517e4cc0c9fdbad2b940d8c7ac46aaf1606137b74687f35f4af68560e5e6995
 Section: Tweaks
-Description: 通知列表和横幅烟尘消散效果。
+Description: 通知列表、应用程序图标和横幅灰尘消散效果。
 Author: YUE
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
 Name: 通知消散
@@ -10723,12 +10723,12 @@ Maintainer: YUE
 Installed-Size: 1803
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.1~test30-5+h2l1_iphoneos-arm64.deb
-Size: 838216
-MD5sum: f9064bdaf5b199b50f9bf2f7739107f2
-SHA1: 9f7cdaf9b3ddf776cc1ccb6bb5250011390730aa
-SHA256: cba922e16e51fdbe665497cfc549ef8ac352e87850ae5945b34f5bfc8d285de6
+Size: 838180
+MD5sum: 316de79773e2086c5f70a4c6d3ca3b8c
+SHA1: 93b54606952982fea12165d9a0e978656d36540d
+SHA256: b7b50195b050d5c43c2bb9d772205ffc8018bccfb450453531188f77b865c239
 Section: Tweaks
-Description: 通知列表和横幅烟尘消散效果。
+Description: 通知列表、应用程序图标和横幅灰尘消散效果。
 Author: YUE
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
 Name: 通知消散
@@ -10740,12 +10740,12 @@ Maintainer: YUE
 Installed-Size: 1803
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.1~test30-5+h2l1_iphoneos-arm64e.deb
-Size: 837980
-MD5sum: 2930d9c19a496266aade6853c01542ee
-SHA1: 75ddcb9af1369fe090ad213a2339e3d761804936
-SHA256: c316f91bb9c149ed309f6cae90517ecd9f943d4566c555fa00e2af1f72c9f869
+Size: 837460
+MD5sum: 8c7fa183fac4c1c11592c3dcaad13ac9
+SHA1: 6b4490a0b6c726de93f656d9a76ce8813ed2890b
+SHA256: 07c1a840d35a04f66a7d310a36b9f732519e2419df15428d1899e610e433d1d8
 Section: Tweaks
-Description: 通知列表和横幅烟尘消散效果。
+Description: 通知列表、应用程序图标和横幅灰尘消散效果。
 Author: YUE
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
 Name: 通知消散
