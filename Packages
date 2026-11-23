@@ -10649,103 +10649,35 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/controlcenter18.pn
 Name: ControlCenter18
 
 Package: com.example.noticelisttweak
-Version: 1.0.1~test16+h2l1
-Architecture: iphoneos-arm64
-Maintainer: Local User
-Installed-Size: 759
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.1~test16+h2l1_iphoneos-arm64.deb
-Size: 140976
-MD5sum: a882cdee1da3fb852600f9ade86859ec
-SHA1: 24edcbd57e5cae5bb8463a23a65e61d760d1772b
-SHA256: dcb62dd45c388c36202fa42101c182d69a2c5d4211b5807cbf2a73c320f954eb
-Section: Tweaks
-Description: 通知列表、应用程序图标和横幅灰尘消散效果。
-Author: Local User
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
-Name: 通知消散
-
-Package: com.example.noticelisttweak
-Version: 1.0.1~test16+h2l1
-Architecture: iphoneos-arm64e
-Maintainer: Local User
-Installed-Size: 759
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.1~test16+h2l1_iphoneos-arm64e.deb
-Size: 141184
-MD5sum: 255ee3e722a4601d3c990b80c13d94be
-SHA1: 4e59c19f385b3871b145957d8867ee1975a73979
-SHA256: b82baf07d86f477e9a6bd2b46f05995abdf3d62fda3277179bfa315c6bb6396b
-Section: Tweaks
-Description: 通知列表、应用程序图标和横幅灰尘消散效果。
-Author: Local User
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
-Name: 通知消散
-
-Package: com.example.noticelisttweak
-Version: 1.0.1~test29+h2l1
+Version: 1.0.1~test29
 Architecture: iphoneos-arm64
 Maintainer: YUE
-Installed-Size: 1279
+Installed-Size: 1298
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.1~test29+h2l1_iphoneos-arm64.deb
-Size: 296716
-MD5sum: dd18965e9199eb076845bfc3e3f1c058
-SHA1: 8059b05bb823f8bf7c8a25138a9b0466aad00f5f
-SHA256: 5265252b26ac7f298ebb01e081871d2d6c558092edcf7636967dd495cfadeb7f
+Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.1~test29_iphoneos-arm64.deb
+Size: 296908
+MD5sum: fc77810832650433b3bd61ee4d1fe675
+SHA1: a55f13da4be6950925fb04087a1314f38f23b57e
+SHA256: 3e70951d80816e8eee8e29ac38233f3edcd863f5aa42c832a85bcaa48f7538b4
 Section: Tweaks
-Description: 通知列表、应用程序图标和横幅灰尘消散效果。
+Description: 通知列表、应用程序图标和横幅灰尘效果
 Author: YUE
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
 Name: 通知消散
 
 Package: com.example.noticelisttweak
-Version: 1.0.1~test29+h2l1
+Version: 1.0.1~test29
 Architecture: iphoneos-arm64e
 Maintainer: YUE
-Installed-Size: 1279
+Installed-Size: 1298
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.1~test29+h2l1_iphoneos-arm64e.deb
-Size: 296900
-MD5sum: 2bc588120de7ea8511f598f740fad7bb
-SHA1: 475b72580678877ad0ed42d6d21ddc5bb45162ca
-SHA256: c517e4cc0c9fdbad2b940d8c7ac46aaf1606137b74687f35f4af68560e5e6995
+Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.1~test29_iphoneos-arm64e.deb
+Size: 296644
+MD5sum: 1e0f7939ff09ecd7f9dba1ad9bb6e846
+SHA1: 24afd8590dcee0c00721c0a14c2700aab8fe838c
+SHA256: 3ecda594c1e5b208ef096a772f2bd2266acf2e4efbf6357ed46292529a84f0c3
 Section: Tweaks
-Description: 通知列表、应用程序图标和横幅灰尘消散效果。
-Author: YUE
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
-Name: 通知消散
-
-Package: com.example.noticelisttweak
-Version: 1.0.1~test30-5+h2l1
-Architecture: iphoneos-arm64
-Maintainer: YUE
-Installed-Size: 1803
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.1~test30-5+h2l1_iphoneos-arm64.deb
-Size: 838180
-MD5sum: 316de79773e2086c5f70a4c6d3ca3b8c
-SHA1: 93b54606952982fea12165d9a0e978656d36540d
-SHA256: b7b50195b050d5c43c2bb9d772205ffc8018bccfb450453531188f77b865c239
-Section: Tweaks
-Description: 通知列表、应用程序图标和横幅灰尘消散效果。
-Author: YUE
-Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
-Name: 通知消散
-
-Package: com.example.noticelisttweak
-Version: 1.0.1~test30-5+h2l1
-Architecture: iphoneos-arm64e
-Maintainer: YUE
-Installed-Size: 1803
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.1~test30-5+h2l1_iphoneos-arm64e.deb
-Size: 837460
-MD5sum: 8c7fa183fac4c1c11592c3dcaad13ac9
-SHA1: 6b4490a0b6c726de93f656d9a76ce8813ed2890b
-SHA256: 07c1a840d35a04f66a7d310a36b9f732519e2419df15428d1899e610e433d1d8
-Section: Tweaks
-Description: 通知列表、应用程序图标和横幅灰尘消散效果。
+Description: 通知列表、应用程序图标和横幅灰尘效果
 Author: YUE
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
 Name: 通知消散
@@ -18220,6 +18152,46 @@ Size: 753540
 MD5sum: 76136feec955e7d1c41ffde8ee072c90
 SHA1: efb9460f584ff916648041cd284ac5fd9866faeb
 SHA256: fd3bd465b52e90f23e1ba44b262c63d5bed83a8b3783f65992f0daddf2dbaeff
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.566
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4444
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.566_iphoneos-arm64.deb
+Size: 680692
+MD5sum: 3d48291aa556a4989018b9cd172bcb0c
+SHA1: 40dde36b7be71bb99d0fba05a166a576a3b9faf7
+SHA256: b6261a02344a286b6f485fd51df15d3701e218fa954612c816e52cd973478a8b
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.566
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4748
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.566_iphoneos-arm64e.deb
+Size: 757098
+MD5sum: 7e8d93a6bc5685e50c30203d27025ab1
+SHA1: 381aeef32cf228b5f0c59a970fd45f3dad1010d3
+SHA256: f157975ac18312f230bd6af5a4aa71037d110b18809e03cc3686ff0e5ac07d63
 Section: Tweaks
 Priority: optional
 Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
