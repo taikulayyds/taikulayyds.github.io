@@ -10682,6 +10682,74 @@ Author: Local User
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
 Name: 通知消散
 
+Package: com.example.noticelisttweak
+Version: 1.0.1~test29+h2l1
+Architecture: iphoneos-arm64
+Maintainer: YUE
+Installed-Size: 1279
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.1~test29+h2l1_iphoneos-arm64.deb
+Size: 297160
+MD5sum: a168c714e15209036029e08887cf03cb
+SHA1: e9aae65c43448d9052d52675ae12bc22470c7434
+SHA256: cef943cca7b690c83339791ee447676531498670db4c0a3424740e25e4805fc2
+Section: Tweaks
+Description: 通知列表和横幅烟尘消散效果。
+Author: YUE
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.1~test29+h2l1
+Architecture: iphoneos-arm64e
+Maintainer: YUE
+Installed-Size: 1279
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.1~test29+h2l1_iphoneos-arm64e.deb
+Size: 297120
+MD5sum: 5d0359c7f979377015132649b67d7c1b
+SHA1: 9aaf3b13eedad8ca91e2afa85be34a243b0a1b7d
+SHA256: a967be86b658162cc2529bf508415c5e77b5c8b0d68128dd8d33d80e9bcc1a0c
+Section: Tweaks
+Description: 通知列表和横幅烟尘消散效果。
+Author: YUE
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.1~test30-5+h2l1
+Architecture: iphoneos-arm64
+Maintainer: YUE
+Installed-Size: 1803
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.1~test30-5+h2l1_iphoneos-arm64.deb
+Size: 838216
+MD5sum: f9064bdaf5b199b50f9bf2f7739107f2
+SHA1: 9f7cdaf9b3ddf776cc1ccb6bb5250011390730aa
+SHA256: cba922e16e51fdbe665497cfc549ef8ac352e87850ae5945b34f5bfc8d285de6
+Section: Tweaks
+Description: 通知列表和横幅烟尘消散效果。
+Author: YUE
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.1~test30-5+h2l1
+Architecture: iphoneos-arm64e
+Maintainer: YUE
+Installed-Size: 1803
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.1~test30-5+h2l1_iphoneos-arm64e.deb
+Size: 837980
+MD5sum: 2930d9c19a496266aade6853c01542ee
+SHA1: 75ddcb9af1369fe090ad213a2339e3d761804936
+SHA256: c316f91bb9c149ed309f6cae90517ecd9f943d4566c555fa00e2af1f72c9f869
+Section: Tweaks
+Description: 通知列表和横幅烟尘消散效果。
+Author: YUE
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
