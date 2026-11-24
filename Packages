@@ -16059,6 +16059,40 @@ Author: ngkhoi
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/26home.png
 Name: 26Home
 
+Package: com.ning.keyboardglass
+Version: 0.2.4
+Architecture: iphoneos-arm64
+Maintainer: Ning
+Installed-Size: 399
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64/com.ning.keyboardglass_0.2.4_iphoneos-arm64.deb
+Size: 184100
+MD5sum: 3916b786b3a0b7ff8bf40bd11572a2d2
+SHA1: 831e081ae1e6a243b024ff9e75aefe19690e26a9
+SHA256: dbcf61f3365a55f6aec4ef865ebefdc2460e79f7d7286eff56780e47851ad3e7
+Section: Tweaks
+Description: Adjustable glass material for system keyboards on iOS 16 and 17.
+Author: Ning
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/keyboardglass.png
+Name: Ning Keyboard Glass
+
+Package: com.ning.keyboardglass
+Version: 0.2.4
+Architecture: iphoneos-arm64e
+Maintainer: Ning
+Installed-Size: 399
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/iphoneos-arm64e/com.ning.keyboardglass_0.2.4_iphoneos-arm64e.deb
+Size: 183804
+MD5sum: b783637701b2665e6fb11e3a849b8d68
+SHA1: 91a40bbf94c71789ae2dcd81351f1a853cc9096e
+SHA256: 884be0f0eb671ed190b9cb66699a7aa0f9b7df3199924be45808cbb24a5a9b81
+Section: Tweaks
+Description: Adjustable glass material for system keyboards on iOS 16 and 17.
+Author: Ning
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/keyboardglass.png
+Name: Ning Keyboard Glass
+
 Package: com.noisyflake.velvet2
 Version: 2.1.2-3
 Architecture: iphoneos-arm64
