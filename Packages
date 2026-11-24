@@ -25048,6 +25048,42 @@ Author: be-huge
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/insulation.png
 Name: insulation(解除温控)
 
+Package: com.yourepo.b4db1r3r3p0.reprovisionrebornagain
+Version: 0.8.4-28
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh, b4db1r3 <nfive060@gmail.com>
+Depends: firmware (>= 15.0), uikittools
+Conflicts: jp.soh.reprovision, com.matchstic.reprovision
+Replaces: jp.soh.reprovision
+Filename: ./debs/iphoneos-arm64/com.yourepo.b4db1r3r3p0.reprovisionrebornagain_0.8.4-28_iphoneos-arm64.deb
+Size: 14192436
+MD5sum: 4713f59bac76fdc6518ea7f6153767bb
+SHA1: 55c248c1f125050bd96347e484e4520449e4d675
+SHA256: 0c0e020f664453e5c9c7669384e97e938cb8a98fe5d5ead33248eadabbb91750
+Section: Tweaks
+Description: Re-sign applications directly on your rootless jailbroken deviceThis community-maintained build restores Apple account authentication,trusted-device two-factor authentication, background signing, and modernprovisioning-profile handling for iOS 15 and newer.
+Author: Soh Satoh, Matt Clarke, b4db1r3 <nfive060@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
+Name: ReProvision Reborn… Again
+
+Package: com.yourepo.b4db1r3r3p0.reprovisionrebornagain
+Version: 0.8.4-28
+Architecture: iphoneos-arm64e
+Maintainer: Soh Satoh, b4db1r3 <nfive060@gmail.com>
+Depends: firmware (>= 15.0), uikittools
+Conflicts: jp.soh.reprovision, com.matchstic.reprovision
+Replaces: jp.soh.reprovision
+Filename: ./debs/iphoneos-arm64e/com.yourepo.b4db1r3r3p0.reprovisionrebornagain_0.8.4-28_iphoneos-arm64e.deb
+Size: 14194192
+MD5sum: ea1544420c1c08106e1af1c40093d279
+SHA1: 16ece7d2a35f77e23f37ccdd66d103dc633a801e
+SHA256: 28ba52965e2ec8980b89f558ccaf441b139e361199d8e4c58109b8dcf3cc518a
+Section: Tweaks
+Description: Re-sign applications directly on your rootless jailbroken deviceThis community-maintained build restores Apple account authentication,trusted-device two-factor authentication, background signing, and modernprovisioning-profile handling for iOS 15 and newer.
+Author: Soh Satoh, Matt Clarke, b4db1r3 <nfive060@gmail.com>
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/reprovision.png
+Name: ReProvision Reborn… Again
+
 Package: com.yourepo.lly.dismissalert
 Version: 1.0.0
 Architecture: iphoneos-arm64
