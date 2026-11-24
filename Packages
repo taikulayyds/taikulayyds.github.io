@@ -10668,6 +10668,40 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/controlcenter18.pn
 Name: ControlCenter18
 
 Package: com.example.noticelisttweak
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: YUE
+Installed-Size: 1873
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.1_iphoneos-arm64.deb
+Size: 842648
+MD5sum: 87d66274e5b16c93fb13367d58120ce7
+SHA1: bdaa60b9bfc85b34bbe56d4462aa32e53f27ac36
+SHA256: 0c63318a82fefaadb66592263bd755ad26abb5f76d3d341b848638b3fe3a77be
+Section: Tweaks
+Description: 通知列表、应用程序图标和通知横幅烟尘消散效果
+Author: YUE
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: YUE
+Installed-Size: 1873
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.1_iphoneos-arm64e.deb
+Size: 843060
+MD5sum: ad4e1d90a6505d69f6412043f88b4812
+SHA1: 7e1eac949834c8351b759079fd8f381dd1251441
+SHA256: e57d3d90d79a8c14a0a7fd5f67b93cd0d8b2dacb08d472631c92573c0102d083
+Section: Tweaks
+Description: 通知列表、应用程序图标和通知横幅烟尘消散效果
+Author: YUE
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
 Version: 1.0.1~test29
 Architecture: iphoneos-arm64
 Maintainer: YUE
