@@ -10702,6 +10702,40 @@ Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.pn
 Name: 通知消散
 
 Package: com.example.noticelisttweak
+Version: 1.0.16
+Architecture: iphoneos-arm64
+Maintainer: YUE
+Installed-Size: 1563
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.16_iphoneos-arm64.deb
+Size: 354700
+MD5sum: cac1d146524315cbd16514d893332f6f
+SHA1: af8b3c42953f7c7a826091f3a7d1a7342d8c6588
+SHA256: 436eaa20328cc4715fc5ddba920a3fb37abd81dccca28bb5ebeedd5e3d312d91
+Section: Tweaks
+Description: 通知列表、应用程序图标和横幅灰尘效果
+Author: YUE
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.16
+Architecture: iphoneos-arm64e
+Maintainer: YUE
+Installed-Size: 1563
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.16_iphoneos-arm64e.deb
+Size: 354720
+MD5sum: c2f8636d4ba69d668ec655b7640f8f1a
+SHA1: 17d0b383c43a4d324ac8895944ad75f0c2358445
+SHA256: 805fac01069e9f5dfb43d2208647432d27b8da242238567866515b70ab5ab835
+Section: Tweaks
+Description: 通知列表、应用程序图标和横幅灰尘效果
+Author: YUE
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
 Version: 1.0.1~test29
 Architecture: iphoneos-arm64
 Maintainer: YUE
@@ -19947,6 +19981,40 @@ Author: zhuifeng
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sharehotspotvpn.png
 Name: VPN热点共享
 
+Package: com.sharehotspotvpn.tweak
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: zhuifeng
+Installed-Size: 948
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.sharehotspotvpn.tweak_1.2.2_iphoneos-arm64.deb
+Size: 93988
+MD5sum: 113ebbe4e91de087e72e937f526b0e5b
+SHA1: 60183de9cd61fa2c3c756b0d7d427085060da2a0
+SHA256: e240e24a1701baad79f3ac337d4a8a01132c7f2cf28a996bc24ea959ff3d8b7b
+Section: Networking
+Description: 一键通过个人热点共享本机 Wi-Fi、移动数据或 Shadowrocket/VPN（支持 Wi-Fi+VPN 叠加与状态栏保留 Wi-Fi 图标），连入设备零配置，控制中心支持轻点开关与长按 5 模式菜单切换，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
+Author: zhuifeng
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sharehotspotvpn.png
+Name: VPN热点共享
+
+Package: com.sharehotspotvpn.tweak
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: zhuifeng
+Installed-Size: 484
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.sharehotspotvpn.tweak_1.2.2_iphoneos-arm64e.deb
+Size: 77228
+MD5sum: 11eae0c5f649aae2845f7665d6c32924
+SHA1: 31537de5fa97fd72ec523c997d716b520043651e
+SHA256: 4fa3effa781bb419923b80514299be6849bf97fda87afa725edc467c811739fd
+Section: Networking
+Description: 一键通过个人热点共享本机 Wi-Fi、移动数据或 Shadowrocket/VPN（支持 Wi-Fi+VPN 叠加与状态栏保留 Wi-Fi 图标），连入设备零配置，控制中心支持轻点开关与长按 5 模式菜单切换，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
+Author: zhuifeng
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sharehotspotvpn.png
+Name: VPN热点共享
+
 Package: com.shtm.flexibleexpression
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -20227,6 +20295,40 @@ SHA256: 26bdf5e71a3655e38c868767f010ff5b92d86d799c03e6853b350f96839a8a99
 Section: Tweaks
 Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
 Author: Mineek & Nathan & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller
+
+Package: com.sini921.appstoretroller
+Version: 0.1.2-8
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 1140
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64/com.sini921.appstoretroller_0.1.2-8_iphoneos-arm64.deb
+Size: 239424
+MD5sum: 723cbfb92ba2b051474fe0b77927a5f5
+SHA1: 95d8fbca38b3a5560bfbcce2dfe86d88636078fd
+SHA256: 687692ac32395ff923862bbc94ab973c3ff055fb353c3976037bfb6840c8ff3c
+Section: Tweaks
+Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller
+
+Package: com.sini921.appstoretroller
+Version: 0.1.2-8
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 1140
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/com.sini921.appstoretroller_0.1.2-8_iphoneos-arm64e.deb
+Size: 235904
+MD5sum: af65c111c2fdbd7e285e4fa9c75fe2f3
+SHA1: b62d89ba1b016a211436a6ef6108e6bcd24552b6
+SHA256: 18bcc476afd7155ffe641b90e020f1e7d39eae6eee80598f03f13aa188983a38
+Section: Tweaks
+Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
+Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
 Name: AppStoreTroller
 
@@ -24573,6 +24675,50 @@ Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
 Name: PullOver X
 Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
 
+Package: com.tsangbaby.pulloverx
+Version: 2.5.6
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: ./debs/iphoneos-arm64/com.tsangbaby.pulloverx_2.5.6_iphoneos-arm64.deb
+Size: 738724
+MD5sum: 8c0c1d41afbc73278a157d47069a9fd6
+SHA1: 4a9e7daff17db427b93673b67a8bbe028da46ed8
+SHA256: ba641a139fd6479ec1b65ce3d2650ff9b89c6281e1bfd3914daacec36f0476bb
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Depiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
+Package: com.tsangbaby.pulloverx
+Version: 2.5.6
+Architecture: iphoneos-arm64e
+Maintainer: Tsangbaby
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.mlgm.pulloverx, com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: ./debs/iphoneos-arm64e/com.tsangbaby.pulloverx_2.5.6_iphoneos-arm64e.deb
+Size: 737756
+MD5sum: 40a07559008eccce981191016fbcf72a
+SHA1: d2e41d6b7adf7fb4da690450b0a467cffc088bab
+SHA256: d1dbe1649455e69be2ee323e32f0d33f0e5c10743c1a3125fd5ee0fdfcfb18cb
+Section: Tweaks
+Priority: optional
+Description: 悬浮多任务窗口工具，基于 Pullover Pro 进行修改
+Author: Tsangbaby
+Depiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/
+Dev: Tsangbaby
+Icon: https://tsangbaby.github.io/Icon/Pullover-X.png
+Name: PullOver X
+Sileodepiction: https://tsangbaby.github.io/depictions/com.tsangbaby.pulloverx/depiction.json
+
 Package: com.tsangbaby.randomiconsflip
 Version: 0.1.1
 Architecture: iphoneos-arm64e
@@ -25827,6 +25973,40 @@ Size: 1045708
 MD5sum: 7fefc7bd393239680eae404428f4a01c
 SHA1: f3a668476b7ee9d0d5911cf3a309e18e44956fbc
 SHA256: 01cf07aa120782844d5d949fa79d8740f43feb087bf21326ae0445a93bf65db9
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.13
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 4148
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/iya.banana.ios27animation_1.0.13_iphoneos-arm64.deb
+Size: 1199008
+MD5sum: 98521b63078f599854f59b195ce66838
+SHA1: be4d32b0dd0f037fd96381910b7c1dc0f52ecfc8
+SHA256: 83384d3288e861173dcabe86b38d7ba38501f32deabbc7b02c8ac5e13c57804e
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.13
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 4144
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/iya.banana.ios27animation_1.0.13_iphoneos-arm64e.deb
+Size: 1196380
+MD5sum: f6ddf48ae4b4e58112ad0dd972acdcd6
+SHA1: fd436285f6459529d4a63a0fee2ae6a3d29ebba9
+SHA256: fe72c9f1c3f1226f3ef7b58b28c52d9ebad66af862be1bfbf70426613951c2d0
 Section: Tweaks
 Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
 Author: Banana
