@@ -9992,12 +9992,12 @@ Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: ./debs/iphoneos-arm64/CCBorder16-1.2-iphoneos-arm64.deb
-Size: 41316
-MD5sum: df44677e19b69824ec2b2e8afc22af6b
-SHA1: b7e196578c1ed6f69ac51654782c3d9f98a60983
-SHA256: 33c5ee5f93e8ec27df51995e12ace913bdfaab6c0d3b6775bcaabdb695fe4b2b
-Section: 插件
+Filename: ./debs/iphoneos-arm64/com.dao.ccborder_1.2_iphoneos-arm64.deb
+Size: 41272
+MD5sum: fb904fe0e92c303c371bb9f323a7d618
+SHA1: 65f226d16c92ece6a461567d0999d799b21b8386
+SHA256: 7581c75b8eaf961c2d848b899ec6a0cd438abbef4c096cbadf2e8efdd19489bd
+Section: Tweaks
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
@@ -10010,12 +10010,12 @@ Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: ./debs/iphoneos-arm64/com.dao.ccborder_1.2_iphoneos-arm64.deb
-Size: 41272
-MD5sum: fb904fe0e92c303c371bb9f323a7d618
-SHA1: 65f226d16c92ece6a461567d0999d799b21b8386
-SHA256: 7581c75b8eaf961c2d848b899ec6a0cd438abbef4c096cbadf2e8efdd19489bd
-Section: Tweaks
+Filename: ./debs/iphoneos-arm64/CCBorder16-1.2-iphoneos-arm64.deb
+Size: 41316
+MD5sum: df44677e19b69824ec2b2e8afc22af6b
+SHA1: b7e196578c1ed6f69ac51654782c3d9f98a60983
+SHA256: 33c5ee5f93e8ec27df51995e12ace913bdfaab6c0d3b6775bcaabdb695fe4b2b
+Section: 插件
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ccborder.png
@@ -10765,6 +10765,40 @@ SHA1: 24afd8590dcee0c00721c0a14c2700aab8fe838c
 SHA256: 3ecda594c1e5b208ef096a772f2bd2266acf2e4efbf6357ed46292529a84f0c3
 Section: Tweaks
 Description: 通知列表、应用程序图标和横幅灰尘效果
+Author: YUE
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.21
+Architecture: iphoneos-arm64
+Maintainer: YUE
+Installed-Size: 1632
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.example.noticelisttweak_1.0.21_iphoneos-arm64.deb
+Size: 375212
+MD5sum: 41e8fb2df46af46be83fcb02ea3683aa
+SHA1: 0c19636eca0bc97c722a28fa2702b5147cdb684b
+SHA256: 42bd5238dc94de071b5d4ff9c9cfcac18a424d4ee6c7724690560f0a07659d25
+Section: Tweaks
+Description: 通知列表、应用程序图标和横幅烟尘消散效果
+Author: YUE
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
+Name: 通知消散
+
+Package: com.example.noticelisttweak
+Version: 1.0.21
+Architecture: iphoneos-arm64e
+Maintainer: YUE
+Installed-Size: 1632
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.example.noticelisttweak_1.0.21_iphoneos-arm64e.deb
+Size: 374440
+MD5sum: 98e680be7608b089c62733d28e321e3d
+SHA1: db3d0346d2c7e58d50697c217214e9fffe7a93ba
+SHA256: ef9ead6b85c096859116f3975a2aec807d46e7c1b6fe594e6880bd0cc29a53fd
+Section: Tweaks
+Description: 通知列表、应用程序图标和横幅烟尘消散效果
 Author: YUE
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/noticelisttweak.png
 Name: 通知消散
@@ -18361,6 +18395,46 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Name: CPU智能温控(iOS16/17)
 
 Package: com.qq391160.cpucore
+Version: 2.0.630
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4508
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.630_iphoneos-arm64.deb
+Size: 694944
+MD5sum: 31f90649891e5e0498e8944a742fd6a0
+SHA1: 15f44c223c0cfe9741c8456bf64d7d0306b72fd6
+SHA256: e8a532be9c120042390eaf29794a0fc866c40b6863a1cfea2a5e9ea759224380
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.630
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4812
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.630_iphoneos-arm64e.deb
+Size: 772654
+MD5sum: 4c8f93a30b187af8c9156abe961ce5af
+SHA1: ac69c0a060e8f6e348a5dd326c59db730060a435
+SHA256: bdc4128852274492aff4461914204003b7187b9ce3c47a6568e93083896fc693
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
 Version: 2.0.89
 Architecture: iphoneos-arm64
 Maintainer: qq391160
@@ -20337,6 +20411,40 @@ Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需
 Author: simon
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/dynamicislandanimation.png
 Name: 灵动岛跳舞动画PLUS
+
+Package: com.sini921.appstoretroller
+Version: 0.1.2-10
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 1648
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64/com.sini921.appstoretroller_0.1.2-10_iphoneos-arm64.deb
+Size: 264644
+MD5sum: 1598aabc04c0176a82ae3c9010cdc8f7
+SHA1: a603426173449b4d29491e537ecbe5509820693a
+SHA256: 2516ea3606a81932dcb7afcc140e8750b54570b2e4a4f71ae7b5be9e4c466973
+Section: Tweaks
+Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller
+
+Package: com.sini921.appstoretroller
+Version: 0.1.2-10
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 1596
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
+Filename: ./debs/iphoneos-arm64e/com.sini921.appstoretroller_0.1.2-10_iphoneos-arm64e.deb
+Size: 262984
+MD5sum: 9bb264150777d0d1480248cd7b849ae0
+SHA1: ab93a6823525ef8d0e5b9264d22ac1acdb8b3fa7
+SHA256: a6195636057e6ff51f00a59bf40f8de2f45d0b39b84c28c1390125e41b3b2101
+Section: Tweaks
+Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller
 
 Package: com.sini921.appstoretroller
 Version: 0.1.2-5
@@ -25722,15 +25830,15 @@ Package: dylv.liquidass
 Version: 0.1.2t+r2
 Architecture: iphoneos-arm64
 Maintainer: dylv
-Installed-Size: 11904
+Installed-Size: 11112
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), preferenceloader, com.opa334.libsandy (>= 1.1.6)
 Conflicts: dylv.blurless, com.ngkhoi.liquidass27
 Replaces: dylv.blurless, com.ngkhoi.liquidass27
 Filename: ./debs/iphoneos-arm64/dylv.liquidass_0.1.2t+r2_iphoneos-arm64.deb
-Size: 4260492
-MD5sum: 7f0c8d1072e357bfb6a995d446b8051a
-SHA1: 273ebe54866739131992b78031c8725cef5ece09
-SHA256: 7471d5d1dee851dd9916635e83270149d875eb7ff8523f7c2caacac40d2b8964
+Size: 4200660
+MD5sum: e8a5b7b8c7b38b1403325a6de93ba9c1
+SHA1: 0d1885a0ea8dd37e45b49f627ec7f0733165a3e0
+SHA256: 4bab50116c663e86a2f0d9cc9b0a3de6bbac6ef3f72fa77cdb94a7b8598737e7
 Section: Tweaks
 Description: next level diarrhea
 Author: dylv
@@ -25741,15 +25849,15 @@ Package: dylv.liquidass
 Version: 0.1.2t+r2
 Architecture: iphoneos-arm64e
 Maintainer: dylv
-Installed-Size: 11904
+Installed-Size: 11112
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), preferenceloader, com.opa334.libsandy (>= 1.1.6)
 Conflicts: dylv.blurless, com.ngkhoi.liquidass27
 Replaces: dylv.blurless, com.ngkhoi.liquidass27
 Filename: ./debs/iphoneos-arm64e/dylv.liquidass_0.1.2t+r2_iphoneos-arm64e.deb
-Size: 4263256
-MD5sum: 849152a1d8d8bfd1821adba3c5efea19
-SHA1: 6da24a5e5077e22584806a009591f47ae972351c
-SHA256: c89f300590da0ffe509ec5b88ab21bc0ea1387325de5fa64f5e254c2868e3710
+Size: 4204680
+MD5sum: b680e79df1ccd7ed530c40471c2ed27e
+SHA1: dfbcf5e17989cac66e50f067ff5aa4fe68af61b0
+SHA256: 072df05a3c795831ba686c45c83198d0c19820fd0279ebb728ed6a39e08105a3
 Section: Tweaks
 Description: next level diarrhea
 Author: dylv
@@ -26149,6 +26257,40 @@ Size: 1204348
 MD5sum: 86e041c8c7a62cdecf73422058c1570e
 SHA1: 43038872777af3e23664f5d755b1de98c671d6a8
 SHA256: 62c2688badbfdc701091503bf7edd90742eded175c0988cc6faa2e70287ba8e7
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.14
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 4148
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/iya.banana.ios27animation_1.0.14_iphoneos-arm64.deb
+Size: 1239952
+MD5sum: 21bdf5c6c14c5c86b71b98c7b9518bc0
+SHA1: e0f51f9dc5de323cbf9c12999b604c4d00c47ff8
+SHA256: 035f4ac64e09f4c17c70f3d6793a759fb8a4c0cdd20ac131fdf51025b3a988e2
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.14
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 4144
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/iya.banana.ios27animation_1.0.14_iphoneos-arm64e.deb
+Size: 1242232
+MD5sum: 4342d5e208f5db2a82b5741dbe14cd6b
+SHA1: b0252721502bee427a7488f3cf07dae10d7b378b
+SHA256: 928ba08ba8180eaadaa6cb2571a0738889afc9f90129eaed3ae62d26d86c8e09
 Section: Tweaks
 Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
 Author: Banana
