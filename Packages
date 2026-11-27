@@ -18321,6 +18321,46 @@ Icon: https://qq391160.github.io/repo/icons/thermal.png
 Name: CPU智能温控(iOS16/17)
 
 Package: com.qq391160.cpucore
+Version: 2.0.628
+Architecture: iphoneos-arm64
+Maintainer: qq391160
+Installed-Size: 4508
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64/com.qq391160.cpucore_2.0.628_iphoneos-arm64.deb
+Size: 694004
+MD5sum: d6b08f0de5291d2afaf6660920f5072e
+SHA1: d84dcac43692aafb50184073b177cbc3f667d8e7
+SHA256: 54309a4fc5542849b9ae30af8c3bae880f7e94c3f21577b166956b358d760e0b
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
+Version: 2.0.628
+Architecture: iphoneos-arm64e
+Maintainer: qq391160
+Installed-Size: 4812
+Depends: firmware (>= 16.0)
+Conflicts: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Replaces: com.huayuarc.cputhermal, com.huayuarc.cputhermalpro, com.qq391160.cpusentry
+Filename: ./debs/iphoneos-arm64e/com.qq391160.cpucore_2.0.628_iphoneos-arm64e.deb
+Size: 772198
+MD5sum: 0e66cb96c45c655f8fb4d1fb8c10d6b0
+SHA1: dbcf0fd9f2804a99d0bfad1c5c846451b1279511
+SHA256: e0a07fe5d860aff583449dc6d94ce64e44ed6564dc71a9600782dde85d107a7b
+Section: Tweaks
+Priority: optional
+Description: 三种模式一键切换的智能温控管理。 智能：游戏高性能、应用低频率、桌面原生、滑动提速、熄屏省电； 低功耗：全局省电，可放行个别应用； 性能模式：全局高性能，可单独压低指定应用； 每个应用可单独设置档位。
+Author: qq391160
+Icon: https://qq391160.github.io/repo/icons/thermal.png
+Name: CPU智能温控(iOS16/17)
+
+Package: com.qq391160.cpucore
 Version: 2.0.89
 Architecture: iphoneos-arm64
 Maintainer: qq391160
@@ -20010,6 +20050,40 @@ MD5sum: 11eae0c5f649aae2845f7665d6c32924
 SHA1: 31537de5fa97fd72ec523c997d716b520043651e
 SHA256: 4fa3effa781bb419923b80514299be6849bf97fda87afa725edc467c811739fd
 Section: Networking
+Description: 一键通过个人热点共享本机 Wi-Fi、移动数据或 Shadowrocket/VPN（支持 Wi-Fi+VPN 叠加与状态栏保留 Wi-Fi 图标），连入设备零配置，控制中心支持轻点开关与长按 5 模式菜单切换，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
+Author: zhuifeng
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sharehotspotvpn.png
+Name: VPN热点共享
+
+Package: com.sharehotspotvpn.tweak
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: zhuifeng
+Installed-Size: 948
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/com.sharehotspotvpn.tweak_1.2.4_iphoneos-arm64.deb
+Size: 94440
+MD5sum: e6aa2fb890ee8a2633e31fae989f06ce
+SHA1: a250c7bf67ed74b69fab75ffada42d6f35c79751
+SHA256: 89327e2e6aed08e61d10ea8e393b087faa042efedf894bf7209d0717a2a09847
+Section: Tweaks
+Description: 一键通过个人热点共享本机 Wi-Fi、移动数据或 Shadowrocket/VPN（支持 Wi-Fi+VPN 叠加与状态栏保留 Wi-Fi 图标），连入设备零配置，控制中心支持轻点开关与长按 5 模式菜单切换，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
+Author: zhuifeng
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sharehotspotvpn.png
+Name: VPN热点共享
+
+Package: com.sharehotspotvpn.tweak
+Version: 1.2.4
+Architecture: iphoneos-arm64e
+Maintainer: zhuifeng
+Installed-Size: 484
+Depends: preferenceloader, com.opa334.ccsupport, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/com.sharehotspotvpn.tweak_1.2.4_iphoneos-arm64e.deb
+Size: 77400
+MD5sum: 579c5c58623198a622ddd2eded902b04
+SHA1: f61e0cff6fc4a3e92367bcfa13359dcedbcc87ad
+SHA256: a0027efcc7e99693c073a95dffd00dc880ce3d22ded84bb2b61bcdae50520f96
+Section: Tweaks
 Description: 一键通过个人热点共享本机 Wi-Fi、移动数据或 Shadowrocket/VPN（支持 Wi-Fi+VPN 叠加与状态栏保留 Wi-Fi 图标），连入设备零配置，控制中心支持轻点开关与长按 5 模式菜单切换，事件驱动超省电，兼容 iOS 15–17 Rootless/RootHide。
 Author: zhuifeng
 Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/sharehotspotvpn.png
@@ -25648,15 +25722,15 @@ Package: dylv.liquidass
 Version: 0.1.2t+r2
 Architecture: iphoneos-arm64
 Maintainer: dylv
-Installed-Size: 11412
+Installed-Size: 11904
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), preferenceloader, com.opa334.libsandy (>= 1.1.6)
 Conflicts: dylv.blurless, com.ngkhoi.liquidass27
 Replaces: dylv.blurless, com.ngkhoi.liquidass27
 Filename: ./debs/iphoneos-arm64/dylv.liquidass_0.1.2t+r2_iphoneos-arm64.deb
-Size: 4183912
-MD5sum: c426de448693a992f22492bc0e8289a3
-SHA1: 7ca6c720fc8614b600dda24d482a65f396df16a9
-SHA256: ed225ddcd8c81ce7b6583c4c2ecdc121baeb0512b5d4bc8e444e43e963afac69
+Size: 4260492
+MD5sum: 7f0c8d1072e357bfb6a995d446b8051a
+SHA1: 273ebe54866739131992b78031c8725cef5ece09
+SHA256: 7471d5d1dee851dd9916635e83270149d875eb7ff8523f7c2caacac40d2b8964
 Section: Tweaks
 Description: next level diarrhea
 Author: dylv
@@ -25667,15 +25741,15 @@ Package: dylv.liquidass
 Version: 0.1.2t+r2
 Architecture: iphoneos-arm64e
 Maintainer: dylv
-Installed-Size: 11412
+Installed-Size: 11904
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 26.0), preferenceloader, com.opa334.libsandy (>= 1.1.6)
 Conflicts: dylv.blurless, com.ngkhoi.liquidass27
 Replaces: dylv.blurless, com.ngkhoi.liquidass27
 Filename: ./debs/iphoneos-arm64e/dylv.liquidass_0.1.2t+r2_iphoneos-arm64e.deb
-Size: 4189036
-MD5sum: 7d392f4ac7558ec505828cbd69087faa
-SHA1: 71e38fb2db853dd8f5603a9473518a15baa1c484
-SHA256: 1ef3c1db31bb9b7637a757e1298b50935daa6dbb3d69eff367eb61da9a3ff871
+Size: 4263256
+MD5sum: 849152a1d8d8bfd1821adba3c5efea19
+SHA1: 6da24a5e5077e22584806a009591f47ae972351c
+SHA256: c89f300590da0ffe509ec5b88ab21bc0ea1387325de5fa64f5e254c2868e3710
 Section: Tweaks
 Description: next level diarrhea
 Author: dylv
@@ -26007,6 +26081,40 @@ Size: 1196380
 MD5sum: f6ddf48ae4b4e58112ad0dd972acdcd6
 SHA1: fd436285f6459529d4a63a0fee2ae6a3d29ebba9
 SHA256: fe72c9f1c3f1226f3ef7b58b28c52d9ebad66af862be1bfbf70426613951c2d0
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.13-1
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 4148
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/iya.banana.ios27animation_1.0.13-1_iphoneos-arm64.deb
+Size: 1200776
+MD5sum: 0c4b5c10344ac1382a0dc3eafbc0a712
+SHA1: 4f53a90120042d19e0181c5436b80d0bd6af2591
+SHA256: c329f428dc537878464c9fa4efebb5434a73338465997b6f0841f76062d66ab3
+Section: Tweaks
+Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
+Author: Banana
+Icon: https://github.com/taikulayyds/icon/raw/refs/heads/mina/ios27animation.png
+Name: iOS27 Animation
+
+Package: iya.banana.ios27animation
+Version: 1.0.13-1
+Architecture: iphoneos-arm64e
+Maintainer: Banana
+Installed-Size: 4144
+Depends: firmware (>= 15.0), firmware (<< 19.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/iya.banana.ios27animation_1.0.13-1_iphoneos-arm64e.deb
+Size: 1200932
+MD5sum: f1987667d389a76c1597446fbf571007
+SHA1: e5dcc48ba8b3fbdeb23c41593fabe4e5e70767f3
+SHA256: 206b2b25a950d11e439599c86c38a4899a3e74b02e57c74787eaceb14024979e
 Section: Tweaks
 Description: iOS27-inspired system animations for iOS15-18. Purchase and device activation required.
 Author: Banana
